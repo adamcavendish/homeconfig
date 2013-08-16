@@ -1,0 +1,225 @@
+######################
+# - Conky settings - #
+######################
+update_interval 1
+update_interval_on_battery 10
+total_run_times 0
+net_avg_samples 1
+cpu_avg_samples 2
+
+imlib_cache_size 0
+double_buffer yes
+no_buffers yes
+
+#####################
+# - Text settings - #
+#####################
+use_xft yes
+xftfont Zekton:size=10
+#xftfont consolas:pixelsize=16
+override_utf8_locale yes
+text_buffer_size 2048
+uppercase no
+format_human_readable yes
+draw_shades yes
+
+#############################
+# - Window specifications - #
+#############################
+alignment top_right
+
+own_window_class Conky
+own_window yes
+own_window_type override
+own_window_transparent no
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+
+own_window_title conkymain
+
+default_bar_size 70 10
+default_graph_size 70 10
+
+background yes
+
+gap_x 12
+gap_y 12
+#minimum_size 200 0
+#maximum_width 240
+
+###############
+# - colours - #
+###############
+#own_window_colour 272521
+#own_window_colour FFFFFF
+default_color FFDEAD #NavajoWhite                                               
+color0 7FFFD4 #Aquamarine
+color1 CD5C5C #IndianRed
+#00CED1 DarkTurquoise #FFA07A LightSalmon #00FFFF Cyan
+color2 FF8C00 #Darkorange
+color3 7FFF00 #Chartreuse
+color4 white  #gold
+#color5 FFDEAD #NavajoWhite
+color5 D2691E #Chocolate
+color6 00BFFF #DeepSkyBlue
+# colours below used by colorize script
+color7 48D1CC #MediumTurquoise
+color8 FFFF00 #Yellow
+color9 FF0000 #Red
+
+# net_avg_samples 2
+# battery 1
+# adt746xcpu yes
+# adt746xfan yes
+# ${apcupsd_charge}
+# apcupsd_timeleft yes
+# apcupsd_timeleft yes
+# apm_battery_time yes
+
+top_cpu_separate false
+
+TEXT
+# Date
+${time %b %d,%Y %a}\
+${alignr}\
+${time %H:%M:%S}\
+
+${stippled_hr}
+# Battery
+${color2}Battery: ${color}\
+#${battery_percent BAT0}%--
+${battery BAT0}\
+
+${color2}Uptime: ${color}\
+${uptime_short}\
+
+${color2}Rem Time: ${color}\
+${battery_time BAT0}\
+${alignr}\
+${color5}${battery_bar BAT0}${color}\
+
+${stippled_hr}
+# Memory
+${color2}RAM: ${color}\
+${color6}${mem}${color}/${memmax}\
+${alignr}\
+${memgraph 10,70 FFF6CD FF0B00}\
+
+${color2}Buffers: ${color}\
+${color6}${buffers}${color}\
+
+${color2}Cached: ${color}\
+${color6}${cached}${color}\
+
+${color2}Swap: ${color}\
+${color6}${swap}${color}/${swapmax}\
+
+${color2}SDA: ${color}\
+${color6}${execi 120 hddtemp /dev/sda -n --unit=C}'C ${color}\
+
+${stippled_hr}
+# CPU
+${color2}CPU1: ${color}\
+${color6}${cpu cpu1}%${color}\
+${alignr}${cpugraph cpu1 10,70 FFF6CD FF0B00}\
+
+${color2}CPU2: ${color}\
+${color6}${cpu cpu2}%${color}\
+${alignr}${cpugraph cpu2 10,70 FFF6CD FF0B00}\
+
+Total:
+${color2}Processes: ${color}\
+${color6}${processes}${color}\
+${alignr}\
+${color2}Threads: ${color}\
+${color6}${threads}${color}\
+
+Running:
+${color2}Processes: ${color}\
+${color6}${running_processes}${color}\
+${alignr}\
+${color2}Threads: ${color}\
+${color6}${running_threads}${color}\
+
+${stippled_hr}\
+
+${color2}PID${goto 60}NAME${goto 200}CPU${goto 250}MEM${color}\
+
+${color3}${top pid 1}${color}\
+${goto 60}${top name 1}\
+${color6}\
+${goto 200}${top cpu 1}%\
+${goto 250}${top mem 1}%\
+${color}\
+
+${color3}${top pid 2}${color}\
+${goto 60}${top name 2}\
+${color6}\
+${goto 200}${top cpu 2}%\
+${goto 250}${top mem 2}%\
+${color}\
+
+${color3}${top pid 3}${color}\
+${goto 60}${top name 3}\
+${color6}\
+${goto 200}${top cpu 3}%\
+${goto 250}${top mem 3}%\
+${color}\
+
+${color3}${top pid 4}${color}\
+${goto 60}${top name 4}\
+${color6}\
+${goto 200}${top cpu 4}%\
+${goto 250}${top mem 4}%\
+${color}\
+
+${color3}${top pid 5}${color}\
+${goto 60}${top name 5}\
+${color6}\
+${goto 200}${top cpu 5}%\
+${goto 250}${top mem 5}%\
+${color}\
+
+${stippled_hr}\
+
+# Disk
+DiskIO: R/W \
+${color6}${diskio_read /dev/sda}/${diskio_write /dev/sda}${color}\
+
+root: ${goto 60}\
+${color8}${fs_used /}${color}/${fs_size /}\
+(${color6}${fs_free_perc /}%${color} free)\
+${alignr}\
+${color5}${fs_bar /}${color}\
+
+/home: ${goto 60}\
+${color8}${fs_used /home}${color}/${fs_size /home}\
+(${color6}${fs_free_perc /home}%${color} free)\
+${alignr}\
+${color5}${fs_bar /home}${color}\
+
+/files: ${goto 60}\
+${color8}${fs_used /files}${color}/${fs_size /files}\
+(${color6}${fs_free_perc /files}%${color} free)\
+${alignr}\
+${color5}${fs_bar /files}${color}\
+
+${stippled_hr}\
+
+# Network
+Net:
+DOWN${alignr}UP
+${color6}\
+${downspeed eth0}+${downspeed wlan0}\
+${alignr}\
+${upspeed eth0}+${upspeed wlan0}
+${color}\
+${color8}\
+${totaldown eth0}+${totaldown wlan0}\
+${alignr}\
+${totalup eth0}+${totalup wlan0}\
+${color}\
+
+# IP Address
+Eth0 IP Addr: ${alignr}${color3}${addr eth0}${color}
+Wlan0 IP Addr: ${alignr}${color3}${addr wlan0}${color}
+
