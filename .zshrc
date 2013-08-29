@@ -79,4 +79,9 @@ alias aria2='aria2c --dir="/home/adam/aria/" --enable-rpc --rpc-listen-all --rpc
 alias gvim='gvim -f'
 alias goagent='python /files/software/goagent/local/proxy.py'
 
+if [ `hostname` = "adam-ros" ]; then
+	source "/home/adam/catkin_ws/devel/setup.zsh"
+else
+	echo "TODO for adam-Thinkpad"
+fi
 
