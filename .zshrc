@@ -80,7 +80,22 @@ alias gvim='gvim -f'
 alias goagent='python /files/software/goagent/local/proxy.py'
 
 if [ `hostname` = "adam-ros" ]; then
-	source "/home/adam/catkin_ws/devel/setup.zsh"
+	source "/home/adam/Documents/ros_robot/rbuildws/setup.zsh"
+
+	alias roboexport='\
+export CPLUS_INCLUDE_PATH=/files/Nutstore/000/ROSWorkSpace/rosstuffs/navigation/base_local_planner/include/:$CPLUS_INCLUDE_PATH;
+export CPLUS_INCLUDE_PATH=/files/Nutstore/000/ROSWorkSpace/rosstuffs/navigation/voxel_grid/include/:$CPLUS_INCLUDE_PATH;
+export CPLUS_INCLUDE_PATH=/files/Nutstore/000/ROSWorkSpace/rosstuffs/navigation/voxel_grid/include/:$CPLUS_INCLUDE_PATH;
+export CPLUS_INCLUDE_PATH=/files/Nutstore/000/ROSWorkSpace/rosstuffs/navigation/nav_core/include/:$CPLUS_INCLUDE_PATH;
+export CPLUS_INCLUDE_PATH=/opt/ros/groovy/stacks/navigation/base_local_planner/msg_gen/cpp/include/:$CPLUS_INCLUDE_PATH;
+export CPLUS_INCLUDE_PATH=/opt/ros/groovy/stacks/navigation/base_local_planner/msg_gen/cpp/include/:$CPLUS_INCLUDE_PATH;
+export CPLUS_INCLUDE_PATH=/opt/ros/groovy/stacks/navigation/base_local_planner/cfg/cpp/:$CPLUS_INCLUDE_PATH;
+export CPLUS_INCLUDE_PATH=/opt/ros/groovy/stacks/navigation/costmap_2d/include/:$CPLUS_INCLUDE_PATH;
+export CPLUS_INCLUDE_PATH=/opt/ros/groovy/stacks/navigation/costmap_2d/cfg/cpp/:$CPLUS_INCLUDE_PATH;
+export CPLUS_INCLUDE_PATH=/opt/ros/groovy/include/pcl-1.6/:$CPLUS_INCLUDE_PATH;
+export CPLUS_INCLUDE_PATH=/opt/ros/groovy/include/:$CPLUS_INCLUDE_PATH;
+export CPLUS_INCLUDE_PATH=/usr/include/eigen3/:$CPLUS_INCLUDE_PATH;
+'
 else
 	echo "TODO for adam-Thinkpad"
 fi
