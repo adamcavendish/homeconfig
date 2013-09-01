@@ -79,6 +79,8 @@ alias aria2='aria2c --dir="/home/adam/aria/" --enable-rpc --rpc-listen-all --rpc
 alias gvim='gvim -f'
 alias goagent='python /files/software/goagent/local/proxy.py'
 
+alias apt-proxy="sudo http_proxy='http://127.0.0.1:8087/' apt-get"
+
 if [ `hostname` = "adam-ros" ]; then
 	source "/home/adam/Documents/ros_robot/rbuildws/setup.zsh"
 
