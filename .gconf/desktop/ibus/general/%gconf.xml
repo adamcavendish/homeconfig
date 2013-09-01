@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="global_engine" mtime="1377856836" type="string">
+	<entry name="global_engine" mtime="1378050053" type="string">
 		<stringvalue>pinyin</stringvalue>
 	</entry>
 	<entry name="use_global_engine" mtime="1376696993" type="bool" value="true"/>
