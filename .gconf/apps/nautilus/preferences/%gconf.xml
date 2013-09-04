@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="navigation_window_saved_maximized" mtime="1377971303" type="bool" value="true"/>
-	<entry name="start_with_sidebar" mtime="1377971303" type="bool" value="true"/>
+	<entry name="navigation_window_saved_maximized" mtime="1378233821" type="bool" value="true"/>
+	<entry name="start_with_sidebar" mtime="1378133509" type="bool" value="true"/>
 </gconf>

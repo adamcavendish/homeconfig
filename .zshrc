@@ -79,10 +79,13 @@ alias aria2='aria2c --dir="/home/adam/aria/" --enable-rpc --rpc-listen-all --rpc
 alias gvim='gvim -f'
 alias goagent='python /files/software/goagent/local/proxy.py'
 
+alias pp='ping -i 0.2 www.google.com; ping www.baidu.com'
+
 alias apt-proxy="sudo http_proxy='http://127.0.0.1:8087/' apt-get"
 
 if [ `hostname` = "adam-ros" ]; then
-	source "/home/adam/Documents/ros_robot/rbuildws/setup.zsh"
+	alias rossource='source "/home/adam/Documents/ros_robot/rbuildws/setup.zsh"'
+	alias exportpcl='export "/opt/pcl1_7_0"'
 
 	alias roboexport='\
 export CPLUS_INCLUDE_PATH=/files/Nutstore/000/ROSWorkSpace/rosstuffs/navigation/base_local_planner/include/:$CPLUS_INCLUDE_PATH;
@@ -98,7 +101,9 @@ export CPLUS_INCLUDE_PATH=/opt/ros/groovy/include/pcl-1.6/:$CPLUS_INCLUDE_PATH;
 export CPLUS_INCLUDE_PATH=/opt/ros/groovy/include/:$CPLUS_INCLUDE_PATH;
 export CPLUS_INCLUDE_PATH=/usr/include/eigen3/:$CPLUS_INCLUDE_PATH;
 '
+elif [ `hostname` = "adam-ThinkPad-E425" ]; then
+	# echo "TODO for adam-Thinkpad"
 else
-	echo "TODO for adam-Thinkpad"
+	echo "Who Are you?"
 fi
 

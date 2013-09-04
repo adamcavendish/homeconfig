@@ -42,7 +42,7 @@ default_graph_size 70 10
 background yes
 
 gap_x 12
-gap_y 12
+gap_y 40
 #minimum_size 200 0
 #maximum_width 240
 
