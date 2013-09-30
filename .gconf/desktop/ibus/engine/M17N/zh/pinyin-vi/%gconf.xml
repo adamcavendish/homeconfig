@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="lookup_table_orientation" mtime="1379940513" type="int" value="0"/>
+	<entry name="preedit_underline" mtime="1379940513" type="int" value="0"/>
+	<entry name="preedit_background" mtime="1379940513" type="string">
+		<stringvalue>none</stringvalue>
+	</entry>
+	<entry name="preedit_foreground" mtime="1379940513" type="string">
+		<stringvalue>none</stringvalue>
+	</entry>
+</gconf>

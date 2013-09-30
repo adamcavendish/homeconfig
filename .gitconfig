@@ -3,6 +3,10 @@
 	email = GetbetterABC@yeah.net
 [core]
 	editor = vim
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
 [merge]
 	tool = vimdiff
 [alias]
@@ -11,3 +15,5 @@
 	ci = commit
 	st = status
 	unstage = reset HEAD --
+	lol = log --graph --decorate --pretty=oneline --abbrev-commit
+	lola = log --graph --decorate --pretty=oneline --abbrev-commit --all

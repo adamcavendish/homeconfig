@@ -19,7 +19,7 @@ CASE_SENSITIVE="true"
 # DISABLE_AUTO_UPDATE="true"
 
 # Uncomment to change how often before auto-updates occur? (in days)
-# export UPDATE_ZSH_DAYS=13
+export UPDATE_ZSH_DAYS=13
 
 # Uncomment following line if you want to disable colors in ls
 # DISABLE_LS_COLORS="true"
@@ -64,17 +64,23 @@ alias mv='mv -i'
 alias du='du -h'
 alias df='df -h'
 
+alias mkdatedir='mkdir `date +%Y%m%d`'
+
 alias ..='cd ..'
 alias cdwork='cd /files/Nutstore/'
 alias cdcpp='cd /files/Nutstore/000/CPPWorkSpace/'
 alias cdpython='cd /files/Nutstore/000/Python/'
 alias cdopengl='cd /files/Nutstore/000/OpenGL/'
 alias cdqt='cd /files/Nutstore/000/QtWorkspace/'
+alias cdcmake='cd /files/Nutstore/000/cmake_example/'
+alias cdosc='cd /files/Nutstore/Work/OpenSourceCommunity/'
 
 alias g11='g++-4.8 -std=c++11 -march=native -O3 -Wall -Weffc++'
 alias ctags++='ctags -R --c++-kinds=+p --fields=+iaS --extra=+q'
 
 alias aria2='aria2c --dir="/home/adam/aria/" --enable-rpc --rpc-listen-all --rpc-allow-origin-all  --file-allocation=none --max-connection-per-server=3 --max-concurrent-downloads=3 --continue'
+
+alias nutstore='~/.nutstore/dist/bin/nutstore-pydaemon.py'
 
 alias gvim='gvim -f'
 alias goagent='python /files/software/goagent/local/proxy.py'
@@ -83,7 +89,11 @@ alias pp='ping -i 0.2 www.google.com; ping www.baidu.com'
 
 alias apt-proxy="sudo http_proxy='http://127.0.0.1:8087/' apt-get"
 
+##################################################
+## @hostname adam-ros
 if [ `hostname` = "adam-ros" ]; then
+	echo "\e[0;1;49;39mHello adam-ros\e[0m"
+
 	alias rossource='source "/home/adam/Documents/ros_robot/rbuildws/setup.zsh"'
 	alias exportpcl='export "/opt/pcl1_7_0"'
 
@@ -101,9 +111,54 @@ export CPLUS_INCLUDE_PATH=/opt/ros/groovy/include/pcl-1.6/:$CPLUS_INCLUDE_PATH;
 export CPLUS_INCLUDE_PATH=/opt/ros/groovy/include/:$CPLUS_INCLUDE_PATH;
 export CPLUS_INCLUDE_PATH=/usr/include/eigen3/:$CPLUS_INCLUDE_PATH;
 '
+	# Qt
+	export PATH="/opt/Qt5.1.1/5.1.1/gcc_64/bin/:/opt/Qt5.1.1/Tools/QtCreator/bin/:$PATH"
+	export CPLUS_INCLUDE_PATH="/opt/Qt5.1.1/5.1.1/gcc_64/include/:$CPLUS_INCLUDE_PATH"
+	export LD_LIBRARY_PATH="/opt/Qt5.1.1/5.1.1/gcc_64/lib:$LD_LIBRARY_PATH"
+	export LIBRARY_PATH="/opt/Qt5.1.1/5.1.1/gcc_64/lib:$LIBRARY_PATH"
+
+	# Linux Driver
+	export CPLUS_INCLUDE_PATH="/files/Nutstore/000/LinuxDriver/include/:$CPLUS_INCLUDE_PATH"
+	export C_INCLUDE_PATH="/files/Nutstore/000/LinuxDriver/include/:$C_INCLUDE_PATH"
+	export LD_LIBRARY_PATH="/files/Nutstore/000/LinuxDriver/lib/:$LD_LIBRARY_PATH"
+	export LIBRARY_PATH="/files/Nutstore/000/LinuxDriver/lib/:$LIBRARY_PATH"
+
+	# CMake 2.8.11
+	export PATH="/opt/cmake2.8.11/bin/:$PATH"
+
+##################################################
+## @hostname adam-ThinkPad-E425
 elif [ `hostname` = "adam-ThinkPad-E425" ]; then
-	# echo "TODO for adam-Thinkpad"
+	echo "\e[0;1;49;39mHello adam-ThinkPad-E425\e[0m"
+	# Using OpenCL for Java
+	# export LIBAPARAPI="/opt/APARAPI/aparapi-read-only"
+	
+	# clang
+	export PATH="/opt/clang-3.4/bin:$PATH"
+	export CPLUS_INCLUDE_PATH="/opt/clang-3.4/include:$CPLUS_INCLUDE_PATH"
+	export C_INCLUDE_PATH="/opt/clang-3.4/include:$C_INCLUDE_PATH"
+	export LD_LIBRARY_PATH="/opt/clang-3.4/lib:$LD_LIBRARY_PATH"
+	export LIBRARY_PATH="/opt/clang-3.4/lib:$LIBRARY_PATH"
+
+	# OpenCL
+	export CPLUS_INCLUDE_PATH="/opt/AMDAPP/include/:$CPLUS_INCLUDE_PATH"
+	export C_INCLUDE_PATH="/opt/AMDAPP/include/:$C_INCLUDE_PATH"
+	export LD_LIBRARY_PATH="/opt/AMDAPP/include/lib/x86_64/:$LD_LIBRARY_PATH"
+	export LIBRARY_PATH="/opt/AMDAPP/include/lib/x86_64/:$LIBRARY_PATH"
+
+	# ROOT
+	export ROOTSYS="/opt/ROOT/"
+	export PATH="$ROOTSYS/bin/:$PATH"
+	export CPLUS_INCLUDE_PATH="$ROOTSYS/include/:$CPLUS_INCLUDE_PATH"
+	export LD_LIBRARY_PATH="$ROOTSYS/lib/:$LD_LIBRARY_PATH"
+	export LIBRARY_PATH="$ROOTSYS/lib/:$LIBRARY_PATH"
+
+	# Qt
+	export PATH="/opt/Qt5.1/5.1.0/gcc_64/bin/:/opt/Qt5.1/Tools/QtCreator/bin/:$PATH"
+	export CPLUS_INCLUDE_PATH="/opt/Qt5.1/5.1.0/gcc_64/include/:$CPLUS_INCLUDE_PATH"
+	export LD_LIBRARY_PATH="/opt/Qt5.1/5.1.0/gcc_64/lib:$LD_LIBRARY_PATH"
+	export LIBRARY_PATH="/opt/Qt5.1/5.1.0/gcc_64/lib:$LIBRARY_PATH"
 else
-	echo "Who Are you?"
+	echo "\e[0;1;49;39mWho are You?\e[0m"
 fi
 

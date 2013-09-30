@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="last-input" mtime="1377427669" type="string">
+	<entry name="last-input" mtime="1378779890" type="string">
 		<stringvalue>Master</stringvalue>
 	</entry>
 </gconf>

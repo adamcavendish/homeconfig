@@ -2,6 +2,6 @@
 <gconf>
 	<entry name="statusbar" mtime="1377414514" type="bool" value="true"/>
 	<entry name="toolbar" mtime="1377414514" type="bool" value="true"/>
-	<entry name="sidebar" mtime="1378117012" type="bool" value="false"/>
-	<entry name="image_collection" mtime="1378117012" type="bool" value="false"/>
+	<entry name="sidebar" mtime="1380420762" type="bool" value="false"/>
+	<entry name="image_collection" mtime="1380420762" type="bool" value="false"/>
 </gconf>

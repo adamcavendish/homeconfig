@@ -1,12 +1,19 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="global_engine" mtime="1378050053" type="string">
+	<entry name="global_previous_engine" mtime="1379940598" type="string">
+		<stringvalue>m17n:zh:pinyin-vi</stringvalue>
+	</entry>
+	<entry name="embed_preedit_text" mtime="1379940092" type="bool" value="false"/>
+	<entry name="global_engine" mtime="1380555197" type="string">
 		<stringvalue>pinyin</stringvalue>
 	</entry>
-	<entry name="use_global_engine" mtime="1376696993" type="bool" value="true"/>
-	<entry name="preload_engines" mtime="1376696939" type="list" ltype="string">
+	<entry name="use_global_engine" mtime="1379940096" type="bool" value="true"/>
+	<entry name="preload_engines" mtime="1379940417" type="list" ltype="string">
 		<li type="string">
 			<stringvalue>pinyin</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>m17n:zh:pinyin-vi</stringvalue>
 		</li>
 	</entry>
 	<entry name="preload_engine_mode" mtime="1376696936" type="int" value="0"/>

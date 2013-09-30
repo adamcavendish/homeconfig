@@ -1,4 +1,4 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="encrypt_header" mtime="1377243567" type="bool" value="false"/>
+	<entry name="encrypt_header" mtime="1380337467" type="bool" value="false"/>
 </gconf>
