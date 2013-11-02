@@ -1,0 +1,19 @@
+[AddDialog]
+LastMimeType=application/x-7z-compressed
+
+[KFileDialog Settings]
+Height 768=450
+Recent Files[$e]=/files/Nutstore/000/Matlab/SHUCource/NumericalMethods/NumericalMethods.7z,/files/Nutstore/000/Matlab/SHUCource/NumericalMethods/NumericalMethods.7z
+Recent URLs[$e]=$HOME/Pictures/,/files/Nutstore/000/Matlab/SHUCource/NumericalMethods/
+Width 1366=720
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGVAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+splitterSizes=425,212
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/gac-104308.zip
+File2[$e]=$HOME/Downloads/e4ae15081e3b09b3eda2c238e442498c
+Name1[$e]=gac-104308.zip
+Name2[$e]=e4ae15081e3b09b3eda2c238e442498c

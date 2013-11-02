@@ -1,0 +1,102 @@
+[General]
+screenCount=1
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1019218515e16b000138249455800000020110000
+clientId2=1019218515e16b000138273229600000016880010
+clientId3=1019218515e16b000138303075400000021130009
+clientId4=1019218515e16b000138303076800000021130010
+clientId5=1019218515e16b000138303076800000021130011
+clientId6=1019218515e16b000138303076800000021130012
+count=6
+discardCommand1[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/kwin_1019218515e16b000138249455800000020110000_1383133562_588754
+discardCommand2[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/kmix_1019218515e16b000138273229600000016880010_1383133562_318926
+discardCommand3[$e]=
+discardCommand4[$e]=
+discardCommand5[$e]=
+discardCommand6[$e]=
+program1=kwin
+program2=/usr/bin/kmix
+program3=pulseaudio
+program4=/usr/bin/akonadi_agent_launcher
+program5=/usr/bin/akonadi_agent_launcher
+program6=/usr/bin/akonadi_agent_launcher
+restartCommand1=kwin,-session,1019218515e16b000138249455800000020110000_1383133562_588754
+restartCommand2=/usr/bin/kmix,-session,1019218515e16b000138273229600000016880010_1383133562_318926
+restartCommand3=
+restartCommand4=/usr/bin/akonadi_agent_launcher,-session,1019218515e16b000138303076800000021130010_1383133562_320517
+restartCommand5=/usr/bin/akonadi_agent_launcher,-session,1019218515e16b000138303076800000021130011_1383133562_320946
+restartCommand6=/usr/bin/akonadi_agent_launcher,-session,1019218515e16b000138303076800000021130012_1383133562_321286
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+restartStyleHint5=0
+restartStyleHint6=0
+userId1=adam
+userId2=adam
+userId3=adam
+userId4=adam
+userId5=adam
+userId6=adam
+wasWm1=true
+wasWm2=false
+wasWm3=false
+wasWm4=false
+wasWm5=false
+wasWm6=false
+
+[SubSession: 0f470a85-fed0-42ce-9323-fecd47824f9e]
+count=0
+
+[SubSession: 7564a1b7-2e4e-4cfe-92b0-0b8a1bff6557]
+count=0
+
+[SubSession: 7ccae341-88a2-4505-b6e5-2d5f4a221ec9]
+clientId1=1019218515e16b000138273154800000017111222
+count=1
+discardCommand1[$e]=rm,$HOME/.kde/share/config/session/systemsettings_1019218515e16b000138273154800000017111222_1382731652_464954
+program1=/usr/bin/systemsettings
+restartCommand1=/usr/bin/systemsettings,-session,1019218515e16b000138273154800000017111222_1382731652_464954
+restartStyleHint1=0
+userId1=adam
+wasWm1=false
+
+[SubSession: 7e232a17-1c75-4046-ad51-94afe0edb346]
+clientId1=1019218515e16b000138273309000000016880247
+count=1
+discardCommand1[$e]=rm,$HOME/.kde/share/config/session/konsole_1019218515e16b000138273309000000016880247_1382760992_5197
+program1=/usr/bin/konsole
+restartCommand1=/usr/bin/konsole,-session,1019218515e16b000138273309000000016880247_1382760992_5197
+restartStyleHint1=0
+userId1=adam
+wasWm1=false
+
+[SubSession: 94ddf354-8194-4061-9e88-783af7d0c4f2]
+count=0
+
+[SubSession: ac46fd92-d429-4c20-a1d9-bec0439001e6]
+clientId1=1019218515e16b000138272788700000017110156
+clientId2=1019218515e16b000138273147600000017111200
+count=2
+discardCommand1[$e]=rm,$HOME/.kde/share/config/session/konsole_1019218515e16b000138272788700000017110156_1382731499_178722
+discardCommand2[$e]=rm,$HOME/.kde/share/config/session/dolphin_1019218515e16b000138273147600000017111200_1382731499_179106
+program1=/usr/bin/konsole
+program2=/usr/bin/dolphin
+restartCommand1=/usr/bin/konsole,-session,1019218515e16b000138272788700000017110156_1382731499_178722
+restartCommand2=/usr/bin/dolphin,-session,1019218515e16b000138273147600000017111200_1382731499_179106
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=adam
+userId2=adam
+wasWm1=false
+wasWm2=false
+
+[SubSession: bfef38de-b16a-4b9e-b7eb-6b2a61ee62ad]
+count=0
+
+[SubSession: f45b8d49-cb4e-4ef7-8fd1-d555ef89c131]
+count=0

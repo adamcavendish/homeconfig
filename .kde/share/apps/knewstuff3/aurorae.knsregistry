@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>FormaN</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=raimis">raimis</author>
+  <homepage>http://opendesktop.org/content/show.php?content=141963</homepage>
+  <licence>1</licence>
+  <version>1.0</version>
+  <rating>83</rating>
+  <downloads>2520</downloads>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//FormaN/maximize.svg</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//FormaN/metadata.desktop</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//FormaN/FormaNrc</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//FormaN/restore.svg</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//FormaN/minimize.svg</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//FormaN/close.svgz</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//FormaN/decoration.svgz</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//FormaN/</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//</installedfile>
+  <id>141963</id>
+  <releasedate>2011-05-27</releasedate>
+  <summary>Aurorae theme</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m141963-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/141963-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/141963-FormaN.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Glowglass-Cupertino</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Strahlex">Strahlex</author>
+  <homepage>http://opendesktop.org/content/show.php?content=108333</homepage>
+  <licence>1</licence>
+  <version>0.1</version>
+  <rating>86</rating>
+  <downloads>3548</downloads>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//glowglass-cupertino/minimize.svgz</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//glowglass-cupertino/metadata.desktop</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//glowglass-cupertino/restore.svgz</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//glowglass-cupertino/close.svgz</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//glowglass-cupertino/maximize.svgz</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//glowglass-cupertino/glowglass-cupertinorc</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//glowglass-cupertino/CMakeLists.txt</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//glowglass-cupertino/metadata.desktop~</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//glowglass-cupertino/decoration.svgz</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//glowglass-cupertino/</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//</installedfile>
+  <id>108333</id>
+  <releasedate>2009-07-12</releasedate>
+  <summary>glowglass-cupertino is a window decoration theme for the Aurorae engine:  [url]http://www.kde-look.org/content/show.php/Aurorae+Theme+Engine?content=107158[/url]&#xd;
+&#xd;
+ This theme is based on the glowglass: [url]http://www.kde-look.org/content/show.php/glowglass+%28aurorae%29?content=107473[/url]&#xd;
+&#xd;
+and the cupertino-ish-air theme: [url]http://www.kde-look.org/content/show.php/cupertino-ish-air+aurorae?content=108252[/url]&#xd;
+&#xd;
+Thanks to vicko!&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m108333-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/108333-1.jpeg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/108333-glowglass-cupertino.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Ember for Aurorae</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=garthecho">garthecho</author>
+  <homepage>http://opendesktop.org/content/show.php?content=129389</homepage>
+  <licence>1</licence>
+  <version>0.2</version>
+  <rating>78</rating>
+  <downloads>383</downloads>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//Ember/Emberrc</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//Ember/maximize.svg</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//Ember/decoration.svg</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//Ember/metadata.desktop</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//Ember/close.svg</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//Ember/restore.svg</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//Ember/minimize.svg</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//Ember/</installedfile>
+  <installedfile>/home/adam/.kde/share/apps/aurorae/themes//</installedfile>
+  <id>129389</id>
+  <releasedate>2010-09-01</releasedate>
+  <summary>An Aurorae version of my Ember window decoration.  I don't know how to theme Aurorae that well yet, so if I got something wrong just let me know.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m129389-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/129389-1.jpeg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/129389-Ember-for-Aurorae-0.2.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

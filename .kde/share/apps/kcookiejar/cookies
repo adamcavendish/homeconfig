@@ -1,0 +1,7 @@
+# KDE Cookie File v2
+#
+# Host               Domain               Path         Exp.date   Prot Name                 Sec  Value
+[.baidu.com]
+www.baidu.com        ".baidu.com"         "/"          3529055249    0 BAIDUID              4    BA0B5BD935C44F41434FF9670FF8CA75:FG=1
+[.wikia.com]
+lyrics.wikia.com     ".wikia.com"         "/"          1398325795    0 wikia_beacon_id      4    9I76kx65nS

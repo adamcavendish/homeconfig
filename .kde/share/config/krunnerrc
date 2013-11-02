@@ -1,0 +1,11 @@
+[EdgePositions]
+Offset=0.5
+
+[General]
+PastQueries=,konsole,guake,gnome-terminal
+
+[Interface]
+Size=420,500
+
+[PlasmaRunnerManager]
+LaunchCounts=1 shell_gnome-terminal,2 services_kde4-konsole.desktop,1 services_guake.desktop,1 services_guake-prefs.desktop

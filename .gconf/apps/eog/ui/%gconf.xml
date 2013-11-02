@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="statusbar" mtime="1377414514" type="bool" value="true"/>
-	<entry name="toolbar" mtime="1377414514" type="bool" value="true"/>
-	<entry name="sidebar" mtime="1380420762" type="bool" value="false"/>
-	<entry name="image_collection" mtime="1380420762" type="bool" value="false"/>
+	<entry name="statusbar" mtime="1382170130" type="bool" value="true"/>
+	<entry name="toolbar" mtime="1382170130" type="bool" value="true"/>
+	<entry name="sidebar" mtime="1382960631" type="bool" value="false"/>
+	<entry name="image_collection" mtime="1382960631" type="bool" value="false"/>
 </gconf>

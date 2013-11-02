@@ -1,0 +1,25 @@
+[Breakpoint 0]
+Enabled=true
+File=No_10.cpp
+Line=46
+Temporary=false
+
+[Breakpoint 1]
+Enabled=true
+File=No_10.cpp
+Line=47
+Temporary=false
+
+[General]
+DebuggerCmdStr=
+DriverName=GDB
+ExecutableFile=/files/Nutstore/000/CPPWorkSpace/SHUCourse/DataStructures/Homework/08/No_10/a.out
+FileVersion=1
+OptionsSelected=
+ProgramArgs=
+TTYLevel=7
+WorkingDirectory=
+
+[Memory]
+ColumnWidths=67,0
+NumExprs=0

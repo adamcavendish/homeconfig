@@ -1,0 +1,15 @@
+[$Version]
+update_info=kmail.upd:3.3-move-identities-to-own-file,kmail.upd:3.3-aegypten-emailidentities-split-sign-encr-keys
+
+[General]
+Default Identity=126208765
+
+[Identity #0]
+Dictionary=English (United States of America)
+Disable Fcc=false
+Identity=Adam Basfop Cavendish
+Image Location=
+Inline Signature=
+Name=Adam Basfop Cavendish
+Signature Enabled=false
+uoid=126208765

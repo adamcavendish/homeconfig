@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="edge_responsiveness" mtime="1377150603" type="float" value="3.193661971830986"/>
-	<entry name="reveal_trigger" mtime="1377150600" type="int" value="1"/>
+	<entry name="edge_responsiveness" mtime="1380991361" type="float" value="3.193661971830986"/>
+	<entry name="reveal_trigger" mtime="1380991361" type="int" value="1"/>
 	<entry name="launcher_hide_mode" mtime="1377150599" type="int" value="1"/>
-	<entry name="num_launchers" mtime="1380555153" type="int" value="0"/>
+	<entry name="num_launchers" mtime="1382693244" type="int" value="0"/>
 </gconf>

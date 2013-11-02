@@ -1,0 +1,25 @@
+[Breakpoint 0]
+Enabled=true
+File=test.cpp
+Line=11
+Temporary=false
+
+[Breakpoint 1]
+Enabled=true
+File=test.cpp
+Line=24
+Temporary=false
+
+[General]
+DebuggerCmdStr=
+DriverName=GDB
+ExecutableFile=/files/Nutstore/000/CPPWorkSpace/130301HuffmanTree/20130401-branch/a.out
+FileVersion=1
+OptionsSelected=
+ProgramArgs=
+TTYLevel=7
+WorkingDirectory=
+
+[Memory]
+ColumnWidths=67,0
+NumExprs=0

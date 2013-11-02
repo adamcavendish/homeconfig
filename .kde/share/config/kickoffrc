@@ -1,0 +1,11 @@
+[Favorites]
+FavoriteURLs=/usr/share/applications/kde4/dolphin.desktop,/usr/share/applications/kde4/KMail2.desktop,/usr/share/applications/kde4/systemsettings.desktop,/usr/local/share/applications/google-chrome.desktop,/usr/local/share/applications/wolfram-mathematica9.desktop,/usr/share/applications/vmware-player.desktop,/usr/share/applications/cherrytree.desktop
+
+[KRunner]
+loadAll=false
+
+[KRunner][PlasmaRunnerManager]
+pluginWhiteList=places,shell,services,bookmarks,recentdocuments,locations
+
+[RecentlyUsed]
+Applications=wolfram-mathematica9.desktop,vmware-player.desktop,cherrytree.desktop,google-chrome.desktop

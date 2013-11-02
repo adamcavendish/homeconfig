@@ -1,0 +1,49 @@
+[Breakpoint 0]
+Enabled=true
+File=004find.s
+Line=122
+Temporary=false
+
+[Breakpoint 1]
+Enabled=true
+File=004find.s
+Line=133
+Temporary=false
+
+[Breakpoint 2]
+Enabled=true
+File=004find.s
+Line=142
+Temporary=false
+
+[Breakpoint 3]
+Enabled=true
+File=bsearch32.S
+Line=45
+Temporary=false
+
+[Breakpoint 4]
+Enabled=true
+File=bsearch32.S
+Line=35
+Temporary=false
+
+[General]
+DebuggerCmdStr=
+DriverName=GDB
+ExecutableFile=/files/Nutstore/000/AssemblyWorkSpace/Linux/x86/004find.out
+FileVersion=1
+OptionsSelected=
+ProgramArgs=
+TTYLevel=7
+WorkingDirectory=
+
+[Memory]
+ColumnWidths=67,0
+NumExprs=0
+
+[Watches]
+Expr0=(char *)$ecx
+Expr1=(char *)(0x804901e - 6)
+Expr2=(int *)($ebp + 16)
+Expr3=(char **)($ebp + 12)

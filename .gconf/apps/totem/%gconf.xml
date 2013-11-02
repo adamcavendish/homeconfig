@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="visual_quality" mtime="1380787052" type="string">
+		<stringvalue>small</stringvalue>
+	</entry>
+	<entry name="visual" mtime="1380790314" type="string">
+		<stringvalue>Frequency spectrum scope</stringvalue>
+	</entry>
+	<entry name="subtitle_encoding" mtime="1380790314" type="string">
+		<stringvalue>UTF-8</stringvalue>
+	</entry>
+	<entry name="show_vfx" mtime="1380790314" type="bool" value="true"/>
+</gconf>

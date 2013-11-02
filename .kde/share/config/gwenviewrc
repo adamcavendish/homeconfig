@@ -1,0 +1,25 @@
+[General]
+SideBarPage=folders
+
+[KFileDialog Settings]
+Height 768=510
+Recent Files[$e]=$HOME/Pictures/NM2.png,$HOME/Pictures/NM2.png
+Width 1366=816
+
+[MainWindow]
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1367
+
+[Notification Messages]
+ConfirmTrash=true
+
+[SideBar-BrowseMode]
+IsVisible=false
+
+[SideBar-FullScreenMode]
+IsVisible=false
+
+[SideBar-ViewMode]
+IsVisible=true

@@ -1,0 +1,31 @@
+[CompactMode]
+FontWeight=50
+
+[DetailsMode]
+FontWeight=50
+
+[General]
+ConfirmClosingMultipleTabs=false
+Version=200
+ViewPropsTimestamp=2013,10,23,10,16,52
+
+[IconsMode]
+FontWeight=50
+
+[KPropertiesDialog]
+Height 768=399
+Width 1366=394
+
+[MainWindow]
+Height 768=769
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC6AAACtvwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAgBAAAF+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAeAAACtgAAAFABAAAFAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACAEAAAUAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAgBAAAFAAAEmQAAArYAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1366=1367
+
+[PreviewSettings]
+Plugins=directorythumbnail,imagethumbnail,jpegthumbnail
+
+[SettingsDialog]
+Height 768=349
+Width 1366=512

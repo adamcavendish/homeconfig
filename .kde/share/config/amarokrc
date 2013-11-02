@@ -1,0 +1,68 @@
+[$Version]
+update_info=amarok.upd:1
+
+[Analyzer Applet]
+Current Analyzer=Blocky
+Height=120
+
+[Collection Browser]
+TreeCategory=3,1
+View Mode=NormalCollections
+
+[Collection Folders]
+1=./adam/Music
+
+[File Browser]
+Current Directory=file:///home/adam
+
+[General]
+Browser Path=root list
+First Run=false
+HiddenOnExit=true
+
+[General Options]
+PlayFirstRunJingle=false
+
+[MainWindow]
+Height 768=724
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAVWAAACifwBAAAAA/sAAAAkAE0AZQBkAGkAYQAgAFMAbwB1AHIAYwBlAHMAIABkAG8AYwBrAQAAAAAAAAE2AAAAzgEAAAX7AAAAGABDAG8AbgB0AGUAeAB0ACAAZABvAGMAawEAAAE5AAAC5AAAAZYBAAAF+wAAABoAUABsAGEAeQBsAGkAcwB0ACAAZABvAGMAawEAAAQgAAABNgAAAM4BAAAFAAAAAAAAAokAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAgAAABYATQBhAGkAbgBUAG8AbwBsAGIAYQByAQAAAAD/////AAAAAAAAAAAAAAAYAFMAbABpAG0AIABUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1366=1366
+
+[Notification Messages]
+systemtrayquitAmarok=false
+
+[Playlist Search]
+MatchAlbum=true
+MatchArtist=true
+MatchTrack=true
+ShowOnlyMatches=false
+
+[Podcast View]
+Merged View=false
+
+[Podcasts]
+AutoUpdate Interval=30
+Maximum Simultaneous Downloads=4
+Maximum Simultaneous Updates=4
+
+[Recently Played]
+Display Names=allMeadow & Rob Costlow - Art Of Nations (Amarok Theme),Unknown Artist - C9AlgorithmsGurevichIntroAndHistory 2MB ch9
+Last Played Dates=2013-10-26T15:50:34,2013-10-26T15:51:28
+Urls=file:///usr/share/kde4/apps/amarok/data/first_run_jingle.ogg,file:///files/Aria/C9-Algorithms/C9AlgorithmsGurevichIntroAndHistory_2MB_ch9.wmv
+
+[Saved Playlists View]
+Merged View=false
+
+[ScriptManager]
+LastUpdateCheck=1382773210
+
+[Session]
+LastPlaying=1
+
+[StatSyncing]
+checkedFields=rating,firstplay,lastplay,playcount,label
+excludedLabels=
+providerEnabledStatuses=true
+providerIds=localCollection
+providerNames=Local Collection

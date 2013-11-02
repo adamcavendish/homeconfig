@@ -1,0 +1,93 @@
+[BackgroundConfigDialog]
+Height 768=714
+Width 1366=748
+
+[DownloadDialog Settings]
+Height 768=721
+Width 1366=1366
+
+[KFileDialog Settings]
+Height 768=450
+Width 1366=720
+
+[KFileMetaPropsPlugin]
+Height 768=261
+Width 1366=277
+
+[KPropertiesDialog]
+Height 768=365
+Width 1366=277
+
+[Open-with settings]
+CompletionMode=5
+History=kate -b %U
+
+[PlasmaViews][1]
+panelVisibility=0
+
+[PlasmaViews][1][Horizontal1366]
+offset=0
+
+[PlasmaViews][1][Sizes]
+lastsize=1366
+
+[Updates]
+performed=/usr/share/kde4/apps/plasma-desktop/updates/addShowActivitiesManagerPlasmoid.js,/usr/share/kde4/apps/plasma-desktop/updates/set-hidden-single-vd-pager.js,/usr/share/kde4/apps/plasma-desktop/updates/systray-to-notifications-widget.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/05-add-plasma-nm.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/04-add-presence.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/02-kubuntu-menu-icon.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/01-kubuntu-10.04.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/06-delete-networkmanagement.js,/usr/share/kde4/apps/plasma-desktop/updates/50-renameKTpApplets.js,/usr/share/kde4/apps/plasma-desktop/updates/02-add-print-manager.js
+
+[ViewIds]
+1=1
+44=11
+
+[configureNotification]
+__file=
+appRealName=yakuake
+
+[invokeAction]
+__file=
+actionId=
+predicate=test-predicate-openinwindow.desktop
+
+[mount]
+__file=
+
+[remove]
+Id=7e232a17-1c75-4046-ad51-94afe0edb346
+__file=
+
+[setBrightness]
+__file=
+brightness=0
+
+[setCurrent]
+__file=
+
+[setIcon]
+Icon=
+__file=
+
+[setName]
+Name=Desktop
+__file=
+
+[stop]
+__file=
+
+[stopSuppressingScreenPowerManagement]
+__file=
+cookie=-1
+
+[stopSuppressingSleep]
+__file=
+cookie=-1
+
+[toggleActivityManager]
+__file=
+
+[unmount]
+__file=
+
+[updateFreespace]
+__file=
+
+[userClosed]
+__file=

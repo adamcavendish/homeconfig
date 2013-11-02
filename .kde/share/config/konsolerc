@@ -1,0 +1,24 @@
+[$Version]
+update_info=konsole.upd:2.9.0-global-options
+
+[Colors]
+CurrentPalette=Oxygen Colors
+
+[Desktop Entry]
+DefaultProfile=adam.profile
+
+[Favorite Profiles]
+Favorites=adam.profile,Shell.profile
+
+[KonsoleWindow]
+AllowMenuAccelerators=true
+ShowWindowTitleOnTitleBar=true
+
+[MainWindow]
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAABVYAAAK/AAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1367
+
+[TabBar]
+TabBarPosition=Top

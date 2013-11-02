@@ -1,0 +1,46 @@
+[$Version]
+update_info=kded.upd:kde3.0
+
+[DirSelect Dialog]
+DirSelectDialog Size=788,512
+History Items[$e]=file://$HOME
+
+[General]
+BrowserApplication=google-chrome.desktop
+
+[KDE]
+ShowDeleteCommand=false
+SingleClick=false
+
+[KFileDialog Settings]
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=0
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Previews=false
+Recent URLs[$e]=$HOME/Pictures/
+Show Bookmarks=false
+Show Full Path=false
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort reversed=false
+Speedbar Width=109
+View Style=Simple
+listViewIconSize=0
+
+[KShortcutsDialog Settings]
+Dialog Size=600,480
+
+[Locale]
+Language=en_US:zh_TW:zh_CN:ja
+
+[PreviewSettings]
+MaximumRemoteSize=0
+
+[Shortcuts]
+Close=
+Deselect=

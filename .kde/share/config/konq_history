@@ -1,0 +1,6 @@
+[History]
+CompletionItems=unused
+
+[Location Bar]
+ComboContents[$e]=http://www.baidu.com/
+ComboIconCache[$e]=http://www.baidu.com/,text-html

@@ -50,6 +50,27 @@ source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
 export PATH=$PATH:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+export CPLUS_INCLUDE_PATH="/usr/local/include/:$CPLUS_INCLUDE_PATH"
+export LD_LIBRARY_PATH="/usr/local/lib/:$LD_LIBRARY_PATH"
+export LIBRARY_PATH="/usr/local/lib/:$LIBRARY_PATH"
+
+# Qt
+export PATH="/opt/Qt5.1.1/5.1.1/gcc_64/bin/:/opt/Qt5.1.1/Tools/QtCreator/bin/:$PATH"
+export CPLUS_INCLUDE_PATH="/opt/Qt5.1.1/5.1.1/gcc_64/include/:$CPLUS_INCLUDE_PATH"
+export LD_LIBRARY_PATH="/opt/Qt5.1.1/5.1.1/gcc_64/lib:$LD_LIBRARY_PATH"
+export LIBRARY_PATH="/opt/Qt5.1.1/5.1.1/gcc_64/lib:$LIBRARY_PATH"
+
+# Java
+export JAVA_HOME="/usr/bin/"
+
+# Keyboard Input
+# export GTK_IM_MODULE=ibus
+# export XMODIFIERS="@im=ibus"
+# export QT_IM_MODULE=ibus
+# export XMODIFIERS="@im=ibus"
+# export GTK_IM_MODULE=ibus
+# export QT4_IM_MODULE=ibus
+# export QT_IM_MODULE=ibus
 
 # Alias
 alias sl='ls'
@@ -61,8 +82,8 @@ alias cp='cp -i'
 alias rm='rm -i'
 alias mv='mv -i'
 
-alias du='du -h'
-alias df='df -h'
+alias duh='du -h'
+alias dfh='df -h'
 
 alias mkdatedir='mkdir `date +%Y%m%d`'
 
@@ -89,6 +110,10 @@ alias pp='ping -i 0.2 www.google.com; ping www.baidu.com'
 
 alias apt-proxy="sudo http_proxy='http://127.0.0.1:8087/' apt-get"
 
+# CSCOPE
+alias cscope_init="find . -name \"*.c\" -o -name \"*.cpp\" -o -name \"*.h\" -o -name \"*.hpp\" -o -name \"*.tcc\" > cscope.files; cscope -R -b -i cscope.files"
+alias cscope_clean="rm ./cscope.files ./cscope.in.out ./cscope.out ./cscope.po.out"
+
 ##################################################
 ## @hostname adam-ros
 if [ `hostname` = "adam-ros" ]; then
@@ -111,20 +136,19 @@ export CPLUS_INCLUDE_PATH=/opt/ros/groovy/include/pcl-1.6/:$CPLUS_INCLUDE_PATH;
 export CPLUS_INCLUDE_PATH=/opt/ros/groovy/include/:$CPLUS_INCLUDE_PATH;
 export CPLUS_INCLUDE_PATH=/usr/include/eigen3/:$CPLUS_INCLUDE_PATH;
 '
-	# Qt
-	export PATH="/opt/Qt5.1.1/5.1.1/gcc_64/bin/:/opt/Qt5.1.1/Tools/QtCreator/bin/:$PATH"
-	export CPLUS_INCLUDE_PATH="/opt/Qt5.1.1/5.1.1/gcc_64/include/:$CPLUS_INCLUDE_PATH"
-	export LD_LIBRARY_PATH="/opt/Qt5.1.1/5.1.1/gcc_64/lib:$LD_LIBRARY_PATH"
-	export LIBRARY_PATH="/opt/Qt5.1.1/5.1.1/gcc_64/lib:$LIBRARY_PATH"
+	# Blender
+	export PATH="/opt/blender-2.68a/:$PATH"
 
 	# Linux Driver
-	export CPLUS_INCLUDE_PATH="/files/Nutstore/000/LinuxDriver/include/:$CPLUS_INCLUDE_PATH"
-	export C_INCLUDE_PATH="/files/Nutstore/000/LinuxDriver/include/:$C_INCLUDE_PATH"
-	export LD_LIBRARY_PATH="/files/Nutstore/000/LinuxDriver/lib/:$LD_LIBRARY_PATH"
-	export LIBRARY_PATH="/files/Nutstore/000/LinuxDriver/lib/:$LIBRARY_PATH"
+	alias driverexport='
+export CPLUS_INCLUDE_PATH="/files/Nutstore/000/LinuxDriver/include/:$CPLUS_INCLUDE_PATH";
+export C_INCLUDE_PATH="/files/Nutstore/000/LinuxDriver/include/:$C_INCLUDE_PATH";
+export LD_LIBRARY_PATH="/files/Nutstore/000/LinuxDriver/lib/:$LD_LIBRARY_PATH";
+export LIBRARY_PATH="/files/Nutstore/000/LinuxDriver/lib/:$LIBRARY_PATH";
+'
 
 	# CMake 2.8.11
-	export PATH="/opt/cmake2.8.11/bin/:$PATH"
+	# export PATH="/opt/cmake2.8.11/bin/:$PATH"
 
 ##################################################
 ## @hostname adam-ThinkPad-E425
@@ -161,4 +185,17 @@ elif [ `hostname` = "adam-ThinkPad-E425" ]; then
 else
 	echo "\e[0;1;49;39mWho are You?\e[0m"
 fi
+
+# sphinxbase
+export PATH="/temp/sphinxbase/bin/:$PATH"
+export C_INCLUDE_PATH="/temp/sphinxbase/include/:$C_INCLUDE_PATH"
+export CPLUS_INCLUDE_PATH="/temp/sphinxbase/include/:$CPLUS_INCLUDE_PATH"
+export LD_LIBRARY_PATH="/temp/sphinxbase/lib/:$LD_LIBRARY_PATH"
+export LIBRARY_PATH="/temp/sphinxbase/lib/:$LIBRARY_PATH"
+# sphinxtrain
+export PATH="/temp/sphinxtrain/bin/:/temp/sphinxtrain/libexec/sphinxtrain/:$PATH"
+export C_INCLUDE_PATH="/temp/sphinxtrain/include/:$C_INCLUDE_PATH"
+export CPLUS_INCLUDE_PATH="/temp/sphinxtrain/include/:$CPLUS_INCLUDE_PATH"
+export LD_LIBRARY_PATH="/temp/sphinxtrain/lib/:$LD_LIBRARY_PATH"
+export LIBRARY_PATH="/temp/sphinxtrain/lib/:$LIBRARY_PATH"
 

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="default_extension" mtime="1380337467" type="string">
+	<entry name="default_extension" mtime="1380732411" type="string">
 		<stringvalue>.7z</stringvalue>
 	</entry>
 </gconf>
