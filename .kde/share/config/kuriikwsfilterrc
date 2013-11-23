@@ -1,2 +1,8 @@
 [$Version]
 update_info=kuriikwsfilter.upd:post-kde3.1/cvs,kuriikwsfilter.upd:pre-kde4.9
+
+[General]
+EnableWebShortcuts=false
+FavoriteSearchEngines=google_kubuntu,dmoz,google_news,webster,wikipedia,google_groups
+KeywordDelimiter=:
+UseSelectedProvidersOnly=false

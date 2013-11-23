@@ -1,3 +1,6 @@
+[$Version]
+update_info=ksmserver.upd:kde3
+
 [General]
 screenCount=1
 
@@ -7,47 +10,26 @@ count=0
 [Session: saved at previous logout]
 clientId1=1019218515e16b000138249455800000020110000
 clientId2=1019218515e16b000138273229600000016880010
-clientId3=1019218515e16b000138303075400000021130009
-clientId4=1019218515e16b000138303076800000021130010
-clientId5=1019218515e16b000138303076800000021130011
-clientId6=1019218515e16b000138303076800000021130012
-count=6
-discardCommand1[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/kwin_1019218515e16b000138249455800000020110000_1383133562_588754
-discardCommand2[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/kmix_1019218515e16b000138273229600000016880010_1383133562_318926
-discardCommand3[$e]=
-discardCommand4[$e]=
-discardCommand5[$e]=
-discardCommand6[$e]=
+clientId3=1019218515e16b000138460401300000016090005
+count=3
+discardCommand1[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/kwin_1019218515e16b000138249455800000020110000_1384688335_81741
+discardCommand2[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/kmix_1019218515e16b000138273229600000016880010_1384688334_960713
+discardCommand3[$e]=\\0
 program1=kwin
 program2=/usr/bin/kmix
-program3=pulseaudio
-program4=/usr/bin/akonadi_agent_launcher
-program5=/usr/bin/akonadi_agent_launcher
-program6=/usr/bin/akonadi_agent_launcher
-restartCommand1=kwin,-session,1019218515e16b000138249455800000020110000_1383133562_588754
-restartCommand2=/usr/bin/kmix,-session,1019218515e16b000138273229600000016880010_1383133562_318926
-restartCommand3=
-restartCommand4=/usr/bin/akonadi_agent_launcher,-session,1019218515e16b000138303076800000021130010_1383133562_320517
-restartCommand5=/usr/bin/akonadi_agent_launcher,-session,1019218515e16b000138303076800000021130011_1383133562_320946
-restartCommand6=/usr/bin/akonadi_agent_launcher,-session,1019218515e16b000138303076800000021130012_1383133562_321286
+program3=/usr/bin/akonaditray
+restartCommand1=kwin,-session,1019218515e16b000138249455800000020110000_1384688335_81741
+restartCommand2=/usr/bin/kmix,-session,1019218515e16b000138273229600000016880010_1384688334_960713
+restartCommand3=/usr/bin/akonaditray,-session,1019218515e16b000138460401300000016090005_1384688334_961133
 restartStyleHint1=0
 restartStyleHint2=0
 restartStyleHint3=0
-restartStyleHint4=0
-restartStyleHint5=0
-restartStyleHint6=0
 userId1=adam
 userId2=adam
 userId3=adam
-userId4=adam
-userId5=adam
-userId6=adam
 wasWm1=true
 wasWm2=false
 wasWm3=false
-wasWm4=false
-wasWm5=false
-wasWm6=false
 
 [SubSession: 0f470a85-fed0-42ce-9323-fecd47824f9e]
 count=0

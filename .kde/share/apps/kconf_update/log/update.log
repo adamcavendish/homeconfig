@@ -458,3 +458,181 @@
 2013-10-26T03:36:55 Checking update-file '/usr/share/kde4/apps/kconf_update/yakuake.upd' for new updates
 2013-10-26T03:36:55 yakuake.upd: Found new update '2.9.9-startupnotification'
 2013-10-26T03:36:55 yakuake.upd: Running script 'yakuake-2.9.9-startupnotification.pl'
+2013-11-14T01:17:20 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2013-11-14T01:17:41 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2013-11-14T01:17:41 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2013-11-14T01:17:41 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2013-11-14T01:17:41 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2013-11-14T01:17:41 kioslave.upd: Found new update 'kde2.2/r1'
+2013-11-14T01:17:41 kioslave.upd: Skipping update 'kde2.2/r1'
+2013-11-14T01:17:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2013-11-14T01:17:42 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2013-11-14T01:17:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2013-11-14T01:17:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2013-11-14T01:17:42 kioslave.upd: Found new update 'kde2.2/r1'
+2013-11-14T01:17:42 kioslave.upd: Skipping update 'kde2.2/r1'
+2013-11-16T23:42:52 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2013-11-16T23:42:52 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2013-11-16T23:42:52 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-pluginloader2.upd' for new updates
+2013-11-16T23:42:52 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_remove_delay_focus.upd' for new updates
+2013-11-16T23:42:52 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_update_tabbox_settings.upd' for new updates
+2013-11-16T23:42:52 Checking update-file '/usr/share/kde4/apps/kconf_update/ksmserver_shortcuts.upd' for new updates
+2013-11-16T23:42:52 ksmserver_shortcuts.upd: Found new update 'kde45'
+2013-11-16T23:42:52 ksmserver_shortcuts.upd: Skipping kglobalshortcutsrc:ksmserver:Halt Without Confirmation, already exists.
+2013-11-16T23:42:52 ksmserver_shortcuts.upd: Skipping kglobalshortcutsrc:ksmserver:Log Out, already exists.
+2013-11-16T23:42:52 ksmserver_shortcuts.upd: Skipping kglobalshortcutsrc:ksmserver:Log Out Without Confirmation, already exists.
+2013-11-16T23:42:52 ksmserver_shortcuts.upd: Skipping kglobalshortcutsrc:ksmserver:Reboot Without Confirmation, already exists.
+2013-11-16T23:42:52 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin3_plugin.upd' for new updates
+2013-11-16T23:42:52 kwin3_plugin.upd: Found new update 'kde3.2'
+2013-11-16T23:42:52 kwin3_plugin.upd: Running script 'kwin3_plugin.pl'
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-update_icq_server.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-jabberpriorityaddition-kconf_update.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-jabberproxytype-kconf_update.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus1.upd' for new updates
+2013-11-16T23:42:53 kwin_focus1.upd: Found new update 'kwin_focus1'
+2013-11-16T23:42:53 kwin_focus1.upd: Running script 'kwin_focus1.sh'
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/mailfilteragent.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kcalcrc.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kcmdisplayrc.upd' for new updates
+2013-11-16T23:42:53 kcmdisplayrc.upd: Found new update 'kde3'
+2013-11-16T23:42:53 kcmdisplayrc.upd: File 'kcmdisplayrc' does not exist or empty, skipping
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_remove_effects.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinupdatewindowsettings.upd' for new updates
+2013-11-16T23:42:53 kwinupdatewindowsettings.upd: Found new update 'kde33b1'
+2013-11-16T23:42:53 kwinupdatewindowsettings.upd: Running script 'kwin_update_window_settings'
+2013-11-16T23:42:53 [Script] QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/krdb_libpathwipe.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-gaim_to_pidgin_style.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/klipper-kconfigxt.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinsticky.upd' for new updates
+2013-11-16T23:42:53 kwinsticky.upd: Found new update 'stickyupd3.1'
+2013-11-16T23:42:53 kwinsticky.upd: File 'kwin.eventsrc' does not exist or empty, skipping
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-account-kconf_update.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/korganizer.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kpgp.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_on_off.upd' for new updates
+2013-11-16T23:42:53 kwin_on_off.upd: Found new update 'kwin_on_off'
+2013-11-16T23:42:53 kwin_on_off.upd: Running script 'on-off_to_true-false.sh'
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/favicons.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kate-2.4.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/nepomukstrigiservice-migrate.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/mailtransports.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kaccel.upd' for new updates
+2013-11-16T23:42:53 kaccel.upd: Found new update 'kde3.3/r1'
+2013-11-16T23:42:53 kaccel.upd: Running script 'convertShortcuts.pl'
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/ksmserver.upd' for new updates
+2013-11-16T23:42:53 ksmserver.upd: Found new update 'kde3'
+2013-11-16T23:42:53 ksmserver.upd: Running script 'move_session_config.sh'
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-nameTracking.upd' for new updates
+2013-11-16T23:42:53 kopete-nameTracking.upd: Found new update 'kopete0.9/r1'
+2013-11-16T23:42:53 kopete-nameTracking.upd:3:'Script=kopete-nameTracking-kconf_update': Script 'kopete-nameTracking-kconf_update' not found
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-add-shortcut-to-menu.upd' for new updates
+2013-11-16T23:42:53 plasma-add-shortcut-to-menu.upd: Found new update '4.1LauncherShortcut'
+2013-11-16T23:42:53 plasma-add-shortcut-to-menu.upd:2:'Script=plasma-add-shortcut-to-menu-update': Script 'plasma-add-shortcut-to-menu-update' not found
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/mouse_cursor_theme.upd' for new updates
+2013-11-16T23:42:53 mouse_cursor_theme.upd: Found new update 'kde3.4.99'
+2013-11-16T23:42:53 mouse_cursor_theme.upd: Updating kcminputrc:Mouse:cursorTheme to ''
+2013-11-16T23:42:53 mouse_cursor_theme.upd: Removing kdeglobals:KDE:cursorTheme, moved.
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-to-plasmadesktop-shortcuts.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_update_tabbox_qml_settings.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-initialstatus.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-pluginloader.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/plasmarc-to-plasmadesktoprc.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwiniconify.upd' for new updates
+2013-11-16T23:42:53 kwiniconify.upd: Found new update 'iconifyupd3.1'
+2013-11-16T23:42:53 kwiniconify.upd: File 'kwin.eventsrc' does not exist or empty, skipping
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus2.upd' for new updates
+2013-11-16T23:42:53 kwin_focus2.upd: Found new update 'kwin_focus2'
+2013-11-16T23:42:53 kwin_focus2.upd: Running script 'kwin_focus2.sh'
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/amarok.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/audiocd.upd' for new updates
+2013-11-16T23:42:53 audiocd.upd: Found new update '1'
+2013-11-16T23:42:53 audiocd.upd: File 'kcmaudiocdrc' does not exist or empty, skipping
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_fsp_workarounds_1.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin.upd' for new updates
+2013-11-16T23:42:53 kwin.upd: Found new update 'kde3.0r1'
+2013-11-16T23:42:53 kwin.upd: Running script 'pluginlibFix.pl'
+2013-11-16T23:42:53 kwin.upd: Found new update 'kde3.2Xinerama'
+2013-11-16T23:42:53 kwin.upd: Updating kdeglobals:Windows:XineramaEnabled to ''
+2013-11-16T23:42:53 kwin.upd: Removing kwinrc:Windows:XineramaEnabled, moved.
+2013-11-16T23:42:53 kwin.upd: Updating kdeglobals:Windows:XineramaMovementEnabled to ''
+2013-11-16T23:42:53 kwin.upd: Removing kwinrc:Windows:XineramaMovementEnabled, moved.
+2013-11-16T23:42:53 kwin.upd: Updating kdeglobals:Windows:XineramaPlacementEnabled to ''
+2013-11-16T23:42:53 kwin.upd: Removing kwinrc:Windows:XineramaPlacementEnabled, moved.
+2013-11-16T23:42:53 kwin.upd: Updating kdeglobals:Windows:XineramaMaximizeEnabled to ''
+2013-11-16T23:42:53 kwin.upd: Removing kwinrc:Windows:XineramaMaximizeEnabled, moved.
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_window_shortcuts.upd' for new updates
+2013-11-16T23:42:53 kwin_window_shortcuts.upd: Found new update 'kde414'
+2013-11-16T23:42:53 kwin_window_shortcuts.upd: Running script 'kwin_window_shortcuts.sh'
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kmail.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-update_yahoo_server.upd' for new updates
+2013-11-16T23:42:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2013-11-16T23:42:53 kioslave.upd: Found new update 'kde2.2/r1'
+2013-11-16T23:42:53 kioslave.upd: Skipping update 'kde2.2/r1'
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-pluginloader2.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_remove_delay_focus.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_update_tabbox_settings.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/ksmserver_shortcuts.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin3_plugin.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-update_icq_server.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-jabberpriorityaddition-kconf_update.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-jabberproxytype-kconf_update.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus1.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/mailfilteragent.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kcalcrc.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kcmdisplayrc.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_remove_effects.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinupdatewindowsettings.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/krdb_libpathwipe.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-gaim_to_pidgin_style.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/klipper-kconfigxt.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinsticky.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-account-kconf_update.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/korganizer.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kpgp.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_on_off.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/favicons.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kate-2.4.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/nepomukstrigiservice-migrate.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/mailtransports.upd' for new updates
+2013-11-17T00:37:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kaccel.upd' for new updates
+2013-11-17T00:37:59 Checking update-file '/usr/share/kde4/apps/kconf_update/ksmserver.upd' for new updates
+2013-11-17T00:37:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-nameTracking.upd' for new updates
+2013-11-17T00:37:59 kopete-nameTracking.upd: Found new update 'kopete0.9/r1'
+2013-11-17T00:37:59 kopete-nameTracking.upd:3:'Script=kopete-nameTracking-kconf_update': Script 'kopete-nameTracking-kconf_update' not found
+2013-11-17T00:37:59 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-add-shortcut-to-menu.upd' for new updates
+2013-11-17T00:37:59 plasma-add-shortcut-to-menu.upd: Found new update '4.1LauncherShortcut'
+2013-11-17T00:37:59 plasma-add-shortcut-to-menu.upd:2:'Script=plasma-add-shortcut-to-menu-update': Script 'plasma-add-shortcut-to-menu-update' not found
+2013-11-17T00:37:59 Checking update-file '/usr/share/kde4/apps/kconf_update/mouse_cursor_theme.upd' for new updates
+2013-11-17T00:37:59 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-to-plasmadesktop-shortcuts.upd' for new updates
+2013-11-17T00:37:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_update_tabbox_qml_settings.upd' for new updates
+2013-11-17T00:37:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-initialstatus.upd' for new updates
+2013-11-17T00:37:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-pluginloader.upd' for new updates
+2013-11-17T00:37:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2013-11-17T00:37:59 Checking update-file '/usr/share/kde4/apps/kconf_update/plasmarc-to-plasmadesktoprc.upd' for new updates
+2013-11-17T00:37:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwiniconify.upd' for new updates
+2013-11-17T00:37:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus2.upd' for new updates
+2013-11-17T00:37:59 Checking update-file '/usr/share/kde4/apps/kconf_update/amarok.upd' for new updates
+2013-11-17T00:37:59 Checking update-file '/usr/share/kde4/apps/kconf_update/audiocd.upd' for new updates
+2013-11-17T00:37:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_fsp_workarounds_1.upd' for new updates
+2013-11-17T00:37:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin.upd' for new updates
+2013-11-17T00:37:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_window_shortcuts.upd' for new updates
+2013-11-17T00:37:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kmail.upd' for new updates
+2013-11-17T00:37:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-update_yahoo_server.upd' for new updates
+2013-11-17T00:37:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2013-11-17T00:37:59 kioslave.upd: Found new update 'kde2.2/r1'
+2013-11-17T00:37:59 kioslave.upd: Skipping update 'kde2.2/r1'
+2013-11-16T20:08:32 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-add-shortcut-to-menu.upd' for new updates
+2013-11-16T20:08:32 plasma-add-shortcut-to-menu.upd: Found new update '4.1LauncherShortcut'
+2013-11-16T20:08:32 plasma-add-shortcut-to-menu.upd:2:'Script=plasma-add-shortcut-to-menu-update': Script 'plasma-add-shortcut-to-menu-update' not found
+2013-11-16T20:08:32 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-to-plasmadesktop-shortcuts.upd' for new updates
+2013-11-16T20:08:32 Checking update-file '/usr/share/kde4/apps/kconf_update/plasmarc-to-plasmadesktoprc.upd' for new updates

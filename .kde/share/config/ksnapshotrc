@@ -1,14 +1,14 @@
 [GENERAL]
 delay=1
-filename[$e]=file://$HOME/Pictures/002.png
+filename[$e]=file://$HOME/Pictures/RealSteal/005.png
 includeDecorations=true
 includePointer=false
 mode=2
 
 [KFileDialog Settings]
 Height 768=450
-Recent Files[$e]=$HOME/Pictures/001.png,$HOME/Pictures/001.png
-Recent URLs[$e]=$HOME/Pictures/
+Recent Files[$e]=$HOME/Pictures/001.png,$HOME/Pictures/RealSteal/004.png,$HOME/Pictures/IMLegend/003.png,$HOME/Pictures/IMLegend/002.png,$HOME/Pictures/IMLegend/001,$HOME/Pictures/whatTF.png,$HOME/Pictures/good.png
+Recent URLs[$e]=$HOME/Pictures/,$HOME/Pictures/IMLegend/,$HOME/Pictures/RealSteal/
 Width 1366=720
 
 [MainWindow]

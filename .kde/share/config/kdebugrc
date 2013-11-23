@@ -124,6 +124,9 @@ InfoOutput=4
 [ksmserver]
 InfoOutput=4
 
+[kwalletd]
+InfoOutput=2
+
 [nepomukfileindexer]
 InfoOutput=4
 
@@ -137,6 +140,9 @@ InfoOutput=4
 InfoOutput=4
 
 [plasma-netbook]
+InfoOutput=2
+
+[plasma-windowed]
 InfoOutput=2
 
 [unnamed app]

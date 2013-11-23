@@ -1,9 +1,9 @@
 [$Version]
-update_info=kded.upd:kde3.0
+update_info=kded.upd:kde3.0,kaccel.upd:kde3.3/r1,mouse_cursor_theme.upd:kde3.4.99,kwin.upd:kde3.2Xinerama
 
 [DirSelect Dialog]
 DirSelectDialog Size=788,512
-History Items[$e]=file://$HOME
+History Items[$e]=file:///files/Nutstore/000/CPPWorkSpace,file://$HOME
 
 [General]
 BrowserApplication=google-chrome.desktop
@@ -14,7 +14,7 @@ SingleClick=false
 
 [KFileDialog Settings]
 Automatically select filename extension=true
-Breadcrumb Navigation=true
+Breadcrumb Navigation=false
 Decoration position=0
 LocationCombo Completionmode=5
 PathCombo Completionmode=5
@@ -28,7 +28,7 @@ Show hidden files=false
 Sort by=Name
 Sort directories first=true
 Sort reversed=false
-Speedbar Width=109
+Speedbar Width=116
 View Style=Simple
 listViewIconSize=0
 
@@ -36,7 +36,8 @@ listViewIconSize=0
 Dialog Size=600,480
 
 [Locale]
-Language=en_US:zh_TW:zh_CN:ja
+Country=cn
+Language=en_US
 
 [PreviewSettings]
 MaximumRemoteSize=0
@@ -44,3 +45,9 @@ MaximumRemoteSize=0
 [Shortcuts]
 Close=
 Deselect=
+
+[Windows]
+XineramaEnabled=
+XineramaMaximizeEnabled=
+XineramaMovementEnabled=
+XineramaPlacementEnabled=

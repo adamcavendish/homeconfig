@@ -1,3 +1,33 @@
+[file:///etc/group]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+MD5=38462ea7a05b4b2afc9a605430405fab
+Mode=
+Time=2013,11,2,21,18,21
+URL=file:///etc/group
+
+[file:///etc/passwd]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+MD5=a0e1b1d580968dce60cd54ffed81ad58
+Mode=
+Time=2013,11,2,21,16,8
+URL=file:///etc/passwd
+
+[file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/055/055MatrixMul.c]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=C
+Indentation Mode=cstyle
+MD5=dc1d6653dad78432bf0ebd03ba800675
+Mode=C
+Time=2013,11,5,20,27,41
+URL=file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/055/055MatrixMul.c
+
 [file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/056/056LongestCommonString.c]
 Bookmarks=
 Encoding=UTF-8
@@ -5,7 +35,7 @@ Highlighting=C
 Indentation Mode=cstyle
 MD5=3e28a5af1f03a87787394e3b0db319e4
 Mode=C
-Time=2013,10,29,16,42,35
+Time=2013,11,5,20,30,15
 URL=file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/056/056LongestCommonString.c
 
 [file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/058/huffman.cpp]
@@ -15,8 +45,18 @@ Highlighting=C++
 Indentation Mode=cstyle
 MD5=7e563c7ddf0483b8380fab2af7e8758c
 Mode=C++
-Time=2013,10,29,18,38,32
+Time=2013,11,5,20,32,9
 URL=file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/058/huffman.cpp
+
+[file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/20130924BoardCoverProblem.cpp]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=C++
+Indentation Mode=cstyle
+MD5=cd37468aa7645d701be057e4aefec6e5
+Mode=C++
+Time=2013,11,5,20,25,27
+URL=file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/20130924BoardCoverProblem.cpp
 
 [file:///files/Nutstore/School/University/D單片機/AD/AD.asm]
 Bookmarks=

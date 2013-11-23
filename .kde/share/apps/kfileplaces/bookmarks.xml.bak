@@ -280,7 +280,7 @@
   </info>
   <title>129.7 GiB Hard Drive</title>
  </separator>
- <separator href="file:///media/adam/adam">
+ <separator href="file:///media/A310-CFFD">
   <info>
    <metadata owner="http://www.kde.org">
     <UDI>/org/freedesktop/UDisks2/block_devices/sdb1</UDI>
@@ -288,15 +288,41 @@
     <IsHidden>false</IsHidden>
    </metadata>
    <metadata owner="http://freedesktop.org">
-    <bookmark:icon name="drive-removable-media-usb"/>
+    <bookmark:icon name="drive-removable-media-usb-pendrive"/>
    </metadata>
   </info>
-  <title>adam</title>
+  <title>7.4 GiB Removable Media</title>
  </separator>
- <separator href="file:///media/adam/ADAMPORT">
+ <separator>
   <info>
    <metadata owner="http://www.kde.org">
-    <UDI>/org/freedesktop/UDisks2/block_devices/sdb1</UDI>
+    <UDI>/org/freedesktop/UDisks2/block_devices/loop0</UDI>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="drive-harddisk"/>
+   </metadata>
+  </info>
+  <title>Loop Device</title>
+ </separator>
+ <separator href="file:///tmp/tmpk5wlcf">
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/freedesktop/UDisks2/block_devices/loop1</UDI>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="drive-harddisk"/>
+   </metadata>
+  </info>
+  <title>Loop Device</title>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/freedesktop/UDisks2/block_devices/sdb</UDI>
     <isSystemItem>true</isSystemItem>
     <IsHidden>false</IsHidden>
    </metadata>
@@ -304,7 +330,20 @@
     <bookmark:icon name="drive-removable-media-usb"/>
    </metadata>
   </info>
-  <title>ADAMPORT</title>
+  <title>DISK_IMG</title>
+ </separator>
+ <separator href="file:///media/adam/Group1WinAPI">
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/freedesktop/UDisks2/block_devices/sr0</UDI>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="media-optical-data"/>
+   </metadata>
+  </info>
+  <title>Group1WinAPI</title>
  </separator>
  <separator href="mtp:udi=/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:16.2/usb3/3-3">
   <info>
@@ -319,19 +358,6 @@
   </info>
   <title>Portable Media Player</title>
  </separator>
- <separator href="file:///media/adam/704ECF384ECEF5BE">
-  <info>
-   <metadata owner="http://www.kde.org">
-    <UDI>/org/freedesktop/UDisks2/block_devices/sdb1</UDI>
-    <isSystemItem>true</isSystemItem>
-    <IsHidden>false</IsHidden>
-   </metadata>
-   <metadata owner="http://freedesktop.org">
-    <bookmark:icon name="drive-removable-media-usb"/>
-   </metadata>
-  </info>
-  <title>7.2 GiB Removable Media</title>
- </separator>
  <bookmark href="file:///files/Nutstore/">
   <title>Nutstore</title>
   <info>
@@ -344,4 +370,30 @@
    </metadata>
   </info>
  </bookmark>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/freedesktop/UDisks2/block_devices/sdb1</UDI>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="drive-removable-media-usb"/>
+   </metadata>
+  </info>
+  <title>7.2 GiB Removable Media</title>
+ </separator>
+ <separator>
+  <info>
+   <metadata owner="http://www.kde.org">
+    <UDI>/org/freedesktop/UDisks2/block_devices/sdb1</UDI>
+    <isSystemItem>true</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="drive-removable-media-usb"/>
+   </metadata>
+  </info>
+  <title>ADAMPORT</title>
+ </separator>
 </xbel>

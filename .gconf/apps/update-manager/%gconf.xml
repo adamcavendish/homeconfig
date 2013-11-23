@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <gconf>
 	<entry name="show_details" mtime="1380686444" type="bool" value="false"/>
-	<entry name="launch_time" mtime="1382954551" type="int" value="1382954551"/>
+	<entry name="launch_time" mtime="1384761561" type="int" value="1384761561"/>
 </gconf>

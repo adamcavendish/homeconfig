@@ -1,0 +1,34 @@
+Sat Nov 16 18:37:48 2013: Bound to [::]:6881
+Sat Nov 16 18:37:48 2013: Cannot bind to port 0.0.0.0:6881 : Address already in use
+Sat Nov 16 18:37:48 2013: Bound to TCP port 6881
+Sat Nov 16 18:37:49 2013: Cannot open /files/Nutstore/LinuxSync/important_configs/.kde/share/apps/ktorrent/groups : No such file or directory
+Sat Nov 16 18:37:58 2013: Loading script /usr/share/kde4/apps/ktorrent/scripts/auto_remove/auto_remove.py
+Sat Nov 16 18:37:58 2013: Adding script from /usr/share/kde4/apps/ktorrent/scripts/auto_remove/auto_remove.py
+Sat Nov 16 18:37:58 2013: Loading script /usr/share/kde4/apps/ktorrent/scripts/auto_resume/auto_resume.py
+Sat Nov 16 18:37:58 2013: Adding script from /usr/share/kde4/apps/ktorrent/scripts/auto_resume/auto_resume.py
+Sat Nov 16 18:37:58 2013: Loading script /usr/share/kde4/apps/ktorrent/scripts/email_notifications/email_notifications.py
+Sat Nov 16 18:37:58 2013: Adding script from /usr/share/kde4/apps/ktorrent/scripts/email_notifications/email_notifications.py
+Sat Nov 16 18:37:58 2013: Loading script /usr/share/kde4/apps/ktorrent/scripts/tracker_groups/tracker_groups.py
+Sat Nov 16 18:37:58 2013: Adding script from /usr/share/kde4/apps/ktorrent/scripts/tracker_groups/tracker_groups.py
+Sat Nov 16 18:37:58 2013: Supported interpreters : 
+Sat Nov 16 18:37:58 2013: javascript
+Sat Nov 16 18:37:58 2013: qtscript
+Sat Nov 16 18:38:02 2013: Loading home page from /usr/share/kde4/apps/ktorrent/search/home/home.html
+Sat Nov 16 18:38:02 2013: Started update timer
+Sat Nov 16 18:38:02 2013: Suppressing sleep
+Sat Nov 16 18:38:03 2013: Stopped update timer
+Sat Nov 16 18:38:03 2013: Stopped suppressing sleep
+Sat Nov 16 18:43:14 2013: Network is down
+Sat Nov 16 18:45:14 2013: Qt Debug: ktorrent(1742) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sat Nov 16 18:45:14 2013: Qt Debug: ktorrent(1742) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sat Nov 16 18:45:14 2013: Qt Debug: ktorrent(1742) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sat Nov 16 18:45:14 2013: Qt Debug: ktorrent(1742) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sat Nov 16 18:45:14 2013: Qt Debug: ktorrent(1742) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sat Nov 16 18:45:14 2013: Qt Debug: ktorrent(1742) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sat Nov 16 18:45:14 2013: Qt Debug: ktorrent(1742) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sat Nov 16 18:45:14 2013: Qt Debug: ktorrent(1742) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sat Nov 16 18:45:14 2013: Qt Debug: ktorrent(1742) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sat Nov 16 18:45:14 2013: Qt Debug: ktorrent(1742) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sat Nov 16 18:45:14 2013: Qt Debug: ktorrent(1742) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sat Nov 16 18:45:14 2013: Qt Debug: ktorrent(1742) KWidgetItemDelegateEventListener::eventFilter: User of KWidgetItemDelegate should not delete widgets created by createItemWidgets! 
+Sat Nov 16 18:45:16 2013: Qt Debug: ktorrent(1742)/kdeui (kdelibs) KXMLGUIClient::~KXMLGUIClient: 0x2256de0 deleted without having been removed from the factory first. This will leak standalone popupmenus and could lead to crashes. 

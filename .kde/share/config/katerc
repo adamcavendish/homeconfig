@@ -3,11 +3,11 @@ update_info=kate-2.4.upd:kate2.4
 
 [Document 0]
 Bookmarks=
-Encoding=GB18030
-Highlighting=Asm6502
-Indentation Mode=normal
-Mode=Asm6502
-URL=file:///files/Nutstore/School/University/D單片機/AD/AD.asm
+Encoding=UTF-8
+Highlighting=C++
+Indentation Mode=cstyle
+Mode=C++
+URL=file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/058/huffman.cpp
 
 [General]
 Days Meta Infos=30
@@ -118,6 +118,10 @@ Word Completion=true
 Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAArwAAAGtAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+ToolBarsMovable=Disabled
+
 [MainWindow0]
 Characters Count Visible=false
 Cursor Position Visible=true
@@ -156,9 +160,27 @@ WindowState=8
 Sizes=672
 
 [MainWindow0-ViewSpace 0]
-Active View=file:///files/Nutstore/School/University/D單片機/AD/AD.asm
+Active View=file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/058/huffman.cpp
 Count=1
-View 0=file:///files/Nutstore/School/University/D單片機/AD/AD.asm
+View 0=file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/058/huffman.cpp
+
+[MainWindow0-ViewSpace 0 file:///etc/group]
+CursorColumn=0
+CursorLine=64
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///etc/passwd]
+CursorColumn=0
+CursorLine=35
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/055/055MatrixMul.c]
+CursorColumn=0
+CursorLine=167
+JumpList=
+ViMarks=
 
 [MainWindow0-ViewSpace 0 file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/056/056LongestCommonString.c]
 CursorColumn=0
@@ -169,6 +191,12 @@ ViMarks=
 [MainWindow0-ViewSpace 0 file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/058/huffman.cpp]
 CursorColumn=0
 CursorLine=153
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/20130924BoardCoverProblem.cpp]
+CursorColumn=35
+CursorLine=114
 JumpList=
 ViMarks=
 
@@ -205,12 +233,20 @@ SearchDiskFiless=
 UseRegExp=false
 
 [Recent Files]
-File1[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/056/056LongestCommonString.c
-File2[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/058/huffman.cpp
-File3[$e]=/files/Nutstore/School/University/D單片機/AD/AD.asm
-Name1[$e]=056LongestCommonString.c
-Name2[$e]=huffman.cpp
-Name3[$e]=AD.asm
+File1[$e]=/files/Nutstore/School/University/D單片機/AD/AD.asm
+File2[$e]=/etc/passwd
+File3[$e]=/etc/group
+File4[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/20130924BoardCoverProblem.cpp
+File5[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/055/055MatrixMul.c
+File6[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/056/056LongestCommonString.c
+File7[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/058/huffman.cpp
+Name1[$e]=AD.asm
+Name2[$e]=passwd
+Name3[$e]=group
+Name4[$e]=20130924BoardCoverProblem.cpp
+Name5[$e]=055MatrixMul.c
+Name6[$e]=056LongestCommonString.c
+Name7[$e]=huffman.cpp
 
 [filetree]
 editShade=210,181,216

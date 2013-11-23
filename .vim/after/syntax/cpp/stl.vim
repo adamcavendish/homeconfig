@@ -531,6 +531,7 @@ syntax keyword cppSTLtype gslice_array
 syntax keyword cppSTLtype ifstream
 syntax keyword cppSTLtype imaxdiv_t
 syntax keyword cppSTLtype indirect_array
+syntax keyword cppSTLtype initializer_list
 syntax keyword cppSTLtype int_type
 syntax keyword cppSTLtype istringstream
 syntax keyword cppSTLtype iterator_traits

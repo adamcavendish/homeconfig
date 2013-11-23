@@ -6,7 +6,7 @@
 	<entry name="lookup_table_orientation" mtime="1376697363" type="int" value="0"/>
 	<entry name="show_im_name" mtime="1376696989" type="bool" value="true"/>
 	<entry name="use_custom_font" mtime="1376696972" type="bool" value="true"/>
-	<entry name="custom_font" mtime="1381308357" type="string">
+	<entry name="custom_font" mtime="1384617241" type="string">
 		<stringvalue>Sans 14</stringvalue>
 	</entry>
 </gconf>

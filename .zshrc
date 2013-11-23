@@ -44,7 +44,7 @@ COMPLETION_WAITING_DOTS="true"
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git)
+plugins=(git svn)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -64,13 +64,10 @@ export LIBRARY_PATH="/opt/Qt5.1.1/5.1.1/gcc_64/lib:$LIBRARY_PATH"
 export JAVA_HOME="/usr/bin/"
 
 # Keyboard Input
-# export GTK_IM_MODULE=ibus
-# export XMODIFIERS="@im=ibus"
-# export QT_IM_MODULE=ibus
-# export XMODIFIERS="@im=ibus"
-# export GTK_IM_MODULE=ibus
-# export QT4_IM_MODULE=ibus
-# export QT_IM_MODULE=ibus
+export XMODIFIERS="@im=ibus"
+export GTK_IM_MODULE=ibus
+export QT4_IM_MODULE=ibus
+export QT_IM_MODULE=ibus
 
 # Alias
 alias sl='ls'
@@ -182,20 +179,17 @@ elif [ `hostname` = "adam-ThinkPad-E425" ]; then
 	export CPLUS_INCLUDE_PATH="/opt/Qt5.1/5.1.0/gcc_64/include/:$CPLUS_INCLUDE_PATH"
 	export LD_LIBRARY_PATH="/opt/Qt5.1/5.1.0/gcc_64/lib:$LD_LIBRARY_PATH"
 	export LIBRARY_PATH="/opt/Qt5.1/5.1.0/gcc_64/lib:$LIBRARY_PATH"
+
+	# OpenSceneGraph
+	export LD_LIBRARY_PATH="/usr/local/lib64:$LD_LIBRARY_PATH"
+
+	# CMake Library Search PATH
+	export CPLUS_INCLUDE_PATH="/files/Install/OpenGL3rdParty/gl3w/include/:$CPLUS_INCLUDE_PATH"
+	export C_INCLUDE_PATH="/files/Install/OpenGL3rdParty/gl3w/include/:$C_INCLUDE_PATH"
+elif [ `hostname` = "adam-TerransForce" ]; then
+	echo "\e[0;1;49;39mHello adam-TerransForce\e[0m"
+
 else
 	echo "\e[0;1;49;39mWho are You?\e[0m"
 fi
-
-# sphinxbase
-export PATH="/temp/sphinxbase/bin/:$PATH"
-export C_INCLUDE_PATH="/temp/sphinxbase/include/:$C_INCLUDE_PATH"
-export CPLUS_INCLUDE_PATH="/temp/sphinxbase/include/:$CPLUS_INCLUDE_PATH"
-export LD_LIBRARY_PATH="/temp/sphinxbase/lib/:$LD_LIBRARY_PATH"
-export LIBRARY_PATH="/temp/sphinxbase/lib/:$LIBRARY_PATH"
-# sphinxtrain
-export PATH="/temp/sphinxtrain/bin/:/temp/sphinxtrain/libexec/sphinxtrain/:$PATH"
-export C_INCLUDE_PATH="/temp/sphinxtrain/include/:$C_INCLUDE_PATH"
-export CPLUS_INCLUDE_PATH="/temp/sphinxtrain/include/:$CPLUS_INCLUDE_PATH"
-export LD_LIBRARY_PATH="/temp/sphinxtrain/lib/:$LD_LIBRARY_PATH"
-export LIBRARY_PATH="/temp/sphinxtrain/lib/:$LIBRARY_PATH"
 

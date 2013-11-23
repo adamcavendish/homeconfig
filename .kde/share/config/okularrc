@@ -3,22 +3,26 @@ FullScreen=false
 
 [MainWindow]
 Height 768=769
-State=AAAA/wAAAAD9AAAAAAAABVYAAALNAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1366=1367
 
 [Recent Files]
-File1[$e]=$HOME/Desktop/ROS_by_example_groovy___volume_1.pdf
-File2[$e]=$HOME/Desktop/BB/Boost/[Packt Publishing] Boost.Asio C++ Network Programming.pdf
-File3[$e]=$HOME/Downloads/Numerical Recipes 3rd-Edition.pdf
-File4[$e]=$HOME/Desktop/BB/OpenGL/The Official Guide to Learning OpenGL, Version 4.3.pdf
-File5[$e]=/files/Nutstore/School/University/S算法設計與分析/计算机算法设计与分析(第3版)课后答案.pdf
-File6[$e]=/files/Nutstore/School/University/D單片機/AD/数据手册_HR7P90H_90J_91H_91J_92H_92J_Datasheet_C V1.2.pdf
-File7[$e]=$HOME/Downloads/O'Reilly - Real World Haskell.pdf
-Name1[$e]=ROS_by_example_groovy___volume_1.pdf
-Name2[$e]=[Packt Publishing] Boost.Asio C++ Network Programming.pdf
-Name3[$e]=Numerical Recipes 3rd-Edition.pdf
-Name4[$e]=The Official Guide to Learning OpenGL, Version 4.3.pdf
-Name5[$e]=计算机算法设计与分析(第3版)课后答案.pdf
-Name6[$e]=数据手册_HR7P90H_90J_91H_91J_92H_92J_Datasheet_C V1.2.pdf
-Name7[$e]=O'Reilly - Real World Haskell.pdf
+File1[$e]=$HOME/Downloads/Numerical Recipes 3rd-Edition.pdf
+File2[$e]=$HOME/Desktop/BB/OpenGL/The Official Guide to Learning OpenGL, Version 4.3.pdf
+File3[$e]=/files/Nutstore/School/University/S算法設計與分析/计算机算法设计与分析(第3版)课后答案.pdf
+File4[$e]=/files/Nutstore/School/University/D單片機/AD/数据手册_HR7P90H_90J_91H_91J_92H_92J_Datasheet_C V1.2.pdf
+File5[$e]=$HOME/Desktop/BB/OpenGL/Beginning+OpenGL+Game+Programming+Source+Code/[OpenGL游戏编程].(Beginning.OpenGL.Game.Programming).(美)Dave.Astle.扫描版.pdf
+File6[$e]=$HOME/Downloads/OpenSceneGraph 3.0 Beginner's Guide.pdf
+File7[$e]=/files/Nutstore/School/University/LLinux內核/Linux_内核设计艺术_第四章.pdf
+File8[$e]=$HOME/Downloads/9789400713659-c2.pdf
+File9[$e]=$HOME/Desktop/BB/OCaml/introduction_to_ocaml.pdf
+Name1[$e]=Numerical Recipes 3rd-Edition.pdf
+Name2[$e]=The Official Guide to Learning OpenGL, Version 4.3.pdf
+Name3[$e]=计算机算法设计与分析(第3版)课后答案.pdf
+Name4[$e]=数据手册_HR7P90H_90J_91H_91J_92H_92J_Datasheet_C V1.2.pdf
+Name5[$e]=[OpenGL游戏编程].(Beginning.OpenGL.Game.Programming).(美)Dave.Astle.扫描版.pdf
+Name6[$e]=OpenSceneGraph 3.0 Beginner's Guide.pdf
+Name7[$e]=Linux_内核设计艺术_第四章.pdf
+Name8[$e]=9789400713659-c2.pdf
+Name9[$e]=introduction_to_ocaml.pdf

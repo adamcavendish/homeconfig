@@ -21,13 +21,6 @@
         "histogram": null
     },
     {
-        "ratings_total": 27,
-        "ratings_average": "4.48",
-        "app_name": "",
-        "package_name": "mysql-server",
-        "histogram": "[0, 0, 4, 6, 17]"
-    },
-    {
         "ratings_total": 2,
         "ratings_average": "2.50",
         "app_name": "",
@@ -273,18 +266,18 @@
         "histogram": "[5, 1, 0, 0, 3]"
     },
     {
-        "ratings_total": 334,
-        "ratings_average": "3.86",
-        "app_name": "",
-        "package_name": "openshot",
-        "histogram": "[34, 37, 33, 68, 162]"
-    },
-    {
-        "ratings_total": 688,
+        "ratings_total": 689,
         "ratings_average": "3.45",
         "app_name": "",
         "package_name": "skype",
-        "histogram": "[89, 80, 142, 184, 193]"
+        "histogram": "[90, 80, 142, 184, 193]"
+    },
+    {
+        "ratings_total": 9,
+        "ratings_average": "1.67",
+        "app_name": "",
+        "package_name": "xboing",
+        "histogram": "[7, 0, 1, 0, 1]"
     },
     {
         "ratings_total": 3,
@@ -404,13 +397,6 @@
         "app_name": "",
         "package_name": "javamorph",
         "histogram": "[3, 2, 1, 0, 1]"
-    },
-    {
-        "ratings_total": 8,
-        "ratings_average": "1.25",
-        "app_name": "",
-        "package_name": "xboing",
-        "histogram": "[7, 0, 1, 0, 0]"
     },
     {
         "ratings_total": 12,
@@ -546,6 +532,13 @@
         "histogram": "[0, 0, 0, 1, 0]"
     },
     {
+        "ratings_total": 1,
+        "ratings_average": "4.00",
+        "app_name": "",
+        "package_name": "xjadeo",
+        "histogram": "[0, 0, 0, 1, 0]"
+    },
+    {
         "ratings_total": 2,
         "ratings_average": "4.00",
         "app_name": "",
@@ -631,6 +624,13 @@
     },
     {
         "ratings_total": 1,
+        "ratings_average": "4.00",
+        "app_name": "",
+        "package_name": "space-pig",
+        "histogram": "[0, 0, 0, 1, 0]"
+    },
+    {
+        "ratings_total": 1,
         "ratings_average": "5.00",
         "app_name": "",
         "package_name": "python-scrapy",
@@ -642,6 +642,13 @@
         "app_name": "",
         "package_name": "yelp",
         "histogram": "[3, 2, 3, 5, 6]"
+    },
+    {
+        "ratings_total": 1,
+        "ratings_average": "1.00",
+        "app_name": "",
+        "package_name": "mudrace",
+        "histogram": "[1, 0, 0, 0, 0]"
     },
     {
         "ratings_total": 1,
@@ -679,11 +686,18 @@
         "histogram": "[0, 0, 0, 0, 3]"
     },
     {
-        "ratings_total": 5,
-        "ratings_average": "2.60",
+        "ratings_total": 6,
+        "ratings_average": "2.67",
         "app_name": "",
         "package_name": "gnome-chess",
-        "histogram": "[2, 1, 0, 1, 1]"
+        "histogram": "[2, 1, 1, 1, 1]"
+    },
+    {
+        "ratings_total": 14,
+        "ratings_average": "2.93",
+        "app_name": "",
+        "package_name": "camera.app",
+        "histogram": "[4, 3, 0, 4, 3]"
     },
     {
         "ratings_total": 23,
@@ -726,6 +740,13 @@
         "app_name": "",
         "package_name": "tritium",
         "histogram": "[0, 1, 0, 0, 0]"
+    },
+    {
+        "ratings_total": 26,
+        "ratings_average": "4.08",
+        "app_name": "",
+        "package_name": "qtiplot",
+        "histogram": "[3, 1, 1, 7, 14]"
     },
     {
         "ratings_total": 1,
@@ -819,6 +840,13 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
+        "ratings_total": 24,
+        "ratings_average": "4.38",
+        "app_name": "",
+        "package_name": "dolphin",
+        "histogram": "[1, 0, 3, 5, 15]"
+    },
+    {
         "ratings_total": 3,
         "ratings_average": "5.00",
         "app_name": "",
@@ -908,13 +936,6 @@
         "app_name": "",
         "package_name": "penguintv",
         "histogram": "[2, 0, 1, 0, 1]"
-    },
-    {
-        "ratings_total": 23,
-        "ratings_average": "4.35",
-        "app_name": "",
-        "package_name": "dolphin",
-        "histogram": "[1, 0, 3, 5, 14]"
     },
     {
         "ratings_total": 1,
@@ -1148,13 +1169,6 @@
         "histogram": "[10, 1, 0, 0, 1]"
     },
     {
-        "ratings_total": 25,
-        "ratings_average": "4.04",
-        "app_name": "",
-        "package_name": "qtiplot",
-        "histogram": "[3, 1, 1, 7, 13]"
-    },
-    {
         "ratings_total": 30,
         "ratings_average": "4.30",
         "app_name": "",
@@ -1279,13 +1293,6 @@
         "app_name": "",
         "package_name": "dwww",
         "histogram": "[0, 0, 0, 1, 1]"
-    },
-    {
-        "ratings_total": 13,
-        "ratings_average": "3.08",
-        "app_name": "",
-        "package_name": "camera.app",
-        "histogram": "[3, 3, 0, 4, 3]"
     },
     {
         "ratings_total": 5,
@@ -1463,18 +1470,18 @@
         "histogram": "[1, 1, 3, 8, 69]"
     },
     {
+        "ratings_total": 54,
+        "ratings_average": "4.65",
+        "app_name": "",
+        "package_name": "klavaro",
+        "histogram": "[1, 1, 2, 8, 42]"
+    },
+    {
         "ratings_total": 6,
         "ratings_average": "4.17",
         "app_name": "",
         "package_name": "zip",
         "histogram": "[0, 1, 0, 2, 3]"
-    },
-    {
-        "ratings_total": 53,
-        "ratings_average": "4.64",
-        "app_name": "",
-        "package_name": "klavaro",
-        "histogram": "[1, 1, 2, 8, 41]"
     },
     {
         "ratings_total": 10,
@@ -1645,11 +1652,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 69,
-        "ratings_average": "3.28",
+        "ratings_total": 71,
+        "ratings_average": "3.25",
         "app_name": "",
         "package_name": "torcs",
-        "histogram": "[12, 10, 14, 13, 20]"
+        "histogram": "[13, 10, 14, 14, 20]"
     },
     {
         "ratings_total": 1,
@@ -2051,11 +2058,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 26,
-        "ratings_average": "4.27",
+        "ratings_total": 328,
+        "ratings_average": "4.76",
         "app_name": "",
-        "package_name": "qnapi",
-        "histogram": "[2, 2, 0, 5, 17]"
+        "package_name": "inkscape",
+        "histogram": "[3, 2, 10, 41, 272]"
     },
     {
         "ratings_total": 2,
@@ -2135,11 +2142,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 4,
-        "ratings_average": "3.75",
+        "ratings_total": 27,
+        "ratings_average": "4.30",
         "app_name": "",
-        "package_name": "okular-backend-odp",
-        "histogram": "[0, 1, 1, 0, 2]"
+        "package_name": "qnapi",
+        "histogram": "[2, 2, 0, 5, 18]"
     },
     {
         "ratings_total": 1,
@@ -2156,11 +2163,11 @@
         "histogram": "[0, 0, 0, 2, 5]"
     },
     {
-        "ratings_total": 326,
-        "ratings_average": "4.77",
+        "ratings_total": 65,
+        "ratings_average": "3.15",
         "app_name": "",
-        "package_name": "inkscape",
-        "histogram": "[2, 2, 10, 41, 271]"
+        "package_name": "flightgear",
+        "histogram": "[17, 8, 9, 10, 21]"
     },
     {
         "ratings_total": 1,
@@ -2226,11 +2233,11 @@
         "histogram": "[0, 0, 2, 2, 0]"
     },
     {
-        "ratings_total": 4,
+        "ratings_total": 5,
         "ratings_average": "4.00",
         "app_name": "",
-        "package_name": "ancientrome2",
-        "histogram": "[0, 0, 1, 2, 1]"
+        "package_name": "okular-backend-odp",
+        "histogram": "[0, 1, 1, 0, 3]"
     },
     {
         "ratings_total": 11,
@@ -2366,11 +2373,11 @@
         "histogram": "[0, 0, 1, 0, 2]"
     },
     {
-        "ratings_total": 64,
-        "ratings_average": "3.12",
+        "ratings_total": 14,
+        "ratings_average": "4.64",
         "app_name": "",
-        "package_name": "flightgear",
-        "histogram": "[17, 8, 9, 10, 20]"
+        "package_name": "extcalc",
+        "histogram": "[1, 0, 0, 1, 12]"
     },
     {
         "ratings_total": 2,
@@ -2413,6 +2420,13 @@
         "app_name": "",
         "package_name": "mpd",
         "histogram": "[0, 0, 0, 0, 2]"
+    },
+    {
+        "ratings_total": 28,
+        "ratings_average": "4.25",
+        "app_name": "",
+        "package_name": "recoll",
+        "histogram": "[2, 0, 2, 9, 15]"
     },
     {
         "ratings_total": 2,
@@ -2472,6 +2486,13 @@
     },
     {
         "ratings_total": 5,
+        "ratings_average": "4.20",
+        "app_name": "",
+        "package_name": "ancientrome2",
+        "histogram": "[0, 0, 1, 2, 2]"
+    },
+    {
+        "ratings_total": 5,
         "ratings_average": "4.80",
         "app_name": "",
         "package_name": "jamin",
@@ -2506,18 +2527,18 @@
         "histogram": "[0, 0, 0, 1, 3]"
     },
     {
+        "ratings_total": 1,
+        "ratings_average": "3.00",
+        "app_name": "",
+        "package_name": "anonymail2",
+        "histogram": "[0, 0, 1, 0, 0]"
+    },
+    {
         "ratings_total": 5,
         "ratings_average": "3.40",
         "app_name": "",
         "package_name": "connectagram",
         "histogram": "[0, 1, 2, 1, 1]"
-    },
-    {
-        "ratings_total": 27,
-        "ratings_average": "4.22",
-        "app_name": "",
-        "package_name": "recoll",
-        "histogram": "[2, 0, 2, 9, 14]"
     },
     {
         "ratings_total": 24,
@@ -2532,13 +2553,6 @@
         "app_name": "",
         "package_name": "pptview",
         "histogram": "[5, 0, 3, 4, 1]"
-    },
-    {
-        "ratings_total": 13,
-        "ratings_average": "4.62",
-        "app_name": "",
-        "package_name": "extcalc",
-        "histogram": "[1, 0, 0, 1, 11]"
     },
     {
         "ratings_total": 1,
@@ -2646,11 +2660,11 @@
         "histogram": "[0, 0, 1, 0, 6]"
     },
     {
-        "ratings_total": 44,
-        "ratings_average": "4.36",
+        "ratings_total": 17,
+        "ratings_average": "3.06",
         "app_name": "",
-        "package_name": "hydrogen",
-        "histogram": "[4, 0, 1, 10, 29]"
+        "package_name": "sandboxgamemaker",
+        "histogram": "[5, 2, 2, 3, 5]"
     },
     {
         "ratings_total": 1,
@@ -2756,6 +2770,13 @@
         "app_name": "",
         "package_name": "gtodo",
         "histogram": "[1, 3, 5, 7, 7]"
+    },
+    {
+        "ratings_total": 55,
+        "ratings_average": "4.78",
+        "app_name": "",
+        "package_name": "hugin",
+        "histogram": "[2, 0, 1, 2, 50]"
     },
     {
         "ratings_total": 1,
@@ -2945,13 +2966,6 @@
         "app_name": "",
         "package_name": "gnome-color-manager",
         "histogram": "[0, 0, 0, 2, 1]"
-    },
-    {
-        "ratings_total": 54,
-        "ratings_average": "4.85",
-        "app_name": "",
-        "package_name": "hugin",
-        "histogram": "[1, 0, 1, 2, 50]"
     },
     {
         "ratings_total": 12,
@@ -3157,13 +3171,6 @@
         "histogram": "[0, 1, 0, 0, 0]"
     },
     {
-        "ratings_total": 16,
-        "ratings_average": "3.06",
-        "app_name": "",
-        "package_name": "sandboxgamemaker",
-        "histogram": "[5, 2, 1, 3, 5]"
-    },
-    {
         "ratings_total": 6,
         "ratings_average": "4.50",
         "app_name": "",
@@ -3332,11 +3339,11 @@
         "histogram": "[0, 0, 0, 1, 0]"
     },
     {
-        "ratings_total": 5,
-        "ratings_average": "3.80",
+        "ratings_total": 30,
+        "ratings_average": "3.20",
         "app_name": "",
-        "package_name": "subsurface",
-        "histogram": "[1, 0, 1, 0, 3]"
+        "package_name": "mediatomb",
+        "histogram": "[7, 5, 1, 9, 8]"
     },
     {
         "ratings_total": 4,
@@ -3346,11 +3353,11 @@
         "histogram": "[1, 0, 1, 0, 2]"
     },
     {
-        "ratings_total": 105,
-        "ratings_average": "4.38",
+        "ratings_total": 71,
+        "ratings_average": "4.24",
         "app_name": "",
-        "package_name": "asunder",
-        "histogram": "[3, 4, 8, 25, 65]"
+        "package_name": "fbreader",
+        "histogram": "[4, 1, 10, 15, 41]"
     },
     {
         "ratings_total": 3,
@@ -3367,13 +3374,6 @@
         "histogram": "[0, 0, 1, 1, 9]"
     },
     {
-        "ratings_total": 29,
-        "ratings_average": "3.14",
-        "app_name": "",
-        "package_name": "mediatomb",
-        "histogram": "[7, 5, 1, 9, 7]"
-    },
-    {
         "ratings_total": 1,
         "ratings_average": "1.00",
         "app_name": "",
@@ -3388,11 +3388,11 @@
         "histogram": "[1, 1, 0, 1, 1]"
     },
     {
-        "ratings_total": 21,
-        "ratings_average": "4.24",
+        "ratings_total": 6,
+        "ratings_average": "4.00",
         "app_name": "",
-        "package_name": "simple-image-reducer",
-        "histogram": "[1, 1, 3, 3, 13]"
+        "package_name": "subsurface",
+        "histogram": "[1, 0, 1, 0, 4]"
     },
     {
         "ratings_total": 18,
@@ -3752,11 +3752,11 @@
         "histogram": "[16, 2, 2, 4, 6]"
     },
     {
-        "ratings_total": 8,
-        "ratings_average": "3.75",
+        "ratings_total": 22,
+        "ratings_average": "4.27",
         "app_name": "",
-        "package_name": "qtractor",
-        "histogram": "[1, 0, 1, 4, 2]"
+        "package_name": "simple-image-reducer",
+        "histogram": "[1, 1, 3, 3, 14]"
     },
     {
         "ratings_total": 3,
@@ -3787,11 +3787,11 @@
         "histogram": "[0, 0, 0, 1, 0]"
     },
     {
-        "ratings_total": 2,
-        "ratings_average": "4.00",
+        "ratings_total": 9,
+        "ratings_average": "3.78",
         "app_name": "",
-        "package_name": "clinica",
-        "histogram": "[0, 0, 0, 2, 0]"
+        "package_name": "qtractor",
+        "histogram": "[1, 0, 1, 5, 2]"
     },
     {
         "ratings_total": 3,
@@ -3885,6 +3885,13 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
+        "ratings_total": 106,
+        "ratings_average": "4.39",
+        "app_name": "",
+        "package_name": "asunder",
+        "histogram": "[3, 4, 8, 25, 66]"
+    },
+    {
         "ratings_total": 1,
         "ratings_average": "2.00",
         "app_name": "",
@@ -3893,17 +3900,17 @@
     },
     {
         "ratings_total": 3,
+        "ratings_average": "4.00",
+        "app_name": "",
+        "package_name": "clinica",
+        "histogram": "[0, 0, 0, 3, 0]"
+    },
+    {
+        "ratings_total": 3,
         "ratings_average": "3.00",
         "app_name": "",
         "package_name": "dvdrip-queue",
         "histogram": "[1, 0, 1, 0, 1]"
-    },
-    {
-        "ratings_total": 70,
-        "ratings_average": "4.23",
-        "app_name": "",
-        "package_name": "fbreader",
-        "histogram": "[4, 1, 10, 15, 40]"
     },
     {
         "ratings_total": 1,
@@ -3927,11 +3934,11 @@
         "histogram": "[1, 0, 0, 4, 15]"
     },
     {
-        "ratings_total": 25,
-        "ratings_average": "4.16",
+        "ratings_total": 37,
+        "ratings_average": "3.73",
         "app_name": "",
-        "package_name": "rygel",
-        "histogram": "[0, 1, 5, 8, 11]"
+        "package_name": "lastfm",
+        "histogram": "[7, 1, 2, 12, 15]"
     },
     {
         "ratings_total": 1,
@@ -4193,11 +4200,11 @@
         "histogram": "[1, 0, 0, 0, 3]"
     },
     {
-        "ratings_total": 36,
-        "ratings_average": "3.81",
+        "ratings_total": 399,
+        "ratings_average": "4.86",
         "app_name": "",
-        "package_name": "lastfm",
-        "histogram": "[6, 1, 2, 12, 15]"
+        "package_name": "geany",
+        "histogram": "[0, 0, 6, 45, 348]"
     },
     {
         "ratings_total": 6,
@@ -4228,13 +4235,6 @@
         "histogram": "[0, 0, 0, 1, 0]"
     },
     {
-        "ratings_total": 3,
-        "ratings_average": "4.33",
-        "app_name": "",
-        "package_name": "emelfm2",
-        "histogram": "[0, 0, 0, 2, 1]"
-    },
-    {
         "ratings_total": 4,
         "ratings_average": "4.25",
         "app_name": "",
@@ -4249,11 +4249,11 @@
         "histogram": "[0, 1, 0, 0, 0]"
     },
     {
-        "ratings_total": 397,
-        "ratings_average": "4.86",
+        "ratings_total": 4,
+        "ratings_average": "4.50",
         "app_name": "",
-        "package_name": "geany",
-        "histogram": "[0, 0, 6, 45, 346]"
+        "package_name": "emelfm2",
+        "histogram": "[0, 0, 0, 2, 2]"
     },
     {
         "ratings_total": 61,
@@ -4305,11 +4305,11 @@
         "histogram": "[0, 0, 0, 1, 0]"
     },
     {
-        "ratings_total": 3,
-        "ratings_average": "5.00",
+        "ratings_total": 26,
+        "ratings_average": "4.19",
         "app_name": "",
-        "package_name": "mencoder",
-        "histogram": "[0, 0, 0, 0, 3]"
+        "package_name": "rygel",
+        "histogram": "[0, 1, 5, 8, 12]"
     },
     {
         "ratings_total": 3,
@@ -4368,11 +4368,11 @@
         "histogram": "[1, 0, 0, 2, 5]"
     },
     {
-        "ratings_total": 14,
-        "ratings_average": "3.36",
+        "ratings_total": 4,
+        "ratings_average": "5.00",
         "app_name": "",
-        "package_name": "qwbfsmanager",
-        "histogram": "[3, 0, 5, 1, 5]"
+        "package_name": "mencoder",
+        "histogram": "[0, 0, 0, 0, 4]"
     },
     {
         "ratings_total": 10,
@@ -4928,11 +4928,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 30,
-        "ratings_average": "4.37",
+        "ratings_total": 11,
+        "ratings_average": "3.82",
         "app_name": "",
-        "package_name": "slimevolley",
-        "histogram": "[1, 1, 2, 8, 18]"
+        "package_name": "ike-qtgui",
+        "histogram": "[3, 0, 0, 1, 7]"
     },
     {
         "ratings_total": 1,
@@ -4961,6 +4961,13 @@
         "app_name": "",
         "package_name": "latex-make",
         "histogram": "[0, 0, 0, 1, 0]"
+    },
+    {
+        "ratings_total": 31,
+        "ratings_average": "4.39",
+        "app_name": "",
+        "package_name": "slimevolley",
+        "histogram": "[1, 1, 2, 8, 19]"
     },
     {
         "ratings_total": 1,
@@ -5152,13 +5159,6 @@
         "histogram": "[2, 2, 1, 0, 0]"
     },
     {
-        "ratings_total": 10,
-        "ratings_average": "4.10",
-        "app_name": "",
-        "package_name": "ike-qtgui",
-        "histogram": "[2, 0, 0, 1, 7]"
-    },
-    {
         "ratings_total": 3,
         "ratings_average": "1.00",
         "app_name": "",
@@ -5229,11 +5229,11 @@
         "histogram": "[0, 0, 0, 1, 3]"
     },
     {
-        "ratings_total": 3,
-        "ratings_average": "4.67",
+        "ratings_total": 5,
+        "ratings_average": "4.00",
         "app_name": "",
         "package_name": "webbrowser-app",
-        "histogram": "[0, 0, 0, 1, 2]"
+        "histogram": "[1, 0, 0, 1, 3]"
     },
     {
         "ratings_total": 3,
@@ -5516,6 +5516,13 @@
         "histogram": "[0, 0, 0, 0, 3]"
     },
     {
+        "ratings_total": 17,
+        "ratings_average": "3.06",
+        "app_name": "",
+        "package_name": "drumstick-tools",
+        "histogram": "[5, 2, 2, 3, 5]"
+    },
+    {
         "ratings_total": 3,
         "ratings_average": "5.00",
         "app_name": "",
@@ -5523,18 +5530,18 @@
         "histogram": "[0, 0, 0, 0, 3]"
     },
     {
+        "ratings_total": 465,
+        "ratings_average": "4.76",
+        "app_name": "",
+        "package_name": "p7zip-full",
+        "histogram": "[11, 2, 9, 45, 398]"
+    },
+    {
         "ratings_total": 14,
         "ratings_average": "4.79",
         "app_name": "",
         "package_name": "nemiver",
         "histogram": "[0, 0, 0, 3, 11]"
-    },
-    {
-        "ratings_total": 16,
-        "ratings_average": "3.19",
-        "app_name": "",
-        "package_name": "drumstick-tools",
-        "histogram": "[4, 2, 2, 3, 5]"
     },
     {
         "ratings_total": 1,
@@ -5852,13 +5859,6 @@
         "histogram": "[1, 0, 0, 2, 8]"
     },
     {
-        "ratings_total": 463,
-        "ratings_average": "4.76",
-        "app_name": "",
-        "package_name": "p7zip-full",
-        "histogram": "[11, 2, 9, 45, 396]"
-    },
-    {
         "ratings_total": 6,
         "ratings_average": "4.17",
         "app_name": "",
@@ -5964,11 +5964,11 @@
         "histogram": "[0, 0, 0, 1, 0]"
     },
     {
-        "ratings_total": 8,
-        "ratings_average": "4.25",
+        "ratings_total": 66,
+        "ratings_average": "4.44",
         "app_name": "",
-        "package_name": "gnome-split",
-        "histogram": "[1, 0, 1, 0, 6]"
+        "package_name": "gm-notify",
+        "histogram": "[1, 3, 4, 16, 42]"
     },
     {
         "ratings_total": 20,
@@ -6004,6 +6004,13 @@
         "app_name": "",
         "package_name": "gmbox",
         "histogram": "[3, 2, 0, 2, 0]"
+    },
+    {
+        "ratings_total": 9,
+        "ratings_average": "4.33",
+        "app_name": "",
+        "package_name": "gnome-split",
+        "histogram": "[1, 0, 1, 0, 7]"
     },
     {
         "ratings_total": 2,
@@ -6144,13 +6151,6 @@
         "app_name": "",
         "package_name": "ri-li",
         "histogram": "[0, 0, 1, 5, 6]"
-    },
-    {
-        "ratings_total": 65,
-        "ratings_average": "4.43",
-        "app_name": "",
-        "package_name": "gm-notify",
-        "histogram": "[1, 3, 4, 16, 41]"
     },
     {
         "ratings_total": 5,
@@ -6398,11 +6398,11 @@
         "histogram": "[14, 2, 3, 2, 5]"
     },
     {
-        "ratings_total": 9,
-        "ratings_average": "3.56",
+        "ratings_total": 1,
+        "ratings_average": "5.00",
         "app_name": "",
-        "package_name": "openvpn",
-        "histogram": "[3, 0, 0, 1, 5]"
+        "package_name": "jemboss",
+        "histogram": "[0, 0, 0, 0, 1]"
     },
     {
         "ratings_total": 12,
@@ -6424,6 +6424,13 @@
         "app_name": "",
         "package_name": "poppler-utils",
         "histogram": "[0, 0, 0, 0, 1]"
+    },
+    {
+        "ratings_total": 10,
+        "ratings_average": "3.70",
+        "app_name": "",
+        "package_name": "openvpn",
+        "histogram": "[3, 0, 0, 1, 6]"
     },
     {
         "ratings_total": 1,
@@ -6529,13 +6536,6 @@
         "app_name": "",
         "package_name": "scilab-cli",
         "histogram": "[0, 0, 0, 1, 0]"
-    },
-    {
-        "ratings_total": 84,
-        "ratings_average": "4.02",
-        "app_name": "",
-        "package_name": "amule",
-        "histogram": "[3, 6, 11, 30, 34]"
     },
     {
         "ratings_total": 2,
@@ -6846,6 +6846,13 @@
         "histogram": "[0, 1, 2, 0, 1]"
     },
     {
+        "ratings_total": 43,
+        "ratings_average": "3.84",
+        "app_name": "",
+        "package_name": "flareget",
+        "histogram": "[6, 2, 7, 6, 22]"
+    },
+    {
         "ratings_total": 9,
         "ratings_average": "5.00",
         "app_name": "",
@@ -6900,6 +6907,13 @@
         "app_name": "",
         "package_name": "libsensors3",
         "histogram": "[0, 0, 0, 0, 1]"
+    },
+    {
+        "ratings_total": 24,
+        "ratings_average": "3.67",
+        "app_name": "",
+        "package_name": "qjackctl",
+        "histogram": "[4, 2, 2, 6, 10]"
     },
     {
         "ratings_total": 1,
@@ -6972,11 +6986,11 @@
         "histogram": "[0, 0, 1, 1, 0]"
     },
     {
-        "ratings_total": 23,
-        "ratings_average": "3.61",
+        "ratings_total": 85,
+        "ratings_average": "4.04",
         "app_name": "",
-        "package_name": "qjackctl",
-        "histogram": "[4, 2, 2, 6, 9]"
+        "package_name": "amule",
+        "histogram": "[3, 6, 11, 30, 35]"
     },
     {
         "ratings_total": 1,
@@ -7026,13 +7040,6 @@
         "app_name": "",
         "package_name": "ubuntu-wallpapers",
         "histogram": "[0, 0, 1, 0, 0]"
-    },
-    {
-        "ratings_total": 42,
-        "ratings_average": "3.83",
-        "app_name": "",
-        "package_name": "flareget",
-        "histogram": "[6, 2, 7, 5, 22]"
     },
     {
         "ratings_total": 20,
@@ -7294,11 +7301,11 @@
         "histogram": "[0, 0, 0, 0, 4]"
     },
     {
-        "ratings_total": 7,
-        "ratings_average": "3.14",
+        "ratings_total": 8,
+        "ratings_average": "2.88",
         "app_name": "",
         "package_name": "trackballs",
-        "histogram": "[1, 0, 4, 1, 1]"
+        "histogram": "[2, 0, 4, 1, 1]"
     },
     {
         "ratings_total": 7,
@@ -7378,13 +7385,6 @@
         "histogram": "[2, 1, 0, 0, 0]"
     },
     {
-        "ratings_total": 21,
-        "ratings_average": "2.71",
-        "app_name": "",
-        "package_name": "gphpedit",
-        "histogram": "[5, 6, 3, 4, 3]"
-    },
-    {
         "ratings_total": 4,
         "ratings_average": "3.00",
         "app_name": "",
@@ -7397,13 +7397,6 @@
         "app_name": "",
         "package_name": "cqrlog",
         "histogram": "[1, 0, 0, 0, 1]"
-    },
-    {
-        "ratings_total": 1231,
-        "ratings_average": "4.49",
-        "app_name": "",
-        "package_name": "chromium-browser",
-        "histogram": "[47, 38, 66, 192, 888]"
     },
     {
         "ratings_total": 8,
@@ -7516,6 +7509,13 @@
         "app_name": "",
         "package_name": "fonts-larabie-uncommon",
         "histogram": "[0, 0, 0, 0, 1]"
+    },
+    {
+        "ratings_total": 22,
+        "ratings_average": "2.82",
+        "app_name": "",
+        "package_name": "gphpedit",
+        "histogram": "[5, 6, 3, 4, 4]"
     },
     {
         "ratings_total": 1,
@@ -7819,13 +7819,6 @@
         "histogram": "[0, 0, 1, 0, 1]"
     },
     {
-        "ratings_total": 23,
-        "ratings_average": "3.57",
-        "app_name": "",
-        "package_name": "ibus",
-        "histogram": "[3, 2, 5, 5, 8]"
-    },
-    {
         "ratings_total": 5,
         "ratings_average": "1.40",
         "app_name": "",
@@ -7859,6 +7852,13 @@
         "app_name": "",
         "package_name": "rtorrent",
         "histogram": "[0, 0, 0, 1, 2]"
+    },
+    {
+        "ratings_total": 28,
+        "ratings_average": "3.79",
+        "app_name": "",
+        "package_name": "korganizer",
+        "histogram": "[3, 3, 3, 7, 12]"
     },
     {
         "ratings_total": 1,
@@ -7901,13 +7901,6 @@
         "app_name": "",
         "package_name": "b43-fwcutter",
         "histogram": "[0, 1, 0, 0, 7]"
-    },
-    {
-        "ratings_total": 27,
-        "ratings_average": "3.44",
-        "app_name": "",
-        "package_name": "freecad",
-        "histogram": "[4, 2, 5, 10, 6]"
     },
     {
         "ratings_total": 4,
@@ -7980,6 +7973,13 @@
         "histogram": "[2, 3, 0, 5, 9]"
     },
     {
+        "ratings_total": 48,
+        "ratings_average": "4.19",
+        "app_name": "",
+        "package_name": "ogmrip",
+        "histogram": "[4, 3, 4, 6, 31]"
+    },
+    {
         "ratings_total": 1,
         "ratings_average": "1.00",
         "app_name": "",
@@ -8008,11 +8008,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 37,
-        "ratings_average": "3.51",
+        "ratings_total": 28,
+        "ratings_average": "3.36",
         "app_name": "",
-        "package_name": "espeak-gui",
-        "histogram": "[4, 7, 5, 8, 13]"
+        "package_name": "freecad",
+        "histogram": "[5, 2, 5, 10, 6]"
     },
     {
         "ratings_total": 35,
@@ -8050,11 +8050,11 @@
         "histogram": "[0, 0, 1, 0, 1]"
     },
     {
-        "ratings_total": 47,
-        "ratings_average": "4.17",
+        "ratings_total": 7,
+        "ratings_average": "3.86",
         "app_name": "",
-        "package_name": "ogmrip",
-        "histogram": "[4, 3, 4, 6, 30]"
+        "package_name": "bitcoin-qt",
+        "histogram": "[2, 0, 0, 0, 5]"
     },
     {
         "ratings_total": 13,
@@ -8295,11 +8295,11 @@
         "histogram": "[0, 1, 0, 0, 1]"
     },
     {
-        "ratings_total": 27,
-        "ratings_average": "3.74",
+        "ratings_total": 38,
+        "ratings_average": "3.53",
         "app_name": "",
-        "package_name": "korganizer",
-        "histogram": "[3, 3, 3, 7, 11]"
+        "package_name": "espeak-gui",
+        "histogram": "[4, 7, 5, 9, 13]"
     },
     {
         "ratings_total": 7,
@@ -8428,11 +8428,11 @@
         "histogram": "[2, 1, 0, 0, 0]"
     },
     {
-        "ratings_total": 11,
-        "ratings_average": "2.00",
+        "ratings_total": 25,
+        "ratings_average": "3.56",
         "app_name": "",
-        "package_name": "promoe",
-        "histogram": "[6, 2, 1, 1, 1]"
+        "package_name": "ibus",
+        "histogram": "[3, 3, 5, 5, 9]"
     },
     {
         "ratings_total": 2,
@@ -8449,11 +8449,11 @@
         "histogram": "[0, 1, 2, 3, 21]"
     },
     {
-        "ratings_total": 6,
-        "ratings_average": "3.67",
+        "ratings_total": 12,
+        "ratings_average": "1.92",
         "app_name": "",
-        "package_name": "bitcoin-qt",
-        "histogram": "[2, 0, 0, 0, 4]"
+        "package_name": "promoe",
+        "histogram": "[7, 2, 1, 1, 1]"
     },
     {
         "ratings_total": 11,
@@ -8470,11 +8470,11 @@
         "histogram": "[0, 0, 1, 1, 0]"
     },
     {
-        "ratings_total": 19,
-        "ratings_average": "4.58",
+        "ratings_total": 20,
+        "ratings_average": "4.60",
         "app_name": "",
         "package_name": "kanatest",
-        "histogram": "[0, 1, 0, 5, 13]"
+        "histogram": "[0, 1, 0, 5, 14]"
     },
     {
         "ratings_total": 1,
@@ -8547,11 +8547,11 @@
         "histogram": "[0, 0, 0, 0, 3]"
     },
     {
-        "ratings_total": 15,
-        "ratings_average": "4.33",
+        "ratings_total": 2,
+        "ratings_average": "3.00",
         "app_name": "",
-        "package_name": "linuxdcpp",
-        "histogram": "[0, 0, 3, 4, 8]"
+        "package_name": "bash-completion",
+        "histogram": "[1, 0, 0, 0, 1]"
     },
     {
         "ratings_total": 1,
@@ -8596,11 +8596,11 @@
         "histogram": "[0, 0, 0, 2, 0]"
     },
     {
-        "ratings_total": 1,
-        "ratings_average": "5.00",
+        "ratings_total": 3,
+        "ratings_average": "1.00",
         "app_name": "",
-        "package_name": "bash-completion",
-        "histogram": "[0, 0, 0, 0, 1]"
+        "package_name": "libmono-wcf3.0-cil",
+        "histogram": "[3, 0, 0, 0, 0]"
     },
     {
         "ratings_total": 3,
@@ -8834,6 +8834,13 @@
         "histogram": "[0, 0, 0, 3, 6]"
     },
     {
+        "ratings_total": 16,
+        "ratings_average": "4.38",
+        "app_name": "",
+        "package_name": "linuxdcpp",
+        "histogram": "[0, 0, 3, 4, 9]"
+    },
+    {
         "ratings_total": 8,
         "ratings_average": "4.12",
         "app_name": "",
@@ -9058,13 +9065,6 @@
         "histogram": "[2, 2, 10, 17, 46]"
     },
     {
-        "ratings_total": 2,
-        "ratings_average": "1.00",
-        "app_name": "",
-        "package_name": "libmono-wcf3.0-cil",
-        "histogram": "[2, 0, 0, 0, 0]"
-    },
-    {
         "ratings_total": 20,
         "ratings_average": "2.80",
         "app_name": "",
@@ -9100,11 +9100,11 @@
         "histogram": "[2, 0, 0, 0, 2]"
     },
     {
-        "ratings_total": 11,
-        "ratings_average": "4.73",
+        "ratings_total": 12,
+        "ratings_average": "4.75",
         "app_name": "",
         "package_name": "xaos",
-        "histogram": "[0, 0, 0, 3, 8]"
+        "histogram": "[0, 0, 0, 3, 9]"
     },
     {
         "ratings_total": 3,
@@ -9688,6 +9688,13 @@
         "histogram": "[4, 0, 1, 0, 0]"
     },
     {
+        "ratings_total": 18,
+        "ratings_average": "4.00",
+        "app_name": "",
+        "package_name": "clamav",
+        "histogram": "[1, 1, 3, 5, 8]"
+    },
+    {
         "ratings_total": 8,
         "ratings_average": "4.25",
         "app_name": "",
@@ -9707,13 +9714,6 @@
         "app_name": "",
         "package_name": "qarecord",
         "histogram": "[3, 0, 0, 1, 2]"
-    },
-    {
-        "ratings_total": 2,
-        "ratings_average": "5.00",
-        "app_name": "",
-        "package_name": "pandoc",
-        "histogram": "[0, 0, 0, 0, 2]"
     },
     {
         "ratings_total": 13,
@@ -9742,13 +9742,6 @@
         "app_name": "",
         "package_name": "mtink",
         "histogram": "[12, 3, 1, 3, 2]"
-    },
-    {
-        "ratings_total": 17,
-        "ratings_average": "4.00",
-        "app_name": "",
-        "package_name": "clamav",
-        "histogram": "[1, 1, 3, 4, 8]"
     },
     {
         "ratings_total": 3,
@@ -9814,6 +9807,13 @@
         "histogram": "[0, 0, 1, 0, 1]"
     },
     {
+        "ratings_total": 43,
+        "ratings_average": "4.12",
+        "app_name": "",
+        "package_name": "gnomine",
+        "histogram": "[1, 2, 9, 10, 21]"
+    },
+    {
         "ratings_total": 1,
         "ratings_average": "5.00",
         "app_name": "",
@@ -9868,13 +9868,6 @@
         "app_name": "",
         "package_name": "urth",
         "histogram": "[0, 0, 0, 1, 0]"
-    },
-    {
-        "ratings_total": 42,
-        "ratings_average": "4.12",
-        "app_name": "",
-        "package_name": "gnomine",
-        "histogram": "[1, 2, 9, 9, 21]"
     },
     {
         "ratings_total": 3,
@@ -10052,6 +10045,13 @@
         "histogram": "[0, 0, 0, 0, 2]"
     },
     {
+        "ratings_total": 2,
+        "ratings_average": "5.00",
+        "app_name": "",
+        "package_name": "fonts-cantarell",
+        "histogram": "[0, 0, 0, 0, 2]"
+    },
+    {
         "ratings_total": 1,
         "ratings_average": "1.00",
         "app_name": "",
@@ -10164,11 +10164,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 2,
-        "ratings_average": "4.00",
+        "ratings_total": 95,
+        "ratings_average": "3.94",
         "app_name": "",
-        "package_name": "ttf-malayalam-fonts",
-        "histogram": "[0, 0, 0, 2, 0]"
+        "package_name": "kompozer",
+        "histogram": "[11, 5, 7, 28, 44]"
     },
     {
         "ratings_total": 5,
@@ -10178,11 +10178,11 @@
         "histogram": "[1, 0, 0, 0, 4]"
     },
     {
-        "ratings_total": 2,
-        "ratings_average": "5.00",
+        "ratings_total": 3,
+        "ratings_average": "4.00",
         "app_name": "",
-        "package_name": "celestia-glut",
-        "histogram": "[0, 0, 0, 0, 2]"
+        "package_name": "ttf-malayalam-fonts",
+        "histogram": "[0, 0, 0, 3, 0]"
     },
     {
         "ratings_total": 2,
@@ -10204,13 +10204,6 @@
         "app_name": "",
         "package_name": "warmux",
         "histogram": "[1, 1, 4, 8, 15]"
-    },
-    {
-        "ratings_total": 94,
-        "ratings_average": "3.97",
-        "app_name": "",
-        "package_name": "kompozer",
-        "histogram": "[10, 5, 7, 28, 44]"
     },
     {
         "ratings_total": 2,
@@ -10311,6 +10304,13 @@
         "histogram": "[23, 3, 3, 4, 2]"
     },
     {
+        "ratings_total": 3,
+        "ratings_average": "4.00",
+        "app_name": "",
+        "package_name": "celestia-glut",
+        "histogram": "[0, 1, 0, 0, 2]"
+    },
+    {
         "ratings_total": 5,
         "ratings_average": "4.00",
         "app_name": "",
@@ -10323,13 +10323,6 @@
         "app_name": "",
         "package_name": "wireshark",
         "histogram": "[2, 0, 3, 9, 56]"
-    },
-    {
-        "ratings_total": 1,
-        "ratings_average": "5.00",
-        "app_name": "",
-        "package_name": "fonts-cantarell",
-        "histogram": "[0, 0, 0, 0, 1]"
     },
     {
         "ratings_total": 17,
@@ -10435,6 +10428,13 @@
         "app_name": "",
         "package_name": "python-mutagen",
         "histogram": "[0, 0, 0, 0, 3]"
+    },
+    {
+        "ratings_total": 0,
+        "ratings_average": "0.00",
+        "app_name": "",
+        "package_name": "yersinia",
+        "histogram": "[0, 0, 0, 0, 0]"
     },
     {
         "ratings_total": 1,
@@ -10584,11 +10584,18 @@
         "histogram": "[0, 0, 1, 1, 1]"
     },
     {
-        "ratings_total": 14,
-        "ratings_average": "4.57",
+        "ratings_total": 1,
+        "ratings_average": "5.00",
         "app_name": "",
-        "package_name": "ibus-unikey",
-        "histogram": "[0, 0, 1, 4, 9]"
+        "package_name": "chuck",
+        "histogram": "[0, 0, 0, 0, 1]"
+    },
+    {
+        "ratings_total": 14,
+        "ratings_average": "3.29",
+        "app_name": "",
+        "package_name": "kmail",
+        "histogram": "[4, 1, 2, 1, 6]"
     },
     {
         "ratings_total": 2,
@@ -10738,11 +10745,11 @@
         "histogram": "[0, 0, 0, 0, 4]"
     },
     {
-        "ratings_total": 156,
+        "ratings_total": 158,
         "ratings_average": "4.17",
         "app_name": "",
         "package_name": "pinta",
-        "histogram": "[6, 11, 16, 41, 82]"
+        "histogram": "[6, 11, 16, 42, 83]"
     },
     {
         "ratings_total": 9,
@@ -10787,11 +10794,11 @@
         "histogram": "[4, 2, 2, 14, 19]"
     },
     {
-        "ratings_total": 13,
-        "ratings_average": "3.23",
+        "ratings_total": 16,
+        "ratings_average": "4.19",
         "app_name": "",
-        "package_name": "kmail",
-        "histogram": "[4, 1, 2, 0, 6]"
+        "package_name": "ibus-unikey",
+        "histogram": "[1, 1, 1, 4, 9]"
     },
     {
         "ratings_total": 19,
@@ -10897,13 +10904,6 @@
         "app_name": "",
         "package_name": "sbm",
         "histogram": "[1, 0, 0, 0, 0]"
-    },
-    {
-        "ratings_total": 1,
-        "ratings_average": "5.00",
-        "app_name": "",
-        "package_name": "yersinia",
-        "histogram": "[0, 0, 0, 0, 1]"
     },
     {
         "ratings_total": 4,
@@ -11060,13 +11060,6 @@
         "histogram": "[2, 0, 0, 2, 0]"
     },
     {
-        "ratings_total": 31,
-        "ratings_average": "3.97",
-        "app_name": "",
-        "package_name": "labyrinth",
-        "histogram": "[1, 3, 6, 7, 14]"
-    },
-    {
         "ratings_total": 4,
         "ratings_average": "1.25",
         "app_name": "",
@@ -11109,11 +11102,11 @@
         "histogram": "[0, 2, 2, 2, 3]"
     },
     {
-        "ratings_total": 2,
-        "ratings_average": "4.00",
+        "ratings_total": 42,
+        "ratings_average": "3.43",
         "app_name": "",
-        "package_name": "openstreetmap-client",
-        "histogram": "[0, 0, 0, 2, 0]"
+        "package_name": "arora",
+        "histogram": "[6, 2, 9, 18, 7]"
     },
     {
         "ratings_total": 10,
@@ -11130,11 +11123,11 @@
         "histogram": "[1, 0, 1, 1, 1]"
     },
     {
-        "ratings_total": 48,
-        "ratings_average": "2.71",
+        "ratings_total": 49,
+        "ratings_average": "2.69",
         "app_name": "",
         "package_name": "gpaint",
-        "histogram": "[8, 13, 16, 7, 4]"
+        "histogram": "[8, 14, 16, 7, 4]"
     },
     {
         "ratings_total": 1,
@@ -11284,11 +11277,11 @@
         "histogram": "[1, 0, 1, 1, 3]"
     },
     {
-        "ratings_total": 41,
-        "ratings_average": "1.63",
+        "ratings_total": 3,
+        "ratings_average": "4.00",
         "app_name": "",
-        "package_name": "balazar",
-        "histogram": "[30, 3, 2, 5, 1]"
+        "package_name": "openstreetmap-client",
+        "histogram": "[0, 0, 0, 3, 0]"
     },
     {
         "ratings_total": 2,
@@ -11361,11 +11354,11 @@
         "histogram": "[2, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 134,
-        "ratings_average": "3.63",
+        "ratings_total": 42,
+        "ratings_average": "1.62",
         "app_name": "",
-        "package_name": "kdenlive",
-        "histogram": "[24, 10, 14, 29, 57]"
+        "package_name": "balazar",
+        "histogram": "[31, 3, 2, 5, 1]"
     },
     {
         "ratings_total": 3,
@@ -11396,6 +11389,13 @@
         "histogram": "[5, 0, 2, 1, 6]"
     },
     {
+        "ratings_total": 32,
+        "ratings_average": "4.00",
+        "app_name": "",
+        "package_name": "labyrinth",
+        "histogram": "[1, 3, 6, 7, 15]"
+    },
+    {
         "ratings_total": 11,
         "ratings_average": "4.27",
         "app_name": "",
@@ -11403,11 +11403,11 @@
         "histogram": "[1, 0, 1, 2, 7]"
     },
     {
-        "ratings_total": 32,
-        "ratings_average": "4.00",
+        "ratings_total": 135,
+        "ratings_average": "3.64",
         "app_name": "",
-        "package_name": "imagination",
-        "histogram": "[2, 2, 3, 12, 13]"
+        "package_name": "kdenlive",
+        "histogram": "[24, 10, 14, 30, 57]"
     },
     {
         "ratings_total": 1,
@@ -11599,11 +11599,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 40,
-        "ratings_average": "3.45",
+        "ratings_total": 33,
+        "ratings_average": "3.97",
         "app_name": "",
-        "package_name": "arora",
-        "histogram": "[5, 2, 9, 18, 6]"
+        "package_name": "imagination",
+        "histogram": "[2, 2, 4, 12, 13]"
     },
     {
         "ratings_total": 1,
@@ -11669,11 +11669,11 @@
         "histogram": "[16, 18, 7, 3, 4]"
     },
     {
-        "ratings_total": 6,
-        "ratings_average": "4.50",
+        "ratings_total": 3,
+        "ratings_average": "3.67",
         "app_name": "",
-        "package_name": "ninja-ide",
-        "histogram": "[0, 1, 0, 0, 5]"
+        "package_name": "libavcodec-extra-53",
+        "histogram": "[1, 0, 0, 0, 2]"
     },
     {
         "ratings_total": 67,
@@ -11984,11 +11984,11 @@
         "histogram": "[0, 0, 0, 0, 2]"
     },
     {
-        "ratings_total": 58,
-        "ratings_average": "4.59",
+        "ratings_total": 7,
+        "ratings_average": "4.57",
         "app_name": "",
-        "package_name": "rawtherapee",
-        "histogram": "[2, 3, 0, 7, 46]"
+        "package_name": "ninja-ide",
+        "histogram": "[0, 1, 0, 0, 6]"
     },
     {
         "ratings_total": 2,
@@ -12024,13 +12024,6 @@
         "app_name": "",
         "package_name": "gwakeonlan",
         "histogram": "[0, 1, 0, 2, 8]"
-    },
-    {
-        "ratings_total": 2,
-        "ratings_average": "5.00",
-        "app_name": "",
-        "package_name": "libavcodec-extra-53",
-        "histogram": "[0, 0, 0, 0, 2]"
     },
     {
         "ratings_total": 2,
@@ -12229,6 +12222,13 @@
         "histogram": "[0, 0, 1, 0, 0]"
     },
     {
+        "ratings_total": 59,
+        "ratings_average": "4.59",
+        "app_name": "",
+        "package_name": "rawtherapee",
+        "histogram": "[2, 3, 0, 7, 47]"
+    },
+    {
         "ratings_total": 45,
         "ratings_average": "4.60",
         "app_name": "",
@@ -12341,6 +12341,13 @@
         "histogram": "[0, 0, 0, 0, 4]"
     },
     {
+        "ratings_total": 5,
+        "ratings_average": "3.40",
+        "app_name": "",
+        "package_name": "swell-foop",
+        "histogram": "[0, 0, 3, 2, 0]"
+    },
+    {
         "ratings_total": 31,
         "ratings_average": "3.77",
         "app_name": "",
@@ -12367,13 +12374,6 @@
         "app_name": "",
         "package_name": "vopite",
         "histogram": "[0, 0, 0, 1, 1]"
-    },
-    {
-        "ratings_total": 27,
-        "ratings_average": "3.63",
-        "app_name": "",
-        "package_name": "catfish",
-        "histogram": "[6, 1, 2, 6, 12]"
     },
     {
         "ratings_total": 1,
@@ -12768,6 +12768,13 @@
         "histogram": "[0, 0, 0, 0, 5]"
     },
     {
+        "ratings_total": 12,
+        "ratings_average": "4.33",
+        "app_name": "",
+        "package_name": "knotes",
+        "histogram": "[1, 0, 1, 2, 8]"
+    },
+    {
         "ratings_total": 2,
         "ratings_average": "3.50",
         "app_name": "",
@@ -12782,11 +12789,11 @@
         "histogram": "[2, 0, 1, 3, 3]"
     },
     {
-        "ratings_total": 11,
-        "ratings_average": "4.27",
+        "ratings_total": 28,
+        "ratings_average": "3.68",
         "app_name": "",
-        "package_name": "knotes",
-        "histogram": "[1, 0, 1, 2, 7]"
+        "package_name": "catfish",
+        "histogram": "[6, 1, 2, 6, 13]"
     },
     {
         "ratings_total": 36,
@@ -12843,13 +12850,6 @@
         "app_name": "",
         "package_name": "readpst",
         "histogram": "[1, 0, 1, 0, 2]"
-    },
-    {
-        "ratings_total": 4,
-        "ratings_average": "3.50",
-        "app_name": "",
-        "package_name": "swell-foop",
-        "histogram": "[0, 0, 2, 2, 0]"
     },
     {
         "ratings_total": 12,
@@ -13020,11 +13020,11 @@
         "histogram": "[1, 3, 1, 2, 7]"
     },
     {
-        "ratings_total": 1,
-        "ratings_average": "5.00",
+        "ratings_total": 27,
+        "ratings_average": "4.37",
         "app_name": "",
-        "package_name": "firefox-locale-fa",
-        "histogram": "[0, 0, 0, 0, 1]"
+        "package_name": "bless",
+        "histogram": "[0, 1, 3, 8, 15]"
     },
     {
         "ratings_total": 35,
@@ -13067,13 +13067,6 @@
         "app_name": "",
         "package_name": "udisks",
         "histogram": "[0, 0, 0, 0, 1]"
-    },
-    {
-        "ratings_total": 109,
-        "ratings_average": "4.09",
-        "app_name": "",
-        "package_name": "pithos",
-        "histogram": "[15, 6, 3, 15, 70]"
     },
     {
         "ratings_total": 4,
@@ -13300,11 +13293,11 @@
         "histogram": "[0, 0, 1, 1, 0]"
     },
     {
-        "ratings_total": 2,
-        "ratings_average": "5.00",
+        "ratings_total": 110,
+        "ratings_average": "4.10",
         "app_name": "",
-        "package_name": "hotline-miami-meta",
-        "histogram": "[0, 0, 0, 0, 2]"
+        "package_name": "pithos",
+        "histogram": "[15, 6, 3, 15, 71]"
     },
     {
         "ratings_total": 1,
@@ -13314,11 +13307,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 26,
-        "ratings_average": "4.35",
+        "ratings_total": 29,
+        "ratings_average": "2.83",
         "app_name": "",
-        "package_name": "bless",
-        "histogram": "[0, 1, 3, 8, 14]"
+        "package_name": "vino",
+        "histogram": "[9, 5, 3, 6, 6]"
     },
     {
         "ratings_total": 2,
@@ -13349,11 +13342,25 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
+        "ratings_total": 3,
+        "ratings_average": "5.00",
+        "app_name": "",
+        "package_name": "hotline-miami-meta",
+        "histogram": "[0, 0, 0, 0, 3]"
+    },
+    {
         "ratings_total": 2,
         "ratings_average": "3.00",
         "app_name": "",
         "package_name": "unity-webapps-qq-mail",
         "histogram": "[0, 1, 0, 1, 0]"
+    },
+    {
+        "ratings_total": 3,
+        "ratings_average": "5.00",
+        "app_name": "",
+        "package_name": "firefox-locale-fa",
+        "histogram": "[0, 0, 0, 0, 3]"
     },
     {
         "ratings_total": 1,
@@ -13377,11 +13384,11 @@
         "histogram": "[2, 1, 0, 0, 1]"
     },
     {
-        "ratings_total": 12,
-        "ratings_average": "3.75",
+        "ratings_total": 13,
+        "ratings_average": "3.77",
         "app_name": "",
         "package_name": "gmchess",
-        "histogram": "[2, 0, 1, 5, 4]"
+        "histogram": "[2, 0, 1, 6, 4]"
     },
     {
         "ratings_total": 1,
@@ -13501,13 +13508,6 @@
         "app_name": "",
         "package_name": "libavformat-extra-53",
         "histogram": "[0, 0, 1, 0, 4]"
-    },
-    {
-        "ratings_total": 28,
-        "ratings_average": "2.89",
-        "app_name": "",
-        "package_name": "vino",
-        "histogram": "[8, 5, 3, 6, 6]"
     },
     {
         "ratings_total": 3,
@@ -13699,11 +13699,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 67,
-        "ratings_average": "3.42",
+        "ratings_total": 7,
+        "ratings_average": "2.71",
         "app_name": "",
-        "package_name": "gmtp",
-        "histogram": "[15, 7, 5, 15, 25]"
+        "package_name": "jovie",
+        "histogram": "[2, 1, 2, 1, 1]"
     },
     {
         "ratings_total": 1,
@@ -13734,11 +13734,11 @@
         "histogram": "[0, 0, 1, 0, 3]"
     },
     {
-        "ratings_total": 3,
-        "ratings_average": "4.00",
+        "ratings_total": 36,
+        "ratings_average": "4.89",
         "app_name": "",
-        "package_name": "koules",
-        "histogram": "[0, 1, 0, 0, 2]"
+        "package_name": "gcolor2",
+        "histogram": "[0, 0, 1, 2, 33]"
     },
     {
         "ratings_total": 2,
@@ -13853,11 +13853,11 @@
         "histogram": "[0, 0, 0, 1, 5]"
     },
     {
-        "ratings_total": 35,
-        "ratings_average": "4.89",
+        "ratings_total": 172,
+        "ratings_average": "4.52",
         "app_name": "",
-        "package_name": "gcolor2",
-        "histogram": "[0, 0, 1, 2, 32]"
+        "package_name": "gedit",
+        "histogram": "[7, 4, 9, 24, 128]"
     },
     {
         "ratings_total": 13,
@@ -13993,11 +13993,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 6,
-        "ratings_average": "2.67",
+        "ratings_total": 70,
+        "ratings_average": "3.40",
         "app_name": "",
-        "package_name": "jovie",
-        "histogram": "[2, 1, 1, 1, 1]"
+        "package_name": "gmtp",
+        "histogram": "[16, 7, 6, 15, 26]"
     },
     {
         "ratings_total": 84,
@@ -14217,11 +14217,11 @@
         "histogram": "[0, 0, 0, 1, 0]"
     },
     {
-        "ratings_total": 1,
-        "ratings_average": "1.00",
+        "ratings_total": 78,
+        "ratings_average": "4.67",
         "app_name": "",
-        "package_name": "libproxychains3",
-        "histogram": "[1, 0, 0, 0, 0]"
+        "package_name": "gnome-do",
+        "histogram": "[1, 1, 3, 13, 60]"
     },
     {
         "ratings_total": 1,
@@ -14231,11 +14231,18 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 77,
-        "ratings_average": "4.66",
+        "ratings_total": 4,
+        "ratings_average": "3.50",
         "app_name": "",
-        "package_name": "gnome-do",
-        "histogram": "[1, 1, 3, 13, 59]"
+        "package_name": "koules",
+        "histogram": "[0, 2, 0, 0, 2]"
+    },
+    {
+        "ratings_total": 2,
+        "ratings_average": "1.00",
+        "app_name": "",
+        "package_name": "libproxychains3",
+        "histogram": "[2, 0, 0, 0, 0]"
     },
     {
         "ratings_total": 30,
@@ -14245,25 +14252,11 @@
         "histogram": "[5, 5, 6, 5, 9]"
     },
     {
-        "ratings_total": 169,
-        "ratings_average": "4.55",
-        "app_name": "",
-        "package_name": "gedit",
-        "histogram": "[7, 3, 8, 23, 128]"
-    },
-    {
         "ratings_total": 1,
         "ratings_average": "5.00",
         "app_name": "",
         "package_name": "fairy-mahjong",
         "histogram": "[0, 0, 0, 0, 1]"
-    },
-    {
-        "ratings_total": 290,
-        "ratings_average": "4.78",
-        "app_name": "",
-        "package_name": "synaptic",
-        "histogram": "[4, 2, 9, 23, 252]"
     },
     {
         "ratings_total": 6,
@@ -14315,11 +14308,11 @@
         "histogram": "[9, 4, 1, 12, 11]"
     },
     {
-        "ratings_total": 3,
-        "ratings_average": "2.67",
+        "ratings_total": 60,
+        "ratings_average": "2.92",
         "app_name": "",
-        "package_name": "plotdrop",
-        "histogram": "[1, 0, 1, 1, 0]"
+        "package_name": "gmail-notify",
+        "histogram": "[14, 13, 9, 12, 12]"
     },
     {
         "ratings_total": 1,
@@ -14355,6 +14348,13 @@
         "app_name": "",
         "package_name": "bareftp",
         "histogram": "[2, 4, 3, 12, 13]"
+    },
+    {
+        "ratings_total": 4,
+        "ratings_average": "2.25",
+        "app_name": "",
+        "package_name": "plotdrop",
+        "histogram": "[2, 0, 1, 1, 0]"
     },
     {
         "ratings_total": 13,
@@ -14854,11 +14854,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 59,
-        "ratings_average": "2.95",
+        "ratings_total": 293,
+        "ratings_average": "4.78",
         "app_name": "",
-        "package_name": "gmail-notify",
-        "histogram": "[13, 13, 9, 12, 12]"
+        "package_name": "synaptic",
+        "histogram": "[4, 2, 9, 23, 255]"
     },
     {
         "ratings_total": 97,
@@ -15050,11 +15050,11 @@
         "histogram": "[1, 0, 0, 2, 9]"
     },
     {
-        "ratings_total": 6,
-        "ratings_average": "4.00",
+        "ratings_total": 7,
+        "ratings_average": "4.14",
         "app_name": "",
         "package_name": "gconjugue",
-        "histogram": "[0, 0, 2, 2, 2]"
+        "histogram": "[0, 0, 2, 2, 3]"
     },
     {
         "ratings_total": 2,
@@ -15232,11 +15232,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 35,
-        "ratings_average": "4.54",
+        "ratings_total": 3,
+        "ratings_average": "4.33",
         "app_name": "",
-        "package_name": "putty",
-        "histogram": "[1, 1, 1, 7, 25]"
+        "package_name": "nasm",
+        "histogram": "[0, 0, 0, 2, 1]"
     },
     {
         "ratings_total": 7,
@@ -15244,6 +15244,13 @@
         "app_name": "",
         "package_name": "electric",
         "histogram": "[0, 0, 4, 2, 1]"
+    },
+    {
+        "ratings_total": 1,
+        "ratings_average": "2.00",
+        "app_name": "",
+        "package_name": "crazytoad",
+        "histogram": "[0, 1, 0, 0, 0]"
     },
     {
         "ratings_total": 1,
@@ -15267,13 +15274,6 @@
         "histogram": "[0, 1, 0, 0, 0]"
     },
     {
-        "ratings_total": 25,
-        "ratings_average": "3.00",
-        "app_name": "",
-        "package_name": "videoporama",
-        "histogram": "[8, 1, 3, 9, 4]"
-    },
-    {
         "ratings_total": 1,
         "ratings_average": "3.00",
         "app_name": "",
@@ -15281,11 +15281,18 @@
         "histogram": "[0, 0, 1, 0, 0]"
     },
     {
-        "ratings_total": 2,
-        "ratings_average": "4.00",
+        "ratings_total": 24,
+        "ratings_average": "3.08",
         "app_name": "",
-        "package_name": "nasm",
-        "histogram": "[0, 0, 0, 2, 0]"
+        "package_name": "videoporama",
+        "histogram": "[7, 1, 3, 9, 4]"
+    },
+    {
+        "ratings_total": 36,
+        "ratings_average": "4.56",
+        "app_name": "",
+        "package_name": "putty",
+        "histogram": "[1, 1, 1, 7, 26]"
     },
     {
         "ratings_total": 14,
@@ -15736,11 +15743,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 9,
-        "ratings_average": "2.00",
+        "ratings_total": 63,
+        "ratings_average": "4.00",
         "app_name": "",
-        "package_name": "gnome-video-arcade",
-        "histogram": "[5, 2, 0, 1, 1]"
+        "package_name": "luckybackup",
+        "histogram": "[5, 4, 5, 21, 28]"
     },
     {
         "ratings_total": 4,
@@ -15762,6 +15769,13 @@
         "app_name": "",
         "package_name": "travel-trial",
         "histogram": "[0, 1, 0, 0, 0]"
+    },
+    {
+        "ratings_total": 1,
+        "ratings_average": "5.00",
+        "app_name": "",
+        "package_name": "vagrant",
+        "histogram": "[0, 0, 0, 0, 1]"
     },
     {
         "ratings_total": 1,
@@ -15806,18 +15820,18 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
+        "ratings_total": 6,
+        "ratings_average": "3.67",
+        "app_name": "",
+        "package_name": "chemtool",
+        "histogram": "[0, 2, 0, 2, 2]"
+    },
+    {
         "ratings_total": 5,
         "ratings_average": "4.20",
         "app_name": "",
         "package_name": "nethack-qt",
         "histogram": "[1, 0, 0, 0, 4]"
-    },
-    {
-        "ratings_total": 5,
-        "ratings_average": "4.00",
-        "app_name": "",
-        "package_name": "chemtool",
-        "histogram": "[0, 1, 0, 2, 2]"
     },
     {
         "ratings_total": 16,
@@ -15916,13 +15930,6 @@
         "app_name": "",
         "package_name": "eclipse-egit",
         "histogram": "[0, 0, 0, 0, 1]"
-    },
-    {
-        "ratings_total": 62,
-        "ratings_average": "3.98",
-        "app_name": "",
-        "package_name": "luckybackup",
-        "histogram": "[5, 4, 5, 21, 27]"
     },
     {
         "ratings_total": 3,
@@ -16198,11 +16205,11 @@
         "histogram": "[2, 1, 1, 1, 1]"
     },
     {
-        "ratings_total": 145,
-        "ratings_average": "4.51",
+        "ratings_total": 59,
+        "ratings_average": "3.90",
         "app_name": "",
-        "package_name": "bleachbit",
-        "histogram": "[2, 4, 11, 29, 99]"
+        "package_name": "pdfsam",
+        "histogram": "[7, 6, 1, 17, 28]"
     },
     {
         "ratings_total": 16,
@@ -16415,11 +16422,11 @@
         "histogram": "[3, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 229,
-        "ratings_average": "4.05",
+        "ratings_total": 72,
+        "ratings_average": "4.29",
         "app_name": "",
-        "package_name": "radiotray",
-        "histogram": "[35, 9, 7, 36, 142]"
+        "package_name": "digikam",
+        "histogram": "[5, 6, 3, 7, 51]"
     },
     {
         "ratings_total": 3,
@@ -16478,18 +16485,18 @@
         "histogram": "[1, 2, 5, 7, 16]"
     },
     {
-        "ratings_total": 10,
-        "ratings_average": "3.40",
+        "ratings_total": 1,
+        "ratings_average": "5.00",
         "app_name": "",
-        "package_name": "prepaid-manager-applet",
-        "histogram": "[3, 0, 1, 2, 4]"
+        "package_name": "gutenprint-doc",
+        "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 71,
-        "ratings_average": "4.32",
+        "ratings_total": 1,
+        "ratings_average": "4.00",
         "app_name": "",
-        "package_name": "digikam",
-        "histogram": "[5, 5, 3, 7, 51]"
+        "package_name": "pybik",
+        "histogram": "[0, 0, 0, 1, 0]"
     },
     {
         "ratings_total": 1,
@@ -16497,6 +16504,13 @@
         "app_name": "",
         "package_name": "midisport-firmware",
         "histogram": "[0, 0, 0, 0, 1]"
+    },
+    {
+        "ratings_total": 11,
+        "ratings_average": "3.18",
+        "app_name": "",
+        "package_name": "prepaid-manager-applet",
+        "histogram": "[4, 0, 1, 2, 4]"
     },
     {
         "ratings_total": 5,
@@ -16548,6 +16562,13 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
+        "ratings_total": 146,
+        "ratings_average": "4.50",
+        "app_name": "",
+        "package_name": "bleachbit",
+        "histogram": "[2, 4, 12, 29, 99]"
+    },
+    {
         "ratings_total": 1,
         "ratings_average": "4.00",
         "app_name": "",
@@ -16581,13 +16602,6 @@
         "app_name": "",
         "package_name": "avahi-discover",
         "histogram": "[0, 0, 0, 0, 2]"
-    },
-    {
-        "ratings_total": 1,
-        "ratings_average": "2.00",
-        "app_name": "",
-        "package_name": "pybik",
-        "histogram": "[0, 1, 0, 0, 0]"
     },
     {
         "ratings_total": 2,
@@ -16835,13 +16849,6 @@
         "histogram": "[1, 1, 2, 5, 5]"
     },
     {
-        "ratings_total": 58,
-        "ratings_average": "3.90",
-        "app_name": "",
-        "package_name": "pdfsam",
-        "histogram": "[7, 6, 1, 16, 28]"
-    },
-    {
         "ratings_total": 1,
         "ratings_average": "5.00",
         "app_name": "",
@@ -16896,13 +16903,6 @@
         "app_name": "",
         "package_name": "rhythmbox-plugins",
         "histogram": "[0, 1, 0, 1, 1]"
-    },
-    {
-        "ratings_total": 11,
-        "ratings_average": "4.91",
-        "app_name": "",
-        "package_name": "octave",
-        "histogram": "[0, 0, 0, 1, 10]"
     },
     {
         "ratings_total": 11,
@@ -17029,6 +17029,13 @@
         "app_name": "",
         "package_name": "defcon",
         "histogram": "[0, 0, 0, 1, 1]"
+    },
+    {
+        "ratings_total": 12,
+        "ratings_average": "4.92",
+        "app_name": "",
+        "package_name": "octave",
+        "histogram": "[0, 0, 0, 1, 11]"
     },
     {
         "ratings_total": 6,
@@ -17206,11 +17213,11 @@
         "histogram": "[3, 3, 7, 14, 26]"
     },
     {
-        "ratings_total": 11,
-        "ratings_average": "2.91",
+        "ratings_total": 12,
+        "ratings_average": "2.75",
         "app_name": "",
         "package_name": "rapid-photo-downloader",
-        "histogram": "[4, 2, 0, 1, 4]"
+        "histogram": "[5, 2, 0, 1, 4]"
     },
     {
         "ratings_total": 2,
@@ -17260,6 +17267,13 @@
         "app_name": "",
         "package_name": "emacs",
         "histogram": "[0, 0, 0, 0, 11]"
+    },
+    {
+        "ratings_total": 2,
+        "ratings_average": "1.00",
+        "app_name": "",
+        "package_name": "topfeed",
+        "histogram": "[2, 0, 0, 0, 0]"
     },
     {
         "ratings_total": 54,
@@ -17535,11 +17549,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 84,
-        "ratings_average": "4.39",
+        "ratings_total": 93,
+        "ratings_average": "4.24",
         "app_name": "",
-        "package_name": "exaile",
-        "histogram": "[2, 4, 4, 23, 51]"
+        "package_name": "guvcview",
+        "histogram": "[9, 3, 3, 20, 58]"
     },
     {
         "ratings_total": 3,
@@ -17661,6 +17675,13 @@
         "histogram": "[1, 0, 1, 0, 3]"
     },
     {
+        "ratings_total": 138,
+        "ratings_average": "4.50",
+        "app_name": "",
+        "package_name": "frozen-bubble",
+        "histogram": "[3, 1, 8, 38, 88]"
+    },
+    {
         "ratings_total": 1,
         "ratings_average": "4.00",
         "app_name": "",
@@ -17668,11 +17689,11 @@
         "histogram": "[0, 0, 0, 1, 0]"
     },
     {
-        "ratings_total": 4,
-        "ratings_average": "1.50",
+        "ratings_total": 1,
+        "ratings_average": "5.00",
         "app_name": "",
-        "package_name": "catdoc",
-        "histogram": "[3, 0, 1, 0, 0]"
+        "package_name": "nwchem",
+        "histogram": "[0, 0, 0, 0, 1]"
     },
     {
         "ratings_total": 1,
@@ -17780,11 +17801,11 @@
         "histogram": "[0, 0, 3, 2, 9]"
     },
     {
-        "ratings_total": 137,
-        "ratings_average": "4.64",
+        "ratings_total": 111,
+        "ratings_average": "4.14",
         "app_name": "",
-        "package_name": "mypaint",
-        "histogram": "[4, 4, 4, 14, 111]"
+        "package_name": "devede",
+        "histogram": "[13, 4, 6, 20, 68]"
     },
     {
         "ratings_total": 7,
@@ -17827,6 +17848,13 @@
         "app_name": "",
         "package_name": "xfce4-notes-plugin",
         "histogram": "[0, 0, 0, 0, 1]"
+    },
+    {
+        "ratings_total": 5,
+        "ratings_average": "1.40",
+        "app_name": "",
+        "package_name": "catdoc",
+        "histogram": "[4, 0, 1, 0, 0]"
     },
     {
         "ratings_total": 5,
@@ -17941,13 +17969,6 @@
         "histogram": "[7, 6, 8, 6, 7]"
     },
     {
-        "ratings_total": 0,
-        "ratings_average": "0.00",
-        "app_name": "",
-        "package_name": "nwchem",
-        "histogram": "[0, 0, 0, 0, 0]"
-    },
-    {
         "ratings_total": 11,
         "ratings_average": "2.09",
         "app_name": "",
@@ -18018,13 +18039,6 @@
         "histogram": "[0, 0, 0, 0, 3]"
     },
     {
-        "ratings_total": 41,
-        "ratings_average": "4.51",
-        "app_name": "",
-        "package_name": "youtube-dl",
-        "histogram": "[1, 1, 2, 9, 28]"
-    },
-    {
         "ratings_total": 35,
         "ratings_average": "3.54",
         "app_name": "",
@@ -18046,11 +18060,11 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 91,
-        "ratings_average": "4.22",
+        "ratings_total": 138,
+        "ratings_average": "4.64",
         "app_name": "",
-        "package_name": "guvcview",
-        "histogram": "[9, 3, 3, 20, 56]"
+        "package_name": "mypaint",
+        "histogram": "[4, 4, 4, 14, 112]"
     },
     {
         "ratings_total": 20,
@@ -18067,11 +18081,11 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 110,
-        "ratings_average": "4.16",
+        "ratings_total": 141,
+        "ratings_average": "4.63",
         "app_name": "",
-        "package_name": "devede",
-        "histogram": "[12, 4, 6, 20, 68]"
+        "package_name": "supertux",
+        "histogram": "[3, 3, 7, 17, 111]"
     },
     {
         "ratings_total": 16,
@@ -18088,11 +18102,11 @@
         "histogram": "[2, 1, 2, 4, 12]"
     },
     {
-        "ratings_total": 140,
-        "ratings_average": "4.64",
+        "ratings_total": 85,
+        "ratings_average": "4.40",
         "app_name": "",
-        "package_name": "supertux",
-        "histogram": "[3, 3, 6, 17, 111]"
+        "package_name": "exaile",
+        "histogram": "[2, 4, 4, 23, 52]"
     },
     {
         "ratings_total": 69,
@@ -18102,18 +18116,18 @@
         "histogram": "[14, 6, 7, 16, 26]"
     },
     {
-        "ratings_total": 10,
-        "ratings_average": "4.80",
+        "ratings_total": 42,
+        "ratings_average": "4.52",
         "app_name": "",
-        "package_name": "ipython",
-        "histogram": "[0, 0, 0, 2, 8]"
+        "package_name": "youtube-dl",
+        "histogram": "[1, 1, 2, 9, 29]"
     },
     {
-        "ratings_total": 137,
-        "ratings_average": "4.50",
+        "ratings_total": 12,
+        "ratings_average": "4.83",
         "app_name": "",
-        "package_name": "frozen-bubble",
-        "histogram": "[3, 1, 8, 38, 87]"
+        "package_name": "ipython",
+        "histogram": "[0, 0, 0, 2, 10]"
     },
     {
         "ratings_total": 1,
@@ -18123,11 +18137,11 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 297,
-        "ratings_average": "3.40",
+        "ratings_total": 1,
+        "ratings_average": "4.00",
         "app_name": "",
-        "package_name": "minitube",
-        "histogram": "[70, 30, 23, 58, 116]"
+        "package_name": "openerp6.1-full",
+        "histogram": "[0, 0, 0, 1, 0]"
     },
     {
         "ratings_total": 6,
@@ -18165,11 +18179,11 @@
         "histogram": "[0, 0, 1, 1, 11]"
     },
     {
-        "ratings_total": 113,
-        "ratings_average": "4.57",
+        "ratings_total": 29,
+        "ratings_average": "4.62",
         "app_name": "",
-        "package_name": "guayadeque",
-        "histogram": "[3, 2, 6, 19, 83]"
+        "package_name": "fotowall",
+        "histogram": "[0, 1, 1, 6, 21]"
     },
     {
         "ratings_total": 4,
@@ -18249,11 +18263,11 @@
         "histogram": "[0, 0, 0, 0, 2]"
     },
     {
-        "ratings_total": 10,
-        "ratings_average": "3.30",
+        "ratings_total": 100,
+        "ratings_average": "2.50",
         "app_name": "",
-        "package_name": "gworldclock",
-        "histogram": "[1, 1, 3, 4, 1]"
+        "package_name": "pdfedit",
+        "histogram": "[36, 20, 16, 14, 14]"
     },
     {
         "ratings_total": 1,
@@ -18312,6 +18326,13 @@
         "histogram": "[2, 3, 4, 5, 15]"
     },
     {
+        "ratings_total": 298,
+        "ratings_average": "3.41",
+        "app_name": "",
+        "package_name": "minitube",
+        "histogram": "[70, 30, 23, 59, 116]"
+    },
+    {
         "ratings_total": 1,
         "ratings_average": "3.00",
         "app_name": "",
@@ -18340,11 +18361,11 @@
         "histogram": "[0, 0, 1, 2, 4]"
     },
     {
-        "ratings_total": 99,
-        "ratings_average": "2.52",
+        "ratings_total": 96,
+        "ratings_average": "2.90",
         "app_name": "",
-        "package_name": "pdfedit",
-        "histogram": "[35, 20, 16, 14, 14]"
+        "package_name": "gnome-gmail",
+        "histogram": "[32, 14, 10, 12, 28]"
     },
     {
         "ratings_total": 41,
@@ -18352,13 +18373,6 @@
         "app_name": "",
         "package_name": "icedtea-plugin",
         "histogram": "[1, 3, 1, 4, 32]"
-    },
-    {
-        "ratings_total": 97,
-        "ratings_average": "2.88",
-        "app_name": "",
-        "package_name": "gnome-gmail",
-        "histogram": "[33, 14, 10, 12, 28]"
     },
     {
         "ratings_total": 3,
@@ -18473,11 +18487,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 28,
-        "ratings_average": "4.61",
+        "ratings_total": 115,
+        "ratings_average": "4.54",
         "app_name": "",
-        "package_name": "fotowall",
-        "histogram": "[0, 1, 1, 6, 20]"
+        "package_name": "guayadeque",
+        "histogram": "[4, 2, 6, 19, 84]"
     },
     {
         "ratings_total": 4,
@@ -18620,6 +18634,13 @@
         "histogram": "[8, 1, 0, 4, 7]"
     },
     {
+        "ratings_total": 9,
+        "ratings_average": "3.78",
+        "app_name": "",
+        "package_name": "outreel",
+        "histogram": "[2, 0, 1, 1, 5]"
+    },
+    {
         "ratings_total": 6,
         "ratings_average": "3.67",
         "app_name": "",
@@ -18746,13 +18767,6 @@
         "histogram": "[3, 0, 1, 2, 1]"
     },
     {
-        "ratings_total": 8,
-        "ratings_average": "3.62",
-        "app_name": "",
-        "package_name": "outreel",
-        "histogram": "[2, 0, 1, 1, 4]"
-    },
-    {
         "ratings_total": 39,
         "ratings_average": "4.38",
         "app_name": "",
@@ -18858,11 +18872,11 @@
         "histogram": "[4, 4, 9, 15, 42]"
     },
     {
-        "ratings_total": 6,
-        "ratings_average": "5.00",
+        "ratings_total": 26,
+        "ratings_average": "4.73",
         "app_name": "",
-        "package_name": "classicmenu-indicator",
-        "histogram": "[0, 0, 0, 0, 6]"
+        "package_name": "sqliteman",
+        "histogram": "[0, 0, 0, 7, 19]"
     },
     {
         "ratings_total": 0,
@@ -18872,11 +18886,11 @@
         "histogram": "[0, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 157,
-        "ratings_average": "4.64",
+        "ratings_total": 3,
+        "ratings_average": "3.67",
         "app_name": "",
-        "package_name": "hedgewars",
-        "histogram": "[3, 5, 4, 22, 123]"
+        "package_name": "usb-creator-common",
+        "histogram": "[1, 0, 0, 0, 2]"
     },
     {
         "ratings_total": 1,
@@ -18893,11 +18907,11 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 21,
-        "ratings_average": "4.10",
+        "ratings_total": 158,
+        "ratings_average": "4.64",
         "app_name": "",
-        "package_name": "ardour",
-        "histogram": "[2, 0, 3, 5, 11]"
+        "package_name": "hedgewars",
+        "histogram": "[3, 5, 4, 22, 124]"
     },
     {
         "ratings_total": 11,
@@ -18963,13 +18977,6 @@
         "histogram": "[0, 1, 0, 0, 2]"
     },
     {
-        "ratings_total": 29,
-        "ratings_average": "4.03",
-        "app_name": "",
-        "package_name": "ubuntuone-control-panel-qt",
-        "histogram": "[5, 0, 1, 6, 17]"
-    },
-    {
         "ratings_total": 1,
         "ratings_average": "1.00",
         "app_name": "",
@@ -19012,13 +19019,6 @@
         "histogram": "[1, 0, 0, 1, 1]"
     },
     {
-        "ratings_total": 25,
-        "ratings_average": "4.72",
-        "app_name": "",
-        "package_name": "sqliteman",
-        "histogram": "[0, 0, 0, 7, 18]"
-    },
-    {
         "ratings_total": 3,
         "ratings_average": "2.33",
         "app_name": "",
@@ -19031,6 +19031,13 @@
         "app_name": "",
         "package_name": "cadabra",
         "histogram": "[0, 0, 0, 0, 2]"
+    },
+    {
+        "ratings_total": 11,
+        "ratings_average": "3.27",
+        "app_name": "",
+        "package_name": "gworldclock",
+        "histogram": "[1, 1, 4, 4, 1]"
     },
     {
         "ratings_total": 0,
@@ -19131,11 +19138,11 @@
         "histogram": "[0, 0, 0, 0, 2]"
     },
     {
-        "ratings_total": 81,
-        "ratings_average": "4.73",
+        "ratings_total": 32,
+        "ratings_average": "3.88",
         "app_name": "",
-        "package_name": "nautilus-open-terminal",
-        "histogram": "[3, 0, 1, 8, 69]"
+        "package_name": "ubuntuone-control-panel-qt",
+        "histogram": "[7, 0, 1, 6, 18]"
     },
     {
         "ratings_total": 1,
@@ -19157,6 +19164,20 @@
         "app_name": "",
         "package_name": "kcalc",
         "histogram": "[1, 2, 0, 4, 5]"
+    },
+    {
+        "ratings_total": 20,
+        "ratings_average": "3.70",
+        "app_name": "",
+        "package_name": "kamerka",
+        "histogram": "[3, 2, 1, 6, 8]"
+    },
+    {
+        "ratings_total": 22,
+        "ratings_average": "4.14",
+        "app_name": "",
+        "package_name": "ardour",
+        "histogram": "[2, 0, 3, 5, 12]"
     },
     {
         "ratings_total": 34,
@@ -19257,6 +19278,13 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
+        "ratings_total": 7,
+        "ratings_average": "5.00",
+        "app_name": "",
+        "package_name": "classicmenu-indicator",
+        "histogram": "[0, 0, 0, 0, 7]"
+    },
+    {
         "ratings_total": 1,
         "ratings_average": "1.00",
         "app_name": "",
@@ -19276,13 +19304,6 @@
         "app_name": "",
         "package_name": "hydra-gtk",
         "histogram": "[0, 0, 1, 1, 4]"
-    },
-    {
-        "ratings_total": 2,
-        "ratings_average": "5.00",
-        "app_name": "",
-        "package_name": "usb-creator-common",
-        "histogram": "[0, 0, 0, 0, 2]"
     },
     {
         "ratings_total": 44,
@@ -19353,13 +19374,6 @@
         "app_name": "",
         "package_name": "gstm",
         "histogram": "[0, 0, 0, 1, 10]"
-    },
-    {
-        "ratings_total": 19,
-        "ratings_average": "3.84",
-        "app_name": "",
-        "package_name": "kamerka",
-        "histogram": "[2, 2, 1, 6, 8]"
     },
     {
         "ratings_total": 1,
@@ -19437,6 +19451,13 @@
         "app_name": "",
         "package_name": "corebreach",
         "histogram": "[0, 0, 1, 2, 1]"
+    },
+    {
+        "ratings_total": 26,
+        "ratings_average": "4.27",
+        "app_name": "",
+        "package_name": "indicator-cpufreq",
+        "histogram": "[1, 1, 2, 8, 14]"
     },
     {
         "ratings_total": 36,
@@ -19628,13 +19649,6 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 3,
-        "ratings_average": "5.00",
-        "app_name": "",
-        "package_name": "alien",
-        "histogram": "[0, 0, 0, 0, 3]"
-    },
-    {
         "ratings_total": 1,
         "ratings_average": "1.00",
         "app_name": "",
@@ -19824,13 +19838,6 @@
         "histogram": "[1, 0, 0, 1, 0]"
     },
     {
-        "ratings_total": 235,
-        "ratings_average": "4.44",
-        "app_name": "",
-        "package_name": "docky",
-        "histogram": "[8, 7, 19, 40, 161]"
-    },
-    {
         "ratings_total": 1,
         "ratings_average": "5.00",
         "app_name": "",
@@ -19866,11 +19873,11 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 25,
-        "ratings_average": "4.24",
+        "ratings_total": 4,
+        "ratings_average": "5.00",
         "app_name": "",
-        "package_name": "indicator-cpufreq",
-        "histogram": "[1, 1, 2, 8, 13]"
+        "package_name": "alien",
+        "histogram": "[0, 0, 0, 0, 4]"
     },
     {
         "ratings_total": 1,
@@ -19943,6 +19950,13 @@
         "histogram": "[0, 0, 0, 3, 0]"
     },
     {
+        "ratings_total": 236,
+        "ratings_average": "4.44",
+        "app_name": "",
+        "package_name": "docky",
+        "histogram": "[8, 7, 19, 41, 161]"
+    },
+    {
         "ratings_total": 98,
         "ratings_average": "4.15",
         "app_name": "",
@@ -19964,11 +19978,11 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 16,
-        "ratings_average": "1.75",
+        "ratings_total": 1242,
+        "ratings_average": "4.49",
         "app_name": "",
-        "package_name": "unity-webapps-gmail",
-        "histogram": "[11, 1, 2, 1, 1]"
+        "package_name": "chromium-browser",
+        "histogram": "[48, 40, 66, 195, 893]"
     },
     {
         "ratings_total": 1,
@@ -20139,11 +20153,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 103,
-        "ratings_average": "4.17",
+        "ratings_total": 105,
+        "ratings_average": "4.14",
         "app_name": "",
         "package_name": "hotot",
-        "histogram": "[13, 4, 5, 12, 69]"
+        "histogram": "[14, 4, 5, 12, 70]"
     },
     {
         "ratings_total": 173,
@@ -20174,11 +20188,11 @@
         "histogram": "[1, 0, 2, 0, 0]"
     },
     {
-        "ratings_total": 29,
-        "ratings_average": "4.14",
+        "ratings_total": 7,
+        "ratings_average": "4.29",
         "app_name": "",
-        "package_name": "quicksynergy",
-        "histogram": "[2, 2, 1, 9, 15]"
+        "package_name": "minidlna",
+        "histogram": "[1, 0, 0, 1, 5]"
     },
     {
         "ratings_total": 2,
@@ -20293,11 +20307,11 @@
         "histogram": "[1, 0, 0, 1, 1]"
     },
     {
-        "ratings_total": 6,
-        "ratings_average": "4.17",
+        "ratings_total": 83,
+        "ratings_average": "4.73",
         "app_name": "",
-        "package_name": "minidlna",
-        "histogram": "[1, 0, 0, 1, 4]"
+        "package_name": "nautilus-open-terminal",
+        "histogram": "[3, 0, 1, 8, 71]"
     },
     {
         "ratings_total": 13,
@@ -20333,6 +20347,13 @@
         "app_name": "",
         "package_name": "libapache2-modsecurity",
         "histogram": "[1, 0, 1, 0, 0]"
+    },
+    {
+        "ratings_total": 102,
+        "ratings_average": "3.07",
+        "app_name": "",
+        "package_name": "usb-creator-gtk",
+        "histogram": "[37, 7, 6, 16, 36]"
     },
     {
         "ratings_total": 6,
@@ -20552,13 +20573,6 @@
         "histogram": "[0, 0, 2, 4, 20]"
     },
     {
-        "ratings_total": 98,
-        "ratings_average": "3.12",
-        "app_name": "",
-        "package_name": "usb-creator-gtk",
-        "histogram": "[34, 7, 6, 15, 36]"
-    },
-    {
         "ratings_total": 1,
         "ratings_average": "1.00",
         "app_name": "",
@@ -20699,6 +20713,13 @@
         "histogram": "[0, 0, 1, 0, 0]"
     },
     {
+        "ratings_total": 42,
+        "ratings_average": "3.40",
+        "app_name": "",
+        "package_name": "plexmediaserver",
+        "histogram": "[10, 2, 8, 5, 17]"
+    },
+    {
         "ratings_total": 13,
         "ratings_average": "3.69",
         "app_name": "",
@@ -20783,11 +20804,11 @@
         "histogram": "[0, 0, 0, 1, 0]"
     },
     {
-        "ratings_total": 58,
-        "ratings_average": "1.28",
+        "ratings_total": 73,
+        "ratings_average": "4.78",
         "app_name": "",
-        "package_name": "gnome-format",
-        "histogram": "[49, 5, 2, 1, 1]"
+        "package_name": "gdebi",
+        "histogram": "[0, 0, 3, 10, 60]"
     },
     {
         "ratings_total": 9,
@@ -20818,11 +20839,11 @@
         "histogram": "[0, 0, 0, 0, 4]"
     },
     {
-        "ratings_total": 41,
-        "ratings_average": "3.46",
+        "ratings_total": 51,
+        "ratings_average": "4.22",
         "app_name": "",
-        "package_name": "plexmediaserver",
-        "histogram": "[9, 2, 8, 5, 17]"
+        "package_name": "scribus",
+        "histogram": "[2, 1, 6, 17, 25]"
     },
     {
         "ratings_total": 1,
@@ -20846,11 +20867,11 @@
         "histogram": "[0, 0, 0, 0, 5]"
     },
     {
-        "ratings_total": 50,
-        "ratings_average": "4.20",
+        "ratings_total": 67,
+        "ratings_average": "4.52",
         "app_name": "",
-        "package_name": "scribus",
-        "histogram": "[2, 1, 6, 17, 24]"
+        "package_name": "pcmanfm",
+        "histogram": "[2, 2, 6, 6, 51]"
     },
     {
         "ratings_total": 8,
@@ -20867,18 +20888,11 @@
         "histogram": "[0, 0, 0, 0, 2]"
     },
     {
-        "ratings_total": 66,
-        "ratings_average": "4.58",
+        "ratings_total": 3,
+        "ratings_average": "3.00",
         "app_name": "",
-        "package_name": "pcmanfm",
-        "histogram": "[1, 2, 6, 6, 51]"
-    },
-    {
-        "ratings_total": 72,
-        "ratings_average": "4.78",
-        "app_name": "",
-        "package_name": "gdebi",
-        "histogram": "[0, 0, 3, 10, 59]"
+        "package_name": "gwenrename",
+        "histogram": "[1, 0, 1, 0, 1]"
     },
     {
         "ratings_total": 63,
@@ -20888,11 +20902,11 @@
         "histogram": "[6, 1, 9, 19, 28]"
     },
     {
-        "ratings_total": 110,
-        "ratings_average": "3.37",
+        "ratings_total": 49,
+        "ratings_average": "4.73",
         "app_name": "",
-        "package_name": "alien-arena",
-        "histogram": "[26, 6, 17, 23, 38]"
+        "package_name": "screenruler",
+        "histogram": "[0, 0, 2, 9, 38]"
     },
     {
         "ratings_total": 36,
@@ -21042,11 +21056,11 @@
         "histogram": "[0, 0, 0, 1, 0]"
     },
     {
-        "ratings_total": 48,
-        "ratings_average": "4.77",
+        "ratings_total": 59,
+        "ratings_average": "1.32",
         "app_name": "",
-        "package_name": "screenruler",
-        "histogram": "[0, 0, 1, 9, 38]"
+        "package_name": "gnome-format",
+        "histogram": "[49, 5, 2, 2, 1]"
     },
     {
         "ratings_total": 18,
@@ -21096,6 +21110,13 @@
         "app_name": "",
         "package_name": "libdevel-ptkdb-perl",
         "histogram": "[0, 0, 1, 0, 0]"
+    },
+    {
+        "ratings_total": 3,
+        "ratings_average": "4.33",
+        "app_name": "",
+        "package_name": "pandoc",
+        "histogram": "[0, 0, 1, 0, 2]"
     },
     {
         "ratings_total": 1,
@@ -21245,13 +21266,6 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 2,
-        "ratings_average": "4.00",
-        "app_name": "",
-        "package_name": "gwenrename",
-        "histogram": "[0, 0, 1, 0, 1]"
-    },
-    {
         "ratings_total": 1,
         "ratings_average": "3.00",
         "app_name": "",
@@ -21259,11 +21273,11 @@
         "histogram": "[0, 0, 1, 0, 0]"
     },
     {
-        "ratings_total": 8,
-        "ratings_average": "4.75",
+        "ratings_total": 10,
+        "ratings_average": "4.80",
         "app_name": "",
         "package_name": "qtqr",
-        "histogram": "[0, 0, 0, 2, 6]"
+        "histogram": "[0, 0, 0, 2, 8]"
     },
     {
         "ratings_total": 1,
@@ -21309,10 +21323,10 @@
     },
     {
         "ratings_total": 17,
-        "ratings_average": "3.65",
+        "ratings_average": "4.76",
         "app_name": "",
-        "package_name": "luakit",
-        "histogram": "[2, 2, 2, 5, 6]"
+        "package_name": "rkward",
+        "histogram": "[0, 0, 1, 2, 14]"
     },
     {
         "ratings_total": 20,
@@ -21362,13 +21376,6 @@
         "app_name": "",
         "package_name": "cantor",
         "histogram": "[0, 0, 0, 0, 2]"
-    },
-    {
-        "ratings_total": 26,
-        "ratings_average": "3.54",
-        "app_name": "",
-        "package_name": "sqlitebrowser",
-        "histogram": "[2, 4, 5, 8, 7]"
     },
     {
         "ratings_total": 74,
@@ -21462,11 +21469,11 @@
         "histogram": "[3, 0, 3, 3, 3]"
     },
     {
-        "ratings_total": 8,
-        "ratings_average": "3.38",
+        "ratings_total": 32,
+        "ratings_average": "4.16",
         "app_name": "",
-        "package_name": "robotux",
-        "histogram": "[1, 1, 1, 4, 1]"
+        "package_name": "musique",
+        "histogram": "[1, 2, 4, 9, 16]"
     },
     {
         "ratings_total": 1,
@@ -21495,6 +21502,13 @@
         "app_name": "",
         "package_name": "war-in-a-box-paper-tanks",
         "histogram": "[2, 1, 0, 2, 5]"
+    },
+    {
+        "ratings_total": 27,
+        "ratings_average": "3.56",
+        "app_name": "",
+        "package_name": "sqlitebrowser",
+        "histogram": "[2, 4, 5, 9, 7]"
     },
     {
         "ratings_total": 1,
@@ -21581,11 +21595,11 @@
         "histogram": "[1, 0, 4, 2, 5]"
     },
     {
-        "ratings_total": 31,
-        "ratings_average": "4.13",
+        "ratings_total": 238,
+        "ratings_average": "4.42",
         "app_name": "",
-        "package_name": "musique",
-        "histogram": "[1, 2, 4, 9, 15]"
+        "package_name": "eclipse-platform",
+        "histogram": "[13, 5, 19, 34, 167]"
     },
     {
         "ratings_total": 28,
@@ -21672,6 +21686,13 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
+        "ratings_total": 18,
+        "ratings_average": "3.72",
+        "app_name": "",
+        "package_name": "luakit",
+        "histogram": "[2, 2, 2, 5, 7]"
+    },
+    {
         "ratings_total": 2,
         "ratings_average": "5.00",
         "app_name": "",
@@ -21686,11 +21707,11 @@
         "histogram": "[8, 1, 1, 3, 12]"
     },
     {
-        "ratings_total": 15,
-        "ratings_average": "4.73",
+        "ratings_total": 14,
+        "ratings_average": "3.50",
         "app_name": "",
-        "package_name": "rkward",
-        "histogram": "[0, 0, 1, 2, 12]"
+        "package_name": "qwbfsmanager",
+        "histogram": "[3, 0, 4, 1, 6]"
     },
     {
         "ratings_total": 7,
@@ -21882,13 +21903,6 @@
         "histogram": "[0, 0, 0, 1, 2]"
     },
     {
-        "ratings_total": 234,
-        "ratings_average": "4.42",
-        "app_name": "",
-        "package_name": "eclipse-platform",
-        "histogram": "[13, 5, 18, 33, 165]"
-    },
-    {
         "ratings_total": 1,
         "ratings_average": "5.00",
         "app_name": "",
@@ -22036,11 +22050,11 @@
         "histogram": "[0, 2, 6, 27, 38]"
     },
     {
-        "ratings_total": 11,
-        "ratings_average": "3.36",
+        "ratings_total": 7,
+        "ratings_average": "3.86",
         "app_name": "",
-        "package_name": "bygfoot",
-        "histogram": "[2, 2, 0, 4, 3]"
+        "package_name": "gambas3-ide",
+        "histogram": "[2, 0, 0, 0, 5]"
     },
     {
         "ratings_total": 18,
@@ -22057,11 +22071,11 @@
         "histogram": "[3, 0, 0, 1, 5]"
     },
     {
-        "ratings_total": 5,
-        "ratings_average": "5.00",
+        "ratings_total": 18,
+        "ratings_average": "1.67",
         "app_name": "",
-        "package_name": "gambas3-ide",
-        "histogram": "[0, 0, 0, 0, 5]"
+        "package_name": "unity-webapps-gmail",
+        "histogram": "[13, 1, 2, 1, 1]"
     },
     {
         "ratings_total": 1,
@@ -22076,6 +22090,13 @@
         "app_name": "",
         "package_name": "aptdaemon",
         "histogram": "[6, 0, 1, 0, 0]"
+    },
+    {
+        "ratings_total": 28,
+        "ratings_average": "2.82",
+        "app_name": "",
+        "package_name": "quadrapassel",
+        "histogram": "[9, 5, 2, 6, 6]"
     },
     {
         "ratings_total": 3,
@@ -22097,6 +22118,13 @@
         "app_name": "",
         "package_name": "ubuntustudio-controls",
         "histogram": "[2, 0, 1, 0, 0]"
+    },
+    {
+        "ratings_total": 15,
+        "ratings_average": "4.53",
+        "app_name": "",
+        "package_name": "blobwars",
+        "histogram": "[1, 0, 0, 3, 11]"
     },
     {
         "ratings_total": 1,
@@ -22190,6 +22218,13 @@
         "histogram": "[0, 0, 0, 2, 30]"
     },
     {
+        "ratings_total": 12,
+        "ratings_average": "3.50",
+        "app_name": "",
+        "package_name": "bygfoot",
+        "histogram": "[2, 2, 0, 4, 4]"
+    },
+    {
         "ratings_total": 1,
         "ratings_average": "4.00",
         "app_name": "",
@@ -22246,13 +22281,6 @@
         "histogram": "[2, 1, 0, 2, 0]"
     },
     {
-        "ratings_total": 3,
-        "ratings_average": "3.00",
-        "app_name": "",
-        "package_name": "jclic",
-        "histogram": "[1, 0, 1, 0, 1]"
-    },
-    {
         "ratings_total": 1,
         "ratings_average": "5.00",
         "app_name": "",
@@ -22288,11 +22316,11 @@
         "histogram": "[1, 0, 1, 0, 1]"
     },
     {
-        "ratings_total": 2,
-        "ratings_average": "5.00",
+        "ratings_total": 4,
+        "ratings_average": "3.00",
         "app_name": "",
-        "package_name": "bijiben",
-        "histogram": "[0, 0, 0, 0, 2]"
+        "package_name": "jclic",
+        "histogram": "[1, 0, 2, 0, 1]"
     },
     {
         "ratings_total": 14,
@@ -22582,25 +22610,11 @@
         "histogram": "[7, 0, 1, 1, 0]"
     },
     {
-        "ratings_total": 14,
-        "ratings_average": "4.50",
-        "app_name": "",
-        "package_name": "blobwars",
-        "histogram": "[1, 0, 0, 3, 10]"
-    },
-    {
         "ratings_total": 4,
         "ratings_average": "3.25",
         "app_name": "",
         "package_name": "gnumed-client",
         "histogram": "[1, 1, 0, 0, 2]"
-    },
-    {
-        "ratings_total": 25,
-        "ratings_average": "3.04",
-        "app_name": "",
-        "package_name": "quadrapassel",
-        "histogram": "[6, 5, 2, 6, 6]"
     },
     {
         "ratings_total": 6,
@@ -22638,11 +22652,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 6,
-        "ratings_average": "4.17",
+        "ratings_total": 7,
+        "ratings_average": "3.71",
         "app_name": "",
         "package_name": "bcompare",
-        "histogram": "[1, 0, 0, 1, 4]"
+        "histogram": "[2, 0, 0, 1, 4]"
     },
     {
         "ratings_total": 56,
@@ -22657,6 +22671,13 @@
         "app_name": "",
         "package_name": "lxde-common",
         "histogram": "[0, 0, 0, 0, 1]"
+    },
+    {
+        "ratings_total": 112,
+        "ratings_average": "3.38",
+        "app_name": "",
+        "package_name": "alien-arena",
+        "histogram": "[26, 6, 17, 25, 38]"
     },
     {
         "ratings_total": 1,
@@ -22722,11 +22743,11 @@
         "histogram": "[1, 0, 2, 1, 1]"
     },
     {
-        "ratings_total": 58,
-        "ratings_average": "3.69",
+        "ratings_total": 60,
+        "ratings_average": "3.67",
         "app_name": "",
         "package_name": "minetest",
-        "histogram": "[5, 5, 13, 15, 20]"
+        "histogram": "[5, 5, 15, 15, 20]"
     },
     {
         "ratings_total": 288,
@@ -22750,6 +22771,13 @@
         "histogram": "[2, 2, 1, 10, 6]"
     },
     {
+        "ratings_total": 102,
+        "ratings_average": "4.60",
+        "app_name": "",
+        "package_name": "frogatto",
+        "histogram": "[3, 0, 5, 19, 75]"
+    },
+    {
         "ratings_total": 1,
         "ratings_average": "5.00",
         "app_name": "",
@@ -22771,18 +22799,18 @@
         "histogram": "[2, 3, 4, 1, 1]"
     },
     {
-        "ratings_total": 34,
-        "ratings_average": "3.59",
+        "ratings_total": 23,
+        "ratings_average": "4.35",
         "app_name": "",
-        "package_name": "vidalia",
-        "histogram": "[7, 3, 2, 7, 15]"
+        "package_name": "krdc",
+        "histogram": "[0, 0, 5, 5, 13]"
     },
     {
-        "ratings_total": 5,
-        "ratings_average": "3.20",
+        "ratings_total": 18,
+        "ratings_average": "3.33",
         "app_name": "",
-        "package_name": "fieldrunners",
-        "histogram": "[1, 0, 2, 1, 1]"
+        "package_name": "juffed",
+        "histogram": "[4, 3, 1, 3, 7]"
     },
     {
         "ratings_total": 3,
@@ -22855,11 +22883,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 510,
-        "ratings_average": "3.85",
+        "ratings_total": 6,
+        "ratings_average": "2.83",
         "app_name": "",
-        "package_name": "cheese",
-        "histogram": "[73, 23, 56, 113, 245]"
+        "package_name": "fieldrunners",
+        "histogram": "[2, 0, 2, 1, 1]"
     },
     {
         "ratings_total": 26,
@@ -22918,11 +22946,11 @@
         "histogram": "[1, 1, 0, 0, 0]"
     },
     {
-        "ratings_total": 17,
-        "ratings_average": "3.47",
+        "ratings_total": 514,
+        "ratings_average": "3.84",
         "app_name": "",
-        "package_name": "juffed",
-        "histogram": "[3, 3, 1, 3, 7]"
+        "package_name": "cheese",
+        "histogram": "[74, 24, 56, 114, 246]"
     },
     {
         "ratings_total": 38,
@@ -23072,13 +23100,6 @@
         "histogram": "[1, 0, 1, 2, 0]"
     },
     {
-        "ratings_total": 22,
-        "ratings_average": "4.41",
-        "app_name": "",
-        "package_name": "krdc",
-        "histogram": "[0, 0, 4, 5, 13]"
-    },
-    {
         "ratings_total": 2,
         "ratings_average": "5.00",
         "app_name": "",
@@ -23112,13 +23133,6 @@
         "app_name": "",
         "package_name": "xpn",
         "histogram": "[1, 1, 0, 0, 1]"
-    },
-    {
-        "ratings_total": 101,
-        "ratings_average": "4.60",
-        "app_name": "",
-        "package_name": "frogatto",
-        "histogram": "[3, 0, 5, 18, 75]"
     },
     {
         "ratings_total": 1,
@@ -23283,13 +23297,6 @@
     },
     {
         "ratings_total": 2,
-        "ratings_average": "4.00",
-        "app_name": "",
-        "package_name": "qbrew",
-        "histogram": "[0, 0, 0, 2, 0]"
-    },
-    {
-        "ratings_total": 2,
         "ratings_average": "3.00",
         "app_name": "",
         "package_name": "usb-modeswitch-data",
@@ -23308,6 +23315,13 @@
         "app_name": "",
         "package_name": "linsmith",
         "histogram": "[0, 0, 1, 1, 0]"
+    },
+    {
+        "ratings_total": 10,
+        "ratings_average": "4.20",
+        "app_name": "",
+        "package_name": "childsplay",
+        "histogram": "[1, 0, 0, 4, 5]"
     },
     {
         "ratings_total": 1,
@@ -23392,13 +23406,6 @@
         "app_name": "",
         "package_name": "gtk2-engines-blueheart",
         "histogram": "[0, 1, 0, 0, 0]"
-    },
-    {
-        "ratings_total": 9,
-        "ratings_average": "4.56",
-        "app_name": "",
-        "package_name": "childsplay",
-        "histogram": "[0, 0, 0, 4, 5]"
     },
     {
         "ratings_total": 22,
@@ -23541,11 +23548,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 9,
-        "ratings_average": "4.56",
+        "ratings_total": 34,
+        "ratings_average": "4.41",
         "app_name": "",
-        "package_name": "titanion",
-        "histogram": "[0, 0, 1, 2, 6]"
+        "package_name": "tumiki-fighters",
+        "histogram": "[0, 0, 5, 10, 19]"
     },
     {
         "ratings_total": 8,
@@ -23665,13 +23672,6 @@
         "app_name": "",
         "package_name": "clamav-base",
         "histogram": "[0, 0, 0, 0, 0]"
-    },
-    {
-        "ratings_total": 4,
-        "ratings_average": "2.00",
-        "app_name": "",
-        "package_name": "ballz",
-        "histogram": "[2, 1, 0, 1, 0]"
     },
     {
         "ratings_total": 1,
@@ -23821,11 +23821,11 @@
         "histogram": "[2, 0, 2, 2, 42]"
     },
     {
-        "ratings_total": 33,
-        "ratings_average": "4.39",
+        "ratings_total": 3,
+        "ratings_average": "4.00",
         "app_name": "",
-        "package_name": "tumiki-fighters",
-        "histogram": "[0, 0, 5, 10, 18]"
+        "package_name": "qbrew",
+        "histogram": "[0, 0, 0, 3, 0]"
     },
     {
         "ratings_total": 1,
@@ -23849,11 +23849,18 @@
         "histogram": "[1, 0, 0, 0, 3]"
     },
     {
-        "ratings_total": 30,
-        "ratings_average": "4.53",
+        "ratings_total": 10,
+        "ratings_average": "4.60",
         "app_name": "",
-        "package_name": "zekr",
-        "histogram": "[2, 0, 0, 6, 22]"
+        "package_name": "titanion",
+        "histogram": "[0, 0, 1, 2, 7]"
+    },
+    {
+        "ratings_total": 5,
+        "ratings_average": "1.80",
+        "app_name": "",
+        "package_name": "ballz",
+        "histogram": "[3, 1, 0, 1, 0]"
     },
     {
         "ratings_total": 8,
@@ -23875,6 +23882,13 @@
         "app_name": "",
         "package_name": "ubuntu-edu-primary",
         "histogram": "[0, 0, 0, 3, 5]"
+    },
+    {
+        "ratings_total": 32,
+        "ratings_average": "4.44",
+        "app_name": "",
+        "package_name": "zekr",
+        "histogram": "[3, 0, 0, 6, 23]"
     },
     {
         "ratings_total": 2,
@@ -23989,11 +24003,11 @@
         "histogram": "[1, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 121,
-        "ratings_average": "3.75",
+        "ratings_total": 1,
+        "ratings_average": "5.00",
         "app_name": "",
-        "package_name": "clamtk",
-        "histogram": "[12, 12, 15, 37, 45]"
+        "package_name": "cold-war",
+        "histogram": "[0, 0, 0, 0, 1]"
     },
     {
         "ratings_total": 9,
@@ -24045,11 +24059,18 @@
         "histogram": "[1, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 11,
-        "ratings_average": "2.45",
+        "ratings_total": 26,
+        "ratings_average": "4.65",
         "app_name": "",
-        "package_name": "gtkam",
-        "histogram": "[5, 1, 1, 3, 1]"
+        "package_name": "puddletag",
+        "histogram": "[0, 1, 2, 2, 21]"
+    },
+    {
+        "ratings_total": 12,
+        "ratings_average": "2.08",
+        "app_name": "",
+        "package_name": "kdepim-runtime",
+        "histogram": "[8, 1, 0, 0, 3]"
     },
     {
         "ratings_total": 3,
@@ -24164,18 +24185,18 @@
         "histogram": "[0, 0, 0, 0, 7]"
     },
     {
-        "ratings_total": 16,
-        "ratings_average": "3.69",
-        "app_name": "",
-        "package_name": "bastet",
-        "histogram": "[2, 1, 4, 2, 7]"
-    },
-    {
-        "ratings_total": 8,
-        "ratings_average": "4.38",
+        "ratings_total": 9,
+        "ratings_average": "4.44",
         "app_name": "",
         "package_name": "stella",
-        "histogram": "[1, 0, 0, 1, 6]"
+        "histogram": "[1, 0, 0, 1, 7]"
+    },
+    {
+        "ratings_total": 65,
+        "ratings_average": "4.43",
+        "app_name": "",
+        "package_name": "gthumb",
+        "histogram": "[2, 4, 1, 15, 43]"
     },
     {
         "ratings_total": 7,
@@ -24185,11 +24206,25 @@
         "histogram": "[3, 0, 0, 1, 3]"
     },
     {
+        "ratings_total": 5,
+        "ratings_average": "3.60",
+        "app_name": "",
+        "package_name": "gtranslator",
+        "histogram": "[1, 1, 0, 0, 3]"
+    },
+    {
         "ratings_total": 2,
         "ratings_average": "4.00",
         "app_name": "",
         "package_name": "xfce4-clipman-plugin",
         "histogram": "[0, 0, 1, 0, 1]"
+    },
+    {
+        "ratings_total": 29,
+        "ratings_average": "4.62",
+        "app_name": "",
+        "package_name": "redeclipse",
+        "histogram": "[0, 0, 4, 3, 22]"
     },
     {
         "ratings_total": 5,
@@ -24220,11 +24255,11 @@
         "histogram": "[0, 0, 0, 0, 2]"
     },
     {
-        "ratings_total": 163,
-        "ratings_average": "4.18",
+        "ratings_total": 122,
+        "ratings_average": "3.76",
         "app_name": "",
-        "package_name": "pdfshuffler",
-        "histogram": "[13, 11, 6, 37, 96]"
+        "package_name": "clamtk",
+        "histogram": "[12, 12, 15, 37, 46]"
     },
     {
         "ratings_total": 2,
@@ -24269,11 +24304,18 @@
         "histogram": "[0, 0, 1, 1, 2]"
     },
     {
-        "ratings_total": 63,
-        "ratings_average": "4.41",
+        "ratings_total": 20,
+        "ratings_average": "4.80",
         "app_name": "",
-        "package_name": "gthumb",
-        "histogram": "[2, 4, 1, 15, 41]"
+        "package_name": "kmplot",
+        "histogram": "[0, 0, 1, 2, 17]"
+    },
+    {
+        "ratings_total": 12,
+        "ratings_average": "2.33",
+        "app_name": "",
+        "package_name": "gtkam",
+        "histogram": "[6, 1, 1, 3, 1]"
     },
     {
         "ratings_total": 8,
@@ -24318,13 +24360,6 @@
         "histogram": "[0, 0, 1, 0, 0]"
     },
     {
-        "ratings_total": 25,
-        "ratings_average": "4.64",
-        "app_name": "",
-        "package_name": "puddletag",
-        "histogram": "[0, 1, 2, 2, 20]"
-    },
-    {
         "ratings_total": 2,
         "ratings_average": "5.00",
         "app_name": "",
@@ -24339,11 +24374,11 @@
         "histogram": "[18, 3, 1, 2, 1]"
     },
     {
-        "ratings_total": 28,
-        "ratings_average": "4.61",
+        "ratings_total": 166,
+        "ratings_average": "4.19",
         "app_name": "",
-        "package_name": "redeclipse",
-        "histogram": "[0, 0, 4, 3, 21]"
+        "package_name": "pdfshuffler",
+        "histogram": "[13, 11, 6, 38, 98]"
     },
     {
         "ratings_total": 1,
@@ -24409,18 +24444,11 @@
         "histogram": "[0, 1, 2, 5, 7]"
     },
     {
-        "ratings_total": 11,
-        "ratings_average": "1.82",
+        "ratings_total": 17,
+        "ratings_average": "3.59",
         "app_name": "",
-        "package_name": "kdepim-runtime",
-        "histogram": "[8, 1, 0, 0, 2]"
-    },
-    {
-        "ratings_total": 5,
-        "ratings_average": "3.60",
-        "app_name": "",
-        "package_name": "gtranslator",
-        "histogram": "[1, 1, 0, 0, 3]"
+        "package_name": "bastet",
+        "histogram": "[2, 2, 4, 2, 7]"
     },
     {
         "ratings_total": 4,
@@ -24442,13 +24470,6 @@
         "app_name": "",
         "package_name": "drivel",
         "histogram": "[3, 1, 3, 1, 3]"
-    },
-    {
-        "ratings_total": 18,
-        "ratings_average": "4.78",
-        "app_name": "",
-        "package_name": "kmplot",
-        "histogram": "[0, 0, 1, 2, 15]"
     },
     {
         "ratings_total": 32,
@@ -24542,13 +24563,6 @@
         "histogram": "[1, 0, 0, 1, 3]"
     },
     {
-        "ratings_total": 8,
-        "ratings_average": "3.12",
-        "app_name": "",
-        "package_name": "rhythmbox-ubuntuone",
-        "histogram": "[2, 1, 0, 4, 1]"
-    },
-    {
         "ratings_total": 2,
         "ratings_average": "1.00",
         "app_name": "",
@@ -24605,11 +24619,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 7,
-        "ratings_average": "4.57",
+        "ratings_total": 26,
+        "ratings_average": "4.62",
         "app_name": "",
-        "package_name": "mcomix",
-        "histogram": "[0, 0, 1, 1, 5]"
+        "package_name": "playitslowly",
+        "histogram": "[0, 0, 1, 8, 17]"
     },
     {
         "ratings_total": 1,
@@ -24631,6 +24645,13 @@
         "app_name": "",
         "package_name": "tortoisehg",
         "histogram": "[0, 1, 0, 1, 6]"
+    },
+    {
+        "ratings_total": 2,
+        "ratings_average": "4.00",
+        "app_name": "",
+        "package_name": "xbindkeys",
+        "histogram": "[0, 0, 1, 0, 1]"
     },
     {
         "ratings_total": 9,
@@ -24687,13 +24708,6 @@
         "app_name": "",
         "package_name": "swordsandsoldiers",
         "histogram": "[0, 0, 1, 1, 4]"
-    },
-    {
-        "ratings_total": 59,
-        "ratings_average": "3.25",
-        "app_name": "",
-        "package_name": "cairo-clock",
-        "histogram": "[13, 7, 7, 16, 16]"
     },
     {
         "ratings_total": 27,
@@ -24794,6 +24808,13 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
+        "ratings_total": 60,
+        "ratings_average": "3.27",
+        "app_name": "",
+        "package_name": "cairo-clock",
+        "histogram": "[13, 7, 7, 17, 16]"
+    },
+    {
         "ratings_total": 1,
         "ratings_average": "5.00",
         "app_name": "",
@@ -24871,13 +24892,6 @@
         "histogram": "[0, 0, 0, 3, 9]"
     },
     {
-        "ratings_total": 95,
-        "ratings_average": "4.45",
-        "app_name": "",
-        "package_name": "goldendict",
-        "histogram": "[4, 3, 6, 15, 67]"
-    },
-    {
         "ratings_total": 1,
         "ratings_average": "5.00",
         "app_name": "",
@@ -24911,6 +24925,13 @@
         "app_name": "",
         "package_name": "pgadmin3",
         "histogram": "[0, 0, 2, 10, 15]"
+    },
+    {
+        "ratings_total": 85,
+        "ratings_average": "4.51",
+        "app_name": "",
+        "package_name": "hplip-gui",
+        "histogram": "[4, 1, 2, 19, 59]"
     },
     {
         "ratings_total": 3,
@@ -24955,6 +24976,13 @@
         "histogram": "[11, 0, 0, 1, 8]"
     },
     {
+        "ratings_total": 8,
+        "ratings_average": "4.62",
+        "app_name": "",
+        "package_name": "mcomix",
+        "histogram": "[0, 0, 1, 1, 6]"
+    },
+    {
         "ratings_total": 1,
         "ratings_average": "1.00",
         "app_name": "",
@@ -24962,11 +24990,11 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 84,
-        "ratings_average": "4.50",
+        "ratings_total": 96,
+        "ratings_average": "4.46",
         "app_name": "",
-        "package_name": "hplip-gui",
-        "histogram": "[4, 1, 2, 19, 58]"
+        "package_name": "goldendict",
+        "histogram": "[4, 3, 6, 15, 68]"
     },
     {
         "ratings_total": 4,
@@ -24990,11 +25018,11 @@
         "histogram": "[0, 0, 1, 0, 1]"
     },
     {
-        "ratings_total": 25,
-        "ratings_average": "4.60",
+        "ratings_total": 9,
+        "ratings_average": "3.33",
         "app_name": "",
-        "package_name": "playitslowly",
-        "histogram": "[0, 0, 1, 8, 16]"
+        "package_name": "rhythmbox-ubuntuone",
+        "histogram": "[2, 1, 0, 4, 2]"
     },
     {
         "ratings_total": 4,
@@ -25032,13 +25060,6 @@
         "histogram": "[0, 1, 0, 0, 2]"
     },
     {
-        "ratings_total": 17,
-        "ratings_average": "4.35",
-        "app_name": "",
-        "package_name": "git-cola",
-        "histogram": "[0, 1, 0, 8, 8]"
-    },
-    {
         "ratings_total": 1,
         "ratings_average": "5.00",
         "app_name": "",
@@ -25060,6 +25081,13 @@
         "histogram": "[6, 1, 1, 14, 45]"
     },
     {
+        "ratings_total": 232,
+        "ratings_average": "4.05",
+        "app_name": "",
+        "package_name": "radiotray",
+        "histogram": "[36, 9, 7, 36, 144]"
+    },
+    {
         "ratings_total": 1,
         "ratings_average": "5.00",
         "app_name": "",
@@ -25067,18 +25095,25 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
+        "ratings_total": 8,
+        "ratings_average": "2.62",
+        "app_name": "",
+        "package_name": "trophy",
+        "histogram": "[2, 2, 2, 1, 1]"
+    },
+    {
+        "ratings_total": 18,
+        "ratings_average": "4.39",
+        "app_name": "",
+        "package_name": "git-cola",
+        "histogram": "[0, 1, 0, 8, 9]"
+    },
+    {
         "ratings_total": 1,
         "ratings_average": "5.00",
         "app_name": "",
         "package_name": "unity-scope-gdocs",
         "histogram": "[0, 0, 0, 0, 1]"
-    },
-    {
-        "ratings_total": 7,
-        "ratings_average": "2.57",
-        "app_name": "",
-        "package_name": "trophy",
-        "histogram": "[2, 2, 1, 1, 1]"
     },
     {
         "ratings_total": 1,
@@ -25137,13 +25172,6 @@
         "histogram": "[0, 0, 1, 0, 0]"
     },
     {
-        "ratings_total": 1,
-        "ratings_average": "3.00",
-        "app_name": "",
-        "package_name": "xbindkeys",
-        "histogram": "[0, 0, 1, 0, 0]"
-    },
-    {
         "ratings_total": 2,
         "ratings_average": "3.00",
         "app_name": "",
@@ -25165,11 +25193,11 @@
         "histogram": "[1, 0, 1, 2, 3]"
     },
     {
-        "ratings_total": 124,
-        "ratings_average": "4.44",
+        "ratings_total": 18,
+        "ratings_average": "3.83",
         "app_name": "",
-        "package_name": "lightread",
-        "histogram": "[4, 6, 6, 24, 84]"
+        "package_name": "slimboat",
+        "histogram": "[2, 2, 2, 3, 9]"
     },
     {
         "ratings_total": 2,
@@ -25270,6 +25298,20 @@
         "histogram": "[7, 1, 2, 4, 0]"
     },
     {
+        "ratings_total": 1,
+        "ratings_average": "4.00",
+        "app_name": "",
+        "package_name": "wxhexeditor",
+        "histogram": "[0, 0, 0, 1, 0]"
+    },
+    {
+        "ratings_total": 26,
+        "ratings_average": "3.81",
+        "app_name": "",
+        "package_name": "picsaw",
+        "histogram": "[1, 4, 3, 9, 9]"
+    },
+    {
         "ratings_total": 4,
         "ratings_average": "4.75",
         "app_name": "",
@@ -25347,6 +25389,13 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
+        "ratings_total": 29,
+        "ratings_average": "3.24",
+        "app_name": "",
+        "package_name": "cameramonitor",
+        "histogram": "[11, 0, 2, 3, 13]"
+    },
+    {
         "ratings_total": 9,
         "ratings_average": "4.67",
         "app_name": "",
@@ -25382,11 +25431,11 @@
         "histogram": "[1, 0, 1, 8, 2]"
     },
     {
-        "ratings_total": 107,
-        "ratings_average": "4.60",
+        "ratings_total": 125,
+        "ratings_average": "4.41",
         "app_name": "",
-        "package_name": "gnome-mplayer",
-        "histogram": "[3, 3, 4, 14, 83]"
+        "package_name": "lightread",
+        "histogram": "[5, 6, 6, 24, 84]"
     },
     {
         "ratings_total": 2,
@@ -25492,6 +25541,13 @@
         "app_name": "",
         "package_name": "texlive-latex-base",
         "histogram": "[0, 0, 0, 0, 0]"
+    },
+    {
+        "ratings_total": 109,
+        "ratings_average": "4.59",
+        "app_name": "",
+        "package_name": "gnome-mplayer",
+        "histogram": "[3, 3, 5, 14, 84]"
     },
     {
         "ratings_total": 9,
@@ -25641,20 +25697,6 @@
         "histogram": "[0, 0, 0, 0, 2]"
     },
     {
-        "ratings_total": 17,
-        "ratings_average": "3.82",
-        "app_name": "",
-        "package_name": "slimboat",
-        "histogram": "[2, 2, 2, 2, 9]"
-    },
-    {
-        "ratings_total": 25,
-        "ratings_average": "3.84",
-        "app_name": "",
-        "package_name": "picsaw",
-        "histogram": "[1, 4, 2, 9, 9]"
-    },
-    {
         "ratings_total": 4,
         "ratings_average": "4.00",
         "app_name": "",
@@ -25718,13 +25760,6 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 28,
-        "ratings_average": "3.18",
-        "app_name": "",
-        "package_name": "cameramonitor",
-        "histogram": "[11, 0, 2, 3, 12]"
-    },
-    {
         "ratings_total": 1,
         "ratings_average": "1.00",
         "app_name": "",
@@ -25781,6 +25816,13 @@
         "histogram": "[0, 1, 0, 0, 0]"
     },
     {
+        "ratings_total": 6,
+        "ratings_average": "4.33",
+        "app_name": "",
+        "package_name": "logisim",
+        "histogram": "[0, 0, 1, 2, 3]"
+    },
+    {
         "ratings_total": 2,
         "ratings_average": "5.00",
         "app_name": "",
@@ -25795,11 +25837,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 14,
-        "ratings_average": "3.29",
+        "ratings_total": 13,
+        "ratings_average": "2.77",
         "app_name": "",
-        "package_name": "shank2",
-        "histogram": "[4, 1, 2, 1, 6]"
+        "package_name": "xeoma",
+        "histogram": "[4, 3, 0, 4, 2]"
     },
     {
         "ratings_total": 4,
@@ -25942,11 +25984,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 0,
-        "ratings_average": "0.00",
+        "ratings_total": 1,
+        "ratings_average": "4.00",
         "app_name": "",
         "package_name": "mahjongepic2",
-        "histogram": "[0, 0, 0, 0, 0]"
+        "histogram": "[0, 0, 0, 1, 0]"
     },
     {
         "ratings_total": 2,
@@ -25963,11 +26005,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 95,
+        "ratings_total": 97,
         "ratings_average": "3.29",
         "app_name": "",
         "package_name": "epiphany-browser",
-        "histogram": "[16, 14, 16, 24, 25]"
+        "histogram": "[17, 14, 16, 24, 26]"
     },
     {
         "ratings_total": 1,
@@ -26040,11 +26082,11 @@
         "histogram": "[0, 0, 0, 1, 2]"
     },
     {
-        "ratings_total": 34,
-        "ratings_average": "4.12",
+        "ratings_total": 36,
+        "ratings_average": "3.67",
         "app_name": "",
-        "package_name": "gnome-sudoku",
-        "histogram": "[1, 2, 5, 10, 16]"
+        "package_name": "vidalia",
+        "histogram": "[7, 3, 2, 7, 17]"
     },
     {
         "ratings_total": 2,
@@ -26059,13 +26101,6 @@
         "app_name": "",
         "package_name": "movixmaker-2",
         "histogram": "[1, 0, 0, 0, 0]"
-    },
-    {
-        "ratings_total": 4,
-        "ratings_average": "4.50",
-        "app_name": "",
-        "package_name": "logisim",
-        "histogram": "[0, 0, 1, 0, 3]"
     },
     {
         "ratings_total": 1,
@@ -26094,6 +26129,13 @@
         "app_name": "",
         "package_name": "passage",
         "histogram": "[3, 4, 0, 2, 8]"
+    },
+    {
+        "ratings_total": 15,
+        "ratings_average": "3.13",
+        "app_name": "",
+        "package_name": "shank2",
+        "histogram": "[5, 1, 2, 1, 6]"
     },
     {
         "ratings_total": 6,
@@ -26285,11 +26327,11 @@
         "histogram": "[11, 1, 1, 0, 2]"
     },
     {
-        "ratings_total": 112,
-        "ratings_average": "4.36",
+        "ratings_total": 36,
+        "ratings_average": "4.14",
         "app_name": "",
-        "package_name": "libreoffice",
-        "histogram": "[5, 3, 6, 31, 67]"
+        "package_name": "gnome-sudoku",
+        "histogram": "[1, 2, 5, 11, 17]"
     },
     {
         "ratings_total": 12,
@@ -26388,13 +26430,6 @@
         "app_name": "",
         "package_name": "legend-of-grimrock",
         "histogram": "[1, 0, 2, 4, 12]"
-    },
-    {
-        "ratings_total": 12,
-        "ratings_average": "2.58",
-        "app_name": "",
-        "package_name": "xeoma",
-        "histogram": "[4, 3, 0, 4, 1]"
     },
     {
         "ratings_total": 1,
@@ -26530,13 +26565,6 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 28,
-        "ratings_average": "4.43",
-        "app_name": "",
-        "package_name": "matlab-support",
-        "histogram": "[3, 0, 1, 2, 22]"
-    },
-    {
         "ratings_total": 4,
         "ratings_average": "4.50",
         "app_name": "",
@@ -26558,11 +26586,11 @@
         "histogram": "[0, 1, 0, 2, 3]"
     },
     {
-        "ratings_total": 6,
-        "ratings_average": "4.33",
+        "ratings_total": 29,
+        "ratings_average": "4.45",
         "app_name": "",
-        "package_name": "drpython",
-        "histogram": "[0, 1, 0, 1, 4]"
+        "package_name": "matlab-support",
+        "histogram": "[3, 0, 1, 2, 23]"
     },
     {
         "ratings_total": 2,
@@ -26642,11 +26670,11 @@
         "histogram": "[0, 3, 0, 1, 4]"
     },
     {
-        "ratings_total": 6,
-        "ratings_average": "2.83",
+        "ratings_total": 27,
+        "ratings_average": "4.33",
         "app_name": "",
-        "package_name": "gsoko",
-        "histogram": "[0, 3, 1, 2, 0]"
+        "package_name": "gramps",
+        "histogram": "[0, 2, 1, 10, 14]"
     },
     {
         "ratings_total": 9,
@@ -26654,6 +26682,13 @@
         "app_name": "",
         "package_name": "kontact",
         "histogram": "[2, 1, 0, 1, 5]"
+    },
+    {
+        "ratings_total": 7,
+        "ratings_average": "2.71",
+        "app_name": "",
+        "package_name": "gsoko",
+        "histogram": "[0, 4, 1, 2, 0]"
     },
     {
         "ratings_total": 5,
@@ -26668,13 +26703,6 @@
         "app_name": "",
         "package_name": "searchandrescue",
         "histogram": "[2, 1, 3, 2, 1]"
-    },
-    {
-        "ratings_total": 26,
-        "ratings_average": "4.42",
-        "app_name": "",
-        "package_name": "gramps",
-        "histogram": "[0, 1, 1, 10, 14]"
     },
     {
         "ratings_total": 13,
@@ -27041,6 +27069,13 @@
         "histogram": "[0, 0, 1, 0, 0]"
     },
     {
+        "ratings_total": 7,
+        "ratings_average": "4.43",
+        "app_name": "",
+        "package_name": "drpython",
+        "histogram": "[0, 1, 0, 1, 5]"
+    },
+    {
         "ratings_total": 1,
         "ratings_average": "5.00",
         "app_name": "",
@@ -27125,11 +27160,11 @@
         "histogram": "[1, 0, 4, 2, 1]"
     },
     {
-        "ratings_total": 18,
-        "ratings_average": "4.28",
+        "ratings_total": 79,
+        "ratings_average": "4.47",
         "app_name": "",
-        "package_name": "xnviewmp",
-        "histogram": "[2, 0, 0, 5, 11]"
+        "package_name": "xournal",
+        "histogram": "[0, 4, 7, 16, 52]"
     },
     {
         "ratings_total": 17,
@@ -27179,6 +27214,13 @@
         "app_name": "",
         "package_name": "balder2d",
         "histogram": "[0, 1, 0, 0, 0]"
+    },
+    {
+        "ratings_total": 62,
+        "ratings_average": "4.39",
+        "app_name": "",
+        "package_name": "supertux-stable",
+        "histogram": "[1, 2, 5, 18, 36]"
     },
     {
         "ratings_total": 3,
@@ -27270,13 +27312,6 @@
         "app_name": "",
         "package_name": "live-f1",
         "histogram": "[0, 0, 1, 0, 2]"
-    },
-    {
-        "ratings_total": 60,
-        "ratings_average": "4.35",
-        "app_name": "",
-        "package_name": "xpad",
-        "histogram": "[1, 3, 8, 10, 38]"
     },
     {
         "ratings_total": 2,
@@ -27384,11 +27419,11 @@
         "histogram": "[1, 0, 0, 2, 6]"
     },
     {
-        "ratings_total": 5,
-        "ratings_average": "5.00",
+        "ratings_total": 2,
+        "ratings_average": "1.00",
         "app_name": "",
-        "package_name": "nemo",
-        "histogram": "[0, 0, 0, 0, 5]"
+        "package_name": "recover",
+        "histogram": "[2, 0, 0, 0, 0]"
     },
     {
         "ratings_total": 9,
@@ -27510,11 +27545,11 @@
         "histogram": "[1, 0, 0, 3, 9]"
     },
     {
-        "ratings_total": 1,
-        "ratings_average": "1.00",
+        "ratings_total": 61,
+        "ratings_average": "4.34",
         "app_name": "",
-        "package_name": "recover",
-        "histogram": "[1, 0, 0, 0, 0]"
+        "package_name": "xpad",
+        "histogram": "[1, 3, 8, 11, 38]"
     },
     {
         "ratings_total": 11,
@@ -27543,6 +27578,13 @@
         "app_name": "",
         "package_name": "john",
         "histogram": "[1, 0, 0, 0, 1]"
+    },
+    {
+        "ratings_total": 19,
+        "ratings_average": "4.32",
+        "app_name": "",
+        "package_name": "xnviewmp",
+        "histogram": "[2, 0, 0, 5, 12]"
     },
     {
         "ratings_total": 7,
@@ -27601,11 +27643,11 @@
         "histogram": "[5, 0, 0, 0, 3]"
     },
     {
-        "ratings_total": 61,
-        "ratings_average": "4.38",
+        "ratings_total": 8,
+        "ratings_average": "5.00",
         "app_name": "",
-        "package_name": "supertux-stable",
-        "histogram": "[1, 2, 5, 18, 35]"
+        "package_name": "nemo",
+        "histogram": "[0, 0, 0, 0, 8]"
     },
     {
         "ratings_total": 1,
@@ -27634,13 +27676,6 @@
         "app_name": "",
         "package_name": "rekonq",
         "histogram": "[3, 5, 1, 8, 1]"
-    },
-    {
-        "ratings_total": 41,
-        "ratings_average": "3.56",
-        "app_name": "",
-        "package_name": "visualboyadvance-gtk",
-        "histogram": "[7, 4, 8, 3, 19]"
     },
     {
         "ratings_total": 81,
@@ -27704,13 +27739,6 @@
         "app_name": "",
         "package_name": "gip",
         "histogram": "[0, 1, 0, 2, 8]"
-    },
-    {
-        "ratings_total": 78,
-        "ratings_average": "4.49",
-        "app_name": "",
-        "package_name": "xournal",
-        "histogram": "[0, 4, 6, 16, 52]"
     },
     {
         "ratings_total": 10,
@@ -28056,11 +28084,11 @@
         "histogram": "[0, 0, 0, 1, 0]"
     },
     {
-        "ratings_total": 97,
-        "ratings_average": "2.25",
+        "ratings_total": 13,
+        "ratings_average": "3.54",
         "app_name": "",
-        "package_name": "fglrx",
-        "histogram": "[46, 14, 15, 11, 11]"
+        "package_name": "laptop-mode-tools",
+        "histogram": "[3, 0, 2, 3, 5]"
     },
     {
         "ratings_total": 16,
@@ -28140,18 +28168,18 @@
         "histogram": "[0, 1, 0, 0, 0]"
     },
     {
-        "ratings_total": 12,
-        "ratings_average": "3.75",
+        "ratings_total": 3,
+        "ratings_average": "1.67",
         "app_name": "",
-        "package_name": "laptop-mode-tools",
-        "histogram": "[2, 0, 2, 3, 5]"
+        "package_name": "skript",
+        "histogram": "[1, 2, 0, 0, 0]"
     },
     {
-        "ratings_total": 380,
-        "ratings_average": "4.48",
+        "ratings_total": 2,
+        "ratings_average": "2.00",
         "app_name": "",
-        "package_name": "supertuxkart",
-        "histogram": "[9, 15, 19, 77, 260]"
+        "package_name": "kalgebramobile",
+        "histogram": "[1, 0, 1, 0, 0]"
     },
     {
         "ratings_total": 11,
@@ -28159,6 +28187,13 @@
         "app_name": "",
         "package_name": "aqemu",
         "histogram": "[1, 1, 0, 4, 5]"
+    },
+    {
+        "ratings_total": 2,
+        "ratings_average": "3.00",
+        "app_name": "",
+        "package_name": "bist",
+        "histogram": "[1, 0, 0, 0, 1]"
     },
     {
         "ratings_total": 3,
@@ -28201,13 +28236,6 @@
         "app_name": "",
         "package_name": "gcompris",
         "histogram": "[0, 0, 2, 10, 30]"
-    },
-    {
-        "ratings_total": 60,
-        "ratings_average": "4.25",
-        "app_name": "",
-        "package_name": "homebank",
-        "histogram": "[1, 3, 3, 26, 27]"
     },
     {
         "ratings_total": 1,
@@ -28266,11 +28294,11 @@
         "histogram": "[8, 2, 1, 5, 2]"
     },
     {
-        "ratings_total": 1,
-        "ratings_average": "3.00",
+        "ratings_total": 98,
+        "ratings_average": "2.23",
         "app_name": "",
-        "package_name": "kalgebramobile",
-        "histogram": "[0, 0, 1, 0, 0]"
+        "package_name": "fglrx",
+        "histogram": "[47, 14, 15, 11, 11]"
     },
     {
         "ratings_total": 1,
@@ -28278,6 +28306,13 @@
         "app_name": "",
         "package_name": "wmcdplay",
         "histogram": "[0, 1, 0, 0, 0]"
+    },
+    {
+        "ratings_total": 62,
+        "ratings_average": "4.26",
+        "app_name": "",
+        "package_name": "homebank",
+        "histogram": "[1, 3, 3, 27, 28]"
     },
     {
         "ratings_total": 11,
@@ -28330,13 +28365,6 @@
     },
     {
         "ratings_total": 1,
-        "ratings_average": "1.00",
-        "app_name": "",
-        "package_name": "bist",
-        "histogram": "[1, 0, 0, 0, 0]"
-    },
-    {
-        "ratings_total": 1,
         "ratings_average": "4.00",
         "app_name": "",
         "package_name": "cdck",
@@ -28385,11 +28413,11 @@
         "histogram": "[1, 1, 0, 0, 1]"
     },
     {
-        "ratings_total": 21,
-        "ratings_average": "4.62",
+        "ratings_total": 385,
+        "ratings_average": "4.49",
         "app_name": "",
-        "package_name": "elinks",
-        "histogram": "[0, 0, 1, 6, 14]"
+        "package_name": "supertuxkart",
+        "histogram": "[9, 15, 19, 79, 263]"
     },
     {
         "ratings_total": 4,
@@ -28495,13 +28523,6 @@
         "app_name": "",
         "package_name": "multimon",
         "histogram": "[0, 0, 0, 1, 0]"
-    },
-    {
-        "ratings_total": 34,
-        "ratings_average": "4.41",
-        "app_name": "",
-        "package_name": "ktorrent",
-        "histogram": "[2, 2, 0, 6, 24]"
     },
     {
         "ratings_total": 1,
@@ -28616,13 +28637,6 @@
         "histogram": "[0, 1, 1, 2, 1]"
     },
     {
-        "ratings_total": 59,
-        "ratings_average": "4.46",
-        "app_name": "",
-        "package_name": "pyrenamer",
-        "histogram": "[2, 1, 6, 9, 41]"
-    },
-    {
         "ratings_total": 15,
         "ratings_average": "4.13",
         "app_name": "",
@@ -28721,11 +28735,11 @@
         "histogram": "[0, 1, 0, 0, 0]"
     },
     {
-        "ratings_total": 90,
-        "ratings_average": "4.62",
+        "ratings_total": 61,
+        "ratings_average": "2.98",
         "app_name": "",
-        "package_name": "avant-window-navigator",
-        "histogram": "[0, 4, 4, 14, 68]"
+        "package_name": "gnome-bluetooth",
+        "histogram": "[18, 10, 6, 9, 18]"
     },
     {
         "ratings_total": 10,
@@ -28742,6 +28756,13 @@
         "histogram": "[0, 1, 0, 0, 1]"
     },
     {
+        "ratings_total": 91,
+        "ratings_average": "4.63",
+        "app_name": "",
+        "package_name": "avant-window-navigator",
+        "histogram": "[0, 4, 4, 14, 69]"
+    },
+    {
         "ratings_total": 4,
         "ratings_average": "3.75",
         "app_name": "",
@@ -28754,6 +28775,13 @@
         "app_name": "",
         "package_name": "lm-sensors",
         "histogram": "[0, 0, 1, 3, 2]"
+    },
+    {
+        "ratings_total": 35,
+        "ratings_average": "4.40",
+        "app_name": "",
+        "package_name": "ktorrent",
+        "histogram": "[2, 2, 0, 7, 24]"
     },
     {
         "ratings_total": 2,
@@ -28847,18 +28875,11 @@
         "histogram": "[0, 0, 0, 1, 0]"
     },
     {
-        "ratings_total": 46,
-        "ratings_average": "3.63",
-        "app_name": "",
-        "package_name": "system-config-printer-gnome",
-        "histogram": "[11, 2, 3, 7, 23]"
-    },
-    {
         "ratings_total": 60,
-        "ratings_average": "2.95",
+        "ratings_average": "4.43",
         "app_name": "",
-        "package_name": "gnome-bluetooth",
-        "histogram": "[18, 10, 6, 9, 17]"
+        "package_name": "pyrenamer",
+        "histogram": "[2, 1, 7, 9, 41]"
     },
     {
         "ratings_total": 1,
@@ -28866,6 +28887,13 @@
         "app_name": "",
         "package_name": "wims",
         "histogram": "[0, 0, 0, 0, 1]"
+    },
+    {
+        "ratings_total": 68,
+        "ratings_average": "4.21",
+        "app_name": "",
+        "package_name": "xfburn",
+        "histogram": "[7, 3, 2, 13, 43]"
     },
     {
         "ratings_total": 18,
@@ -28896,11 +28924,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 67,
-        "ratings_average": "4.25",
+        "ratings_total": 22,
+        "ratings_average": "4.64",
         "app_name": "",
-        "package_name": "xfburn",
-        "histogram": "[6, 3, 2, 13, 43]"
+        "package_name": "elinks",
+        "histogram": "[0, 0, 1, 6, 15]"
     },
     {
         "ratings_total": 16,
@@ -29085,11 +29113,11 @@
         "histogram": "[0, 0, 0, 1, 2]"
     },
     {
-        "ratings_total": 9,
-        "ratings_average": "4.11",
+        "ratings_total": 2,
+        "ratings_average": "2.00",
         "app_name": "",
-        "package_name": "rabbitvcs-nautilus",
-        "histogram": "[1, 0, 1, 2, 5]"
+        "package_name": "sunclock",
+        "histogram": "[1, 0, 1, 0, 0]"
     },
     {
         "ratings_total": 8,
@@ -29204,11 +29232,11 @@
         "histogram": "[0, 0, 0, 1, 0]"
     },
     {
-        "ratings_total": 106,
-        "ratings_average": "4.69",
+        "ratings_total": 109,
+        "ratings_average": "4.70",
         "app_name": "",
         "package_name": "openttd",
-        "histogram": "[2, 0, 5, 15, 84]"
+        "histogram": "[2, 0, 5, 15, 87]"
     },
     {
         "ratings_total": 2,
@@ -29260,13 +29288,6 @@
         "histogram": "[0, 1, 2, 1, 1]"
     },
     {
-        "ratings_total": 4,
-        "ratings_average": "5.00",
-        "app_name": "",
-        "package_name": "wavemon",
-        "histogram": "[0, 0, 0, 0, 4]"
-    },
-    {
         "ratings_total": 6,
         "ratings_average": "4.17",
         "app_name": "",
@@ -29295,11 +29316,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 110,
-        "ratings_average": "4.11",
+        "ratings_total": 113,
+        "ratings_average": "4.07",
         "app_name": "",
         "package_name": "winff",
-        "histogram": "[11, 8, 4, 22, 65]"
+        "histogram": "[12, 8, 5, 23, 65]"
     },
     {
         "ratings_total": 1,
@@ -29398,6 +29419,13 @@
         "app_name": "",
         "package_name": "gimp-plugin-registry",
         "histogram": "[0, 0, 1, 0, 1]"
+    },
+    {
+        "ratings_total": 5,
+        "ratings_average": "5.00",
+        "app_name": "",
+        "package_name": "wavemon",
+        "histogram": "[0, 0, 0, 0, 5]"
     },
     {
         "ratings_total": 1,
@@ -29545,13 +29573,6 @@
         "app_name": "",
         "package_name": "qemu-launcher",
         "histogram": "[0, 0, 0, 0, 2]"
-    },
-    {
-        "ratings_total": 1,
-        "ratings_average": "1.00",
-        "app_name": "",
-        "package_name": "sunclock",
-        "histogram": "[1, 0, 0, 0, 0]"
     },
     {
         "ratings_total": 19,
@@ -29757,11 +29778,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 37,
-        "ratings_average": "2.84",
+        "ratings_total": 57,
+        "ratings_average": "3.75",
         "app_name": "",
-        "package_name": "easymp3gain-gtk",
-        "histogram": "[16, 2, 2, 6, 11]"
+        "package_name": "dvdstyler",
+        "histogram": "[10, 5, 2, 12, 28]"
     },
     {
         "ratings_total": 20,
@@ -29820,11 +29841,11 @@
         "histogram": "[3, 0, 0, 1, 2]"
     },
     {
-        "ratings_total": 56,
-        "ratings_average": "3.75",
+        "ratings_total": 1,
+        "ratings_average": "2.00",
         "app_name": "",
-        "package_name": "dvdstyler",
-        "histogram": "[10, 5, 2, 11, 28]"
+        "package_name": "indicator-keyboard",
+        "histogram": "[0, 1, 0, 0, 0]"
     },
     {
         "ratings_total": 5,
@@ -30002,11 +30023,18 @@
         "histogram": "[0, 0, 1, 2, 0]"
     },
     {
-        "ratings_total": 317,
-        "ratings_average": "3.34",
+        "ratings_total": 30,
+        "ratings_average": "4.10",
         "app_name": "",
-        "package_name": "evolution",
-        "histogram": "[54, 58, 36, 64, 105]"
+        "package_name": "gprename",
+        "histogram": "[0, 3, 5, 8, 14]"
+    },
+    {
+        "ratings_total": 7,
+        "ratings_average": "1.14",
+        "app_name": "",
+        "package_name": "bluemindo",
+        "histogram": "[6, 1, 0, 0, 0]"
     },
     {
         "ratings_total": 2,
@@ -30030,11 +30058,11 @@
         "histogram": "[0, 0, 0, 0, 2]"
     },
     {
-        "ratings_total": 29,
-        "ratings_average": "4.14",
+        "ratings_total": 7,
+        "ratings_average": "3.29",
         "app_name": "",
-        "package_name": "gprename",
-        "histogram": "[0, 3, 4, 8, 14]"
+        "package_name": "cgoban",
+        "histogram": "[1, 2, 1, 0, 3]"
     },
     {
         "ratings_total": 1,
@@ -30051,18 +30079,11 @@
         "histogram": "[0, 1, 0, 0, 0]"
     },
     {
-        "ratings_total": 200,
-        "ratings_average": "3.98",
+        "ratings_total": 201,
+        "ratings_average": "3.97",
         "app_name": "",
         "package_name": "evince",
-        "histogram": "[7, 16, 36, 55, 86]"
-    },
-    {
-        "ratings_total": 6,
-        "ratings_average": "1.17",
-        "app_name": "",
-        "package_name": "bluemindo",
-        "histogram": "[5, 1, 0, 0, 0]"
+        "histogram": "[8, 16, 36, 55, 86]"
     },
     {
         "ratings_total": 2,
@@ -30135,11 +30156,11 @@
         "histogram": "[2, 1, 0, 2, 5]"
     },
     {
-        "ratings_total": 12,
-        "ratings_average": "3.92",
+        "ratings_total": 39,
+        "ratings_average": "2.90",
         "app_name": "",
-        "package_name": "vmware-view-open-client",
-        "histogram": "[0, 2, 2, 3, 5]"
+        "package_name": "easymp3gain-gtk",
+        "histogram": "[16, 2, 3, 6, 12]"
     },
     {
         "ratings_total": 1,
@@ -30156,11 +30177,11 @@
         "histogram": "[0, 1, 0, 0, 0]"
     },
     {
-        "ratings_total": 6,
-        "ratings_average": "3.50",
+        "ratings_total": 13,
+        "ratings_average": "3.85",
         "app_name": "",
-        "package_name": "cgoban",
-        "histogram": "[1, 1, 1, 0, 3]"
+        "package_name": "vmware-view-open-client",
+        "histogram": "[0, 2, 3, 3, 5]"
     },
     {
         "ratings_total": 10,
@@ -30182,6 +30203,13 @@
         "app_name": "",
         "package_name": "openmovieeditor",
         "histogram": "[3, 1, 1, 1, 0]"
+    },
+    {
+        "ratings_total": 70,
+        "ratings_average": "4.46",
+        "app_name": "",
+        "package_name": "gnucash",
+        "histogram": "[5, 0, 2, 14, 49]"
     },
     {
         "ratings_total": 3,
@@ -30282,13 +30310,6 @@
         "histogram": "[3, 0, 0, 6, 6]"
     },
     {
-        "ratings_total": 69,
-        "ratings_average": "4.51",
-        "app_name": "",
-        "package_name": "gnucash",
-        "histogram": "[4, 0, 2, 14, 49]"
-    },
-    {
         "ratings_total": 10,
         "ratings_average": "4.20",
         "app_name": "",
@@ -30352,6 +30373,13 @@
         "histogram": "[2, 3, 0, 3, 0]"
     },
     {
+        "ratings_total": 21,
+        "ratings_average": "4.33",
+        "app_name": "",
+        "package_name": "phpmyadmin",
+        "histogram": "[1, 1, 1, 5, 13]"
+    },
+    {
         "ratings_total": 2,
         "ratings_average": "1.50",
         "app_name": "",
@@ -30394,13 +30422,6 @@
         "histogram": "[0, 1, 0, 2, 0]"
     },
     {
-        "ratings_total": 9,
-        "ratings_average": "3.11",
-        "app_name": "",
-        "package_name": "listen",
-        "histogram": "[3, 1, 0, 2, 3]"
-    },
-    {
         "ratings_total": 2,
         "ratings_average": "4.00",
         "app_name": "",
@@ -30415,11 +30436,11 @@
         "histogram": "[2, 0, 0, 4, 3]"
     },
     {
-        "ratings_total": 70,
-        "ratings_average": "4.30",
+        "ratings_total": 9,
+        "ratings_average": "3.11",
         "app_name": "",
-        "package_name": "chmsee",
-        "histogram": "[1, 6, 7, 13, 43]"
+        "package_name": "robotux",
+        "histogram": "[2, 1, 1, 4, 1]"
     },
     {
         "ratings_total": 3,
@@ -30443,11 +30464,11 @@
         "histogram": "[0, 0, 1, 0, 0]"
     },
     {
-        "ratings_total": 222,
-        "ratings_average": "3.55",
+        "ratings_total": 72,
+        "ratings_average": "4.31",
         "app_name": "",
-        "package_name": "emesene",
-        "histogram": "[37, 19, 33, 51, 82]"
+        "package_name": "chmsee",
+        "histogram": "[1, 6, 7, 14, 44]"
     },
     {
         "ratings_total": 8,
@@ -30618,11 +30639,11 @@
         "histogram": "[8, 1, 2, 2, 1]"
     },
     {
-        "ratings_total": 2,
-        "ratings_average": "1.50",
+        "ratings_total": 223,
+        "ratings_average": "3.55",
         "app_name": "",
-        "package_name": "solitaire",
-        "histogram": "[1, 1, 0, 0, 0]"
+        "package_name": "emesene",
+        "histogram": "[37, 19, 33, 52, 82]"
     },
     {
         "ratings_total": 3,
@@ -30639,18 +30660,18 @@
         "histogram": "[1, 1, 1, 0, 2]"
     },
     {
-        "ratings_total": 47,
-        "ratings_average": "4.06",
+        "ratings_total": 3,
+        "ratings_average": "1.33",
         "app_name": "",
-        "package_name": "extremetuxracer",
-        "histogram": "[2, 5, 5, 11, 24]"
+        "package_name": "solitaire",
+        "histogram": "[2, 1, 0, 0, 0]"
     },
     {
-        "ratings_total": 4,
-        "ratings_average": "4.50",
+        "ratings_total": 111,
+        "ratings_average": "4.77",
         "app_name": "",
-        "package_name": "contacts",
-        "histogram": "[0, 0, 1, 0, 3]"
+        "package_name": "gelemental",
+        "histogram": "[1, 1, 1, 16, 92]"
     },
     {
         "ratings_total": 5,
@@ -30738,10 +30759,10 @@
     },
     {
         "ratings_total": 5,
-        "ratings_average": "1.20",
+        "ratings_average": "3.80",
         "app_name": "",
-        "package_name": "unity-webapps-youtube",
-        "histogram": "[4, 1, 0, 0, 0]"
+        "package_name": "contacts",
+        "histogram": "[1, 0, 1, 0, 3]"
     },
     {
         "ratings_total": 1,
@@ -30751,11 +30772,11 @@
         "histogram": "[0, 0, 1, 0, 0]"
     },
     {
-        "ratings_total": 110,
-        "ratings_average": "4.80",
+        "ratings_total": 140,
+        "ratings_average": "4.71",
         "app_name": "",
-        "package_name": "gelemental",
-        "histogram": "[1, 0, 1, 16, 92]"
+        "package_name": "synapse",
+        "histogram": "[2, 3, 4, 16, 115]"
     },
     {
         "ratings_total": 1,
@@ -30791,6 +30812,13 @@
         "app_name": "",
         "package_name": "funcoeszz",
         "histogram": "[0, 0, 0, 0, 2]"
+    },
+    {
+        "ratings_total": 59,
+        "ratings_average": "4.10",
+        "app_name": "",
+        "package_name": "phatch",
+        "histogram": "[6, 4, 4, 9, 36]"
     },
     {
         "ratings_total": 31,
@@ -30849,11 +30877,11 @@
         "histogram": "[0, 1, 0, 2, 3]"
     },
     {
-        "ratings_total": 20,
-        "ratings_average": "4.50",
+        "ratings_total": 6,
+        "ratings_average": "1.50",
         "app_name": "",
-        "package_name": "phpmyadmin",
-        "histogram": "[0, 1, 1, 5, 13]"
+        "package_name": "unity-webapps-youtube",
+        "histogram": "[4, 1, 1, 0, 0]"
     },
     {
         "ratings_total": 1,
@@ -30863,11 +30891,11 @@
         "histogram": "[0, 1, 0, 0, 0]"
     },
     {
-        "ratings_total": 139,
-        "ratings_average": "4.71",
+        "ratings_total": 10,
+        "ratings_average": "3.20",
         "app_name": "",
-        "package_name": "synapse",
-        "histogram": "[2, 3, 4, 15, 115]"
+        "package_name": "listen",
+        "histogram": "[3, 1, 0, 3, 3]"
     },
     {
         "ratings_total": 17,
@@ -30903,13 +30931,6 @@
         "app_name": "",
         "package_name": "mumble",
         "histogram": "[0, 0, 2, 7, 15]"
-    },
-    {
-        "ratings_total": 58,
-        "ratings_average": "4.09",
-        "app_name": "",
-        "package_name": "phatch",
-        "histogram": "[6, 4, 4, 9, 35]"
     },
     {
         "ratings_total": 14,
@@ -30975,11 +30996,11 @@
         "histogram": "[3, 0, 2, 3, 0]"
     },
     {
-        "ratings_total": 130,
-        "ratings_average": "4.19",
+        "ratings_total": 7,
+        "ratings_average": "2.00",
         "app_name": "",
-        "package_name": "playonlinux",
-        "histogram": "[8, 8, 9, 31, 74]"
+        "package_name": "gnome-calculator",
+        "histogram": "[4, 1, 1, 0, 1]"
     },
     {
         "ratings_total": 1,
@@ -31003,11 +31024,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 3,
-        "ratings_average": "1.67",
+        "ratings_total": 491,
+        "ratings_average": "3.15",
         "app_name": "",
-        "package_name": "unity-webapps-facebookmessenger",
-        "histogram": "[1, 2, 0, 0, 0]"
+        "package_name": "empathy",
+        "histogram": "[90, 80, 102, 105, 114]"
     },
     {
         "ratings_total": 3,
@@ -31031,11 +31052,11 @@
         "histogram": "[0, 0, 1, 0, 0]"
     },
     {
-        "ratings_total": 458,
-        "ratings_average": "4.86",
+        "ratings_total": 33,
+        "ratings_average": "4.97",
         "app_name": "",
-        "package_name": "gparted",
-        "histogram": "[4, 2, 5, 33, 414]"
+        "package_name": "variety",
+        "histogram": "[0, 0, 0, 1, 32]"
     },
     {
         "ratings_total": 1,
@@ -31087,18 +31108,18 @@
         "histogram": "[0, 0, 1, 0, 0]"
     },
     {
-        "ratings_total": 66,
-        "ratings_average": "4.91",
+        "ratings_total": 87,
+        "ratings_average": "4.63",
         "app_name": "",
-        "package_name": "geogebra",
-        "histogram": "[0, 0, 1, 4, 61]"
+        "package_name": "unity-tweak-tool",
+        "histogram": "[2, 1, 5, 11, 68]"
     },
     {
-        "ratings_total": 541,
-        "ratings_average": "3.74",
+        "ratings_total": 4,
+        "ratings_average": "1.50",
         "app_name": "",
-        "package_name": "rhythmbox",
-        "histogram": "[77, 45, 70, 100, 249]"
+        "package_name": "unity-webapps-facebookmessenger",
+        "histogram": "[2, 2, 0, 0, 0]"
     },
     {
         "ratings_total": 1,
@@ -31115,18 +31136,18 @@
         "histogram": "[0, 0, 1, 0, 0]"
     },
     {
-        "ratings_total": 1027,
-        "ratings_average": "4.65",
+        "ratings_total": 81,
+        "ratings_average": "3.30",
         "app_name": "",
-        "package_name": "gimp",
-        "histogram": "[27, 14, 30, 150, 806]"
+        "package_name": "cryptkeeper",
+        "histogram": "[28, 3, 3, 11, 36]"
     },
     {
-        "ratings_total": 67,
-        "ratings_average": "4.00",
+        "ratings_total": 4,
+        "ratings_average": "3.00",
         "app_name": "",
-        "package_name": "update-manager",
-        "histogram": "[6, 3, 11, 12, 35]"
+        "package_name": "pdf-studio-8-demo",
+        "histogram": "[2, 0, 0, 0, 2]"
     },
     {
         "ratings_total": 10,
@@ -31206,25 +31227,18 @@
         "histogram": "[9, 4, 3, 5, 36]"
     },
     {
-        "ratings_total": 4,
-        "ratings_average": "1.00",
+        "ratings_total": 87,
+        "ratings_average": "4.70",
         "app_name": "",
-        "package_name": "mess-desktop-entries",
-        "histogram": "[4, 0, 0, 0, 0]"
+        "package_name": "dosbox",
+        "histogram": "[3, 1, 1, 9, 73]"
     },
     {
-        "ratings_total": 86,
-        "ratings_average": "4.63",
+        "ratings_total": 107,
+        "ratings_average": "4.43",
         "app_name": "",
-        "package_name": "unity-tweak-tool",
-        "histogram": "[2, 1, 5, 11, 67]"
-    },
-    {
-        "ratings_total": 6,
-        "ratings_average": "2.17",
-        "app_name": "",
-        "package_name": "gnome-calculator",
-        "histogram": "[3, 1, 1, 0, 1]"
+        "package_name": "gufw",
+        "histogram": "[2, 5, 5, 28, 67]"
     },
     {
         "ratings_total": 2,
@@ -31234,18 +31248,18 @@
         "histogram": "[0, 0, 0, 0, 2]"
     },
     {
-        "ratings_total": 334,
-        "ratings_average": "4.49",
+        "ratings_total": 3,
+        "ratings_average": "5.00",
         "app_name": "",
-        "package_name": "pidgin",
-        "histogram": "[12, 9, 16, 63, 234]"
+        "package_name": "bijiben",
+        "histogram": "[0, 0, 0, 0, 3]"
     },
     {
-        "ratings_total": 105,
-        "ratings_average": "4.43",
+        "ratings_total": 68,
+        "ratings_average": "3.96",
         "app_name": "",
-        "package_name": "gufw",
-        "histogram": "[2, 5, 5, 27, 66]"
+        "package_name": "update-manager",
+        "histogram": "[7, 3, 11, 12, 35]"
     },
     {
         "ratings_total": 2,
@@ -31274,6 +31288,13 @@
         "app_name": "",
         "package_name": "ibus-sunpinyin",
         "histogram": "[0, 0, 0, 3, 3]"
+    },
+    {
+        "ratings_total": 5,
+        "ratings_average": "1.20",
+        "app_name": "",
+        "package_name": "mess-desktop-entries",
+        "histogram": "[4, 1, 0, 0, 0]"
     },
     {
         "ratings_total": 1,
@@ -31339,11 +31360,11 @@
         "histogram": "[1, 0, 2, 1, 6]"
     },
     {
-        "ratings_total": 84,
-        "ratings_average": "4.74",
+        "ratings_total": 335,
+        "ratings_average": "4.49",
         "app_name": "",
-        "package_name": "dosbox",
-        "histogram": "[2, 1, 1, 9, 71]"
+        "package_name": "pidgin",
+        "histogram": "[12, 9, 16, 64, 234]"
     },
     {
         "ratings_total": 3,
@@ -31358,6 +31379,13 @@
         "app_name": "",
         "package_name": "qdacco",
         "histogram": "[1, 0, 0, 0, 0]"
+    },
+    {
+        "ratings_total": 547,
+        "ratings_average": "3.73",
+        "app_name": "",
+        "package_name": "rhythmbox",
+        "histogram": "[78, 47, 71, 100, 251]"
     },
     {
         "ratings_total": 69,
@@ -31388,11 +31416,18 @@
         "histogram": "[0, 0, 0, 1, 2]"
     },
     {
-        "ratings_total": 489,
-        "ratings_average": "3.15",
+        "ratings_total": 1030,
+        "ratings_average": "4.65",
         "app_name": "",
-        "package_name": "empathy",
-        "histogram": "[89, 80, 102, 104, 114]"
+        "package_name": "gimp",
+        "histogram": "[28, 14, 30, 150, 808]"
+    },
+    {
+        "ratings_total": 458,
+        "ratings_average": "4.73",
+        "app_name": "",
+        "package_name": "audacity",
+        "histogram": "[9, 5, 9, 56, 379]"
     },
     {
         "ratings_total": 24,
@@ -31416,11 +31451,11 @@
         "histogram": "[18, 2, 8, 12, 30]"
     },
     {
-        "ratings_total": 454,
-        "ratings_average": "4.73",
+        "ratings_total": 460,
+        "ratings_average": "4.86",
         "app_name": "",
-        "package_name": "audacity",
-        "histogram": "[9, 5, 8, 56, 376]"
+        "package_name": "gparted",
+        "histogram": "[4, 2, 5, 33, 416]"
     },
     {
         "ratings_total": 25,
@@ -31479,11 +31514,11 @@
         "histogram": "[3, 2, 11, 33, 66]"
     },
     {
-        "ratings_total": 3,
-        "ratings_average": "3.67",
+        "ratings_total": 131,
+        "ratings_average": "4.19",
         "app_name": "",
-        "package_name": "pdf-studio-8-demo",
-        "histogram": "[1, 0, 0, 0, 2]"
+        "package_name": "playonlinux",
+        "histogram": "[8, 8, 9, 32, 74]"
     },
     {
         "ratings_total": 3,
@@ -31507,11 +31542,11 @@
         "histogram": "[4, 3, 4, 7, 5]"
     },
     {
-        "ratings_total": 32,
-        "ratings_average": "4.97",
+        "ratings_total": 65,
+        "ratings_average": "4.91",
         "app_name": "",
-        "package_name": "variety",
-        "histogram": "[0, 0, 0, 1, 31]"
+        "package_name": "geogebra",
+        "histogram": "[0, 0, 1, 4, 60]"
     },
     {
         "ratings_total": 83,
@@ -31535,18 +31570,11 @@
         "histogram": "[3, 3, 2, 0, 2]"
     },
     {
-        "ratings_total": 79,
-        "ratings_average": "3.30",
-        "app_name": "",
-        "package_name": "cryptkeeper",
-        "histogram": "[27, 3, 3, 11, 35]"
-    },
-    {
-        "ratings_total": 4,
-        "ratings_average": "3.00",
+        "ratings_total": 5,
+        "ratings_average": "3.20",
         "app_name": "",
         "package_name": "varicad-viewer",
-        "histogram": "[2, 0, 0, 0, 2]"
+        "histogram": "[2, 0, 0, 1, 2]"
     },
     {
         "ratings_total": 2,
@@ -31563,11 +31591,18 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 53,
-        "ratings_average": "2.58",
+        "ratings_total": 569,
+        "ratings_average": "2.79",
         "app_name": "",
-        "package_name": "nautilus",
-        "histogram": "[18, 8, 12, 8, 7]"
+        "package_name": "flashplugin-installer",
+        "histogram": "[205, 72, 71, 80, 141]"
+    },
+    {
+        "ratings_total": 4,
+        "ratings_average": "2.00",
+        "app_name": "",
+        "package_name": "unity-webapps-service",
+        "histogram": "[3, 0, 0, 0, 1]"
     },
     {
         "ratings_total": 9,
@@ -31584,11 +31619,11 @@
         "histogram": "[0, 0, 0, 0, 5]"
     },
     {
-        "ratings_total": 112,
-        "ratings_average": "4.30",
+        "ratings_total": 113,
+        "ratings_average": "4.31",
         "app_name": "",
         "package_name": "alarm-clock-applet",
-        "histogram": "[7, 7, 2, 25, 71]"
+        "histogram": "[7, 7, 2, 25, 72]"
     },
     {
         "ratings_total": 1,
@@ -31605,11 +31640,11 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 425,
-        "ratings_average": "1.97",
+        "ratings_total": 1,
+        "ratings_average": "5.00",
         "app_name": "",
-        "package_name": "gwibber",
-        "histogram": "[221, 84, 54, 44, 22]"
+        "package_name": "gnome-session-flashback",
+        "histogram": "[0, 0, 0, 0, 1]"
     },
     {
         "ratings_total": 46,
@@ -31626,11 +31661,11 @@
         "histogram": "[0, 0, 0, 3, 0]"
     },
     {
-        "ratings_total": 13,
-        "ratings_average": "4.38",
+        "ratings_total": 423,
+        "ratings_average": "4.39",
         "app_name": "",
-        "package_name": "zeegaree-lite",
-        "histogram": "[1, 0, 1, 2, 9]"
+        "package_name": "thunderbird",
+        "histogram": "[15, 18, 32, 79, 279]"
     },
     {
         "ratings_total": 11,
@@ -31675,11 +31710,11 @@
         "histogram": "[0, 0, 1, 2, 3]"
     },
     {
-        "ratings_total": 162,
-        "ratings_average": "4.64",
+        "ratings_total": 4,
+        "ratings_average": "3.75",
         "app_name": "",
-        "package_name": "gnome-terminal",
-        "histogram": "[4, 3, 10, 14, 131]"
+        "package_name": "bmicalc",
+        "histogram": "[1, 0, 0, 1, 2]"
     },
     {
         "ratings_total": 1,
@@ -31703,18 +31738,11 @@
         "histogram": "[0, 2, 0, 0, 0]"
     },
     {
-        "ratings_total": 3,
-        "ratings_average": "2.33",
+        "ratings_total": 4,
+        "ratings_average": "4.00",
         "app_name": "",
-        "package_name": "unity-webapps-service",
-        "histogram": "[2, 0, 0, 0, 1]"
-    },
-    {
-        "ratings_total": 216,
-        "ratings_average": "4.57",
-        "app_name": "",
-        "package_name": "teeworlds",
-        "histogram": "[11, 2, 6, 31, 166]"
+        "package_name": "gksu",
+        "histogram": "[1, 0, 0, 0, 3]"
     },
     {
         "ratings_total": 2,
@@ -31724,11 +31752,11 @@
         "histogram": "[1, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 41,
-        "ratings_average": "3.54",
+        "ratings_total": 427,
+        "ratings_average": "1.96",
         "app_name": "",
-        "package_name": "geary",
-        "histogram": "[7, 5, 2, 13, 14]"
+        "package_name": "gwibber",
+        "histogram": "[223, 84, 54, 44, 22]"
     },
     {
         "ratings_total": 2,
@@ -31738,11 +31766,11 @@
         "histogram": "[1, 0, 0, 1, 0]"
     },
     {
-        "ratings_total": 140,
-        "ratings_average": "4.49",
+        "ratings_total": 29,
+        "ratings_average": "4.38",
         "app_name": "",
-        "package_name": "nexuiz",
-        "histogram": "[4, 5, 11, 18, 102]"
+        "package_name": "vkaudiosaver",
+        "histogram": "[2, 1, 1, 5, 20]"
     },
     {
         "ratings_total": 6,
@@ -31780,11 +31808,11 @@
         "histogram": "[17, 7, 8, 18, 38]"
     },
     {
-        "ratings_total": 565,
-        "ratings_average": "2.78",
+        "ratings_total": 15,
+        "ratings_average": "4.40",
         "app_name": "",
-        "package_name": "flashplugin-installer",
-        "histogram": "[204, 72, 70, 80, 139]"
+        "package_name": "qpdfview",
+        "histogram": "[0, 0, 3, 3, 9]"
     },
     {
         "ratings_total": 3,
@@ -31794,11 +31822,11 @@
         "histogram": "[0, 0, 0, 1, 2]"
     },
     {
-        "ratings_total": 8,
-        "ratings_average": "1.62",
+        "ratings_total": 43,
+        "ratings_average": "3.60",
         "app_name": "",
-        "package_name": "unity-webapps-grooveshark",
-        "histogram": "[6, 1, 0, 0, 1]"
+        "package_name": "geary",
+        "histogram": "[7, 5, 2, 13, 16]"
     },
     {
         "ratings_total": 1,
@@ -31808,18 +31836,18 @@
         "histogram": "[0, 1, 0, 0, 0]"
     },
     {
-        "ratings_total": 29,
-        "ratings_average": "4.17",
+        "ratings_total": 165,
+        "ratings_average": "4.56",
         "app_name": "",
-        "package_name": "allvideodownloader",
-        "histogram": "[4, 0, 2, 4, 19]"
+        "package_name": "deluge",
+        "histogram": "[6, 6, 5, 21, 127]"
     },
     {
-        "ratings_total": 3,
-        "ratings_average": "4.67",
+        "ratings_total": 397,
+        "ratings_average": "4.15",
         "app_name": "",
-        "package_name": "bmicalc",
-        "histogram": "[0, 0, 0, 1, 2]"
+        "package_name": "transmission-gtk",
+        "histogram": "[30, 27, 41, 55, 244]"
     },
     {
         "ratings_total": 2,
@@ -31829,11 +31857,11 @@
         "histogram": "[1, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 14,
-        "ratings_average": "4.36",
+        "ratings_total": 32,
+        "ratings_average": "4.38",
         "app_name": "",
-        "package_name": "qpdfview",
-        "histogram": "[0, 0, 3, 3, 8]"
+        "package_name": "allvideodownloader",
+        "histogram": "[3, 0, 2, 4, 23]"
     },
     {
         "ratings_total": 23,
@@ -31857,11 +31885,11 @@
         "histogram": "[0, 1, 0, 0, 0]"
     },
     {
-        "ratings_total": 395,
-        "ratings_average": "4.15",
+        "ratings_total": 86,
+        "ratings_average": "4.81",
         "app_name": "",
-        "package_name": "transmission-gtk",
-        "histogram": "[30, 27, 40, 55, 243]"
+        "package_name": "wesnoth-1.10",
+        "histogram": "[2, 0, 1, 6, 77]"
     },
     {
         "ratings_total": 1,
@@ -31899,11 +31927,11 @@
         "histogram": "[0, 0, 0, 0, 3]"
     },
     {
-        "ratings_total": 439,
-        "ratings_average": "4.77",
+        "ratings_total": 54,
+        "ratings_average": "2.57",
         "app_name": "",
-        "package_name": "filezilla",
-        "histogram": "[4, 7, 10, 43, 375]"
+        "package_name": "nautilus",
+        "histogram": "[18, 9, 12, 8, 7]"
     },
     {
         "ratings_total": 1,
@@ -31913,13 +31941,6 @@
         "histogram": "[0, 0, 0, 1, 0]"
     },
     {
-        "ratings_total": 85,
-        "ratings_average": "4.81",
-        "app_name": "",
-        "package_name": "wesnoth-1.10",
-        "histogram": "[2, 0, 1, 6, 76]"
-    },
-    {
         "ratings_total": 1,
         "ratings_average": "3.00",
         "app_name": "",
@@ -31927,18 +31948,18 @@
         "histogram": "[0, 0, 1, 0, 0]"
     },
     {
-        "ratings_total": 93,
-        "ratings_average": "4.59",
+        "ratings_total": 94,
+        "ratings_average": "4.60",
         "app_name": "",
         "package_name": "indicator-multiload",
-        "histogram": "[4, 0, 3, 16, 70]"
+        "histogram": "[4, 0, 3, 16, 71]"
     },
     {
-        "ratings_total": 27,
-        "ratings_average": "4.44",
+        "ratings_total": 218,
+        "ratings_average": "4.56",
         "app_name": "",
-        "package_name": "vkaudiosaver",
-        "histogram": "[2, 1, 0, 4, 20]"
+        "package_name": "teeworlds",
+        "histogram": "[11, 3, 6, 32, 166]"
     },
     {
         "ratings_total": 1,
@@ -31969,18 +31990,18 @@
         "histogram": "[1, 1, 1, 0, 0]"
     },
     {
-        "ratings_total": 82,
-        "ratings_average": "2.71",
-        "app_name": "",
-        "package_name": "gtkpod",
-        "histogram": "[35, 7, 8, 11, 21]"
-    },
-    {
-        "ratings_total": 145,
+        "ratings_total": 146,
         "ratings_average": "4.29",
         "app_name": "",
         "package_name": "unetbootin",
-        "histogram": "[14, 5, 5, 22, 99]"
+        "histogram": "[14, 5, 5, 23, 99]"
+    },
+    {
+        "ratings_total": 441,
+        "ratings_average": "4.77",
+        "app_name": "",
+        "package_name": "filezilla",
+        "histogram": "[4, 7, 10, 43, 377]"
     },
     {
         "ratings_total": 64,
@@ -32011,6 +32032,13 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
+        "ratings_total": 163,
+        "ratings_average": "4.64",
+        "app_name": "",
+        "package_name": "gnome-terminal",
+        "histogram": "[4, 3, 10, 14, 132]"
+    },
+    {
         "ratings_total": 1,
         "ratings_average": "5.00",
         "app_name": "",
@@ -32025,11 +32053,11 @@
         "histogram": "[2, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 422,
-        "ratings_average": "4.39",
+        "ratings_total": 141,
+        "ratings_average": "4.50",
         "app_name": "",
-        "package_name": "thunderbird",
-        "histogram": "[15, 18, 32, 79, 278]"
+        "package_name": "nexuiz",
+        "histogram": "[4, 5, 11, 18, 103]"
     },
     {
         "ratings_total": 6,
@@ -32039,11 +32067,11 @@
         "histogram": "[0, 0, 1, 1, 4]"
     },
     {
-        "ratings_total": 3,
-        "ratings_average": "5.00",
+        "ratings_total": 142,
+        "ratings_average": "3.14",
         "app_name": "",
-        "package_name": "gksu",
-        "histogram": "[0, 0, 0, 0, 3]"
+        "package_name": "master-pdf-editor",
+        "histogram": "[46, 15, 9, 17, 55]"
     },
     {
         "ratings_total": 1,
@@ -32102,18 +32130,18 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 162,
-        "ratings_average": "4.57",
+        "ratings_total": 14,
+        "ratings_average": "4.43",
         "app_name": "",
-        "package_name": "deluge",
-        "histogram": "[5, 6, 5, 21, 125]"
+        "package_name": "zeegaree-lite",
+        "histogram": "[1, 0, 1, 2, 10]"
     },
     {
-        "ratings_total": 140,
-        "ratings_average": "3.14",
+        "ratings_total": 9,
+        "ratings_average": "1.78",
         "app_name": "",
-        "package_name": "master-pdf-editor",
-        "histogram": "[45, 15, 9, 17, 54]"
+        "package_name": "unity-webapps-grooveshark",
+        "histogram": "[6, 1, 1, 0, 1]"
     },
     {
         "ratings_total": 3,
@@ -32158,11 +32186,11 @@
         "histogram": "[0, 1, 0, 0, 0]"
     },
     {
-        "ratings_total": 183,
-        "ratings_average": "2.57",
+        "ratings_total": 83,
+        "ratings_average": "2.69",
         "app_name": "",
-        "package_name": "pitivi",
-        "histogram": "[62, 39, 25, 30, 27]"
+        "package_name": "gtkpod",
+        "histogram": "[36, 7, 8, 11, 21]"
     },
     {
         "ratings_total": 6,
@@ -32179,25 +32207,25 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
+        "ratings_total": 184,
+        "ratings_average": "2.57",
+        "app_name": "",
+        "package_name": "pitivi",
+        "histogram": "[62, 40, 25, 30, 27]"
+    },
+    {
+        "ratings_total": 105,
+        "ratings_average": "4.48",
+        "app_name": "",
+        "package_name": "gnome-disk-utility",
+        "histogram": "[4, 3, 6, 18, 74]"
+    },
+    {
         "ratings_total": 77,
-        "ratings_average": "4.81",
+        "ratings_average": "4.31",
         "app_name": "",
-        "package_name": "krusader",
-        "histogram": "[0, 0, 2, 11, 64]"
-    },
-    {
-        "ratings_total": 134,
-        "ratings_average": "4.53",
-        "app_name": "",
-        "package_name": "openarena",
-        "histogram": "[3, 2, 9, 27, 93]"
-    },
-    {
-        "ratings_total": 395,
-        "ratings_average": "4.69",
-        "app_name": "",
-        "package_name": "audacious",
-        "histogram": "[9, 3, 13, 50, 320]"
+        "package_name": "pcsxr",
+        "histogram": "[3, 3, 6, 20, 45]"
     },
     {
         "ratings_total": 1,
@@ -32228,18 +32256,18 @@
         "histogram": "[1, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 103,
-        "ratings_average": "4.47",
+        "ratings_total": 398,
+        "ratings_average": "4.70",
         "app_name": "",
-        "package_name": "gnome-disk-utility",
-        "histogram": "[4, 3, 6, 18, 72]"
+        "package_name": "audacious",
+        "histogram": "[9, 3, 13, 50, 323]"
     },
     {
-        "ratings_total": 111,
-        "ratings_average": "4.82",
+        "ratings_total": 82,
+        "ratings_average": "3.95",
         "app_name": "",
-        "package_name": "meld",
-        "histogram": "[0, 0, 2, 16, 93]"
+        "package_name": "psensor",
+        "histogram": "[9, 3, 11, 19, 40]"
     },
     {
         "ratings_total": 75,
@@ -32277,11 +32305,11 @@
         "histogram": "[7, 10, 13, 32, 63]"
     },
     {
-        "ratings_total": 81,
-        "ratings_average": "3.94",
+        "ratings_total": 90,
+        "ratings_average": "4.26",
         "app_name": "",
-        "package_name": "psensor",
-        "histogram": "[9, 3, 11, 19, 39]"
+        "package_name": "file-roller",
+        "histogram": "[4, 4, 8, 23, 51]"
     },
     {
         "ratings_total": 4,
@@ -32368,11 +32396,11 @@
         "histogram": "[0, 0, 1, 0, 1]"
     },
     {
-        "ratings_total": 50,
-        "ratings_average": "2.98",
+        "ratings_total": 51,
+        "ratings_average": "3.00",
         "app_name": "",
         "package_name": "checkgmail",
-        "histogram": "[19, 3, 3, 10, 15]"
+        "histogram": "[19, 3, 3, 11, 15]"
     },
     {
         "ratings_total": 20,
@@ -32387,6 +32415,13 @@
         "app_name": "",
         "package_name": "gnome-mines",
         "histogram": "[0, 1, 0, 0, 3]"
+    },
+    {
+        "ratings_total": 80,
+        "ratings_average": "4.80",
+        "app_name": "",
+        "package_name": "krusader",
+        "histogram": "[0, 0, 2, 12, 66]"
     },
     {
         "ratings_total": 1,
@@ -32452,11 +32487,18 @@
         "histogram": "[0, 0, 1, 0, 0]"
     },
     {
-        "ratings_total": 89,
-        "ratings_average": "4.27",
+        "ratings_total": 207,
+        "ratings_average": "4.34",
         "app_name": "",
-        "package_name": "file-roller",
-        "histogram": "[4, 4, 7, 23, 51]"
+        "package_name": "remmina",
+        "histogram": "[17, 10, 12, 15, 153]"
+    },
+    {
+        "ratings_total": 93,
+        "ratings_average": "4.45",
+        "app_name": "",
+        "package_name": "0ad",
+        "histogram": "[3, 2, 6, 21, 61]"
     },
     {
         "ratings_total": 1,
@@ -32529,11 +32571,11 @@
         "histogram": "[1, 1, 0, 1, 0]"
     },
     {
-        "ratings_total": 5,
-        "ratings_average": "2.40",
+        "ratings_total": 114,
+        "ratings_average": "4.80",
         "app_name": "",
-        "package_name": "unity-scope-gdrive",
-        "histogram": "[3, 0, 0, 1, 1]"
+        "package_name": "meld",
+        "histogram": "[0, 1, 2, 16, 95]"
     },
     {
         "ratings_total": 2,
@@ -32613,6 +32655,13 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
+        "ratings_total": 28,
+        "ratings_average": "4.25",
+        "app_name": "",
+        "package_name": "quicksynergy",
+        "histogram": "[1, 2, 1, 9, 15]"
+    },
+    {
         "ratings_total": 1,
         "ratings_average": "5.00",
         "app_name": "",
@@ -32620,11 +32669,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 19,
-        "ratings_average": "1.95",
+        "ratings_total": 135,
+        "ratings_average": "4.53",
         "app_name": "",
-        "package_name": "phoronix-test-suite",
-        "histogram": "[12, 2, 2, 0, 3]"
+        "package_name": "openarena",
+        "histogram": "[3, 2, 9, 27, 94]"
     },
     {
         "ratings_total": 73,
@@ -32704,6 +32753,13 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
+        "ratings_total": 20,
+        "ratings_average": "1.95",
+        "app_name": "",
+        "package_name": "phoronix-test-suite",
+        "histogram": "[12, 3, 2, 0, 3]"
+    },
+    {
         "ratings_total": 1,
         "ratings_average": "2.00",
         "app_name": "",
@@ -32716,20 +32772,6 @@
         "app_name": "",
         "package_name": "ubuntu-sdk",
         "histogram": "[1, 0, 1, 0, 0]"
-    },
-    {
-        "ratings_total": 206,
-        "ratings_average": "4.35",
-        "app_name": "",
-        "package_name": "remmina",
-        "histogram": "[17, 9, 12, 15, 153]"
-    },
-    {
-        "ratings_total": 92,
-        "ratings_average": "4.45",
-        "app_name": "",
-        "package_name": "0ad",
-        "histogram": "[3, 2, 6, 21, 60]"
     },
     {
         "ratings_total": 1,
@@ -32758,13 +32800,6 @@
         "app_name": "",
         "package_name": "orpie",
         "histogram": "[0, 0, 0, 0, 2]"
-    },
-    {
-        "ratings_total": 76,
-        "ratings_average": "4.33",
-        "app_name": "",
-        "package_name": "pcsxr",
-        "histogram": "[3, 3, 5, 20, 45]"
     },
     {
         "ratings_total": 8,
@@ -32809,11 +32844,11 @@
         "histogram": "[1, 0, 1, 0, 1]"
     },
     {
-        "ratings_total": 1662,
-        "ratings_average": "4.77",
+        "ratings_total": 23,
+        "ratings_average": "2.70",
         "app_name": "",
-        "package_name": "vlc",
-        "histogram": "[32, 17, 38, 131, 1444]"
+        "package_name": "bcmwl-kernel-source",
+        "histogram": "[11, 2, 1, 1, 8]"
     },
     {
         "ratings_total": 24,
@@ -32821,13 +32856,6 @@
         "app_name": "",
         "package_name": "gnome-sushi",
         "histogram": "[1, 0, 0, 16, 7]"
-    },
-    {
-        "ratings_total": 23,
-        "ratings_average": "4.65",
-        "app_name": "",
-        "package_name": "7kaa",
-        "histogram": "[1, 0, 0, 4, 18]"
     },
     {
         "ratings_total": 3,
@@ -32907,13 +32935,6 @@
         "histogram": "[0, 0, 0, 0, 2]"
     },
     {
-        "ratings_total": 718,
-        "ratings_average": "4.69",
-        "app_name": "",
-        "package_name": "clementine",
-        "histogram": "[15, 9, 25, 85, 584]"
-    },
-    {
         "ratings_total": 1,
         "ratings_average": "5.00",
         "app_name": "",
@@ -32921,11 +32942,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 272,
-        "ratings_average": "3.24",
+        "ratings_total": 40,
+        "ratings_average": "2.58",
         "app_name": "",
-        "package_name": "adobe-flashplugin",
-        "histogram": "[75, 18, 38, 50, 91]"
+        "package_name": "crossover-trial",
+        "histogram": "[20, 2, 3, 5, 10]"
     },
     {
         "ratings_total": 1,
@@ -32991,6 +33012,13 @@
         "histogram": "[3, 0, 0, 1, 5]"
     },
     {
+        "ratings_total": 51,
+        "ratings_average": "4.82",
+        "app_name": "",
+        "package_name": "pingus",
+        "histogram": "[0, 0, 1, 7, 43]"
+    },
+    {
         "ratings_total": 48,
         "ratings_average": "4.67",
         "app_name": "",
@@ -33019,11 +33047,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 484,
-        "ratings_average": "3.03",
+        "ratings_total": 486,
+        "ratings_average": "3.04",
         "app_name": "",
         "package_name": "unity",
-        "histogram": "[144, 60, 49, 98, 133]"
+        "histogram": "[144, 60, 49, 99, 134]"
     },
     {
         "ratings_total": 203,
@@ -33040,11 +33068,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 19,
-        "ratings_average": "2.16",
+        "ratings_total": 102,
+        "ratings_average": "3.85",
         "app_name": "",
-        "package_name": "islandracer",
-        "histogram": "[10, 2, 3, 2, 2]"
+        "package_name": "gnome-tweak-tool",
+        "histogram": "[12, 4, 15, 27, 44]"
     },
     {
         "ratings_total": 32,
@@ -33131,13 +33159,6 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 22,
-        "ratings_average": "2.68",
-        "app_name": "",
-        "package_name": "bcmwl-kernel-source",
-        "histogram": "[11, 2, 0, 1, 8]"
-    },
-    {
         "ratings_total": 11,
         "ratings_average": "2.91",
         "app_name": "",
@@ -33145,11 +33166,11 @@
         "histogram": "[5, 0, 0, 3, 3]"
     },
     {
-        "ratings_total": 18,
-        "ratings_average": "4.11",
+        "ratings_total": 171,
+        "ratings_average": "4.12",
         "app_name": "",
-        "package_name": "defensezone-lite",
-        "histogram": "[2, 0, 2, 4, 10]"
+        "package_name": "kazam",
+        "histogram": "[19, 9, 16, 16, 111]"
     },
     {
         "ratings_total": 1,
@@ -33159,18 +33180,18 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 169,
-        "ratings_average": "4.11",
+        "ratings_total": 1675,
+        "ratings_average": "4.77",
         "app_name": "",
-        "package_name": "kazam",
-        "histogram": "[19, 9, 16, 16, 109]"
+        "package_name": "vlc",
+        "histogram": "[32, 17, 39, 133, 1454]"
     },
     {
-        "ratings_total": 27,
+        "ratings_total": 28,
         "ratings_average": "4.04",
         "app_name": "",
         "package_name": "wakfu",
-        "histogram": "[3, 2, 2, 4, 16]"
+        "histogram": "[3, 2, 2, 5, 16]"
     },
     {
         "ratings_total": 1,
@@ -33208,18 +33229,18 @@
         "histogram": "[1, 0, 0, 1, 0]"
     },
     {
-        "ratings_total": 50,
-        "ratings_average": "4.82",
+        "ratings_total": 6,
+        "ratings_average": "2.17",
         "app_name": "",
-        "package_name": "pingus",
-        "histogram": "[0, 0, 1, 7, 42]"
+        "package_name": "unity-scope-gdrive",
+        "histogram": "[4, 0, 0, 1, 1]"
     },
     {
-        "ratings_total": 12,
-        "ratings_average": "4.58",
+        "ratings_total": 558,
+        "ratings_average": "3.07",
         "app_name": "",
-        "package_name": "musique-ubuntu",
-        "histogram": "[0, 0, 2, 1, 9]"
+        "package_name": "indicator-weather",
+        "histogram": "[192, 48, 44, 78, 196]"
     },
     {
         "ratings_total": 1,
@@ -33257,25 +33278,25 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 125,
-        "ratings_average": "4.68",
+        "ratings_total": 13,
+        "ratings_average": "4.46",
+        "app_name": "",
+        "package_name": "musique-ubuntu",
+        "histogram": "[0, 0, 3, 1, 9]"
+    },
+    {
+        "ratings_total": 127,
+        "ratings_average": "4.69",
         "app_name": "",
         "package_name": "codeblocks",
-        "histogram": "[1, 1, 6, 21, 96]"
+        "histogram": "[1, 1, 6, 21, 98]"
     },
     {
-        "ratings_total": 389,
-        "ratings_average": "3.96",
+        "ratings_total": 12,
+        "ratings_average": "4.17",
         "app_name": "",
-        "package_name": "software-center",
-        "histogram": "[21, 27, 65, 111, 165]"
-    },
-    {
-        "ratings_total": 1068,
-        "ratings_average": "4.41",
-        "app_name": "",
-        "package_name": "firefox",
-        "histogram": "[58, 38, 67, 146, 759]"
+        "package_name": "brightness-controller",
+        "histogram": "[2, 0, 0, 2, 8]"
     },
     {
         "ratings_total": 1,
@@ -33306,11 +33327,11 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 556,
-        "ratings_average": "3.07",
+        "ratings_total": 725,
+        "ratings_average": "4.69",
         "app_name": "",
-        "package_name": "indicator-weather",
-        "histogram": "[191, 48, 44, 77, 196]"
+        "package_name": "clementine",
+        "histogram": "[16, 9, 25, 85, 590]"
     },
     {
         "ratings_total": 1,
@@ -33320,11 +33341,11 @@
         "histogram": "[0, 0, 0, 1, 0]"
     },
     {
-        "ratings_total": 39,
-        "ratings_average": "4.23",
+        "ratings_total": 24,
+        "ratings_average": "4.67",
         "app_name": "",
-        "package_name": "minitube-ubuntu",
-        "histogram": "[4, 2, 3, 2, 28]"
+        "package_name": "7kaa",
+        "histogram": "[1, 0, 0, 4, 19]"
     },
     {
         "ratings_total": 1,
@@ -33369,18 +33390,18 @@
         "histogram": "[0, 0, 1, 0, 0]"
     },
     {
-        "ratings_total": 39,
-        "ratings_average": "2.62",
+        "ratings_total": 20,
+        "ratings_average": "2.25",
         "app_name": "",
-        "package_name": "crossover-trial",
-        "histogram": "[19, 2, 3, 5, 10]"
+        "package_name": "islandracer",
+        "histogram": "[10, 2, 3, 3, 2]"
     },
     {
-        "ratings_total": 100,
-        "ratings_average": "3.83",
+        "ratings_total": 273,
+        "ratings_average": "3.23",
         "app_name": "",
-        "package_name": "gnome-tweak-tool",
-        "histogram": "[12, 4, 15, 27, 42]"
+        "package_name": "adobe-flashplugin",
+        "histogram": "[76, 18, 38, 50, 91]"
     },
     {
         "ratings_total": 107,
@@ -33390,11 +33411,18 @@
         "histogram": "[3, 5, 5, 15, 79]"
     },
     {
-        "ratings_total": 11,
-        "ratings_average": "4.09",
+        "ratings_total": 19,
+        "ratings_average": "4.16",
         "app_name": "",
-        "package_name": "brightness-controller",
-        "histogram": "[2, 0, 0, 2, 7]"
+        "package_name": "defensezone-lite",
+        "histogram": "[2, 0, 2, 4, 11]"
+    },
+    {
+        "ratings_total": 390,
+        "ratings_average": "3.95",
+        "app_name": "",
+        "package_name": "software-center",
+        "histogram": "[22, 27, 65, 111, 165]"
     },
     {
         "ratings_total": 1,
@@ -33411,11 +33439,11 @@
         "histogram": "[0, 0, 0, 1, 0]"
     },
     {
-        "ratings_total": 1,
-        "ratings_average": "1.00",
+        "ratings_total": 270,
+        "ratings_average": "4.57",
         "app_name": "",
-        "package_name": "libghc-clock-dev",
-        "histogram": "[1, 0, 0, 0, 0]"
+        "package_name": "cairo-dock",
+        "histogram": "[11, 6, 9, 35, 209]"
     },
     {
         "ratings_total": 2,
@@ -33439,18 +33467,11 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 303,
-        "ratings_average": "4.63",
+        "ratings_total": 30,
+        "ratings_average": "1.20",
         "app_name": "",
-        "package_name": "qbittorrent",
-        "histogram": "[10, 4, 14, 32, 243]"
-    },
-    {
-        "ratings_total": 14,
-        "ratings_average": "3.00",
-        "app_name": "",
-        "package_name": "blobandconquer",
-        "histogram": "[2, 3, 3, 5, 1]"
+        "package_name": "tencentqq",
+        "histogram": "[28, 0, 1, 0, 1]"
     },
     {
         "ratings_total": 1,
@@ -33479,13 +33500,6 @@
         "app_name": "",
         "package_name": "pondus",
         "histogram": "[0, 0, 1, 3, 5]"
-    },
-    {
-        "ratings_total": 75,
-        "ratings_average": "4.60",
-        "app_name": "",
-        "package_name": "hardinfo",
-        "histogram": "[1, 2, 2, 16, 54]"
     },
     {
         "ratings_total": 1,
@@ -33593,11 +33607,11 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 13,
-        "ratings_average": "4.15",
+        "ratings_total": 74,
+        "ratings_average": "4.76",
         "app_name": "",
-        "package_name": "friends-app",
-        "histogram": "[1, 0, 2, 3, 7]"
+        "package_name": "texmaker",
+        "histogram": "[0, 0, 3, 12, 59]"
     },
     {
         "ratings_total": 1,
@@ -33614,18 +33628,18 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 269,
-        "ratings_average": "4.57",
+        "ratings_total": 15,
+        "ratings_average": "4.07",
         "app_name": "",
-        "package_name": "cairo-dock",
-        "histogram": "[11, 6, 9, 35, 208]"
+        "package_name": "friends-app",
+        "histogram": "[1, 0, 3, 4, 7]"
     },
     {
-        "ratings_total": 28,
-        "ratings_average": "1.21",
+        "ratings_total": 88,
+        "ratings_average": "4.51",
         "app_name": "",
-        "package_name": "tencentqq",
-        "histogram": "[26, 0, 1, 0, 1]"
+        "package_name": "gbrainy",
+        "histogram": "[0, 2, 9, 19, 58]"
     },
     {
         "ratings_total": 9,
@@ -33768,11 +33782,11 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 27,
-        "ratings_average": "4.22",
+        "ratings_total": 309,
+        "ratings_average": "4.64",
         "app_name": "",
-        "package_name": "freetuxtv",
-        "histogram": "[2, 1, 3, 4, 17]"
+        "package_name": "qbittorrent",
+        "histogram": "[10, 4, 14, 32, 249]"
     },
     {
         "ratings_total": 39,
@@ -33789,18 +33803,18 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 31,
-        "ratings_average": "3.77",
+        "ratings_total": 111,
+        "ratings_average": "4.67",
         "app_name": "",
-        "package_name": "tvtime",
-        "histogram": "[5, 0, 6, 6, 14]"
+        "package_name": "furiusisomount",
+        "histogram": "[4, 0, 3, 15, 89]"
     },
     {
-        "ratings_total": 87,
-        "ratings_average": "4.53",
+        "ratings_total": 15,
+        "ratings_average": "2.87",
         "app_name": "",
-        "package_name": "gbrainy",
-        "histogram": "[0, 2, 8, 19, 58]"
+        "package_name": "blobandconquer",
+        "histogram": "[3, 3, 3, 5, 1]"
     },
     {
         "ratings_total": 6,
@@ -33824,11 +33838,11 @@
         "histogram": "[0, 0, 1, 0, 0]"
     },
     {
-        "ratings_total": 73,
-        "ratings_average": "4.75",
+        "ratings_total": 227,
+        "ratings_average": "4.56",
         "app_name": "",
-        "package_name": "texmaker",
-        "histogram": "[0, 0, 3, 12, 58]"
+        "package_name": "calibre",
+        "histogram": "[2, 10, 11, 41, 163]"
     },
     {
         "ratings_total": 114,
@@ -33866,6 +33880,20 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
+        "ratings_total": 3,
+        "ratings_average": "5.00",
+        "app_name": "",
+        "package_name": "shimmer-themes",
+        "histogram": "[0, 0, 0, 0, 3]"
+    },
+    {
+        "ratings_total": 1,
+        "ratings_average": "2.00",
+        "app_name": "",
+        "package_name": "neven",
+        "histogram": "[0, 1, 0, 0, 0]"
+    },
+    {
         "ratings_total": 1,
         "ratings_average": "1.00",
         "app_name": "",
@@ -33887,11 +33915,11 @@
         "histogram": "[1, 0, 0, 4, 16]"
     },
     {
-        "ratings_total": 2,
-        "ratings_average": "5.00",
+        "ratings_total": 0,
+        "ratings_average": "0.00",
         "app_name": "",
-        "package_name": "shimmer-themes",
-        "histogram": "[0, 0, 0, 0, 2]"
+        "package_name": "libghc-clock-dev",
+        "histogram": "[0, 0, 0, 0, 0]"
     },
     {
         "ratings_total": 66,
@@ -33978,11 +34006,18 @@
         "histogram": "[16, 12, 9, 19, 38]"
     },
     {
-        "ratings_total": 226,
-        "ratings_average": "4.55",
+        "ratings_total": 32,
+        "ratings_average": "3.81",
         "app_name": "",
-        "package_name": "calibre",
-        "histogram": "[2, 10, 11, 41, 162]"
+        "package_name": "tvtime",
+        "histogram": "[5, 0, 6, 6, 15]"
+    },
+    {
+        "ratings_total": 76,
+        "ratings_average": "4.58",
+        "app_name": "",
+        "package_name": "hardinfo",
+        "histogram": "[1, 2, 3, 16, 54]"
     },
     {
         "ratings_total": 245,
@@ -33992,11 +34027,11 @@
         "histogram": "[10, 3, 7, 36, 189]"
     },
     {
-        "ratings_total": 112,
-        "ratings_average": "4.65",
+        "ratings_total": 28,
+        "ratings_average": "4.21",
         "app_name": "",
-        "package_name": "furiusisomount",
-        "histogram": "[4, 0, 4, 15, 89]"
+        "package_name": "freetuxtv",
+        "histogram": "[2, 1, 3, 5, 17]"
     },
     {
         "ratings_total": 70,
@@ -34004,13 +34039,6 @@
         "app_name": "",
         "package_name": "motorbike",
         "histogram": "[9, 4, 6, 10, 41]"
-    },
-    {
-        "ratings_total": 93,
-        "ratings_average": "3.67",
-        "app_name": "",
-        "package_name": "network-manager-gnome",
-        "histogram": "[9, 9, 20, 21, 34]"
     },
     {
         "ratings_total": 17,
@@ -34076,18 +34104,18 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 296,
-        "ratings_average": "3.83",
+        "ratings_total": 4,
+        "ratings_average": "1.50",
         "app_name": "",
-        "package_name": "gtk-recordmydesktop",
-        "histogram": "[30, 24, 39, 75, 128]"
+        "package_name": "mahjong",
+        "histogram": "[2, 2, 0, 0, 0]"
     },
     {
-        "ratings_total": 142,
-        "ratings_average": "3.86",
+        "ratings_total": 143,
+        "ratings_average": "3.87",
         "app_name": "",
         "package_name": "midori",
-        "histogram": "[13, 9, 26, 31, 63]"
+        "histogram": "[13, 9, 26, 31, 64]"
     },
     {
         "ratings_total": 11,
@@ -34097,11 +34125,11 @@
         "histogram": "[5, 3, 2, 0, 1]"
     },
     {
-        "ratings_total": 5,
-        "ratings_average": "2.40",
+        "ratings_total": 2,
+        "ratings_average": "5.00",
         "app_name": "",
-        "package_name": "mess",
-        "histogram": "[3, 0, 0, 1, 1]"
+        "package_name": "btresourcesearch",
+        "histogram": "[0, 0, 0, 0, 2]"
     },
     {
         "ratings_total": 1,
@@ -34167,11 +34195,11 @@
         "histogram": "[1, 0, 1, 1, 1]"
     },
     {
-        "ratings_total": 320,
-        "ratings_average": "4.80",
+        "ratings_total": 219,
+        "ratings_average": "3.49",
         "app_name": "",
-        "package_name": "ubuntu-restricted-extras",
-        "histogram": "[3, 2, 8, 30, 277]"
+        "package_name": "totem",
+        "histogram": "[24, 28, 45, 60, 62]"
     },
     {
         "ratings_total": 1,
@@ -34237,11 +34265,11 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 3,
-        "ratings_average": "1.67",
+        "ratings_total": 161,
+        "ratings_average": "4.64",
         "app_name": "",
-        "package_name": "mahjong",
-        "histogram": "[1, 2, 0, 0, 0]"
+        "package_name": "bluefish",
+        "histogram": "[1, 4, 7, 28, 121]"
     },
     {
         "ratings_total": 1,
@@ -34249,13 +34277,6 @@
         "app_name": "",
         "package_name": "libxml2-utils",
         "histogram": "[0, 0, 0, 0, 1]"
-    },
-    {
-        "ratings_total": 159,
-        "ratings_average": "4.64",
-        "app_name": "",
-        "package_name": "bluefish",
-        "histogram": "[1, 4, 7, 28, 119]"
     },
     {
         "ratings_total": 3,
@@ -34266,10 +34287,10 @@
     },
     {
         "ratings_total": 6,
-        "ratings_average": "4.83",
+        "ratings_average": "2.50",
         "app_name": "",
-        "package_name": "tomahawk",
-        "histogram": "[0, 0, 0, 1, 5]"
+        "package_name": "mess",
+        "histogram": "[3, 0, 1, 1, 1]"
     },
     {
         "ratings_total": 1,
@@ -34300,11 +34321,11 @@
         "histogram": "[0, 0, 0, 0, 2]"
     },
     {
-        "ratings_total": 96,
-        "ratings_average": "4.69",
+        "ratings_total": 298,
+        "ratings_average": "3.83",
         "app_name": "",
-        "package_name": "steam-launcher",
-        "histogram": "[2, 4, 2, 6, 82]"
+        "package_name": "gtk-recordmydesktop",
+        "histogram": "[30, 25, 39, 75, 129]"
     },
     {
         "ratings_total": 1,
@@ -34326,6 +34347,13 @@
         "app_name": "",
         "package_name": "gsmartcontrol",
         "histogram": "[2, 1, 0, 1, 18]"
+    },
+    {
+        "ratings_total": 254,
+        "ratings_average": "4.39",
+        "app_name": "",
+        "package_name": "soundconverter",
+        "histogram": "[16, 9, 12, 39, 178]"
     },
     {
         "ratings_total": 0,
@@ -34363,11 +34391,11 @@
         "histogram": "[0, 0, 0, 0, 4]"
     },
     {
-        "ratings_total": 180,
-        "ratings_average": "4.52",
+        "ratings_total": 11,
+        "ratings_average": "4.55",
         "app_name": "",
-        "package_name": "nautilus-dropbox",
-        "histogram": "[8, 3, 12, 22, 135]"
+        "package_name": "diodon",
+        "histogram": "[0, 1, 0, 2, 8]"
     },
     {
         "ratings_total": 1,
@@ -34384,11 +34412,11 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 10,
-        "ratings_average": "4.50",
+        "ratings_total": 101,
+        "ratings_average": "3.74",
         "app_name": "",
-        "package_name": "diodon",
-        "histogram": "[0, 1, 0, 2, 7]"
+        "package_name": "netbeans",
+        "histogram": "[20, 6, 9, 11, 55]"
     },
     {
         "ratings_total": 1,
@@ -34405,25 +34433,18 @@
         "histogram": "[0, 0, 0, 1, 0]"
     },
     {
-        "ratings_total": 9,
-        "ratings_average": "4.11",
+        "ratings_total": 48,
+        "ratings_average": "3.60",
         "app_name": "",
-        "package_name": "dofus",
-        "histogram": "[1, 0, 2, 0, 6]"
+        "package_name": "system-config-printer-gnome",
+        "histogram": "[12, 2, 3, 7, 24]"
     },
     {
-        "ratings_total": 1,
-        "ratings_average": "5.00",
+        "ratings_total": 75,
+        "ratings_average": "4.05",
         "app_name": "",
-        "package_name": "btresourcesearch",
-        "histogram": "[0, 0, 0, 0, 1]"
-    },
-    {
-        "ratings_total": 218,
-        "ratings_average": "3.50",
-        "app_name": "",
-        "package_name": "totem",
-        "histogram": "[23, 28, 45, 60, 62]"
+        "package_name": "mixxx",
+        "histogram": "[5, 9, 2, 20, 39]"
     },
     {
         "ratings_total": 2,
@@ -34447,11 +34468,11 @@
         "histogram": "[7, 3, 3, 14, 15]"
     },
     {
-        "ratings_total": 99,
-        "ratings_average": "3.80",
+        "ratings_total": 2,
+        "ratings_average": "1.00",
         "app_name": "",
-        "package_name": "netbeans",
-        "histogram": "[18, 6, 9, 11, 55]"
+        "package_name": "colorsudoku",
+        "histogram": "[2, 0, 0, 0, 0]"
     },
     {
         "ratings_total": 1,
@@ -34459,13 +34480,6 @@
         "app_name": "",
         "package_name": "mission-to-the-unknown",
         "histogram": "[1, 0, 0, 0, 0]"
-    },
-    {
-        "ratings_total": 71,
-        "ratings_average": "4.01",
-        "app_name": "",
-        "package_name": "mixxx",
-        "histogram": "[5, 9, 2, 19, 36]"
     },
     {
         "ratings_total": 7,
@@ -34480,13 +34494,6 @@
         "app_name": "",
         "package_name": "pixfrogger",
         "histogram": "[2, 3, 1, 3, 2]"
-    },
-    {
-        "ratings_total": 1,
-        "ratings_average": "5.00",
-        "app_name": "",
-        "package_name": "scribble",
-        "histogram": "[0, 0, 0, 0, 1]"
     },
     {
         "ratings_total": 59,
@@ -34510,11 +34517,11 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 251,
-        "ratings_average": "4.39",
+        "ratings_total": 2,
+        "ratings_average": "5.00",
         "app_name": "",
-        "package_name": "soundconverter",
-        "histogram": "[16, 9, 12, 39, 175]"
+        "package_name": "scribble",
+        "histogram": "[0, 0, 0, 0, 2]"
     },
     {
         "ratings_total": 1,
@@ -34559,11 +34566,11 @@
         "histogram": "[1, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 24,
-        "ratings_average": "4.71",
+        "ratings_total": 53,
+        "ratings_average": "3.85",
         "app_name": "",
-        "package_name": "cherrytree",
-        "histogram": "[0, 1, 1, 2, 20]"
+        "package_name": "freeciv-client-gtk",
+        "histogram": "[5, 3, 6, 20, 19]"
     },
     {
         "ratings_total": 2,
@@ -34573,11 +34580,18 @@
         "histogram": "[0, 0, 0, 0, 2]"
     },
     {
-        "ratings_total": 1,
-        "ratings_average": "1.00",
+        "ratings_total": 231,
+        "ratings_average": "4.61",
         "app_name": "",
-        "package_name": "colorsudoku",
-        "histogram": "[1, 0, 0, 0, 0]"
+        "package_name": "virtualbox-qt",
+        "histogram": "[4, 0, 17, 41, 169]"
+    },
+    {
+        "ratings_total": 296,
+        "ratings_average": "4.25",
+        "app_name": "",
+        "package_name": "libreoffice-writer",
+        "histogram": "[12, 16, 27, 71, 170]"
     },
     {
         "ratings_total": 1,
@@ -34594,13 +34608,6 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 52,
-        "ratings_average": "3.83",
-        "app_name": "",
-        "package_name": "freeciv-client-gtk",
-        "histogram": "[5, 3, 6, 20, 18]"
-    },
-    {
         "ratings_total": 107,
         "ratings_average": "4.78",
         "app_name": "",
@@ -34608,11 +34615,11 @@
         "histogram": "[1, 1, 3, 11, 91]"
     },
     {
-        "ratings_total": 295,
-        "ratings_average": "4.26",
+        "ratings_total": 183,
+        "ratings_average": "4.51",
         "app_name": "",
-        "package_name": "libreoffice-writer",
-        "histogram": "[11, 16, 27, 71, 170]"
+        "package_name": "nautilus-dropbox",
+        "histogram": "[8, 3, 12, 25, 135]"
     },
     {
         "ratings_total": 1,
@@ -34636,11 +34643,32 @@
         "histogram": "[39, 12, 11, 18, 11]"
     },
     {
-        "ratings_total": 230,
-        "ratings_average": "4.60",
+        "ratings_total": 100,
+        "ratings_average": "4.69",
         "app_name": "",
-        "package_name": "virtualbox-qt",
-        "histogram": "[4, 0, 17, 41, 168]"
+        "package_name": "steam-launcher",
+        "histogram": "[2, 4, 2, 7, 85]"
+    },
+    {
+        "ratings_total": 10,
+        "ratings_average": "4.00",
+        "app_name": "",
+        "package_name": "dofus",
+        "histogram": "[1, 0, 3, 0, 6]"
+    },
+    {
+        "ratings_total": 323,
+        "ratings_average": "4.80",
+        "app_name": "",
+        "package_name": "ubuntu-restricted-extras",
+        "histogram": "[3, 2, 8, 30, 280]"
+    },
+    {
+        "ratings_total": 27,
+        "ratings_average": "4.70",
+        "app_name": "",
+        "package_name": "cherrytree",
+        "histogram": "[0, 1, 1, 3, 22]"
     },
     {
         "ratings_total": 1,
@@ -34678,13 +34706,6 @@
         "histogram": "[0, 0, 0, 0, 1]"
     },
     {
-        "ratings_total": 4,
-        "ratings_average": "1.50",
-        "app_name": "",
-        "package_name": "domino",
-        "histogram": "[3, 0, 1, 0, 0]"
-    },
-    {
         "ratings_total": 1,
         "ratings_average": "3.00",
         "app_name": "",
@@ -34706,18 +34727,18 @@
         "histogram": "[2, 0, 0, 0, 0]"
     },
     {
-        "ratings_total": 802,
-        "ratings_average": "3.40",
-        "app_name": "",
-        "package_name": "banshee",
-        "histogram": "[136, 132, 96, 153, 285]"
-    },
-    {
         "ratings_total": 1,
         "ratings_average": "2.00",
         "app_name": "",
         "package_name": "indicator-messages",
         "histogram": "[0, 1, 0, 0, 0]"
+    },
+    {
+        "ratings_total": 42,
+        "ratings_average": "3.14",
+        "app_name": "",
+        "package_name": "splashtop-streamer",
+        "histogram": "[13, 4, 3, 8, 14]"
     },
     {
         "ratings_total": 1,
@@ -34755,20 +34776,6 @@
         "histogram": "[0, 0, 0, 1, 0]"
     },
     {
-        "ratings_total": 41,
-        "ratings_average": "3.20",
-        "app_name": "",
-        "package_name": "splashtop-streamer",
-        "histogram": "[12, 4, 3, 8, 14]"
-    },
-    {
-        "ratings_total": 2,
-        "ratings_average": "1.00",
-        "app_name": "",
-        "package_name": "chess",
-        "histogram": "[2, 0, 0, 0, 0]"
-    },
-    {
         "ratings_total": 1,
         "ratings_average": "5.00",
         "app_name": "",
@@ -34781,5 +34788,215 @@
         "app_name": "",
         "package_name": "xml2",
         "histogram": "[1, 0, 0, 0, 0]"
+    },
+    {
+        "ratings_total": 5,
+        "ratings_average": "1.40",
+        "app_name": "",
+        "package_name": "domino",
+        "histogram": "[4, 0, 1, 0, 0]"
+    },
+    {
+        "ratings_total": 7,
+        "ratings_average": "4.71",
+        "app_name": "",
+        "package_name": "tomahawk",
+        "histogram": "[0, 0, 0, 2, 5]"
+    },
+    {
+        "ratings_total": 48,
+        "ratings_average": "4.08",
+        "app_name": "",
+        "package_name": "extremetuxracer",
+        "histogram": "[2, 5, 5, 11, 25]"
+    },
+    {
+        "ratings_total": 2,
+        "ratings_average": "3.00",
+        "app_name": "",
+        "package_name": "chess",
+        "histogram": "[1, 0, 0, 0, 1]"
+    },
+    {
+        "ratings_total": 10,
+        "ratings_average": "1.90",
+        "app_name": "",
+        "package_name": "gnome-video-arcade",
+        "histogram": "[6, 2, 0, 1, 1]"
+    },
+    {
+        "ratings_total": 45,
+        "ratings_average": "4.38",
+        "app_name": "",
+        "package_name": "hydrogen",
+        "histogram": "[4, 0, 1, 10, 30]"
+    },
+    {
+        "ratings_total": 10,
+        "ratings_average": "3.80",
+        "app_name": "",
+        "package_name": "rabbitvcs-nautilus",
+        "histogram": "[2, 0, 1, 2, 5]"
+    },
+    {
+        "ratings_total": 113,
+        "ratings_average": "4.36",
+        "app_name": "",
+        "package_name": "libreoffice",
+        "histogram": "[5, 3, 6, 31, 68]"
+    },
+    {
+        "ratings_total": 1,
+        "ratings_average": "1.00",
+        "app_name": "",
+        "package_name": "macpool",
+        "histogram": "[1, 0, 0, 0, 0]"
+    },
+    {
+        "ratings_total": 1,
+        "ratings_average": "5.00",
+        "app_name": "",
+        "package_name": "mscompress",
+        "histogram": "[0, 0, 0, 0, 1]"
+    },
+    {
+        "ratings_total": 42,
+        "ratings_average": "3.60",
+        "app_name": "",
+        "package_name": "visualboyadvance-gtk",
+        "histogram": "[7, 4, 8, 3, 20]"
+    },
+    {
+        "ratings_total": 1,
+        "ratings_average": "1.00",
+        "app_name": "",
+        "package_name": "kasino",
+        "histogram": "[1, 0, 0, 0, 0]"
+    },
+    {
+        "ratings_total": 1,
+        "ratings_average": "5.00",
+        "app_name": "",
+        "package_name": "cardpeek",
+        "histogram": "[0, 0, 0, 0, 1]"
+    },
+    {
+        "ratings_total": 1,
+        "ratings_average": "5.00",
+        "app_name": "",
+        "package_name": "system-config-kickstart",
+        "histogram": "[0, 0, 0, 0, 1]"
+    },
+    {
+        "ratings_total": 1077,
+        "ratings_average": "4.41",
+        "app_name": "",
+        "package_name": "firefox",
+        "histogram": "[59, 38, 67, 147, 766]"
+    },
+    {
+        "ratings_total": 1,
+        "ratings_average": "4.00",
+        "app_name": "",
+        "package_name": "teddyfloppyear-kayaking",
+        "histogram": "[0, 0, 0, 1, 0]"
+    },
+    {
+        "ratings_total": 94,
+        "ratings_average": "3.65",
+        "app_name": "",
+        "package_name": "network-manager-gnome",
+        "histogram": "[9, 10, 20, 21, 34]"
+    },
+    {
+        "ratings_total": 319,
+        "ratings_average": "3.34",
+        "app_name": "",
+        "package_name": "evolution",
+        "histogram": "[54, 58, 37, 64, 106]"
+    },
+    {
+        "ratings_total": 1,
+        "ratings_average": "2.00",
+        "app_name": "",
+        "package_name": "lusernet.app",
+        "histogram": "[0, 1, 0, 0, 0]"
+    },
+    {
+        "ratings_total": 0,
+        "ratings_average": "0.00",
+        "app_name": "",
+        "package_name": "ubuntukylin-default-settings",
+        "histogram": "[0, 0, 0, 0, 0]"
+    },
+    {
+        "ratings_total": 28,
+        "ratings_average": "4.50",
+        "app_name": "",
+        "package_name": "mysql-server",
+        "histogram": "[0, 0, 4, 6, 18]"
+    },
+    {
+        "ratings_total": 1,
+        "ratings_average": "5.00",
+        "app_name": "",
+        "package_name": "cvs",
+        "histogram": "[0, 0, 0, 0, 1]"
+    },
+    {
+        "ratings_total": 44,
+        "ratings_average": "4.32",
+        "app_name": "",
+        "package_name": "minitube-ubuntu",
+        "histogram": "[4, 2, 3, 2, 33]"
+    },
+    {
+        "ratings_total": 1,
+        "ratings_average": "5.00",
+        "app_name": "",
+        "package_name": "rtmpdump",
+        "histogram": "[0, 0, 0, 0, 1]"
+    },
+    {
+        "ratings_total": 1,
+        "ratings_average": "4.00",
+        "app_name": "",
+        "package_name": "xfce4-mailwatch-plugin",
+        "histogram": "[0, 0, 0, 1, 0]"
+    },
+    {
+        "ratings_total": 1,
+        "ratings_average": "1.00",
+        "app_name": "",
+        "package_name": "xplorer",
+        "histogram": "[1, 0, 0, 0, 0]"
+    },
+    {
+        "ratings_total": 1,
+        "ratings_average": "5.00",
+        "app_name": "",
+        "package_name": "signon-ui",
+        "histogram": "[0, 0, 0, 0, 1]"
+    },
+    {
+        "ratings_total": 1,
+        "ratings_average": "1.00",
+        "app_name": "",
+        "package_name": "kubix",
+        "histogram": "[1, 0, 0, 0, 0]"
+    },
+    {
+        "ratings_total": 338,
+        "ratings_average": "3.87",
+        "app_name": "",
+        "package_name": "openshot",
+        "histogram": "[34, 37, 33, 69, 165]"
+    },
+    {
+        "ratings_total": 805,
+        "ratings_average": "3.40",
+        "app_name": "",
+        "package_name": "banshee",
+        "histogram": "[136, 132, 96, 155, 286]"
     }
 ]

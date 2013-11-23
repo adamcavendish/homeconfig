@@ -5,3 +5,19 @@
 www.baidu.com        ".baidu.com"         "/"          3529055249    0 BAIDUID              4    BA0B5BD935C44F41434FF9670FF8CA75:FG=1
 [.wikia.com]
 lyrics.wikia.com     ".wikia.com"         "/"          1398325795    0 wikia_beacon_id      4    9I76kx65nS
+[.google.com]
+www.google.com       ".google.com"        "/intl/zh-CN/chrome/browser/privacy/" 1447673557    0 __utma               4    173272373.1330101166.1384593826.1384593826.1384593826.1
+www.google.com       ".google.com"        "/intl/zh-CN/chrome/browser/privacy/" 1400369557    0 __utmz               4    173272373.1384593826.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=chrome
+www.google.com       ".google.com"        "/intl/zh-CN/chrome/browser/" 1447673689    0 __utma               4    173272373.1330101166.1384593826.1384593826.1384601482.2
+www.google.com       ".google.com"        "/intl/zh-CN/chrome/browser/" 1384603489    0 __utmb               4    173272373.9.9.1384601689012
+www.google.com       ".google.com"        "/intl/zh-CN/chrome/browser/" 1400369689    0 __utmz               4    173272373.1384593826.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=chrome
+www.google.com       ".google.com"        "/intl/zh-CN/chrome/" 1447673555    0 __utma               4    173272373.1330101166.1384593826.1384593826.1384601551.2
+www.google.com       ".google.com"        "/intl/zh-CN/chrome/" 1400369555    0 __utmz               4    173272373.1384593826.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=chrome
+www.google.com       ".google.com"        "/"          1447665802    0 PREF                 4    ID=2a7fb3221b3d84b6:FF=0:NW=1:TM=1384593802:LM=1384593802:S=CXQlpG_uFsFTT2TG
+apis.google.com      ".google.com"        "/"          1400405026    0 NID                  6    67=ClJP7ikGKuDLLKQ4LbXpeGGWDemj8EvkO_cOiFn0b9kuFHf6fvLsoqA-PBaexx4WjNpxgcu6yWKgHyOMe2iBwT85oATJyOvFg24UdToD_JRVkuYEWJlvKsP1JCfci8Oj
+[.google.com.hk]
+www.google.com.hk    ".google.com.hk"     "/"          1400405003    0 NID                  6    67=H9Ue2iir8CspjM3vlYMDfKQdLTjcmEWoBaRiK_FhBlFGHSHjuD3wiZ2zfg0_deNKfc5ZHgqxCJSZXUF25FvniutawS18IUSHYSERu2OOKOc5A_mhKxjYocUdNtkVBQiU
+www.google.com.hk    ".google.com.hk"     "/"          1447665803    0 PREF                 4    ID=3d065092897acf05:U=4e2e5d8d6fa4a539:FF=2:LD=zh-CN:NW=1:TM=1384593803:LM=1384593803:S=14h-f6uyPcP-tXzd
+[.google.cn]
+www.google.cn        ".google.cn"         "/chrome/intl/zh-cn/" 1447665915    0 __utma               4    111332882.1403770641.1384593899.1384593899.1384593899.1
+www.google.cn        ".google.cn"         "/chrome/intl/zh-cn/" 1400361915    0 __utmz               4    111332882.1384593899.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=chrome

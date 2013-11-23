@@ -1,0 +1,8 @@
+[Auto Allow]
+kdewallet=kwalletmanager
+
+[Auto Deny]
+kdewallet=KDE Daemon
+
+[Wallet]
+Enabled=false
