@@ -103,6 +103,9 @@ InfoOutput=4
 [kio_ftp]
 InfoOutput=4
 
+[kio_help4]
+InfoOutput=2
+
 [kio_trash]
 InfoOutput=4
 
@@ -117,6 +120,9 @@ InfoOutput=4
 
 [konqueror]
 InfoOutput=4
+
+[kquitapp]
+InfoOutput=2
 
 [krunner]
 InfoOutput=4

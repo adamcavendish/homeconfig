@@ -1,3 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
-let g:netrw_dirhist_1='/files/Nutstore/000/QtWorkspace/__learning/Notepad/version03'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/.git'
+let g:netrw_dirhist_2='/files/SOURCE_code/ubuntu_kernel/ubuntu-precise'
+let g:netrw_dirhist_3='/files/Nutstore/000/CPPWorkSpace/SHUCourse/HomeworkGitShare/.git'
+let g:netrw_dirhist_4='/files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/src/useless/lexer'

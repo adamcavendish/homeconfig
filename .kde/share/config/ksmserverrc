@@ -10,28 +10,59 @@ count=0
 [Session: saved at previous logout]
 clientId1=1019218515e16b000138249455800000020110000
 clientId2=1019218515e16b000138273229600000016880010
-clientId3=1019218515e16b000138460401300000016090005
-count=3
-discardCommand1[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/kwin_1019218515e16b000138249455800000020110000_1384688335_81741
-discardCommand2[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/kmix_1019218515e16b000138273229600000016880010_1384688334_960713
-discardCommand3[$e]=\\0
+clientId3=1019516816d169000138686309700000023060047
+clientId4=1019516816d169000138689460800000022040008
+clientId5=1019516816d169000138589001900000020820074
+clientId6=1019516816d169000138919408300000021670006
+clientId7=1019516816d169000138919804400000021670027
+count=7
+discardCommand1[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/kwin_1019218515e16b000138249455800000020110000_1389199490_354483
+discardCommand2[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/kmix_1019218515e16b000138273229600000016880010_1389199490_324000
+discardCommand3[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/yakuake_1019516816d169000138686309700000023060047_1389199490_324285
+discardCommand4[$e]=\\0
+discardCommand5[$e]=\\0
+discardCommand6[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/printer-applet_1019516816d169000138919408300000021670006_1389199490_325435
+discardCommand7[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/konsole_1019516816d169000138919804400000021670027_1389199490_331187
 program1=kwin
 program2=/usr/bin/kmix
-program3=/usr/bin/akonaditray
-restartCommand1=kwin,-session,1019218515e16b000138249455800000020110000_1384688335_81741
-restartCommand2=/usr/bin/kmix,-session,1019218515e16b000138273229600000016880010_1384688334_960713
-restartCommand3=/usr/bin/akonaditray,-session,1019218515e16b000138460401300000016090005_1384688334_961133
+program3=/usr/bin/yakuake
+program4=/usr/bin/akonaditray
+program5=kmail
+program6=/usr/bin/printer-applet
+program7=/usr/bin/konsole
+restartCommand1=kwin,-session,1019218515e16b000138249455800000020110000_1389199490_354483
+restartCommand2=/usr/bin/kmix,-session,1019218515e16b000138273229600000016880010_1389199490_324000
+restartCommand3=/usr/bin/yakuake,-session,1019516816d169000138686309700000023060047_1389199490_324285
+restartCommand4=/usr/bin/akonaditray,-session,1019516816d169000138689460800000022040008_1389199490_324576
+restartCommand5=kmail,-session,1019516816d169000138589001900000020820074_1389199490_324884
+restartCommand6=/usr/bin/printer-applet,-session,1019516816d169000138919408300000021670006_1389199490_325435
+restartCommand7=/usr/bin/konsole,-session,1019516816d169000138919804400000021670027_1389199490_331187
 restartStyleHint1=0
 restartStyleHint2=0
 restartStyleHint3=0
+restartStyleHint4=0
+restartStyleHint5=0
+restartStyleHint6=0
+restartStyleHint7=0
 userId1=adam
 userId2=adam
 userId3=adam
+userId4=adam
+userId5=adam
+userId6=adam
+userId7=adam
 wasWm1=true
 wasWm2=false
 wasWm3=false
+wasWm4=false
+wasWm5=false
+wasWm6=false
+wasWm7=false
 
 [SubSession: 0f470a85-fed0-42ce-9323-fecd47824f9e]
+count=0
+
+[SubSession: 41c8e0da-c8f5-4782-afb7-d8500d9e7601]
 count=0
 
 [SubSession: 7564a1b7-2e4e-4cfe-92b0-0b8a1bff6557]
@@ -57,8 +88,28 @@ restartStyleHint1=0
 userId1=adam
 wasWm1=false
 
+[SubSession: 8987b2d4-4641-4405-a90c-2c29e0679b86]
+count=0
+
 [SubSession: 94ddf354-8194-4061-9e88-783af7d0c4f2]
 count=0
+
+[SubSession: 959eebc8-93e9-455b-8b29-d6730f487fe0]
+clientId1=1019516816d169000138919492400000021670016
+clientId2=1019516816d169000138919508600000021670020
+count=2
+discardCommand1[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/dolphin_1019516816d169000138919492400000021670016_1389195750_463001
+discardCommand2[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/okular_1019516816d169000138919508600000021670020_1389195750_463275
+program1=/usr/bin/dolphin
+program2=/usr/bin/okular
+restartCommand1=/usr/bin/dolphin,-session,1019516816d169000138919492400000021670016_1389195750_463001
+restartCommand2=/usr/bin/okular,-session,1019516816d169000138919508600000021670020_1389195750_463275
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=adam
+userId2=adam
+wasWm1=false
+wasWm2=false
 
 [SubSession: ac46fd92-d429-4c20-a1d9-bec0439001e6]
 clientId1=1019218515e16b000138272788700000017110156

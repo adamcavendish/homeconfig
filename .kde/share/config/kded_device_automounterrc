@@ -1,3 +1,15 @@
+[Devices][/org/freedesktop/UDisks/devices/loop0]
+EverMounted=true
+Icon=media-optical
+LastNameSeen=708.0 MiB Hard Drive
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks/devices/loop1]
+EverMounted=true
+Icon=media-optical
+LastNameSeen=708.0 MiB Hard Drive
+LastSeenMounted=false
+
 [Devices][/org/freedesktop/UDisks/devices/sda1]
 EverMounted=true
 Icon=drive-harddisk
@@ -5,11 +17,13 @@ LastNameSeen=237.5 MiB Hard Drive
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks/devices/sda3]
+EverMounted=true
 Icon=drive-harddisk
 LastNameSeen=系统保留
 LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks/devices/sda4]
+EverMounted=true
 Icon=drive-harddisk
 LastNameSeen=129.7 GiB Hard Drive
 LastSeenMounted=false
@@ -39,9 +53,21 @@ LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks/devices/sdb1]
 EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=adam
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks/devices/sdb4]
+EverMounted=true
 Icon=drive-removable-media-usb
-LastNameSeen=KINGSTON
-LastSeenMounted=false
+LastNameSeen=GRMCULXFRER
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks/devices/sr0:media]
+EverMounted=true
+Icon=media-optical-data
+LastNameSeen=英语听力入门3000-4
+LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/loop0]
 Icon=drive-harddisk

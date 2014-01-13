@@ -54,12 +54,6 @@ export CPLUS_INCLUDE_PATH="/usr/local/include/:$CPLUS_INCLUDE_PATH"
 export LD_LIBRARY_PATH="/usr/local/lib/:$LD_LIBRARY_PATH"
 export LIBRARY_PATH="/usr/local/lib/:$LIBRARY_PATH"
 
-# Qt
-export PATH="/opt/Qt5.1.1/5.1.1/gcc_64/bin/:/opt/Qt5.1.1/Tools/QtCreator/bin/:$PATH"
-export CPLUS_INCLUDE_PATH="/opt/Qt5.1.1/5.1.1/gcc_64/include/:$CPLUS_INCLUDE_PATH"
-export LD_LIBRARY_PATH="/opt/Qt5.1.1/5.1.1/gcc_64/lib:$LD_LIBRARY_PATH"
-export LIBRARY_PATH="/opt/Qt5.1.1/5.1.1/gcc_64/lib:$LIBRARY_PATH"
-
 # Java
 export JAVA_HOME="/usr/bin/"
 
@@ -88,20 +82,24 @@ alias ..='cd ..'
 alias cdwork='cd /files/Nutstore/'
 alias cdcpp='cd /files/Nutstore/000/CPPWorkSpace/'
 alias cdpython='cd /files/Nutstore/000/Python/'
+alias cdjava='cd /files/Nutstore/000/Java/'
 alias cdopengl='cd /files/Nutstore/000/OpenGL/'
 alias cdqt='cd /files/Nutstore/000/QtWorkspace/'
 alias cdcmake='cd /files/Nutstore/000/cmake_example/'
 alias cdosc='cd /files/Nutstore/Work/OpenSourceCommunity/'
 
-alias g11='g++-4.8 -std=c++11 -march=native -O3 -Wall -Weffc++'
+alias g11='g++-4.8 -std=c++11 -march=native -O3 -flto  -Wall'
 alias ctags++='ctags -R --c++-kinds=+p --fields=+iaS --extra=+q'
 
 alias aria2='aria2c --dir="/home/adam/aria/" --enable-rpc --rpc-listen-all --rpc-allow-origin-all  --file-allocation=none --max-connection-per-server=3 --max-concurrent-downloads=3 --continue'
+alias yaaw='chromium-browser /files/SOURCE_code/YAAW/yaaw/index.html &'
 
 alias nutstore='~/.nutstore/dist/bin/nutstore-pydaemon.py'
 
 alias gvim='gvim -f'
+
 alias goagent='python /files/software/goagent/local/proxy.py'
+alias snova='sh /files/software/snova-0.22.0/bin/start.sh'
 
 alias pp='ping -i 0.2 www.google.com; ping www.baidu.com'
 
@@ -148,11 +146,14 @@ export LIBRARY_PATH="/files/Nutstore/000/LinuxDriver/lib/:$LIBRARY_PATH";
 	# export PATH="/opt/cmake2.8.11/bin/:$PATH"
 
 ##################################################
-## @hostname adam-ThinkPad-E425
-elif [ `hostname` = "adam-ThinkPad-E425" ]; then
-	echo "\e[0;1;49;39mHello adam-ThinkPad-E425\e[0m"
+## @hostname adam-ThinkpadE425
+elif [ `hostname` = "adam-ThinkpadE425" ]; then
+	echo "\e[0;1;49;39mHello adam-ThinkpadE425\e[0m"
 	# Using OpenCL for Java
 	# export LIBAPARAPI="/opt/APARAPI/aparapi-read-only"
+	
+	# CPM - CMake
+	export CPM_DIR="/files/SOURCE_code/CPM/cpm/"
 	
 	# clang
 	export PATH="/opt/clang-3.4/bin:$PATH"
@@ -162,23 +163,30 @@ elif [ `hostname` = "adam-ThinkPad-E425" ]; then
 	export LIBRARY_PATH="/opt/clang-3.4/lib:$LIBRARY_PATH"
 
 	# OpenCL
-	export CPLUS_INCLUDE_PATH="/opt/AMDAPP/include/:$CPLUS_INCLUDE_PATH"
-	export C_INCLUDE_PATH="/opt/AMDAPP/include/:$C_INCLUDE_PATH"
-	export LD_LIBRARY_PATH="/opt/AMDAPP/include/lib/x86_64/:$LD_LIBRARY_PATH"
-	export LIBRARY_PATH="/opt/AMDAPP/include/lib/x86_64/:$LIBRARY_PATH"
+	# export CPLUS_INCLUDE_PATH="/opt/AMDAPP/include/:$CPLUS_INCLUDE_PATH"
+	# export C_INCLUDE_PATH="/opt/AMDAPP/include/:$C_INCLUDE_PATH"
+	# export LD_LIBRARY_PATH="/opt/AMDAPP/include/lib/x86_64/:$LD_LIBRARY_PATH"
+	# export LIBRARY_PATH="/opt/AMDAPP/include/lib/x86_64/:$LIBRARY_PATH"
+	# Boost-compute
+	export CPLUS_INCLUDE_PATH="/files/SOURCE_code/BOOST_compute/compute/include/:$CPLUS_INCLUDE_PATH"
+
+	# Qt-Android
+	export PATH="/opt/Qt5.2.0-android/5.2.0/gcc_64/bin/:/opt/Qt5.2.0-android/Tools/QtCreator/bin/:$PATH"
+	export CPLUS_INCLUDE_PATH="/opt/Qt5.2.0-android/5.2.0/gcc_64/include/:$CPLUS_INCLUDE_PATH"
+	export LD_LIBRARY_PATH="/opt/Qt5.2.0-android/5.2.0/gcc_64/lib:$LD_LIBRARY_PATH"
+	export LIBRARY_PATH="/opt/Qt5.2.0-android/5.2.0/gcc_64/lib:$LIBRARY_PATH"
+	# Qt
+	export PATH="/opt/Qt5.2.0/5.2.0/gcc_64/bin/:/opt/Qt5.2.0/Tools/QtCreator/bin/:$PATH"
+	export CPLUS_INCLUDE_PATH="/opt/Qt5.2.0/5.2.0/gcc_64/include/:$CPLUS_INCLUDE_PATH"
+	export LD_LIBRARY_PATH="/opt/Qt5.2.0/5.2.0/gcc_64/lib:$LD_LIBRARY_PATH"
+	export LIBRARY_PATH="/opt/Qt5.2.0/5.2.0/gcc_64/lib:$LIBRARY_PATH"
 
 	# ROOT
-	export ROOTSYS="/opt/ROOT/"
-	export PATH="$ROOTSYS/bin/:$PATH"
-	export CPLUS_INCLUDE_PATH="$ROOTSYS/include/:$CPLUS_INCLUDE_PATH"
-	export LD_LIBRARY_PATH="$ROOTSYS/lib/:$LD_LIBRARY_PATH"
-	export LIBRARY_PATH="$ROOTSYS/lib/:$LIBRARY_PATH"
-
-	# Qt
-	export PATH="/opt/Qt5.1/5.1.0/gcc_64/bin/:/opt/Qt5.1/Tools/QtCreator/bin/:$PATH"
-	export CPLUS_INCLUDE_PATH="/opt/Qt5.1/5.1.0/gcc_64/include/:$CPLUS_INCLUDE_PATH"
-	export LD_LIBRARY_PATH="/opt/Qt5.1/5.1.0/gcc_64/lib:$LD_LIBRARY_PATH"
-	export LIBRARY_PATH="/opt/Qt5.1/5.1.0/gcc_64/lib:$LIBRARY_PATH"
+	# export ROOTSYS="/opt/ROOT/"
+	# export PATH="$ROOTSYS/bin/:$PATH"
+	# export CPLUS_INCLUDE_PATH="$ROOTSYS/include/:$CPLUS_INCLUDE_PATH"
+	# export LD_LIBRARY_PATH="$ROOTSYS/lib/:$LD_LIBRARY_PATH"
+	# export LIBRARY_PATH="$ROOTSYS/lib/:$LIBRARY_PATH"
 
 	# OpenSceneGraph
 	export LD_LIBRARY_PATH="/usr/local/lib64:$LD_LIBRARY_PATH"
@@ -186,6 +194,31 @@ elif [ `hostname` = "adam-ThinkPad-E425" ]; then
 	# CMake Library Search PATH
 	export CPLUS_INCLUDE_PATH="/files/Install/OpenGL3rdParty/gl3w/include/:$CPLUS_INCLUDE_PATH"
 	export C_INCLUDE_PATH="/files/Install/OpenGL3rdParty/gl3w/include/:$C_INCLUDE_PATH"
+
+	# Akaroa and OMNet++
+	export PATH="/opt/akaroa-2.7.12/bin/:$PATH"
+	export C_INCLUDE_PATH="/opt/akaroa-2.7.12/include/:$C_INCLUDE_PATH"
+	export CPLUS_INCLUDE_PATH="/opt/akaroa-2.7.12/include/:$CPLUS_INCLUDE_PATH"
+	export LD_LIBRARY_PATH="/opt/akaroa-2.7.12/lib/:$LD_LIBRARY_PATH"
+	export LIBRARY_PATH="/opt/akaroa-2.7.12/lib/:$LIBRARY_PATH"
+
+	export PATH="/opt/omnetpp-4.3.1/bin/:$PATH"
+	export CPLUS_INCLUDE_PATH="/opt/omnetpp-4.3.1/include/:$CPLUS_INCLUDE_PATH"
+	export LD_LIBRARY_PATH="/opt/omnetpp-4.3.1/lib/:$LD_LIBRARY_PATH"
+	export TCL_LIBRARY="/usr/share/tcltk/tcl8.5/"
+	export omnetpp_root="/opt/omnetpp-4.3.1/"
+	export OMNETPP_CONFIGFILE="~/.omnetpp/Makefile.inc"
+	# export HOSTNAME
+	# export HOST
+
+	# Java
+	export JAVA_HOME="/usr/lib/jvm/java-7-openjdk-amd64/"
+	export PATH="$JAVA_HOME/bin:$PATH"
+	export CLASSPATH="$JAVA_HOME/lib:$CLASSPATH"
+
+	# Android
+	export PATH="/files/Install/android/adt-bundle-linux-x86_64-20131030/sdk/platform-tools/:$PATH"
+
 elif [ `hostname` = "adam-TerransForce" ]; then
 	echo "\e[0;1;49;39mHello adam-TerransForce\e[0m"
 

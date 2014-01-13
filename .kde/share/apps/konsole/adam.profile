@@ -1,8 +1,9 @@
 [Appearance]
 ColorScheme=Adam
-Font=Monospace,14,-1,2,50,0,0,0,0,0
+Font=Ubuntu Mono,16,-1,5,75,0,0,0,0,0
 
 [General]
+Command=/bin/zsh
 Name=adam
 Parent=FALLBACK/
 
@@ -11,3 +12,7 @@ KeyBindings=linux
 
 [Scrolling]
 HistoryMode=2
+
+[Terminal Features]
+BlinkingCursorEnabled=true
+FlowControlEnabled=false

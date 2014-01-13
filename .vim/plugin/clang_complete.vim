@@ -13,8 +13,6 @@ let b:clang_parameters = ''
 let b:clang_user_options = ''
 let b:my_changedtick = 0
 
-au FileType cpp let b:clang_user_options = '-std=c++11 -stdlib=libc++ -x c++'
-
 " Store plugin path, as this is available only when sourcing the file,
 " not during a function call.
 let s:plugin_path = escape(expand('<sfile>:p:h'), '\')
@@ -106,9 +104,9 @@ function! s:ClangCompleteInit()
   call LoadUserOptions()
 
   inoremap <expr> <buffer> <C-X><C-U> <SID>LaunchCompletion()
-"  inoremap <expr> <buffer> . <SID>CompleteDot()
-"  inoremap <expr> <buffer> > <SID>CompleteArrow()
-"  inoremap <expr> <buffer> : <SID>CompleteColon()
+  inoremap <expr> <buffer> . <SID>CompleteDot()
+  inoremap <expr> <buffer> > <SID>CompleteArrow()
+  inoremap <expr> <buffer> : <SID>CompleteColon()
   inoremap <expr> <buffer> <CR> <SID>HandlePossibleSelectionEnter()
 
   if g:clang_snippets == 1

@@ -4,10 +4,13 @@ update_info=kate-2.4.upd:kate2.4
 [Document 0]
 Bookmarks=
 Encoding=UTF-8
-Highlighting=C++
-Indentation Mode=cstyle
-Mode=C++
-URL=file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/058/huffman.cpp
+FoldedColumns=
+FoldedLines=
+Highlighting=None
+Indentation Mode=normal
+Mode=
+ReadWrite=true
+URL=file:///tmp/b.txt
 
 [General]
 Days Meta Infos=30
@@ -19,7 +22,9 @@ Show Status Bar=true
 [Kate Document Defaults]
 Allow End of Line Detection=true
 Allow Simple Mode=true
+Automatically Insert Closing Brackets=false
 BOM=false
+Backup Config Flags=1
 Backup Flags=0
 Backup Prefix=
 Backup Suffix=~
@@ -37,7 +42,8 @@ No sync=false
 On-The-Fly Spellcheck=false
 Overwrite Mode=false
 PageUp/PageDown Moves Cursor=false
-Remove Spaces=0
+Remove Spaces=false
+RemoveTrailingDyn=false
 ReplaceTabsDyn=false
 Search Dir Config Depth=9
 Show Spaces=false
@@ -47,6 +53,7 @@ Tab Handling=2
 Tab Width=8
 Word Wrap=false
 Word Wrap Column=80
+Wrap Cursor=true
 
 [Kate Part Defaults]
 Encoding Prober Type=1
@@ -67,7 +74,9 @@ katemailfilesplugin=false
 kateopenheaderplugin=false
 katepateplugin=false
 kateprojectplugin=true
+katequickdocumentswitcherplugin=false
 katesearchplugin=true
+katesnippets_tngplugin=false
 katesnippetsplugin=false
 katesqlplugin=false
 katesymbolviewerplugin=false
@@ -113,13 +122,14 @@ Search/Replace Flags=140
 Smart Copy Cut=false
 Vi Input Mode=false
 Vi Input Mode Emulate Command Bar=false
+Vi Input Mode Hide Status Bar=false
 Vi Input Mode Steal Keys=false
 Word Completion=true
 Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
-State=AAAA/wAAAAD9AAAAAAAAArwAAAGtAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
 ToolBarsMovable=Disabled
 
 [MainWindow0]
@@ -129,8 +139,8 @@ Document Name Visible=true
 Encoding Visible=true
 Insertion Mode Visible=true
 Kate-MDI-H-Splitter=200,672,200
-Kate-MDI-Sidebar-0-Splitter=0,0
-Kate-MDI-Sidebar-3-Splitter=0,0
+Kate-MDI-Sidebar-0-Splitter=0
+Kate-MDI-Sidebar-3-Splitter=0
 Kate-MDI-Sidebar-Style=2
 Kate-MDI-ToolView-kate_plugin_katesearch-Persistent=false
 Kate-MDI-ToolView-kate_plugin_katesearch-Position=3
@@ -160,9 +170,9 @@ WindowState=8
 Sizes=672
 
 [MainWindow0-ViewSpace 0]
-Active View=file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/058/huffman.cpp
+Active View=file:///tmp/b.txt
 Count=1
-View 0=file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/058/huffman.cpp
+View 0=file:///tmp/b.txt
 
 [MainWindow0-ViewSpace 0 file:///etc/group]
 CursorColumn=0
@@ -200,9 +210,39 @@ CursorLine=114
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/HomeworkGitShare/DataBase/Labcode/003/lab.sql]
+CursorColumn=0
+CursorLine=179
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///files/Nutstore/School/University/D單片機/AD/AD.asm]
 CursorColumn=0
 CursorLine=188
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///tmp/a.txt]
+CursorColumn=17
+CursorLine=28
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///tmp/a1.txt]
+CursorColumn=17
+CursorLine=28
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///tmp/a2.txt]
+CursorColumn=18
+CursorLine=28
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///tmp/b.txt]
+CursorColumn=17
+CursorLine=28
 JumpList=
 ViMarks=
 
@@ -230,23 +270,31 @@ Recursive=true
 Search=
 SearchDiskFiles=
 SearchDiskFiless=
+SearchFolder=
+SearchFolders=
 UseRegExp=false
 
 [Recent Files]
 File1[$e]=/files/Nutstore/School/University/D單片機/AD/AD.asm
+File10[$e]=/tmp/b.txt
 File2[$e]=/etc/passwd
 File3[$e]=/etc/group
 File4[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/20130924BoardCoverProblem.cpp
 File5[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/055/055MatrixMul.c
 File6[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/056/056LongestCommonString.c
 File7[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/058/huffman.cpp
+File8[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/HomeworkGitShare/DataBase/Labcode/003/lab.sql
+File9[$e]=/tmp/a.txt
 Name1[$e]=AD.asm
+Name10[$e]=b.txt
 Name2[$e]=passwd
 Name3[$e]=group
 Name4[$e]=20130924BoardCoverProblem.cpp
 Name5[$e]=055MatrixMul.c
 Name6[$e]=056LongestCommonString.c
 Name7[$e]=huffman.cpp
+Name8[$e]=lab.sql
+Name9[$e]=a.txt
 
 [filetree]
 editShade=210,181,216

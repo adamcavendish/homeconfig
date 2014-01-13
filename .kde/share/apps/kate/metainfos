@@ -1,69 +1,77 @@
-[file:///etc/group]
+[file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/HomeworkGitShare/DataBase/Labcode/003/lab.sql]
 Bookmarks=
 Encoding=UTF-8
+FoldedColumns=
+FoldedLines=
+Highlighting=SQL
+Indentation Mode=normal
+MD5=a24ea9f906a4008959b9ed958a84389d
+Mode=SQL
+ReadWrite=true
+Time=2013,12,15,2,43,7
+URL=file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/HomeworkGitShare/DataBase/Labcode/003/lab.sql
+
+[file:///temp/tor.tor]
+Bookmarks=
+Encoding=UTF-8
+FoldedColumns=
+FoldedLines=
 Highlighting=None
 Indentation Mode=normal
-MD5=38462ea7a05b4b2afc9a605430405fab
+MD5=6947be273d57c401af783e21bf1b6226
 Mode=
-Time=2013,11,2,21,18,21
-URL=file:///etc/group
+ReadWrite=true
+Time=2013,12,20,18,45,43
+URL=file:///temp/tor.tor
 
-[file:///etc/passwd]
+[file:///tmp/a.txt]
 Bookmarks=
 Encoding=UTF-8
+FoldedColumns=
+FoldedLines=
 Highlighting=None
 Indentation Mode=normal
-MD5=a0e1b1d580968dce60cd54ffed81ad58
+MD5=74ddc67a27a989ee69ae231c9f757da3
 Mode=
-Time=2013,11,2,21,16,8
-URL=file:///etc/passwd
+ReadWrite=true
+Time=2014,1,8,15,47,6
+URL=file:///tmp/a.txt
 
-[file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/055/055MatrixMul.c]
+[file:///tmp/a1.txt]
 Bookmarks=
 Encoding=UTF-8
-Highlighting=C
-Indentation Mode=cstyle
-MD5=dc1d6653dad78432bf0ebd03ba800675
-Mode=C
-Time=2013,11,5,20,27,41
-URL=file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/055/055MatrixMul.c
-
-[file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/056/056LongestCommonString.c]
-Bookmarks=
-Encoding=UTF-8
-Highlighting=C
-Indentation Mode=cstyle
-MD5=3e28a5af1f03a87787394e3b0db319e4
-Mode=C
-Time=2013,11,5,20,30,15
-URL=file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/056/056LongestCommonString.c
-
-[file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/058/huffman.cpp]
-Bookmarks=
-Encoding=UTF-8
-Highlighting=C++
-Indentation Mode=cstyle
-MD5=7e563c7ddf0483b8380fab2af7e8758c
-Mode=C++
-Time=2013,11,5,20,32,9
-URL=file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/058/huffman.cpp
-
-[file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/20130924BoardCoverProblem.cpp]
-Bookmarks=
-Encoding=UTF-8
-Highlighting=C++
-Indentation Mode=cstyle
-MD5=cd37468aa7645d701be057e4aefec6e5
-Mode=C++
-Time=2013,11,5,20,25,27
-URL=file:///files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/20130924BoardCoverProblem.cpp
-
-[file:///files/Nutstore/School/University/D單片機/AD/AD.asm]
-Bookmarks=
-Encoding=GB18030
-Highlighting=Asm6502
+FoldedColumns=
+FoldedLines=
+Highlighting=None
 Indentation Mode=normal
-MD5=f158ae6c49a38b536cfe8c19bcf8223a
-Mode=Asm6502
-Time=2013,10,31,21,23,50
-URL=file:///files/Nutstore/School/University/D單片機/AD/AD.asm
+MD5=74ddc67a27a989ee69ae231c9f757da3
+Mode=
+ReadWrite=true
+Time=2014,1,6,1,14,59
+URL=file:///tmp/a1.txt
+
+[file:///tmp/a2.txt]
+Bookmarks=
+Encoding=UTF-8
+FoldedColumns=
+FoldedLines=
+Highlighting=None
+Indentation Mode=normal
+MD5=1fe8020f2ae5258a9841ca5cabcfc725
+Mode=
+ReadWrite=true
+Time=2014,1,6,1,14,44
+URL=file:///tmp/a2.txt
+
+[file:///tmp/b.txt]
+Bookmarks=
+Encoding=UTF-8
+FoldedColumns=
+FoldedLines=
+Highlighting=None
+Indentation Mode=normal
+MD5=74ddc67a27a989ee69ae231c9f757da3
+Mode=
+ReadWrite=true
+Time=2014,1,8,15,47,21
+URL=file:///tmp/b.txt

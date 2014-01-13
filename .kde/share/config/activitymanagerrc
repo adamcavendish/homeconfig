@@ -7,18 +7,28 @@ org.kde.kactivitymanager.slcEnabled=true
 org.kde.kactivitymanager.virtualdesktopswitchEnabled=true
 
 [activities]
+16402cd8-140d-4d76-bca4-a3dfd5314816=Desktop Icons
 959eebc8-93e9-455b-8b29-d6730f487fe0=Desktop
 
 [activities-icons]
 0f470a85-fed0-42ce-9323-fecd47824f9e=
+16402cd8-140d-4d76-bca4-a3dfd5314816=user-desktop
+41c8e0da-c8f5-4782-afb7-d8500d9e7601=edit-find
 7564a1b7-2e4e-4cfe-92b0-0b8a1bff6557=
 7e232a17-1c75-4046-ad51-94afe0edb346=
+8987b2d4-4641-4405-a90c-2c29e0679b86=digikam
 94ddf354-8194-4061-9e88-783af7d0c4f2=
 959eebc8-93e9-455b-8b29-d6730f487fe0=
 ac46fd92-d429-4c20-a1d9-bec0439001e6=
 bfef38de-b16a-4b9e-b7eb-6b2a61ee62ad=
 f45b8d49-cb4e-4ef7-8fd1-d555ef89c131=
 
+[activitiesDesktops]
+16402cd8-140d-4d76-bca4-a3dfd5314816=1
+41c8e0da-c8f5-4782-afb7-d8500d9e7601=1
+8987b2d4-4641-4405-a90c-2c29e0679b86=1
+959eebc8-93e9-455b-8b29-d6730f487fe0=2
+
 [main]
 currentActivity=959eebc8-93e9-455b-8b29-d6730f487fe0
-runningActivities=959eebc8-93e9-455b-8b29-d6730f487fe0
+runningActivities=16402cd8-140d-4d76-bca4-a3dfd5314816,959eebc8-93e9-455b-8b29-d6730f487fe0

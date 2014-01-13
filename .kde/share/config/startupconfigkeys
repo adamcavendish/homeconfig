@@ -10,4 +10,3 @@ krandrrc [Screen2]
 krandrrc [Screen3]
 kcmfonts General forceFontDPI 0
 kdeglobals Locale Language '' # trigger requesting languages from KLocale
-kdeglobals Locale Country ''

@@ -5,7 +5,7 @@
 			<stringvalue>Control+Shift+asciitilde</stringvalue>
 		</li>
 	</entry>
-	<entry name="trigger" mtime="1376734585" type="list" ltype="string">
+	<entry name="trigger" mtime="1387939167" type="list" ltype="string">
 		<li type="string">
 			<stringvalue>Control+grave</stringvalue>
 		</li>

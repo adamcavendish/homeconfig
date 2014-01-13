@@ -2,23 +2,23 @@
 <gconf>
 	<entry name="open_tab_cwd" mtime="1383313356" type="bool" value="true"/>
 	<entry name="window_height" mtime="1383747785" type="int" value="90"/>
-	<entry name="use_login_shell" mtime="1384599301" type="bool" value="true"/>
-	<entry name="default_shell" mtime="1384599301" type="string">
+	<entry name="use_login_shell" mtime="1386859927" type="bool" value="true"/>
+	<entry name="default_shell" mtime="1386859927" type="string">
 		<stringvalue>/bin/zsh</stringvalue>
 	</entry>
-	<entry name="compat_delete" mtime="1384599301" type="string">
+	<entry name="compat_delete" mtime="1386859927" type="string">
 		<stringvalue>delete-sequence</stringvalue>
 	</entry>
-	<entry name="compat_backspace" mtime="1384599301" type="string">
+	<entry name="compat_backspace" mtime="1386859927" type="string">
 		<stringvalue>ascii-delete</stringvalue>
 	</entry>
-	<entry name="use_default_font" mtime="1383306291" type="bool" value="false"/>
-	<entry name="scroll_keystroke" mtime="1384599301" type="bool" value="true"/>
-	<entry name="history_size" mtime="1384599301" type="int" value="100000"/>
-	<entry name="use_scrollbar" mtime="1384599301" type="bool" value="true"/>
-	<entry name="window_tabbar" mtime="1384599301" type="bool" value="true"/>
-	<entry name="window_losefocus" mtime="1384599301" type="bool" value="false"/>
-	<entry name="prompt_on_quit" mtime="1384599301" type="bool" value="true"/>
-	<entry name="use_popup" mtime="1384599301" type="bool" value="true"/>
-	<entry name="use_trayicon" mtime="1384599301" type="bool" value="true"/>
+	<entry name="use_default_font" mtime="1385950660" type="bool" value="false"/>
+	<entry name="scroll_keystroke" mtime="1386859927" type="bool" value="true"/>
+	<entry name="history_size" mtime="1386859927" type="int" value="100000"/>
+	<entry name="use_scrollbar" mtime="1386859927" type="bool" value="true"/>
+	<entry name="window_tabbar" mtime="1386859927" type="bool" value="true"/>
+	<entry name="window_losefocus" mtime="1386251384" type="bool" value="true"/>
+	<entry name="prompt_on_quit" mtime="1386251431" type="bool" value="false"/>
+	<entry name="use_popup" mtime="1386859927" type="bool" value="true"/>
+	<entry name="use_trayicon" mtime="1386859927" type="bool" value="true"/>
 </gconf>

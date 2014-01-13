@@ -1,6 +1,14 @@
+[KFileDialog Settings]
+Height 768=450
+Recent Files[$e]=$HOME/Documents/abc,$HOME/Documents/abc
+Width 1366=720
+
 [MainWindow]
 Height 768=769
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAABVYAAALUAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1366=1367
+
+[Notification Messages]
+quitwithoutsave=true

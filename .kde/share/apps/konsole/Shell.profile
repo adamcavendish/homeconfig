@@ -1,5 +1,5 @@
 [Appearance]
-ColorScheme=Linux
+ColorScheme=BlackOnWhite
 
 [General]
 Name=Shell

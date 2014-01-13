@@ -32,6 +32,7 @@ toggleMainWindow=none,none,Toggle Main Window
 [kactivitymanagerd]
 _k_friendly_name=KDE Activity Manager
 switch-to-activity-0f470a85-fed0-42ce-9323-fecd47824f9e=none,none,Switch to activity "New Activity"
+switch-to-activity-16402cd8-140d-4d76-bca4-a3dfd5314816=none,none,Switch to activity "Desktop Icons"
 switch-to-activity-7e232a17-1c75-4046-ad51-94afe0edb346=none,none,Switch to activity "Desktop1"
 switch-to-activity-959eebc8-93e9-455b-8b29-d6730f487fe0=none,none,Switch to activity "Desktop"
 
@@ -54,7 +55,7 @@ _k_friendly_name=khotkeys
 {f0f798e0-0cf2-4910-9b6c-7e922479c62e}=Print,none,PrintScreen
 
 [klipper]
-_k_friendly_name=Klipper
+_k_friendly_name=klipper
 clipboard_action=Ctrl+Alt+X,Ctrl+Alt+X,Enable Clipboard Actions
 cycleNextAction=none,none,Next History Item
 cyclePrevAction=none,none,Previous History Item
@@ -83,7 +84,7 @@ kabccontacts=none,none,Run Command (runner "Contacts" only)
 katesessions=none,none,Run Command (runner "Kate Sessions" only)
 locations=none,none,Run Command (runner "Locations" only)
 marble=none,none,Run Command (runner "OpenStreetMap with Marble" only)
-nepomuksearch=none,none,Run Command (runner "Nepomuk Desktop Search Runner" only)
+nepomuksearch=none,none,Run Command (runner "Nepomuk Desktop Search" only)
 org.kde.activities=none,none,Run Command (runner "Activities" only)
 org.kde.windowedwidgets=none,none,Run Command (runner "Windowed widgets" only)
 recentdocuments=none,none,Run Command (runner "Recent Documents" only)
@@ -110,6 +111,8 @@ show_kt=Alt+Shift+T,Alt+Shift+T,Show/Hide KTorrent
 [kwin]
 Activate Window Demanding Attention=Ctrl+Alt+A,Ctrl+Alt+A,Activate Window Demanding Attention
 Block Global Shortcuts=none,none,Block Global Shortcuts
+Cube=Ctrl+F11,Ctrl+F11,Desktop Cube
+Cylinder=none,none,Desktop Cylinder
 Decrease Opacity=none,none,Decrease Opacity of Active Window by 5 %
 Enable/Disable Tiling=Alt+Shift+F11,Alt+Shift+F11,Enable/Disable Tiling
 Expose=Ctrl+F9,Ctrl+F9,Toggle Present Windows (Current desktop)
@@ -134,6 +137,7 @@ Remove Window From Group=none,none,Remove Window From Group
 Setup Window Shortcut=none,none,Setup Window Shortcut
 Show Desktop=none,none,Show Desktop
 ShowDesktopGrid=Ctrl+F8,Ctrl+F8,Show Desktop Grid
+Sphere=none,none,Desktop Sphere
 Suspend Compositing=Alt+Shift+F12,Alt+Shift+F12,Suspend Compositing
 Switch Focus Down=Meta+J,Meta+J,Switch Focus Down
 Switch Focus Left=Meta+H,Meta+H,Switch Focus Left
@@ -272,7 +276,8 @@ Previous Activity=Ctrl+Alt+Left,Meta+Shift+Tab,Previous Activity
 Show Dashboard=Ctrl+F12,Ctrl+F12,Show Dashboard
 Stop Activity=none,Meta+S,Stop Current Activity
 SystemTray-Klipper-6=Ctrl+Alt+V,Ctrl+Alt+V,
-_k_friendly_name=Plasma Desktop Shell
+_k_friendly_name=plasma-desktop
+activate widget 2=Meta+Space,Meta+Space,Activate Application Launcher Widget
 manage activities=Meta+Q,Meta+Q,Activities...
 
 [wacomtablet]
@@ -285,5 +290,5 @@ Toggle touch tool=none,Meta+Ctrl+T,Enable/Disable the Touch Tool
 _k_friendly_name=wacomtablet
 
 [yakuake]
-_k_friendly_name=yakuake
+_k_friendly_name=Yakuake
 toggle-window-state=F12,F12,Open/Retract Yakuake

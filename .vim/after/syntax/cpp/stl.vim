@@ -689,28 +689,34 @@ if !exists("cpp_no_cpp11")
     syntax keyword cppSTLtype false_type
 
     " memory
-    syntax keyword cppSTLtype unique_ptr
-    syntax keyword cppSTLtype shared_ptr
-    syntax keyword cppSTLtype weak_ptr
-    syntax keyword cppSTLtype owner_less
-    syntax keyword cppSTLtype enable_shared_from_this
-    syntax keyword cppSTLexception bad_weak_ptr
-    syntax keyword cppSTLtype default_delete
-    syntax keyword cppSTLtype allocator_traits
-    syntax keyword cppSTLtype allocator_type
-    syntax keyword cppSTLtype allocator_arg_t
     syntax keyword cppSTLconstant allocator_arg
-    syntax keyword cppSTLtype uses_allocator
-    syntax keyword cppSTLtype scoped_allocator_adaptor
-    syntax keyword cppSTLfunction declare_reachable
-    syntax keyword cppSTLfunction undeclare_reachable
-    syntax keyword cppSTLfunction declare_no_pointers
-    syntax keyword cppSTLfunction undeclare_no_pointers
-    syntax keyword cppSTLfunction get_pointer_safety
-    syntax keyword cppSTLtype pointer_safety
-    syntax keyword cppSTLtype pointer_traits
+    syntax keyword cppSTLexception bad_weak_ptr
     syntax keyword cppSTLfunction addressof
     syntax keyword cppSTLfunction align
+	syntax keyword cppSTLfunction allocate_shared
+	syntax keyword cppSTLfunction const_pointer_cast
+    syntax keyword cppSTLfunction declare_no_pointers
+    syntax keyword cppSTLfunction declare_reachable
+	syntax keyword cppSTLfunction dynamic_pointer_cast
+	syntax keyword cppSTLfunction get_deleter
+    syntax keyword cppSTLfunction get_pointer_safety
+	syntax keyword cppSTLfunction make_shared
+	syntax keyword cppSTLfunction static_pointer_cast
+    syntax keyword cppSTLfunction undeclare_no_pointers
+    syntax keyword cppSTLfunction undeclare_reachable
+    syntax keyword cppSTLtype allocator_arg_t
+    syntax keyword cppSTLtype allocator_traits
+    syntax keyword cppSTLtype allocator_type
+    syntax keyword cppSTLtype default_delete
+    syntax keyword cppSTLtype enable_shared_from_this
+    syntax keyword cppSTLtype owner_less
+    syntax keyword cppSTLtype pointer_safety
+    syntax keyword cppSTLtype pointer_traits
+    syntax keyword cppSTLtype scoped_allocator_adaptor
+    syntax keyword cppSTLtype shared_ptr
+    syntax keyword cppSTLtype unique_ptr
+    syntax keyword cppSTLtype uses_allocator
+    syntax keyword cppSTLtype weak_ptr
 
     " function object
     syntax keyword cppSTLfunction bind

@@ -9,11 +9,15 @@ UbuntuOneMusiconeubuntucom=
 activity-log-manager=2013-10-23
 alacarte-made=
 audacious=
+audacity=2014-01-13
 audio-recorder=
 brasero=
 checkbox-qt=
 cherrytree=
 chmsee=
+chrome-iabmpiboiopbgfabjmgeedhcmjenhbla-Default=2014-01-13
+chromium-browser=2014-01-13
+codeblocks=2014-01-13
 credentials-preferences=
 dconf-editor=
 debian-uxterm=
@@ -58,17 +62,22 @@ kde4-akonadiconsole=
 kde4-akregator=
 kde4-amarok=
 kde4-amor=
+kde4-amzdownloader=2014-01-13
 kde4-ark=
+kde4-author=2014-01-13
 kde4-blinken=
 kde4-blogilo=
 kde4-bluedevil-monolithic=
 kde4-bomber=
 kde4-bovo=
+kde4-braindump=2014-01-13
 kde4-cantor=
 kde4-cervisia=
+kde4-contactthemeeditor=2014-01-13
 kde4-dolphin=
 kde4-dragonplayer=
 kde4-filelight=
+kde4-flow=2014-01-13
 kde4-granatier=
 kde4-gwenview=
 kde4-importwizard=
@@ -84,6 +93,7 @@ kde4-kamoso=
 kde4-kanagram=
 kde4-kapman=
 kde4-kapptemplate=
+kde4-karbon=2014-01-13
 kde4-kate=
 kde4-katomic=
 kde4-kbattleship=
@@ -139,6 +149,7 @@ kde4-konsole=
 kde4-kopete=
 kde4-korganizer=
 kde4-kpat=
+kde4-krandrtray=2014-01-13
 kde4-krdc=
 kde4-kreversi=
 kde4-krfb=
@@ -169,6 +180,7 @@ kde4-kturtle=
 kde4-kubrick=
 kde4-kuiviewer=
 kde4-kuser=
+kde4-kvkbd=2014-01-13
 kde4-kwalletmanager=
 kde4-kwikdisk=
 kde4-kwordquiz=
@@ -176,8 +188,10 @@ kde4-kwrite=
 kde4-lokalize=
 kde4-lskat=
 kde4-marble=
+kde4-mboximporter=2014-01-13
 kde4-muon=
 kde4-muon-discover=
+kde4-muon-installer=2014-01-13
 kde4-muon-updater=
 kde4-nepomukcleaner=
 kde4-okteta=
@@ -186,17 +200,22 @@ kde4-palapeli=
 kde4-parley=
 kde4-partitionmanager=
 kde4-picmi=
+kde4-plan=2014-01-13
+kde4-planwork=2014-01-13
 kde4-quassel=
 kde4-rekonq=
 kde4-rocs=
+kde4-sheets=2014-01-13
 kde4-skanlite=
+kde4-stage=2014-01-13
 kde4-step=
 kde4-superkaramba=
 kde4-sweeper=
 kde4-synaptiks=
 kde4-systemsettings=
 kde4-umbrello=
-kde4-yakuake=2013-10-26
+kde4-words=2014-01-13
+kde4-yakuake=
 libreoffice-calc=
 libreoffice-draw=
 libreoffice-impress=
@@ -217,6 +236,7 @@ python3.2=
 qmpdclient=
 qtcreator=
 remmina=
+retext=2014-01-13
 rhythmbox=
 robocode=
 seahorse=
@@ -241,6 +261,11 @@ vlc=
 vmware-player=
 wine-Programs-腾讯软件-QQ2013-卸载腾讯QQ=
 wine-Programs-腾讯软件-QQ2013-腾讯QQ=
+wine-browsedrive=2014-01-13
+wine-notepad=2014-01-13
+wine-uninstaller=2014-01-13
+wine-winecfg=2014-01-13
+wine-winetricks=2014-01-13
 wolfram-mathematica9=
 wps-office-et=
 wps-office-wpp=
@@ -249,6 +274,13 @@ xdiagnose=
 xfce4-terminal=
 xfig=
 y-ppa-manager=
+yozo=2014-01-13
+yozo-calc=2014-01-13
+yozo-impress=2014-01-13
+yozo-latest=2014-01-13
+yozo-pdf=2014-01-13
+yozo-writer=2014-01-13
+yozofileconvert=2014-01-13
 
 [AppletGlobals][plasma_applet_simplelauncher]
 alacarte-made=
@@ -388,10 +420,24 @@ hideWhenSingleDesktop=true
 Order=4
 
 [Containments][1][Applets][5]
-geometry=58,2,989,25
+geometry=58,2,1102,25
 immutability=2
 plugin=tasks
 zvalue=0
+
+[Containments][1][Applets][5][Configuration]
+Share=false
+forceRows=false
+groupWhenFull=true
+groupingStrategy=0
+highlightWindows=false
+maxRows=2
+showOnlyCurrentActivity=false
+showOnlyCurrentDesktop=true
+showOnlyCurrentScreen=false
+showOnlyMinimized=false
+showTooltip=true
+sortingStrategy=0
 
 [Containments][1][Applets][5][Configuration][Launchers]
 Items=preferred://filemanager?wmClass=%20
@@ -401,7 +447,7 @@ filemanager=preferred://filemanager, , ,\s
 Order=2
 
 [Containments][1][Applets][6]
-geometry=1051,2,191,25
+geometry=1164,2,78,25
 immutability=2
 plugin=systemtray
 zvalue=0
@@ -420,7 +466,7 @@ DialogHeight=279
 DialogWidth=709
 
 [Containments][1][Applets][6][Configuration][Applets][11]
-geometry=82,0.5,24,24
+geometry=0,0,24,24
 immutability=1
 plugin=notifier
 zvalue=0
@@ -440,7 +486,7 @@ DialogHeight=102
 DialogWidth=424
 
 [Containments][1][Applets][6][Configuration][Applets][13]
-geometry=4,32,24,24
+geometry=0,0,24,24
 immutability=1
 plugin=battery
 zvalue=0
@@ -450,7 +496,7 @@ DialogHeight=174
 DialogWidth=312
 
 [Containments][1][Applets][6][Configuration][Applets][14]
-geometry=138,0.5,24,24
+geometry=0,0,24,24
 immutability=1
 plugin=org.kde.networkmanagement
 zvalue=0
@@ -462,7 +508,7 @@ Share=false
 optionsExpanded=expanded
 
 [Containments][1][Applets][6][Configuration][Applets][14][PopupApplet]
-DialogHeight=340
+DialogHeight=298
 DialogWidth=672
 
 [Containments][1][Applets][6][Configuration][Applets][15]
@@ -475,13 +521,13 @@ zvalue=0
 plugin=printmanager
 
 [Containments][1][Applets][6][Configuration][Applets][8]
-geometry=4,60,24,24
+geometry=4,116,24,24
 immutability=1
 plugin=notifications
 zvalue=0
 
 [Containments][1][Applets][6][Configuration][Applets][8][Configuration]
-customPosition=-11,16
+customPosition=-12,17
 customPositionAffinityHoriz=r
 customPositionAffinityVert=b
 
@@ -490,6 +536,7 @@ extenderIconName=dialog-information
 extenderItemName=jobGroup
 extenderItemPosition=0
 extenderTitle=Jobs
+groupCollapsed=false
 isCollapsed=true
 isGroup=true
 sourceAppletId=8
@@ -506,8 +553,8 @@ SystemTray-Klipper-6=Ctrl+Alt+V
 Order=3
 
 [Containments][1][Applets][6][PopupApplet]
-DialogHeight=100
-DialogWidth=150
+DialogHeight=196
+DialogWidth=228
 
 [Containments][1][Applets][7]
 geometry=1316,2,50,25
@@ -565,7 +612,7 @@ location=0
 mimeFilter=
 numTextLines=2
 plugin=folderview
-savedPositions=1,27,BBC系列：神秘的混沌理论—在线播放—优酷网，视频高清在线观看.html,234,112,mrpt-book.pdf,346,316,一篇故事讲述了计算机网络里的基本概念：网关，DHCP，IP寻址，ARP欺骗，路由，DDOS等.html,458,214,Link to ROSWorkSpace,10,622,BB,10,10,ROS_by_example_groovy___volume_1.pdf,346,520,hefei_robo,10,418,OpenCL,122,10,[转载]Boost--Graph_生命点缀_新浪博客.html,122,622,gripper,10,316,School,122,214,LINDRIVER,10,520,useless,122,418,ssl-rules-2011.pdf,346,622,diving_into_ROOT.pdf,234,316,vmware-player.desktop,458,10,Compiler,10,214,YHL.txt,458,112,Python基础教程.pdf,346,418,usbcan-ii-2.6,122,316,A_Framework_for_RAD_Spirit.pdf,234,10,InTech-Simultaneous_localization_and_mapping_slam_of_a_mobile_robot_based_on_fusion_of_odometry_and_visual_data_using_extended_kalman_filter.pdf,346,112,CPP-Reference.html,234,214,lambda-calculus.pdf,122,520,latex_short.pdf,346,214,Printing,122,112,BBC系列：神秘的混沌理论—在线播放—优酷网，视频高清在线观看_files,10,112
+savedPositions=1,25,temp,124,428,Link to ROSWorkSpace,10,622,BB,10,10,ROS_by_example_groovy___volume_1.pdf,241,255,hefei_robo,10,418,OpenCL,122,10,original_yO0h_110a000025c1125f.jpg,234,622,ItShouldBeWrong.png,346,316,detechniage,234,520,gripper,10,316,School,122,214,LINDRIVER,10,520,tempper,346,112,diving_into_ROOT.pdf,231,140,Japanese,124,530,vmware-player.desktop,353,14,Compiler,10,214,monparsing.pdf,234,418,usbcan-ii-2.6,122,316,A_Framework_for_RAD_Spirit.pdf,234,10,深入浅出MySQL数据库开发优化与管理维护.pdf,122,622,CPPReference,644,352,PocoLibrary.html,643,244,Printing,122,112,BBC系列：神秘的混沌理论—在线播放—优酷网，视频高清在线观看_files,10,112
 screen=0
 showPreviews=true
 sortColumn=-1
@@ -583,6 +630,36 @@ userswallpapers=/files/Nutstore/Adam'sDocuments/My Pictures/BackgroundImage/Smok
 wallpaper=/files/Nutstore/Adam'sDocuments/My Pictures/BackgroundImage/Smoke/Smoke yellow.png
 wallpapercolor=0,0,0
 wallpaperposition=2
+
+[Containments][48]
+ActionPluginsSource=Global
+activity=Desktop Icons
+activityId=16402cd8-140d-4d76-bca4-a3dfd5314816
+desktop=-1
+formfactor=0
+geometry=1372,0,1366,768
+immutability=1
+lastDesktop=-1
+lastScreen=0
+location=0
+plugin=desktop
+screen=-1
+wallpaperplugin=color
+wallpaperpluginmode=
+zvalue=0
+
+[Containments][48][Wallpaper][color]
+backgroundMode=0
+color1=0,0,0
+color2=0,0,0
+
+[Containments][48][Wallpaper][image]
+slideTimer=10
+slidepaths=/usr/share/wallpapers/
+userswallpapers=
+wallpaper=/usr/share/wallpapers/Ariya
+wallpapercolor=0,0,0
+wallpaperposition=0
 
 [General]
 immutability=2

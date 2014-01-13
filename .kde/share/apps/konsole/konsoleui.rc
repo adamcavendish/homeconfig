@@ -54,5 +54,7 @@
   <Action shortcut="" name="help_contents"/>
   <Action shortcut="Ctrl+PgDown" name="next-view"/>
   <Action shortcut="Ctrl+PgUp" name="previous-view"/>
+  <Action shortcut="Ctrl+Shift+PgUp" name="move-view-left"/>
+  <Action shortcut="Ctrl+Shift+PgDown" name="move-view-right"/>
  </ActionProperties>
 </kpartgui>

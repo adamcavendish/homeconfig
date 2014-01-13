@@ -1,16 +1,18 @@
-[General]
-SideBarPage=folders
+[ImageView]
+ThumbnailSplitterSizes=520,148
 
 [KFileDialog Settings]
 Height 768=510
-Recent Files[$e]=$HOME/Pictures/NM2.png,$HOME/Pictures/NM2.png
+Recent Files[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/HomeworkGitShare/DataBase/Labcode/005/CourseSelectionAndGradeManagementSystem/Image/user_login2.png,/files/Nutstore/000/CPPWorkSpace/SHUCourse/HomeworkGitShare/DataBase/Labcode/005/CourseSelectionAndGradeManagementSystem/Image/user_login2.png
 Width 1366=816
 
 [MainWindow]
+Height 1200=1201
 Height 768=769
 State=AAAA/wAAAAD9AAAAAAAABVYAAAKhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1366=1367
+Width 1600=1601
 
 [Notification Messages]
 ConfirmTrash=true

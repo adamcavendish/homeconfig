@@ -1,19 +1,74 @@
+datafile=/usr/share/kde4/apps/calligra/thesaurus/thesaurus.txt
+
 [AddDialog]
 LastMimeType=application/x-7z-compressed
 
+[General]
+Volume=1
+
+[Interface]
+Rulers=false
+StatusBarShowLineNumber=true
+StatusBarShowModified=true
+StatusBarShowMouse=false
+StatusBarShowPage=true
+StatusBarShowPageSize=false
+StatusBarShowPageStyle=true
+StatusBarShowZoom=true
+ViewFormattingChars=false
+ViewFrameBorders=true
+ViewTableBorders=true
+Zoom=161
+ZoomMode=1
+
 [KFileDialog Settings]
 Height 768=450
-Recent Files[$e]=/files/Nutstore/000/Matlab/SHUCource/NumericalMethods/abc.7z,/files/Nutstore/000/Matlab/SHUCource/NumericalMethods/abc.7z
+Recent Files[$e]=/files/Nutstore/000/QtWorkspace/OSCQtQMLSeries/20131011OSC--QtQMLSeries000/000StartQuick.7z,/files/Nutstore/School/University/C操作系統/Symposium/Winter02/Winter02.7z,/files/Nutstore/000/QtWorkspace/OSCQtQMLSeries/20131220OSC--QtQMLSeries003/QtQMLSeries003.7z,/files/Nutstore/000/QtWorkspace/OSCQtQMLSeries/20131207OSC--QtQMLSeries002/QtQMLSeries002.7z,/files/Nutstore/000/CPPWorkSpace/SHUCourse/HomeworkGitShare/SoftwareEngineering/labreport/11122057Yangyang03.7z,/files/Nutstore/000/QtWorkspace/OSCQtQMLSeries/20131011OSC--QtQMLSeries000/001Basics.7z
 Recent URLs[$e]=$HOME/Pictures/,/files/Nutstore/000/Matlab/SHUCource/NumericalMethods/
 Width 1366=720
 
 [MainWindow]
 State=AAAA/wAAAAD9AAAAAAAAAoAAAAGVAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-splitterSizes=425,212
+splitterSizes=407,230
+
+[Misc]
+Units=cm
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/gac-104308.zip
-File2[$e]=/files/Nutstore/000/Matlab/SHUCource/NumericalMethods/integrate_simpson_adapt.m.tar.gz
-Name1[$e]=gac-104308.zip
-Name2[$e]=integrate_simpson_adapt.m.tar.gz
+File1[$e]=/files/Aria/!NEW/平塚ゆい/0db79e315c6034a83ca0081bcb13495408237678.rar
+File2[$e]=/files/SOURCE_code/OGLPlus/oglplus/models/monkeys.zip
+Name1[$e]=0db79e315c6034a83ca0081bcb13495408237678.rar
+Name2[$e]=monkeys.zip
+
+[Viewer]
+Height 768=724
+Width 1366=1366
+
+[calligra]
+ColorSpaceExtensionsPlugins=krita_colorspaces_extensions
+ColorSpaceExtensionsPluginsDisabled=
+ColorSpacePlugins=krita_ctlcs_plugin,kolcmsengine,kritakscolorspacesplugin
+ColorSpacePluginsDisabled=
+DevicePlugins=spacenavigator
+DevicePluginsDisabled=
+DockerPlugins=calligradockers
+DockerPluginsDisabled=
+FlakePlugins=formulashape,kexirelationdesignshape,vectorshape,textshape
+FlakePluginsDisabled=
+ShapePlugins=artistictextshape,chartshape,commentshape,treeshape,musicshape,pathshapes,pictureshape,pluginshape,spreadsheetshape,stateshape,videoshape,webshape
+ShapePluginsDisabled=
+TextEditingPlugins=autocorrect,changecase,spellcheck,thesaurustool
+TextEditingPluginsDisabled=
+TextInlinePlugins=kprvariables,textvariables
+TextInlinePluginsDisabled=
+ToolPlugins=calligrastagetoolanimation,defaulttools,karbontools,kopabackgroundtool
+ToolPluginsDisabled=
+
+[file:///tmp/kde-adam/arkkMG7m8//刘诗慧/2808ac17.mp4]
+Brightness=0
+Contrast=0
+Hue=0
+IsVideo=false
+Preferred Size=1344,607
+Saturation=0

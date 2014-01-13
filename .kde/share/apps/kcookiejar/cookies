@@ -3,13 +3,13 @@
 # Host               Domain               Path         Exp.date   Prot Name                 Sec  Value
 [.baidu.com]
 www.baidu.com        ".baidu.com"         "/"          3529055249    0 BAIDUID              4    BA0B5BD935C44F41434FF9670FF8CA75:FG=1
+tieba.baidu.com      ""                   "/"          1669271873    0 bdshare_firstime     4    1385275073556
 [.wikia.com]
 lyrics.wikia.com     ".wikia.com"         "/"          1398325795    0 wikia_beacon_id      4    9I76kx65nS
 [.google.com]
 www.google.com       ".google.com"        "/intl/zh-CN/chrome/browser/privacy/" 1447673557    0 __utma               4    173272373.1330101166.1384593826.1384593826.1384593826.1
 www.google.com       ".google.com"        "/intl/zh-CN/chrome/browser/privacy/" 1400369557    0 __utmz               4    173272373.1384593826.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=chrome
 www.google.com       ".google.com"        "/intl/zh-CN/chrome/browser/" 1447673689    0 __utma               4    173272373.1330101166.1384593826.1384593826.1384601482.2
-www.google.com       ".google.com"        "/intl/zh-CN/chrome/browser/" 1384603489    0 __utmb               4    173272373.9.9.1384601689012
 www.google.com       ".google.com"        "/intl/zh-CN/chrome/browser/" 1400369689    0 __utmz               4    173272373.1384593826.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=chrome
 www.google.com       ".google.com"        "/intl/zh-CN/chrome/" 1447673555    0 __utma               4    173272373.1330101166.1384593826.1384593826.1384601551.2
 www.google.com       ".google.com"        "/intl/zh-CN/chrome/" 1400369555    0 __utmz               4    173272373.1384593826.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=chrome
@@ -21,3 +21,6 @@ www.google.com.hk    ".google.com.hk"     "/"          1447665803    0 PREF     
 [.google.cn]
 www.google.cn        ".google.cn"         "/chrome/intl/zh-cn/" 1447665915    0 __utma               4    111332882.1403770641.1384593899.1384593899.1384593899.1
 www.google.cn        ".google.cn"         "/chrome/intl/zh-cn/" 1400361915    0 __utmz               4    111332882.1384593899.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=chrome
+[.tieba.baidu.com]
+tieba.baidu.com      ".tieba.baidu.com"   "/"          1609430399    0 TIEBA_USERTYPE       4    6bec7c8d26800a308b359d07
+tieba.baidu.com      ".tieba.baidu.com"   "/"          1416811083    0 Hm_lvt_287705c8d9e2073d13275b18dbd746dc 4    1385275083

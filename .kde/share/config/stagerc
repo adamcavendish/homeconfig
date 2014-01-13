@@ -1,0 +1,103 @@
+[DockWidget sharedtooldocker]
+Locked=true
+TabbedMode=false
+
+[Interface]
+ShowRulers=false
+Zoom=75
+ZoomMode=2
+ZoomSlidesSorter=78660664
+
+[KFileDialog Settings]
+Autoplay sounds=true
+Height 768=450
+Recent Files[$e]=presentation.ppt,$HOME/Desktop/Presentation/presentation.ppt
+Width 1366=720
+
+[KoPageApp/DocumentStructureDocker]
+ViewMode=Thumbnail
+
+[MainWindow]
+Height 768=769
+Width 1366=1367
+ko_x=-4
+ko_y=-5
+
+[Recent Dirs]
+OpenDialog[$e]=$HOME/Desktop/Presentation,file://$HOME/Desktop/Presentation/,$HOME/Documents
+
+[RecentFiles]
+File1[$e]=$HOME/Desktop/Presentation/presentation.ppt
+Name1[$e]=presentation.ppt
+
+[SlideShow]
+PresentationMonitor=0
+PresenterViewEnabled=false
+
+[TemplateChooserDialog]
+AlwaysUseTemplate=
+DetailsPaneSplitterSizes=346,294
+FullTemplateName[$e]=/usr/share/kde4/apps/stage/templates/Screen/.source/emptyLandscapeWide.otp
+LastReturnType=Template
+
+[calligra]
+ColorSpaceExtensionsPlugins=krita_colorspaces_extensions
+ColorSpaceExtensionsPluginsDisabled=
+DevicePlugins=spacenavigator
+DevicePluginsDisabled=
+DockerPlugins=calligradockers
+DockerPluginsDisabled=
+FlakePlugins=formulashape,vectorshape,textshape
+ShapePlugins=artistictextshape,chartshape,commentshape,treeshape,musicshape,pathshapes,pictureshape,pluginshape,spreadsheetshape,stateshape,videoshape,webshape
+ShapePluginsDisabled=
+TextEditingPlugins=autocorrect,changecase
+TextEditingPluginsDisabled=spellcheck,thesaurustool
+TextInlinePlugins=kprvariables,textvariables
+TextInlinePluginsDisabled=
+ToolPlugins=calligrastagetoolanimation,defaulttools,karbontools,kopabackgroundtool
+ToolPluginsDisabled=
+
+[stage]
+PageEffectPlugins=kpr_pageeffect_barwipe,kpr_pageeffect_clockwipe,kpr_pageeffect_edgewipe,kpr_pageeffect_fade,kpr_pageeffect_iriswipe,kpr_pageeffect_matrixwipe,kpr_pageeffect_slidewipe,kpr_pageeffect_spacerotation,kpr_pageeffect_swapeffect
+State=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
+ToolBarsMovable=Disabled
+
+[stage][DockWidget Shadow Properties]
+Collapsed=false
+DockArea=2
+
+[stage][DockWidget Shape Properties]
+Collapsed=false
+DockArea=2
+
+[stage][DockWidget ShapeCollectionDocker]
+Collapsed=false
+DockArea=2
+
+[stage][DockWidget Slide layout]
+Collapsed=false
+DockArea=2
+
+[stage][DockWidget Stroke Properties]
+Collapsed=false
+DockArea=2
+
+[stage][DockWidget StyleDocker]
+Collapsed=false
+DockArea=2
+
+[stage][DockWidget ToolBarDocker]
+Collapsed=false
+DockArea=4
+
+[stage][DockWidget ToolBox]
+Collapsed=false
+DockArea=1
+
+[stage][DockWidget document section view]
+Collapsed=false
+DockArea=1
+
+[stage][DockWidget sharedtooldocker]
+Collapsed=false
+DockArea=2
