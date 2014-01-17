@@ -1,3 +1,7 @@
-.kde/share/apps/nepomuk/repository/
-.vim/bundle/
 \!useless/
+
+.kde/share/apps/nepomuk/repository/
+.kde/share/apps/okular/
+
+.vim/bundle/
+
