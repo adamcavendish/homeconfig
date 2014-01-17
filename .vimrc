@@ -1,96 +1,116 @@
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => Pathogen
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-execute pathogen#infect()
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+"" Vundle
+	" :BundleList			- list configured bundles
+	" :BundleInstall(!)		- install (update) bundles
+	" :BundleSearch(!) foo	- search (or refresh cache first) for foo
+	" :BundleClean(!)		- confirm (or auto-approve) removal of unused bundles
+	" see :h vundle for more detailed info
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+filetype off			" Required!
+set runtimepath+=~/.vim/bundle/vundle/
+call vundle#rc()
+	" Invalid arguments for function vundle#config#bundle
+Bundle 'gmarik/vundle'	
+filetype on
 
-" file encodings
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+"" Vundle managed bundles ----vim scripts on `vim.org`----
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Bundle 'taglist.vim'
+Bundle 'grep.vim'
+Bundle 'comments.vim'
+Bundle 'bash-support.vim'
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+"" Vundle managed bundles ----git repo----
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Bundle 'scrooloose/nerdtree'
+Bundle 'Valloric/YouCompleteMe'
+Bundle 'vim-scripts/AutoClose'
+Bundle 'scrooloose/syntastic'
+Bundle 'Lokaltog/vim-powerline'
+Bundle 'Mizuchi/STL-Syntax'
+Bundle 'Shirk/vim-gas'
+Bundle 'adamcavendish/cpp_syntax_vim'
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+"" Main Settings
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+"" file encodings and file stuffs
 set fileencodings=utf-8,cp936,gb18030,gbk,gb2312,ucs-bom,latin-1
-" Set utf8 as standard encoding and en_US as the standard language
-set encoding=utf8
+set encoding=utf8		" Set utf8 as standard encoding and en_US as the standard language
 set fileencoding=utf-8
-" Use Unix as the standard file type
 set ffs=unix,dos,mac
-" set ff=unix
-
-" Enable filetype plugins
+" set ff=unix			" Use Unix as the standard file type
 filetype plugin on
 filetype indent on
 
+"" Miscellaneous
 set nocompatible		" not compatible with vi
 
-" 缩排
+"" indention
 set autoindent			" auto indent
 set nowrap				" Wrap lines
 set shiftwidth=4		" every tab is 4 char size
 set pastetoggle=<F9>	" toggle paste mode(set paste/set nopaste)
 
-set smartindent			" 設定 smartindent
-set confirm				" 操作過程有衝突時，以明確的文字來詢問
-set history=100			" 保留 100 個使用過的指令
-set cursorline			" 显示目前的光标位置
-set nu					" 自动编号
+set smartindent
+set confirm
+set history=100
+set cursorline			" show current cursor line
+set number				" show side line number
 
-" Folding
+"" Folding
 set foldenable
 set foldmethod=syntax	" enable code folding
 
-" Status line
+"" Status line
 set laststatus=2
 set statusline=%4*%<\%m%<[%f\%r%h%w]\ [%{&ff},%{&fileencoding},%Y]%=\[Position=%l,%v,%p%%]
 
-" Turn on the WiLd menu
+"" Turn on the WiLd menu
 set wildmenu
 
-" Always show current position
+"" Always show current position
 set ruler
 
-" Height of the command bar
+"" Height of the command bar
 set cmdheight=1
 
 " Configure backspace so it acts as it should act
 set backspace=eol,start,indent
 set whichwrap+=<,>,h,l
 
-" Ignore case when searching
-set ignorecase
-" When searching try to be smart about cases
-set smartcase
-" Highlight search results
-set hlsearch
-" increment search
-set incsearch
-" ignore case when searching
-set ic
+set ignorecase		" Ignore case when searching
+set smartcase		" When searching try to be smart about cases
+set hlsearch		" Highlight search results
+set incsearch		" increment search
+set ic				" ignore case when searching
 
-" Don't redraw while executing macros (good performance config)
-set lazyredraw
-" For regular expressions turn magic on
-set magic
+set lazyredraw		" Don't redraw while executing macros (good performance config)
+set magic			" For regular expressions turn magic on
 
-" Show matching brackets when text indicator is over them
-set showmatch
-" How many tenths of a second to blink when matching brackets
-set mat=2
+set showmatch		" Show matching brackets when text indicator is over them
+set mat=2			" How many tenths of a second to blink when matching brackets
 
-" No annoying sound on errors
-set noerrorbells
+set noerrorbells	" No annoying sound on errors
 set novisualbell
 set t_vb=
 set tm=500
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => taglist
+"" taglist
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " F8 to toggle taglist window on the left
 nnoremap <silent> <F8> :TlistToggle<CR><CR>
-" :Tlist	調用Taglist
-let Tlist_Show_One_File=0			" 只顯示當前文件的tags
-let Tlist_Exit_OnlyWindow=1			" 如果Taglist窗口是最後一個窗口則退出Vim
-let Tlist_Use_Right_Window=0		" 在右側窗口中顯示
-let Tlist_File_Fold_Auto_Close=1	" 自動摺疊
+" :Tlist
+let Tlist_Show_One_File=0			" show only current file tags
+let Tlist_Exit_OnlyWindow=1			" if taglist is the last window then exit vim
+let Tlist_Use_Right_Window=0		" show on the right side
+let Tlist_File_Fold_Auto_Close=1	" auto folding
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => cscope
+"" cscope
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 if has('cscope')
   set cscopetag cscopeverbose
@@ -110,12 +130,12 @@ if has('cscope')
 endif
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => Colors and Fonts
+"" Theme, Colors and Fonts
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 colorscheme desert
 set background=dark
 
-" Set extra options when running in GUI mode
+	" Set extra options when running in GUI mode
 if has("gui_running")
 	set guioptions-=T
 	set guioptions+=e
@@ -123,27 +143,26 @@ if has("gui_running")
 	set guitablabel=%M\ %t
 endif
 
-" Be smart when using tabs ;)
-set smarttab
+set smarttab	" Be smart when using tabs
 
-" 1 tab == 4 spaces
+	" 1 tab == 4 spaces
 set shiftwidth=4
 set tabstop=4
 set softtabstop=4
 
-" Linebreak on 500 characters
+	" Linebreak on 500 characters
 set lbr
 set tw=500
 
 """"""""""""""""""""""""""""""
-" => Visual mode related
+"" Visual mode related
 """"""""""""""""""""""""""""""
-" Visual mode pressing * or # searches for the current selection
-" Super useful! From an idea by Michael Naumann
+	" Visual mode pressing * or # searches for the current selection
+	" Super useful! From an idea by Michael Naumann
 vnoremap <silent> * :call VisualSelection('f')<CR>
 vnoremap <silent> # :call VisualSelection('b')<CR>
 
-" Smart way to move between tabs
+	" Smart way to move between tabs
 map <C-H> :tabp<cr>
 map <C-L> :tabn<cr>
 map <C-K> :tabfirst<cr>
@@ -162,40 +181,55 @@ try
 catch
 endtry
 
-" Return to last edit position when opening files (You want this!)
+	" Return to last edit position when opening files (You want this!)
 autocmd BufReadPost *
 	\ if line("'\"") > 0 && line("'\"") <= line("$") |
 	\   exe "normal! g`\"" |
 	\ endif
-" Remember info about open buffers on close
+	" Remember info about open buffers on close
 set viminfo^=%
 
 """"""""""""""""""""""""""""""
-" => Status line
+"" Status line
 """"""""""""""""""""""""""""""
-" Always show the status line
+	" Always show the status line
 set laststatus=2
 
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+"" Syntastic
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+let g:syntastic_check_on_open=1
+let g:syntastic_cpp_include_dirs=['/usr/include/', '/usr/local/include/']
+let g:syntastic_cpp_remove_include_errors=1
+let g:syntastic_cpp_check_header=1
+let g:syntastic_cpp_compiler='clang++'
+let g:syntastic_cpp_compiler_options='-std=c++11 -stdlib=libstdc++'
+	"set error or warning signs
+let g:syntastic_error_symbol='>>'
+let g:syntastic_warning_symbol='W!'
+	"whether to show balloons
+let g:syntastic_enable_balloons=1
+let g:syntastic_always_populate_loc_list=1
+
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => Auto Complete
+"" YouCompleteMe
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-let g:clang_complete_copen = 1
-let g:clang_complete_auto = 1
-let g:clang_use_library = 1
-let g:clang_debug = 1
-let g:clang_library_path = '/opt/clang-3.4/lib/'
-let g:clang_user_options='|| exit 0'
-let b:clang_user_options = '-std=c++11'
-let g:clang_close_preview=1
+let g:ycm_global_ycm_extra_conf='~/.vim/myconfig/ycm_config.py'
+let g:ycm_collect_identifiers_from_tags_files = 1
+let g:ycm_seed_identifiers_with_syntax=1
+let g:ycm_confirm_extra_conf=0
+let g:ycm_key_invoke_completion='<C-/>'
+	" Go to the definition, C-o to get back
+nnoremap <F9> :YcmCompleter GoToDefinitionElseDeclaration<CR>
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => Syntax
+"" Syntax
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Enable syntax highlighting
+	" Enable syntax highlighting
 syntax enable
-" C++11
-au BufNewFile,BufRead *.cc,*.cp,*.cxx,*.cpp,*.CPP,*.c++,*.C set syntax=cpp11
-au BufNewFile,BufRead *.hh,*.H,*.hp,*.hxx,*.hpp,*.HPP,*.h++,*.tcc set syntax=cpp11
-" Assembly
+	" C++11
+au BufNewFile,BufRead *.cc,*.cp,*.cxx,*.cpp,*.CPP,*.c++,*.C set syntax=cppnow
+au BufNewFile,BufRead *.hh,*.H,*.hp,*.hxx,*.hpp,*.HPP,*.h++,*.tcc set syntax=cppnow
+	" Assembly
 au BufNewFile,BufRead *.s,*.S set syntax=gas
 

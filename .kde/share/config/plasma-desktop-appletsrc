@@ -420,7 +420,7 @@ hideWhenSingleDesktop=true
 Order=4
 
 [Containments][1][Applets][5]
-geometry=58,2,1102,25
+geometry=58,2,1043,25
 immutability=2
 plugin=tasks
 zvalue=0
@@ -447,7 +447,7 @@ filemanager=preferred://filemanager, , ,\s
 Order=2
 
 [Containments][1][Applets][6]
-geometry=1164,2,78,25
+geometry=1105,2,137,25
 immutability=2
 plugin=systemtray
 zvalue=0
@@ -466,7 +466,7 @@ DialogHeight=279
 DialogWidth=709
 
 [Containments][1][Applets][6][Configuration][Applets][11]
-geometry=0,0,24,24
+geometry=4,60,24,24
 immutability=1
 plugin=notifier
 zvalue=0
@@ -486,7 +486,7 @@ DialogHeight=102
 DialogWidth=424
 
 [Containments][1][Applets][6][Configuration][Applets][13]
-geometry=0,0,24,24
+geometry=4,32,24,24
 immutability=1
 plugin=battery
 zvalue=0
@@ -496,7 +496,7 @@ DialogHeight=174
 DialogWidth=312
 
 [Containments][1][Applets][6][Configuration][Applets][14]
-geometry=0,0,24,24
+geometry=84,0,24,17
 immutability=1
 plugin=org.kde.networkmanagement
 zvalue=0
@@ -508,7 +508,7 @@ Share=false
 optionsExpanded=expanded
 
 [Containments][1][Applets][6][Configuration][Applets][14][PopupApplet]
-DialogHeight=298
+DialogHeight=340
 DialogWidth=672
 
 [Containments][1][Applets][6][Configuration][Applets][15]

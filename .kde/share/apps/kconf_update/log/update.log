@@ -1044,3 +1044,108 @@
 2014-01-13T09:24:19 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-pluginloader.upd' for new updates
 2014-01-13T09:24:19 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-update_yahoo_server.upd' for new updates
 2014-01-13T09:24:31 Checking update-file '/usr/share/kde4/apps/kconf_update/okular.upd' for new updates
+2014-01-13T19:54:06 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2014-01-13T19:54:06 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2014-01-13T19:54:06 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-pluginloader2.upd' for new updates
+2014-01-13T19:54:06 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_remove_delay_focus.upd' for new updates
+2014-01-13T19:54:06 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_update_tabbox_settings.upd' for new updates
+2014-01-13T19:54:06 Checking update-file '/usr/share/kde4/apps/kconf_update/ksmserver_shortcuts.upd' for new updates
+2014-01-13T19:54:06 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin3_plugin.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-update_icq_server.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-jabberpriorityaddition-kconf_update.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-jabberproxytype-kconf_update.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus1.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/mailfilteragent.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kcalcrc.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kcmdisplayrc.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_remove_effects.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinupdatewindowsettings.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/krdb_libpathwipe.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-gaim_to_pidgin_style.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/klipper-kconfigxt.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinsticky.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-account-kconf_update.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/korganizer.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kpgp.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_on_off.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/favicons.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kate-2.4.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/nepomukstrigiservice-migrate.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/mailtransports.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kaccel.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/ksmserver.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-nameTracking.upd' for new updates
+2014-01-13T19:54:07 kopete-nameTracking.upd: Found new update 'kopete0.9/r1'
+2014-01-13T19:54:07 kopete-nameTracking.upd:3:'Script=kopete-nameTracking-kconf_update': Script 'kopete-nameTracking-kconf_update' not found
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-add-shortcut-to-menu.upd' for new updates
+2014-01-13T19:54:07 plasma-add-shortcut-to-menu.upd: Found new update '4.1LauncherShortcut'
+2014-01-13T19:54:07 plasma-add-shortcut-to-menu.upd:2:'Script=plasma-add-shortcut-to-menu-update': Script 'plasma-add-shortcut-to-menu-update' not found
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/mouse_cursor_theme.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-to-plasmadesktop-shortcuts.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_update_tabbox_qml_settings.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-initialstatus.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-pluginloader.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/plasmarc-to-plasmadesktoprc.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kwiniconify.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus2.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/amarok.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/audiocd.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_fsp_workarounds_1.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_window_shortcuts.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kmail.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-update_yahoo_server.upd' for new updates
+2014-01-13T19:54:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2014-01-13T19:54:07 kioslave.upd: Found new update 'kde2.2/r1'
+2014-01-13T19:54:07 kioslave.upd: Skipping update 'kde2.2/r1'
+2014-01-13T20:35:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2014-01-13T20:35:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2014-01-13T20:35:33 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2014-01-13T20:35:33 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
+2014-01-13T20:35:33 Checking update-file '/usr/share/kde4/apps/kconf_update/nepomukstrigiservice-migrate.upd' for new updates
+2014-01-13T20:35:35 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2014-01-13T20:35:35 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
+2014-01-13T20:35:35 Checking update-file '/usr/share/kde4/apps/kconf_update/nepomukstrigiservice-migrate.upd' for new updates
+2014-01-13T20:35:39 Checking update-file '/usr/share/kde4/apps/kconf_update/kate-2.4.upd' for new updates
+2014-01-13T20:36:02 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2014-01-13T20:36:02 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2014-01-13T20:36:02 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2014-01-13T20:36:02 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2014-01-13T20:36:02 kioslave.upd: Found new update 'kde2.2/r1'
+2014-01-13T20:36:02 kioslave.upd: Skipping update 'kde2.2/r1'
+2014-01-13T20:36:51 Checking update-file '/usr/share/kde4/apps/kconf_update/mailtransports.upd' for new updates
+2014-01-13T20:37:22 Checking update-file '/usr/share/kde4/apps/kconf_update/mailfilteragent.upd' for new updates
+2014-01-13T20:37:22 Checking update-file '/usr/share/kde4/apps/kconf_update/kmail.upd' for new updates
+2014-01-13T20:37:30 Checking update-file '/usr/share/kde4/apps/kconf_update/korganizer.upd' for new updates
+2014-01-13T20:37:37 Checking update-file '/usr/share/kde4/apps/kconf_update/kpgp.upd' for new updates
+2014-01-13T20:37:48 Checking update-file '/usr/share/kde4/apps/kconf_update/favicons.upd' for new updates
+2014-01-13T20:38:10 Checking update-file '/usr/share/kde4/apps/kconf_update/kcalcrc.upd' for new updates
+2014-01-13T20:38:19 Checking update-file '/usr/share/kde4/apps/kconf_update/audiocd.upd' for new updates
+2014-01-13T20:38:28 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-pluginloader2.upd' for new updates
+2014-01-13T20:38:28 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-update_icq_server.upd' for new updates
+2014-01-13T20:38:28 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-jabberpriorityaddition-kconf_update.upd' for new updates
+2014-01-13T20:38:28 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-jabberproxytype-kconf_update.upd' for new updates
+2014-01-13T20:38:28 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-gaim_to_pidgin_style.upd' for new updates
+2014-01-13T20:38:28 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-account-kconf_update.upd' for new updates
+2014-01-13T20:38:28 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-nameTracking.upd' for new updates
+2014-01-13T20:38:28 kopete-nameTracking.upd: Found new update 'kopete0.9/r1'
+2014-01-13T20:38:28 kopete-nameTracking.upd:3:'Script=kopete-nameTracking-kconf_update': Script 'kopete-nameTracking-kconf_update' not found
+2014-01-13T20:38:28 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-initialstatus.upd' for new updates
+2014-01-13T20:38:28 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-pluginloader.upd' for new updates
+2014-01-13T20:38:28 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-update_yahoo_server.upd' for new updates
+2014-01-13T20:38:29 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-pluginloader2.upd' for new updates
+2014-01-13T20:38:29 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-update_icq_server.upd' for new updates
+2014-01-13T20:38:29 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-jabberpriorityaddition-kconf_update.upd' for new updates
+2014-01-13T20:38:29 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-jabberproxytype-kconf_update.upd' for new updates
+2014-01-13T20:38:29 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-gaim_to_pidgin_style.upd' for new updates
+2014-01-13T20:38:29 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-account-kconf_update.upd' for new updates
+2014-01-13T20:38:29 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-nameTracking.upd' for new updates
+2014-01-13T20:38:29 kopete-nameTracking.upd: Found new update 'kopete0.9/r1'
+2014-01-13T20:38:29 kopete-nameTracking.upd:3:'Script=kopete-nameTracking-kconf_update': Script 'kopete-nameTracking-kconf_update' not found
+2014-01-13T20:38:29 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-initialstatus.upd' for new updates
+2014-01-13T20:38:29 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-pluginloader.upd' for new updates
+2014-01-13T20:38:29 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-update_yahoo_server.upd' for new updates

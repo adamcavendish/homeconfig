@@ -19,4 +19,6 @@ krandrrc_display_startupcommands=''
 kcmfonts_general_forcefontdpi=0
 # kdeglobals Locale Language '' # trigger requesting languages from KLocale
 kdeglobals_locale_language=en_US
+# kdeglobals Locale Country ''
+kdeglobals_locale_country=cn
 klocale_languages=en_US

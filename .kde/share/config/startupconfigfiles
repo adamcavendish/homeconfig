@@ -58,3 +58,8 @@ kdeglobals Locale Language '' # trigger requesting languages from KLocale
 /usr/share/kubuntu-default-settings/kde4-profile/default/share/config/kdeglobals
 !/usr/share/config/kdeglobals
 *
+kdeglobals Locale Country ''
+/home/adam/.kde/share/config/kdeglobals
+/usr/share/kubuntu-default-settings/kde4-profile/default/share/config/kdeglobals
+!/usr/share/config/kdeglobals
+*

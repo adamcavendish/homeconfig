@@ -33,6 +33,6 @@
 			<stringvalue>x-content/image-picturecd</stringvalue>
 		</li>
 	</entry>
-	<entry name="navigation_window_saved_maximized" mtime="1384761555" type="bool" value="true"/>
-	<entry name="start_with_sidebar" mtime="1384690027" type="bool" value="true"/>
+	<entry name="navigation_window_saved_maximized" mtime="1389706279" type="bool" value="true"/>
+	<entry name="start_with_sidebar" mtime="1389688295" type="bool" value="true"/>
 </gconf>
