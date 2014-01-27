@@ -31,8 +31,22 @@ dir[$e]=file:///files/Nutstore/000/QtWorkspace/KanaSyllabary/KanaSyllabary/Image
 [Recent Files]
 File1[$e]=/files/Nutstore/000/QtWorkspace/KanaSyllabary/KanaSyllabary/Image/Sakula01.jpeg
 File2[$e]=/files/Nutstore/000/QtWorkspace/KanaSyllabary/KanaSyllabary/Image/Sakula01.png
+File3[$e]=/files/Aria/!NEW/ARMG-238/armg238.jpg
+File4[$e]=/files/Aria/!NEW/IENE-346/IENE346.jpg
+File5[$e]=/files/Aria/!NEW/1-1 新作30連發/odfa039.jpg
+File6[$e]=/files/Aria/!NEW/1-1 新作30連發/SNIS073.jpg
+File7[$e]=/files/Aria/!NEW/animation/APAA-240/(AP)(APAA-240).jpg
+File8[$e]=/files/Aria/!NEW/animation/YRH-031/(PRESTIGE)(YRH-031).jpg
+File9[$e]=/files/Aria/!NEW/animation/ZED-199/ZEX199.jpg
 Name1[$e]=Sakula01.jpeg
 Name2[$e]=Sakula01.png
+Name3[$e]=armg238.jpg
+Name4[$e]=IENE346.jpg
+Name5[$e]=odfa039.jpg
+Name6[$e]=SNIS073.jpg
+Name7[$e]=(AP)(APAA-240).jpg
+Name8[$e]=(PRESTIGE)(YRH-031).jpg
+Name9[$e]=ZEX199.jpg
 
 [Save Preview Settings]
 Geometry=512,40,188,143

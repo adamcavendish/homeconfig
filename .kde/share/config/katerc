@@ -6,11 +6,11 @@ Bookmarks=
 Encoding=UTF-8
 FoldedColumns=
 FoldedLines=
-Highlighting=None
-Indentation Mode=normal
-Mode=
+Highlighting=C++
+Indentation Mode=cstyle
+Mode=C++
 ReadWrite=true
-URL=file:///tmp/b.txt
+URL=file:///tmp/000.cpp
 
 [General]
 Days Meta Infos=30
@@ -129,16 +129,19 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
-State=AAAA/wAAAAD9AAAAAAAABVYAAAKhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKfAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
 ToolBarsMovable=Disabled
+Width 1366=1367
 
 [MainWindow0]
 Characters Count Visible=false
 Cursor Position Visible=true
 Document Name Visible=true
 Encoding Visible=true
+Height 768=769
 Insertion Mode Visible=true
-Kate-MDI-H-Splitter=200,672,200
+Kate-MDI-H-Splitter=200,1338,200
 Kate-MDI-Sidebar-0-Splitter=0
 Kate-MDI-Sidebar-3-Splitter=0
 Kate-MDI-Sidebar-Style=2
@@ -158,21 +161,24 @@ Kate-MDI-ToolView-kateprojectinfo-Persistent=false
 Kate-MDI-ToolView-kateprojectinfo-Position=3
 Kate-MDI-ToolView-kateprojectinfo-Sidebar-Position=1
 Kate-MDI-ToolView-kateprojectinfo-Visible=false
-Kate-MDI-V-Splitter=150,403,200
+Kate-MDI-V-Splitter=150,645,200
 Selection Mode Visible=true
-State=AAAA/wAAAAD9AAAAAAAAArwAAAGtAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKfAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+Width 1366=1367
 
 [MainWindow0 Settings]
-State=AAAA/wAAAAD9AAAAAAAAArwAAAGtAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
-WindowState=8
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKfAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+Width 1366=1367
+WindowState=10
 
 [MainWindow0-Splitter 0]
-Sizes=672
+Sizes=1338
 
 [MainWindow0-ViewSpace 0]
-Active View=file:///tmp/b.txt
+Active View=file:///tmp/000.cpp
 Count=1
-View 0=file:///tmp/b.txt
+View 0=file:///tmp/000.cpp
 
 [MainWindow0-ViewSpace 0 file:///etc/group]
 CursorColumn=0
@@ -219,6 +225,12 @@ ViMarks=
 [MainWindow0-ViewSpace 0 file:///files/Nutstore/School/University/D單片機/AD/AD.asm]
 CursorColumn=0
 CursorLine=188
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///tmp/000.cpp]
+CursorColumn=10
+CursorLine=33
 JumpList=
 ViMarks=
 
@@ -276,7 +288,6 @@ UseRegExp=false
 
 [Recent Files]
 File1[$e]=/files/Nutstore/School/University/D單片機/AD/AD.asm
-File10[$e]=/tmp/b.txt
 File2[$e]=/etc/passwd
 File3[$e]=/etc/group
 File4[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/20130924BoardCoverProblem.cpp
@@ -284,9 +295,8 @@ File5[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/055/05
 File6[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/056/056LongestCommonString.c
 File7[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/058/huffman.cpp
 File8[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/HomeworkGitShare/DataBase/Labcode/003/lab.sql
-File9[$e]=/tmp/a.txt
+File9[$e]=/tmp/000.cpp
 Name1[$e]=AD.asm
-Name10[$e]=b.txt
 Name2[$e]=passwd
 Name3[$e]=group
 Name4[$e]=20130924BoardCoverProblem.cpp
@@ -294,7 +304,7 @@ Name5[$e]=055MatrixMul.c
 Name6[$e]=056LongestCommonString.c
 Name7[$e]=huffman.cpp
 Name8[$e]=lab.sql
-Name9[$e]=a.txt
+Name9[$e]=000.cpp
 
 [filetree]
 editShade=210,181,216

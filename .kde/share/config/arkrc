@@ -23,7 +23,7 @@ ZoomMode=1
 
 [KFileDialog Settings]
 Height 768=450
-Recent Files[$e]=/files/Nutstore/000/QtWorkspace/OSCQtQMLSeries/20131011OSC--QtQMLSeries000/000StartQuick.7z,/files/Nutstore/School/University/C操作系統/Symposium/Winter02/Winter02.7z,/files/Nutstore/000/QtWorkspace/OSCQtQMLSeries/20131220OSC--QtQMLSeries003/QtQMLSeries003.7z,/files/Nutstore/000/QtWorkspace/OSCQtQMLSeries/20131207OSC--QtQMLSeries002/QtQMLSeries002.7z,/files/Nutstore/000/CPPWorkSpace/SHUCourse/HomeworkGitShare/SoftwareEngineering/labreport/11122057Yangyang03.7z,/files/Nutstore/000/QtWorkspace/OSCQtQMLSeries/20131011OSC--QtQMLSeries000/001Basics.7z
+Recent Files[$e]=/files/Nutstore/000/QtWorkspace/OSCQtQMLSeries/20131011OSC--QtQMLSeries000/000StartQuick.7z,/files/Nutstore/000/CPPWorkSpace/SHUCourse/OperatingSystem/labcode/winter02/MemoryManagement/SourceCode.7z,/files/Nutstore/School/University/C操作系統/Symposium/Winter02/Winter02.7z,/files/Nutstore/000/QtWorkspace/OSCQtQMLSeries/20131220OSC--QtQMLSeries003/QtQMLSeries003.7z,/files/Nutstore/000/QtWorkspace/OSCQtQMLSeries/20131207OSC--QtQMLSeries002/QtQMLSeries002.7z,/files/Nutstore/000/CPPWorkSpace/SHUCourse/HomeworkGitShare/SoftwareEngineering/labreport/11122057Yangyang03.7z,/files/Nutstore/000/QtWorkspace/OSCQtQMLSeries/20131011OSC--QtQMLSeries000/001Basics.7z
 Recent URLs[$e]=$HOME/Pictures/,/files/Nutstore/000/Matlab/SHUCource/NumericalMethods/
 Width 1366=720
 
@@ -37,9 +37,9 @@ Units=cm
 
 [Recent Files]
 File1[$e]=/files/Aria/!NEW/平塚ゆい/0db79e315c6034a83ca0081bcb13495408237678.rar
-File2[$e]=/files/SOURCE_code/OGLPlus/oglplus/models/monkeys.zip
+File2[$e]=$HOME/Downloads/KMV.zip
 Name1[$e]=0db79e315c6034a83ca0081bcb13495408237678.rar
-Name2[$e]=monkeys.zip
+Name2[$e]=KMV.zip
 
 [Viewer]
 Height 768=724

@@ -1,11 +1,22 @@
 [General]
-Recent Urls[$e]=file:///files/Aria/!NEW/Pashmina/[魔穗字幕组][Pashmina]純情少女エトセトラ ～純情少女～__[Maho.sub][Pashmina]純情少女エトセトラ ～純情少女～.mkv
+Recent Urls[$e]=file:///files/Aria/!NEW/Pashmina/[魔穗字幕组][Pashmina]純情少女エトセトラ ～純情少女～__[Maho.sub][Pashmina]純情少女エトセトラ ～純情少女～.mkv,file:///files/Aria/!NEW/1-1 新作30連發/SNIS073.avi
 TimeFormat=1
 Volume=1
 
 [MainWindow]
-State=AAAA/wAAAAD9AAAAAAAAAoAAAAG1AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Height 768=512
+State=AAAA/wAAAAD9AAAAAAAAAtAAAAG1AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
+Width 1366=720
+
+[file:///files/Aria/!NEW/1-1 新作30連發/SNIS073.avi]
+Brightness=0
+Contrast=0
+Hue=0
+IsVideo=true
+Position=44033
+Saturation=0
+Subtitle=0
 
 [file:///files/Aria/!NEW/26.X-Art - Angelica Almost Famous/xart.13.09.27.angelica.almost.famous.mp4]
 Brightness=0

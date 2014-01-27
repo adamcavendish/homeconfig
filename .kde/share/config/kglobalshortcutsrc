@@ -30,7 +30,8 @@ stop_after_current=Meta+Shift+V,Meta+Shift+V,Stop after current Track
 toggleMainWindow=none,none,Toggle Main Window
 
 [kactivitymanagerd]
-_k_friendly_name=KDE Activity Manager
+_k_friendly_name=kactivitymanagerd
+switch-to-activity-016631b8-24a0-40d7-8d1e-55855d1199de=none,none,Switch to activity "Desktop Icons"
 switch-to-activity-0f470a85-fed0-42ce-9323-fecd47824f9e=none,none,Switch to activity "New Activity"
 switch-to-activity-16402cd8-140d-4d76-bca4-a3dfd5314816=none,none,Switch to activity "Desktop Icons"
 switch-to-activity-7e232a17-1c75-4046-ad51-94afe0edb346=none,none,Switch to activity "Desktop1"
@@ -278,6 +279,7 @@ Stop Activity=none,Meta+S,Stop Current Activity
 SystemTray-Klipper-6=Ctrl+Alt+V,Ctrl+Alt+V,
 _k_friendly_name=Plasma Desktop Shell
 activate widget 2=Meta+Space,Meta+Space,Activate Application Launcher Widget
+activate widget 4=Alt+F1,Alt+F1,Activate Application Launcher Widget
 manage activities=Meta+Q,Meta+Q,Activities...
 
 [wacomtablet]

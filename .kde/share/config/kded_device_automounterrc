@@ -51,11 +51,17 @@ Icon=drive-harddisk
 LastNameSeen=40.0 GiB Hard Drive
 LastSeenMounted=false
 
+[Devices][/org/freedesktop/UDisks/devices/sdb]
+EverMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=HTC Android Phone
+LastSeenMounted=false
+
 [Devices][/org/freedesktop/UDisks/devices/sdb1]
 EverMounted=true
-Icon=drive-harddisk
-LastNameSeen=adam
-LastSeenMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=UUI
+LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks/devices/sdb4]
 EverMounted=true

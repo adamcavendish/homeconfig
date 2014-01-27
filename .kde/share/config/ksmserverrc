@@ -10,33 +10,33 @@ count=0
 [Session: saved at previous logout]
 clientId1=1019218515e16b000138249455800000020110000
 clientId2=1019218515e16b000138273229600000016880010
-clientId3=1019516816d169000138686309700000023060047
-clientId4=1019516816d169000138689460800000022040008
-clientId5=1019516816d169000138589001900000020820074
-clientId6=1019516816d169000138919804400000021670027
-clientId7=1019516816d169000138967913100000021610008
+clientId3=1019516816d169000138689460800000022040008
+clientId4=1019516816d169000138919804400000021670027
+clientId5=1019516816d169000138995073300000022180086
+clientId6=1019516816d169000138589001900000020820074
+clientId7=1019516816d169000139068117200000023420008
 count=7
-discardCommand1[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/kwin_1019218515e16b000138249455800000020110000_1389679283_178074
-discardCommand2[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/kmix_1019218515e16b000138273229600000016880010_1389679283_145598
-discardCommand3[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/yakuake_1019516816d169000138686309700000023060047_1389679283_145920
-discardCommand4[$e]=\\0
-discardCommand5[$e]=\\0
-discardCommand6[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/konsole_1019516816d169000138919804400000021670027_1389679283_146805
-discardCommand7[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/printer-applet_1019516816d169000138967913100000021610008_1389679283_159268
+discardCommand1[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/kwin_1019218515e16b000138249455800000020110000_1390683576_87529
+discardCommand2[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/kmix_1019218515e16b000138273229600000016880010_1390683576_49143
+discardCommand3[$e]=\\0
+discardCommand4[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/konsole_1019516816d169000138919804400000021670027_1390683576_49801
+discardCommand5[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/yakuake_1019516816d169000138995073300000022180086_1390683576_50062
+discardCommand6[$e]=\\0
+discardCommand7[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/printer-applet_1019516816d169000139068117200000023420008_1390683576_56034
 program1=kwin
 program2=/usr/bin/kmix
-program3=/usr/bin/yakuake
-program4=/usr/bin/akonaditray
-program5=kmail
-program6=/usr/bin/konsole
+program3=/usr/bin/akonaditray
+program4=/usr/bin/konsole
+program5=/usr/bin/yakuake
+program6=kmail
 program7=/usr/bin/printer-applet
-restartCommand1=kwin,-session,1019218515e16b000138249455800000020110000_1389679283_178074
-restartCommand2=/usr/bin/kmix,-session,1019218515e16b000138273229600000016880010_1389679283_145598
-restartCommand3=/usr/bin/yakuake,-session,1019516816d169000138686309700000023060047_1389679283_145920
-restartCommand4=/usr/bin/akonaditray,-session,1019516816d169000138689460800000022040008_1389679283_146228
-restartCommand5=kmail,-session,1019516816d169000138589001900000020820074_1389679283_146481
-restartCommand6=/usr/bin/konsole,-session,1019516816d169000138919804400000021670027_1389679283_146805
-restartCommand7=/usr/bin/printer-applet,-session,1019516816d169000138967913100000021610008_1389679283_159268
+restartCommand1=kwin,-session,1019218515e16b000138249455800000020110000_1390683576_87529
+restartCommand2=/usr/bin/kmix,-session,1019218515e16b000138273229600000016880010_1390683576_49143
+restartCommand3=/usr/bin/akonaditray,-session,1019516816d169000138689460800000022040008_1390683576_49443
+restartCommand4=/usr/bin/konsole,-session,1019516816d169000138919804400000021670027_1390683576_49801
+restartCommand5=/usr/bin/yakuake,-session,1019516816d169000138995073300000022180086_1390683576_50062
+restartCommand6=kmail,-session,1019516816d169000138589001900000020820074_1390683576_50378
+restartCommand7=/usr/bin/printer-applet,-session,1019516816d169000139068117200000023420008_1390683576_56034
 restartStyleHint1=0
 restartStyleHint2=0
 restartStyleHint3=0
@@ -60,6 +60,9 @@ wasWm6=false
 wasWm7=false
 
 [SubSession: 0f470a85-fed0-42ce-9323-fecd47824f9e]
+count=0
+
+[SubSession: 16402cd8-140d-4d76-bca4-a3dfd5314816]
 count=0
 
 [SubSession: 41c8e0da-c8f5-4782-afb7-d8500d9e7601]
@@ -95,21 +98,14 @@ count=0
 count=0
 
 [SubSession: 959eebc8-93e9-455b-8b29-d6730f487fe0]
-clientId1=1019516816d169000138919492400000021670016
-clientId2=1019516816d169000138919508600000021670020
-count=2
-discardCommand1[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/dolphin_1019516816d169000138919492400000021670016_1389195750_463001
-discardCommand2[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/okular_1019516816d169000138919508600000021670020_1389195750_463275
-program1=/usr/bin/dolphin
-program2=/usr/bin/okular
-restartCommand1=/usr/bin/dolphin,-session,1019516816d169000138919492400000021670016_1389195750_463001
-restartCommand2=/usr/bin/okular,-session,1019516816d169000138919508600000021670020_1389195750_463275
+clientId1=1019516816d169000138919804400000021670027
+count=1
+discardCommand1[$e]=rm,/files/Nutstore/LinuxSync/important_configs/.kde/share/config/session/konsole_1019516816d169000138919804400000021670027_1390802112_587610
+program1=/usr/bin/konsole
+restartCommand1=/usr/bin/konsole,-session,1019516816d169000138919804400000021670027_1390802112_587610
 restartStyleHint1=0
-restartStyleHint2=0
 userId1=adam
-userId2=adam
 wasWm1=false
-wasWm2=false
 
 [SubSession: ac46fd92-d429-4c20-a1d9-bec0439001e6]
 clientId1=1019218515e16b000138272788700000017110156

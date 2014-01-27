@@ -4,133 +4,23 @@ plasma-layout-org.kde.plasma-desktop.desktopIcons.desktop=true
 plasma-layout-org.kde.plasma-desktop.photoActivity.desktop=true
 
 [BackgroundConfigDialog]
-Height 768=714
-Width 1366=748
-
-[Colors]
-CurrentPalette=Forty Colors
-
-[DownloadDialog Settings]
-Height 768=721
-Width 1366=1366
+Height 768=462
+Width 1366=902
 
 [KFileDialog Settings]
-Height 768=450
-Recent Files[$e]=Smoke yellow.png,$HOME/Desktop/BB/!Documentation/cpp-reference/en.cppreference.com/index.html,desktop:/file:/home/adam/Desktop/BB/!Documentation/cpp-reference/en.cppreference.com/index.html,/files/Nutstore/Adam'sDocuments/My Pictures/BackgroundImage/Smoke/Smoke yellow.png
-Recent URLs[$e]=$HOME/Pictures/,/files/Nutstore/Adam'sDocuments/My Pictures/BackgroundImage/Smoke/
-Width 1366=720
-
-[KFileMetaPropsPlugin]
-Height 768=261
-Width 1366=277
-
-[KPropertiesDialog]
-Height 768=365
-Width 1366=306
-
-[Open-with settings]
-CompletionMode=5
-History=kate -b %U
+Height 768=462
+Recent Files[$e]=Smoke green.png,/files/Nutstore/Adam'sDocuments/My Pictures/BackgroundImage/Smoke/Smoke green.png
+Width 1366=816
 
 [PlasmaViews][1]
 panelVisibility=0
 
-[PlasmaViews][1][Horizontal1366]
-offset=0
-
-[PlasmaViews][1][Horizontal1600]
-offset=0
-
 [PlasmaViews][1][Sizes]
 lastsize=1366
 
-[PlasmaViews][1][Sizes][Horizontal1024]
-max=1024,27
-min=1024,27
-offset=0
-size=1024,27
-
-[PlasmaViews][1][Sizes][Horizontal1360]
-max=1360,27
-min=1360,27
-offset=0
-size=1360,27
-
-[PlasmaViews][1][Sizes][Horizontal1366]
-max=1366,27
-min=1366,27
-offset=0
-size=1366,27
-
-[PlasmaViews][1][Sizes][Horizontal1600]
-max=1600,27
-min=1600,27
-offset=0
-size=1600,27
-
 [Updates]
-performed=/usr/share/kde4/apps/plasma-desktop/updates/addShowActivitiesManagerPlasmoid.js,/usr/share/kde4/apps/plasma-desktop/updates/set-hidden-single-vd-pager.js,/usr/share/kde4/apps/plasma-desktop/updates/systray-to-notifications-widget.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/05-add-plasma-nm.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/04-add-presence.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/02-kubuntu-menu-icon.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/01-kubuntu-10.04.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/06-delete-networkmanagement.js,/usr/share/kde4/apps/plasma-desktop/updates/50-renameKTpApplets.js,/usr/share/kde4/apps/plasma-desktop/updates/02-add-print-manager.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/01-rename-plasma-nm.js
+performed=/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/02-kubuntu-menu-icon.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/01-kubuntu-10.04.js,/usr/share/kde4/apps/plasma-desktop/updates/addShowActivitiesManagerPlasmoid.js,/usr/share/kde4/apps/plasma-desktop/updates/systray-to-notifications-widget.js
 
 [ViewIds]
-1=1
-44=13
-
-[configureNotification]
-__file=
-appRealName=yakuake
-
-[invokeAction]
-__file=
-actionId=
-predicate=test-predicate-openinwindow.desktop
-
-[mount]
-__file=
-
-[remove]
-Id=7e232a17-1c75-4046-ad51-94afe0edb346
-__file=
-
-[resume]
-__file=
-
-[setBrightness]
-__file=
-brightness=0
-
-[setCurrent]
-__file=
-
-[setIcon]
-Icon=
-__file=
-
-[setName]
-Name=Desktop
-__file=
-
-[stop]
-__file=
-
-[stopSuppressingScreenPowerManagement]
-__file=
-cookie=-1
-
-[stopSuppressingSleep]
-__file=
-cookie=-1
-
-[suspend]
-__file=
-
-[toggleActivityManager]
-__file=
-
-[unmount]
-__file=
-
-[updateFreespace]
-__file=
-
-[userClosed]
-__file=
+14=2
+3=1

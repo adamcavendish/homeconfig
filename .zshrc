@@ -87,8 +87,11 @@ alias cdopengl='cd /files/Nutstore/000/OpenGL/'
 alias cdqt='cd /files/Nutstore/000/QtWorkspace/'
 alias cdcmake='cd /files/Nutstore/000/cmake_example/'
 alias cdosc='cd /files/Nutstore/Work/OpenSourceCommunity/'
+alias cdblog='cd /files/Nutstore/Blog/adamcavendish.github.com/'
 
-alias g11='g++-4.8 -std=c++11 -march=native -O3 -flto  -Wall'
+alias blogdate='date +%Y-%m-%d'
+
+alias g11='g++-4.8 -std=c++11 -march=native -O3 -flto -gdwarf-2 -Wall'
 alias ctags++='ctags -R --c++-kinds=+p --fields=+iaS --extra=+q'
 
 alias aria2='aria2c --dir="/home/adam/aria/" --enable-rpc --rpc-listen-all --rpc-allow-origin-all  --file-allocation=none --max-connection-per-server=3 --max-concurrent-downloads=3 --continue'
@@ -155,18 +158,31 @@ elif [ `hostname` = "adam-ThinkpadE425" ]; then
 	# CPM - CMake
 	export CPM_DIR="/files/SOURCE_code/CPM/cpm/"
 	
-	# clang
-	export PATH="/opt/clang-3.4/bin:$PATH"
-	export CPLUS_INCLUDE_PATH="/opt/clang-3.4/include:$CPLUS_INCLUDE_PATH"
-	export C_INCLUDE_PATH="/opt/clang-3.4/include:$C_INCLUDE_PATH"
-	export LD_LIBRARY_PATH="/opt/clang-3.4/lib:$LD_LIBRARY_PATH"
-	export LIBRARY_PATH="/opt/clang-3.4/lib:$LIBRARY_PATH"
+	# llvm/clang
+	# export PATH="/opt/llvm_debug/bin:$PATH"
+	# export CPLUS_INCLUDE_PATH="/opt/llvm_debug/include:$CPLUS_INCLUDE_PATH"
+	# export C_INCLUDE_PATH="/opt/llvm_debug/include:$C_INCLUDE_PATH"
+	# export LD_LIBRARY_PATH="/opt/llvm_debug/lib:$LD_LIBRARY_PATH"
+	# export LIBRARY_PATH="/opt/llvm_debug/lib:$LIBRARY_PATH"
+	
+	export PATH="/opt/llvm_optimized/bin:$PATH"
+	export CPLUS_INCLUDE_PATH="/opt/llvm_optimized/include:$CPLUS_INCLUDE_PATH"
+	export C_INCLUDE_PATH="/opt/llvm_optimized/include:$C_INCLUDE_PATH"
+	export LD_LIBRARY_PATH="/opt/llvm_optimized/lib:$LD_LIBRARY_PATH"
+	export LIBRARY_PATH="/opt/llvm_optimized/lib:$LIBRARY_PATH"
+
+	# export PATH="/opt/llvm_optimized_profiling/bin:$PATH"
+	# export CPLUS_INCLUDE_PATH="/opt/llvm_optimized_profiling/include:$CPLUS_INCLUDE_PATH"
+	# export C_INCLUDE_PATH="/opt/llvm_optimized_profiling/include:$C_INCLUDE_PATH"
+	# export LD_LIBRARY_PATH="/opt/llvm_optimized_profiling/lib:$LD_LIBRARY_PATH"
+	# export LIBRARY_PATH="/opt/llvm_optimized_profiling/lib:$LIBRARY_PATH"
 
 	# OpenCL
 	# export CPLUS_INCLUDE_PATH="/opt/AMDAPP/include/:$CPLUS_INCLUDE_PATH"
 	# export C_INCLUDE_PATH="/opt/AMDAPP/include/:$C_INCLUDE_PATH"
 	# export LD_LIBRARY_PATH="/opt/AMDAPP/include/lib/x86_64/:$LD_LIBRARY_PATH"
 	# export LIBRARY_PATH="/opt/AMDAPP/include/lib/x86_64/:$LIBRARY_PATH"
+	
 	# Boost-compute
 	export CPLUS_INCLUDE_PATH="/files/SOURCE_code/BOOST_compute/compute/include/:$CPLUS_INCLUDE_PATH"
 

@@ -26,6 +26,7 @@ Bundle 'bash-support.vim'
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 Bundle 'scrooloose/nerdtree'
 Bundle 'Valloric/YouCompleteMe'
+Bundle 'Valloric/MatchTagAlways'
 Bundle 'vim-scripts/AutoClose'
 Bundle 'scrooloose/syntastic'
 Bundle 'Lokaltog/vim-powerline'
@@ -119,14 +120,15 @@ if has('cscope')
     set cscopequickfix=s-,c-,d-,i-,t-,e-
   endif
 
-  cnoreabbrev csa cs add
-  cnoreabbrev csf cs find
-  cnoreabbrev csk cs kill
-  cnoreabbrev csr cs reset
-  cnoreabbrev css cs show
-  cnoreabbrev csh cs help
+  " cnoreabbrev csa cs add
+  " cnoreabbrev csf cs find
+  " cnoreabbrev csk cs kill
+  " cnoreabbrev csr cs reset
+  " cnoreabbrev css cs show
+  " cnoreabbrev csh cs help
 
-  command -nargs=0 Cscope cs add $VIMSRC/src/cscope.out $VIMSRC/src
+  "command -nargs=0 Cscope cs add $VIMSRC/src/cscope.out $VIMSRC/src
+  command -nargs=0 Cscope cs add $VIMSRC/cscope.out $VIMSRC
 endif
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -155,25 +157,35 @@ set lbr
 set tw=500
 
 """"""""""""""""""""""""""""""
+"" Smart way to move between tabs
+""""""""""""""""""""""""""""""
+map <C-H> :tabp<CR>
+map <C-L> :tabn<CR>
+map <C-K> :tabfirst<CR>
+map <C-J> :tablast<CR>
+map <C-N> :tabnew<CR>
+map <C-W><C-H> :execute "tabmove" tabpagenr()-2<CR>
+map <C-W><C-L> :execute "tabmove" tabpagenr()<CR>
+map <C-W><C-K> :tabm 0<CR>
+map <C-W><C-J> :tabm<CR>
+
+imap <C-H> <ESC>:tabp<CR>
+imap <C-L> <ESC>:tabn<CR>
+imap <C-K> <ESC>:tabfirst<CR>
+imap <C-J> <ESC>:tablast<CR>
+imap <C-N> <ESC>:tabnew<CR>
+imap <C-W><C-H> <ESC>:execute "tabmove" tabpagenr()-2<CR>
+imap <C-W><C-L> <ESC>:execute "tabmove" tabpagenr()<CR>
+imap <C-W><C-K> <ESC>:tabm 0<CR>
+imap <C-W><C-J> <ESC>:tabm<CR>
+
+""""""""""""""""""""""""""""""
 "" Visual mode related
 """"""""""""""""""""""""""""""
 	" Visual mode pressing * or # searches for the current selection
 	" Super useful! From an idea by Michael Naumann
 vnoremap <silent> * :call VisualSelection('f')<CR>
 vnoremap <silent> # :call VisualSelection('b')<CR>
-
-	" Smart way to move between tabs
-map <C-H> :tabp<cr>
-map <C-L> :tabn<cr>
-map <C-K> :tabfirst<cr>
-map <C-J> :tablast<cr>
-map <C-N> :tabnew<cr>
-
-imap <C-H> <ESC>:tabp<cr>
-imap <C-L> <ESC>:tabn<cr>
-imap <C-K> <ESC>:tabfirst<cr>
-imap <C-J> <ESC>:tablast<cr>
-imap <C-N> <ESC>:tabnew<cr>
 
 try
 	set switchbuf=useopen,usetab,newtab
@@ -196,6 +208,11 @@ set viminfo^=%
 set laststatus=2
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+"" NERDTree
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+noremap <F6> :NERDTreeToggle<CR>
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "" Syntastic
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 let g:syntastic_check_on_open=1
@@ -214,13 +231,19 @@ let g:syntastic_always_populate_loc_list=1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "" YouCompleteMe
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-let g:ycm_global_ycm_extra_conf='~/.vim/myconfig/ycm_config.py'
-let g:ycm_collect_identifiers_from_tags_files = 1
+if filereadable($VIMSRC.'/.ycm_extra_conf.py')
+	let g:ycm_global_ycm_extra_conf='$VIMSRC/.ycm_extra_conf.py'
+else
+	let g:ycm_global_ycm_extra_conf='~/.vim/myconfig/.ycm_extra_conf.py'
+endif
+let g:ycm_collect_identifiers_from_tags_files=1
 let g:ycm_seed_identifiers_with_syntax=1
 let g:ycm_confirm_extra_conf=0
-let g:ycm_key_invoke_completion='<C-/>'
+let g:ycm_key_invoke_completion='<C-Space>'
 	" Go to the definition, C-o to get back
 nnoremap <F9> :YcmCompleter GoToDefinitionElseDeclaration<CR>
+	" Force a full, blocking compilation cycle
+nnoremap <F5> :YcmForceCompileAndDiagnostics<CR>
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "" Syntax
