@@ -6,11 +6,12 @@
   <history>
    <oldPage viewport="0;C2:0.499505:0.997203:1"/>
    <oldPage viewport="1;C2:0.499505:0.329371:1"/>
-   <current viewport="0;C2:0.499505:0.22028:1"/>
+   <oldPage viewport="0;C2:0.499505:0.723776:1"/>
+   <current viewport="1;C2:0.5:0.602013:1"/>
   </history>
   <views>
    <view name="PageView">
-    <zoom mode="1" value="1.69916"/>
+    <zoom mode="0" value="1.29916"/>
    </view>
   </views>
  </generalInfo>

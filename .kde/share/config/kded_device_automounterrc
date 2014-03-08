@@ -1,13 +1,13 @@
 [Devices][/org/freedesktop/UDisks/devices/loop0]
 EverMounted=true
 Icon=media-optical
-LastNameSeen=708.0 MiB Hard Drive
+LastNameSeen=1.0 GiB Hard Drive
 LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks/devices/loop1]
 EverMounted=true
 Icon=media-optical
-LastNameSeen=708.0 MiB Hard Drive
+LastNameSeen=1.0 GiB Hard Drive
 LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks/devices/sda1]
@@ -54,13 +54,13 @@ LastSeenMounted=false
 [Devices][/org/freedesktop/UDisks/devices/sdb]
 EverMounted=true
 Icon=drive-removable-media-usb
-LastNameSeen=HTC Android Phone
+LastNameSeen=Teclast CoolFlash
 LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks/devices/sdb1]
 EverMounted=true
 Icon=drive-removable-media-usb
-LastNameSeen=UUI
+LastNameSeen=7.2 GiB Removable Media
 LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks/devices/sdb4]
@@ -68,6 +68,12 @@ EverMounted=true
 Icon=drive-removable-media-usb
 LastNameSeen=GRMCULXFRER
 LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks/devices/sdc1]
+EverMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=NEKO
+LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks/devices/sr0:media]
 EverMounted=true

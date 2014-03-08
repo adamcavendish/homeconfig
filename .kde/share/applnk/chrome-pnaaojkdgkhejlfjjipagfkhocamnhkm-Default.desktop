@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=I/O Codelab
+Exec=/usr/bin/chromium-browser --app-id=pnaaojkdgkhejlfjjipagfkhocamnhkm --profile-directory=Default
+Icon=chrome-pnaaojkdgkhejlfjjipagfkhocamnhkm-Default
+StartupWMClass=crx_pnaaojkdgkhejlfjjipagfkhocamnhkm
+OnlyShowIn=Old;

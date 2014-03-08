@@ -4,28 +4,34 @@ FullScreen=false
 [MainWindow]
 Height 1200=1201
 Height 768=769
-State=AAAA/wAAAAD9AAAAAAAABVYAAALNAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKfAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1024=1025
 Width 1366=1367
 Width 1600=1601
 
+[Print Preview]
+Height 768=500
+Width 1366=600
+
 [Recent Files]
-File1[$e]=$HOME/Downloads/2013-中国机器人大赛获奖证书（安徽合肥-2013-10-17-21）.pdf
-File2[$e]=$HOME/Downloads/sicp.pdf
-File3[$e]=$HOME/Desktop/BB/!Synced/OCaml/introduction_to_ocaml.pdf
-File4[$e]=$HOME/Downloads/A Little Java A Few Patterns.pdf
-File5[$e]=$HOME/Downloads/Manuel_Klimek.pdf
-File6[$e]=$HOME/Downloads/n1570.pdf
-File7[$e]=$HOME/Downloads/pascfg.pdf
-File8[$e]=$HOME/Downloads/nano-jfp.pdf
-File9[$e]=/files/Nutstore/School/University/C操作系統/Lab/《操作系统二》课程实验指导书（11本科）(最终版）.pdf
-Name1[$e]=2013-中国机器人大赛获奖证书（安徽合肥-2013-10-17-21）.pdf
-Name2[$e]=sicp.pdf
-Name3[$e]=introduction_to_ocaml.pdf
-Name4[$e]=A Little Java A Few Patterns.pdf
-Name5[$e]=Manuel_Klimek.pdf
-Name6[$e]=n1570.pdf
-Name7[$e]=pascfg.pdf
-Name8[$e]=nano-jfp.pdf
-Name9[$e]=《操作系统二》课程实验指导书（11本科）(最终版）.pdf
+File1[$e]=/files/Nutstore/School/University/M模式識別/2013Course/PPT/第7讲+聚类+发布.pdf
+File10[$e]=$HOME/Downloads/latex-introduction.pdf
+File2[$e]=/files/Nutstore/School/University/M模式識別/2013Course/作业5/内容1/实验5-1.pdf
+File3[$e]=/files/Nutstore/School/University/R軟件工程/Lab/LabCode/labreport/实验09.pdf
+File4[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/HomeworkGitShare/PatternRecognition/Labreport/Functions/homework5/01/HW5-1.pdf
+File5[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/HomeworkGitShare/PatternRecognition/Labreport/report/pdf/cover.pdf
+File6[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/HomeworkGitShare/PatternRecognition/Labreport/report/pdf/Lab002.pdf
+File7[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/HomeworkGitShare/PatternRecognition/Labreport/report/pdf/Lab004.pdf
+File8[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/HomeworkGitShare/PatternRecognition/Labreport/report/pdf/catlog.pdf
+File9[$e]=/files/Nutstore/School/University/S數據庫原理/Lab/11122057楊瑒.pdf
+Name1[$e]=第7讲+聚类+发布.pdf
+Name10[$e]=latex-introduction.pdf
+Name2[$e]=实验5-1.pdf
+Name3[$e]=实验09.pdf
+Name4[$e]=HW5-1.pdf
+Name5[$e]=cover.pdf
+Name6[$e]=Lab002.pdf
+Name7[$e]=Lab004.pdf
+Name8[$e]=catlog.pdf
+Name9[$e]=11122057楊瑒.pdf

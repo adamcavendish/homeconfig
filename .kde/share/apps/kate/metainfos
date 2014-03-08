@@ -1,64 +1,51 @@
-[file:///tmp/000.cpp]
+[file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/README.md]
+Bookmarks=
+Encoding=UTF-8
+FoldedColumns=
+FoldedLines=
+Highlighting=Modula-2
+Indentation Mode=normal
+MD5=f9f91ccc154edd23294045bea78c2b29
+Mode=Modula-2
+ReadWrite=true
+Time=2014,2,27,13,3,25
+URL=file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/README.md
+
+[file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/homework/hw002.cpp]
 Bookmarks=
 Encoding=UTF-8
 FoldedColumns=
 FoldedLines=
 Highlighting=C++
 Indentation Mode=cstyle
-MD5=2aa54f767cbd50ee6cdcb2894f0f9dd2
+MD5=1ed80d99a3349023bfd36885c89f4dcc
 Mode=C++
 ReadWrite=true
-Time=2014,1,27,14,59,9
-URL=file:///tmp/000.cpp
+Time=2014,2,27,13,3,25
+URL=file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/homework/hw002.cpp
 
-[file:///tmp/a.txt]
+[file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/include/parser/detail/Expression.hpp]
 Bookmarks=
 Encoding=UTF-8
 FoldedColumns=
 FoldedLines=
-Highlighting=None
-Indentation Mode=normal
-MD5=74ddc67a27a989ee69ae231c9f757da3
-Mode=
+Highlighting=C++
+Indentation Mode=cstyle
+MD5=851007c450afb2b822a17678cf1a799b
+Mode=C++
 ReadWrite=true
-Time=2014,1,8,15,47,6
-URL=file:///tmp/a.txt
+Time=2014,2,27,13,3,25
+URL=file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/include/parser/detail/Expression.hpp
 
-[file:///tmp/a1.txt]
+[file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/src/parser/detail/AssignStmt.cpp]
 Bookmarks=
 Encoding=UTF-8
 FoldedColumns=
 FoldedLines=
-Highlighting=None
-Indentation Mode=normal
-MD5=74ddc67a27a989ee69ae231c9f757da3
-Mode=
+Highlighting=C++
+Indentation Mode=cstyle
+MD5=c50847081b02045465b3a97d571d85fc
+Mode=C++
 ReadWrite=true
-Time=2014,1,6,1,14,59
-URL=file:///tmp/a1.txt
-
-[file:///tmp/a2.txt]
-Bookmarks=
-Encoding=UTF-8
-FoldedColumns=
-FoldedLines=
-Highlighting=None
-Indentation Mode=normal
-MD5=1fe8020f2ae5258a9841ca5cabcfc725
-Mode=
-ReadWrite=true
-Time=2014,1,6,1,14,44
-URL=file:///tmp/a2.txt
-
-[file:///tmp/b.txt]
-Bookmarks=
-Encoding=UTF-8
-FoldedColumns=
-FoldedLines=
-Highlighting=None
-Indentation Mode=normal
-MD5=74ddc67a27a989ee69ae231c9f757da3
-Mode=
-ReadWrite=true
-Time=2014,1,8,15,47,21
-URL=file:///tmp/b.txt
+Time=2014,2,20,13,19,12
+URL=file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/src/parser/detail/AssignStmt.cpp

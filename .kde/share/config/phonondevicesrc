@@ -9,7 +9,7 @@ initialPreference=33
 isAdvanced=true
 
 [AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.2/sound/card1/pcmC1D0c:capture]
-cardName=HD-Audio Generic (CONEXANT Analog)
+cardName=HD-Audio Generic (CX20590 Analog)
 deleted=false
 deviceNumber=0
 hotpluggable=false
@@ -19,7 +19,7 @@ initialPreference=36
 isAdvanced=false
 
 [AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.2/sound/card1/pcmC1D0p:playback]
-cardName=HD-Audio Generic (CONEXANT Analog)
+cardName=HD-Audio Generic (CX20590 Analog)
 deleted=false
 deviceNumber=0
 hotpluggable=false
@@ -30,7 +30,7 @@ isAdvanced=false
 
 [AudioDevice_HD-Audio Generic, CONEXANT Analog\nDefault Audio Device_capture]
 cardName=HD-Audio Generic, CONEXANT Analog (Default Audio Device)
-deleted=false
+deleted=true
 deviceNumber=-1
 hotpluggable=false
 iconName=audio-card
@@ -40,7 +40,7 @@ isAdvanced=false
 
 [AudioDevice_HD-Audio Generic, CONEXANT Analog\nDefault Audio Device_playback]
 cardName=HD-Audio Generic, CONEXANT Analog (Default Audio Device)
-deleted=false
+deleted=true
 deviceNumber=-1
 hotpluggable=false
 iconName=audio-card
@@ -50,7 +50,7 @@ isAdvanced=false
 
 [AudioDevice_HD-Audio Generic, CONEXANT Analog\nDirect hardware device without any conversions_capture]
 cardName=HD-Audio Generic, CONEXANT Analog (Direct hardware device without any conversions)
-deleted=false
+deleted=true
 deviceNumber=-1
 hotpluggable=false
 iconName=audio-card
@@ -60,7 +60,7 @@ isAdvanced=false
 
 [AudioDevice_HD-Audio Generic, CONEXANT Analog\nDirect hardware device without any conversions_playback]
 cardName=HD-Audio Generic, CONEXANT Analog (Direct hardware device without any conversions)
-deleted=false
+deleted=true
 deviceNumber=-1
 hotpluggable=false
 iconName=audio-card
@@ -70,7 +70,7 @@ isAdvanced=false
 
 [AudioDevice_HD-Audio Generic, CONEXANT Analog\nDirect sample mixing device_playback]
 cardName=HD-Audio Generic, CONEXANT Analog (Direct sample mixing device)
-deleted=false
+deleted=true
 deviceNumber=-1
 hotpluggable=false
 iconName=audio-card
@@ -80,7 +80,7 @@ isAdvanced=false
 
 [AudioDevice_HD-Audio Generic, CONEXANT Analog\nDirect sample snooping device_capture]
 cardName=HD-Audio Generic, CONEXANT Analog (Direct sample snooping device)
-deleted=false
+deleted=true
 deviceNumber=-1
 hotpluggable=false
 iconName=audio-card
@@ -90,7 +90,7 @@ isAdvanced=false
 
 [AudioDevice_HD-Audio Generic, CONEXANT Analog\nHardware device with all software conversions_capture]
 cardName=HD-Audio Generic, CONEXANT Analog (Hardware device with all software conversions)
-deleted=false
+deleted=true
 deviceNumber=-1
 hotpluggable=false
 iconName=audio-card
@@ -100,11 +100,91 @@ isAdvanced=false
 
 [AudioDevice_HD-Audio Generic, CONEXANT Analog\nHardware device with all software conversions_playback]
 cardName=HD-Audio Generic, CONEXANT Analog (Hardware device with all software conversions)
-deleted=false
+deleted=true
 deviceNumber=-1
 hotpluggable=false
 iconName=audio-card
 index=-6
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HD-Audio Generic, CX20590 Analog\nDefault Audio Device_capture]
+cardName=HD-Audio Generic, CX20590 Analog (Default Audio Device)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-26
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HD-Audio Generic, CX20590 Analog\nDefault Audio Device_playback]
+cardName=HD-Audio Generic, CX20590 Analog (Default Audio Device)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-22
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HD-Audio Generic, CX20590 Analog\nDirect hardware device without any conversions_capture]
+cardName=HD-Audio Generic, CX20590 Analog (Direct hardware device without any conversions)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-27
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HD-Audio Generic, CX20590 Analog\nDirect hardware device without any conversions_playback]
+cardName=HD-Audio Generic, CX20590 Analog (Direct hardware device without any conversions)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-23
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HD-Audio Generic, CX20590 Analog\nDirect sample mixing device_playback]
+cardName=HD-Audio Generic, CX20590 Analog (Direct sample mixing device)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-25
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HD-Audio Generic, CX20590 Analog\nDirect sample snooping device_capture]
+cardName=HD-Audio Generic, CX20590 Analog (Direct sample snooping device)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-28
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HD-Audio Generic, CX20590 Analog\nHardware device with all software conversions_capture]
+cardName=HD-Audio Generic, CX20590 Analog (Hardware device with all software conversions)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-29
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HD-Audio Generic, CX20590 Analog\nHardware device with all software conversions_playback]
+cardName=HD-Audio Generic, CX20590 Analog (Hardware device with all software conversions)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-24
 initialPreference=30
 isAdvanced=false
 
@@ -169,7 +249,7 @@ initialPreference=30
 isAdvanced=false
 
 [Globals]
-nextIndex=22
+nextIndex=31
 
 [VideoDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:13.2/usb2/2-3/2-3:1.0/video4linux/video0]
 cardName=Integrated Camera

@@ -3,7 +3,7 @@ NumberOfWindows=1
 
 [WindowProperties1]
 ClassName=MainWindow
-Height 768=666
+Height 768=665
 ObjectName=MainWindow#1
 State=AAAA/wAAAAD9AAAAAAAAAAAAAAAAAAAABAAAAAQAAAAIAAAACPwAAAAA
 ToolBarsMovable=Disabled

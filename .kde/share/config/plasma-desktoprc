@@ -7,6 +7,9 @@ plasma-layout-org.kde.plasma-desktop.photoActivity.desktop=true
 Height 768=462
 Width 1366=902
 
+[Colors]
+CurrentPalette=Forty Colors
+
 [KFileDialog Settings]
 Height 768=462
 Recent Files[$e]=Smoke green.png,/files/Nutstore/Adam'sDocuments/My Pictures/BackgroundImage/Smoke/Smoke green.png
@@ -24,3 +27,14 @@ performed=/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/pl
 [ViewIds]
 14=2
 3=1
+
+[invokeAction]
+__file=
+actionId=
+predicate=test-predicate-openinwindow.desktop
+
+[mount]
+__file=
+
+[unmount]
+__file=

@@ -113,8 +113,8 @@ ${color6}${cached}${color}\
 ${color2}Swap: ${color}\
 ${color6}${swap}${color}/${swapmax}\
 
-${color2}SDA: ${color}\
-${color6}${execi 120 hddtemp /dev/sda -n --unit=C}'C ${color}\
+# ${color2}SDA: ${color}\
+# ${color6}${execi 120 hddtemp /dev/sda -n --unit=C}'C ${color}\
 
 ${stippled_hr}
 # CPU

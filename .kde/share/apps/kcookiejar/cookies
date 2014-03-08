@@ -24,3 +24,11 @@ www.google.cn        ".google.cn"         "/chrome/intl/zh-cn/" 1400361915    0 
 [.tieba.baidu.com]
 tieba.baidu.com      ".tieba.baidu.com"   "/"          1609430399    0 TIEBA_USERTYPE       4    6bec7c8d26800a308b359d07
 tieba.baidu.com      ".tieba.baidu.com"   "/"          1416811083    0 Hm_lvt_287705c8d9e2073d13275b18dbd746dc 4    1385275083
+[.iqiyi.com]
+www.iqiyi.com        ".iqiyi.com"         "/"          1424618819    0 QC011                4    179
+www.iqiyi.com        ""                   "/"          1393169224    0 TQC003               4    1
+info.vip.iqiyi.com   ".iqiyi.com"         "/"          1393169224    1 QILINPUSH            4    aca56ec7d4f9b128
+www.iqiyi.com        ".iqiyi.com"         "/"          1393084877    0 QC105                4    2
+www.iqiyi.com        ".iqiyi.com"         "/"          1424619427    0 QC006                4    76yarfj7187cm8s0czhb2mck
+www.iqiyi.com        ".iqiyi.com"         "/"          1424619427    0 QC008                4    1393082819.1393082819.1393083427.2
+www.iqiyi.com        ""                   "/"          1393169829    0 QC115                4    3

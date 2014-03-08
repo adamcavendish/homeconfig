@@ -48,18 +48,22 @@ filetype indent on
 
 "" Miscellaneous
 set nocompatible		" not compatible with vi
+set number				" show side line number
+set cursorline			" show current cursor line
+set confirm
+set history=100
 
 "" indention
 set autoindent			" auto indent
 set nowrap				" Wrap lines
 set shiftwidth=4		" every tab is 4 char size
-set pastetoggle=<F9>	" toggle paste mode(set paste/set nopaste)
-
 set smartindent
-set confirm
-set history=100
-set cursorline			" show current cursor line
-set number				" show side line number
+	" 1 tab == 4 spaces
+set shiftwidth=4
+set tabstop=4
+set softtabstop=4
+set smarttab            " Be smart when using tabs
+set expandtab			" convert tab into spaces
 
 "" Folding
 set foldenable
@@ -144,13 +148,6 @@ if has("gui_running")
     set t_Co=256
 	set guitablabel=%M\ %t
 endif
-
-set smarttab	" Be smart when using tabs
-
-	" 1 tab == 4 spaces
-set shiftwidth=4
-set tabstop=4
-set softtabstop=4
 
 	" Linebreak on 500 characters
 set lbr

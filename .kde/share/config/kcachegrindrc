@@ -6,6 +6,11 @@ EventType=Ir
 EventType2=Ir
 GroupType=Function
 
+[CurrentState-aout]
+EventType=Ir
+EventType2=Ir
+GroupType=Function
+
 [CurrentState-main]
 EventType=Ir
 EventType2=Ir
@@ -51,22 +56,32 @@ Width 1366=720
 
 [Layouts]
 Count=1
+Count-aout=1
 Count-main=1
 Current=0
+Current-aout=0
 Current-main=0
 
 [MainView]
 ActivePanel=TabView-1
-PanelSizes=653
+PanelSizes=651
 Panels=1
 
 [MainView-TabView-1]
-ActiveItemName=fb_algo::process_finish(std::shared_ptr<pcb_base> const&)
+ActiveItemName=main
 ActiveItemType=Function
 ActiveTop=CalleeMapView
-SelectedItemName=fb_algo::process_finish(std::shared_ptr<pcb_base> const&)
+SelectedItemName=malloc
 SelectedItemType=Function
-TopSize=47
+TopSize=46
+
+[MainView-TabView-1-aout]
+ActiveItemName=main
+ActiveItemType=Function
+ActiveTop=CalleeMapView
+SelectedItemName=malloc
+SelectedItemType=Function
+TopSize=46
 
 [MainView-TabView-1-main]
 ActiveItemName=fb_algo::process_finish(std::shared_ptr<pcb_base> const&)
@@ -76,6 +91,11 @@ SelectedItemName=fb_algo::process_finish(std::shared_ptr<pcb_base> const&)
 SelectedItemType=Function
 TopSize=47
 
+[MainView-aout]
+ActivePanel=TabView-1
+PanelSizes=651
+Panels=1
+
 [MainView-main]
 ActivePanel=TabView-1
 PanelSizes=653
@@ -83,7 +103,7 @@ Panels=1
 
 [MainWindow]
 Height 768=769
-State=AAAA/wAAAAD9AAAAAQAAAAAAAAHiAAACjfwCAAAAA/sAAAASAHAAYQByAHQAIABkAG8AYwBrAAAAAAD/////AAAAWgEAAAX7AAAAFABzAHQAYQBjAGsAIABkAG8AYwBrAAAAAAD/////AAAAbgEAAAX7AAAAGgBmAHUAbgBjAHQAaQBvAG4AIABkAG8AYwBrAQAAADMAAAKNAAAAjAEAAAUAAANxAAACjQAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABgAcwB0AGEAdABlAFQAbwBvAGwAQgBhAHIBAAAC+P////8AAAAAAAAAAA==
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAHiAAACi/wCAAAAA/sAAAASAHAAYQByAHQAIABkAG8AYwBrAAAAAAD/////AAAAWgEAAAX7AAAAFABzAHQAYQBjAGsAIABkAG8AYwBrAAAAAAD/////AAAAbgEAAAX7AAAAGgBmAHUAbgBjAHQAaQBvAG4AIABkAG8AYwBrAQAAADMAAAKLAAAAjAEAAAUAAANxAAACiwAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABgAcwB0AGEAdABlAFQAbwBvAGwAQgBhAHIBAAAC+P////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
 Width 1366=1367
 
@@ -111,6 +131,9 @@ Object8=/lib/x86_64-linux-gnu/libc-2.15.so
 RunOnStart=true
 
 [TracePositions]
+EventType-aout=Ir
 EventType-main=Ir
+EventType2-aout=Ir
 EventType2-main=Ir
+GroupType-aout=Function
 GroupType-main=Function

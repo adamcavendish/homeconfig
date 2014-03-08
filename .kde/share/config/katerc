@@ -10,7 +10,40 @@ Highlighting=C++
 Indentation Mode=cstyle
 Mode=C++
 ReadWrite=true
-URL=file:///tmp/000.cpp
+URL=file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/homework/hw002.cpp
+
+[Document 1]
+Bookmarks=
+Encoding=UTF-8
+FoldedColumns=
+FoldedLines=
+Highlighting=Modula-2
+Indentation Mode=normal
+Mode=Modula-2
+ReadWrite=true
+URL=file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/README.md
+
+[Document 2]
+Bookmarks=
+Encoding=UTF-8
+FoldedColumns=
+FoldedLines=
+Highlighting=None
+Indentation Mode=normal
+Mode=
+ReadWrite=true
+URL=file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/build/parser01.pl0
+
+[Document 3]
+Bookmarks=
+Encoding=UTF-8
+FoldedColumns=
+FoldedLines=
+Highlighting=C++
+Indentation Mode=cstyle
+Mode=C++
+ReadWrite=true
+URL=file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/include/parser/detail/Expression.hpp
 
 [General]
 Days Meta Infos=30
@@ -176,9 +209,12 @@ WindowState=10
 Sizes=1338
 
 [MainWindow0-ViewSpace 0]
-Active View=file:///tmp/000.cpp
-Count=1
-View 0=file:///tmp/000.cpp
+Active View=file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/include/parser/detail/Expression.hpp
+Count=4
+View 0=file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/README.md
+View 1=file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/build/parser01.pl0
+View 2=file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/homework/hw002.cpp
+View 3=file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/include/parser/detail/Expression.hpp
 
 [MainWindow0-ViewSpace 0 file:///etc/group]
 CursorColumn=0
@@ -222,6 +258,30 @@ CursorLine=179
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/README.md]
+CursorColumn=9
+CursorLine=110
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/build/parser01.pl0]
+CursorColumn=30
+CursorLine=2
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/homework/hw002.cpp]
+CursorColumn=38
+CursorLine=31
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/include/parser/detail/Expression.hpp]
+CursorColumn=0
+CursorLine=59
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///files/Nutstore/School/University/D單片機/AD/AD.asm]
 CursorColumn=0
 CursorLine=188
@@ -259,7 +319,7 @@ JumpList=
 ViMarks=
 
 [Open Documents]
-Count=1
+Count=4
 
 [Open MainWindows]
 Count=1
@@ -287,24 +347,26 @@ SearchFolders=
 UseRegExp=false
 
 [Recent Files]
-File1[$e]=/files/Nutstore/School/University/D單片機/AD/AD.asm
-File2[$e]=/etc/passwd
-File3[$e]=/etc/group
-File4[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/20130924BoardCoverProblem.cpp
-File5[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/055/055MatrixMul.c
-File6[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/056/056LongestCommonString.c
-File7[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/058/huffman.cpp
-File8[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/HomeworkGitShare/DataBase/Labcode/003/lab.sql
-File9[$e]=/tmp/000.cpp
-Name1[$e]=AD.asm
-Name2[$e]=passwd
-Name3[$e]=group
-Name4[$e]=20130924BoardCoverProblem.cpp
-Name5[$e]=055MatrixMul.c
-Name6[$e]=056LongestCommonString.c
-Name7[$e]=huffman.cpp
-Name8[$e]=lab.sql
-Name9[$e]=000.cpp
+File1[$e]=/etc/group
+File10[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/include/parser/detail/Expression.hpp
+File2[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/20130924BoardCoverProblem.cpp
+File3[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/055/055MatrixMul.c
+File4[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/056/056LongestCommonString.c
+File5[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/058/huffman.cpp
+File6[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/src/parser/detail/AssignStmt.cpp
+File7[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/homework/hw002.cpp
+File8[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/README.md
+File9[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/build/parser01.pl0
+Name1[$e]=group
+Name10[$e]=Expression.hpp
+Name2[$e]=20130924BoardCoverProblem.cpp
+Name3[$e]=055MatrixMul.c
+Name4[$e]=056LongestCommonString.c
+Name5[$e]=huffman.cpp
+Name6[$e]=AssignStmt.cpp
+Name7[$e]=hw002.cpp
+Name8[$e]=README.md
+Name9[$e]=parser01.pl0
 
 [filetree]
 editShade=210,181,216

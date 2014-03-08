@@ -80,6 +80,7 @@ alias mkdatedir='mkdir `date +%Y%m%d`'
 
 alias ..='cd ..'
 alias cdwork='cd /files/Nutstore/'
+alias cdschool='cd /files/Nutstore/School/University/'
 alias cdcpp='cd /files/Nutstore/000/CPPWorkSpace/'
 alias cdpython='cd /files/Nutstore/000/Python/'
 alias cdjava='cd /files/Nutstore/000/Java/'
@@ -92,6 +93,7 @@ alias cdblog='cd /files/Nutstore/Blog/adamcavendish.github.com/'
 alias blogdate='date +%Y-%m-%d'
 
 alias g11='g++-4.8 -std=c++11 -march=native -O3 -flto -gdwarf-2 -Wall'
+alias clang11='clang++ -std=c++11 -march=native -O3 -Wall'
 alias ctags++='ctags -R --c++-kinds=+p --fields=+iaS --extra=+q'
 
 alias aria2='aria2c --dir="/home/adam/aria/" --enable-rpc --rpc-listen-all --rpc-allow-origin-all  --file-allocation=none --max-connection-per-server=3 --max-concurrent-downloads=3 --continue'
@@ -100,6 +102,7 @@ alias yaaw='chromium-browser /files/SOURCE_code/YAAW/yaaw/index.html &'
 alias nutstore='~/.nutstore/dist/bin/nutstore-pydaemon.py'
 
 alias gvim='gvim -f'
+alias em='emacs -nw'
 
 alias goagent='python /files/software/goagent/local/proxy.py'
 alias snova='sh /files/software/snova-0.22.0/bin/start.sh'
@@ -107,6 +110,8 @@ alias snova='sh /files/software/snova-0.22.0/bin/start.sh'
 alias pp='ping -i 0.2 www.google.com; ping www.baidu.com'
 
 alias apt-proxy="sudo http_proxy='http://127.0.0.1:8087/' apt-get"
+
+alias dropcache="sudo sync && sudo echo 3 | sudo tee /proc/sys/vm/drop_caches"
 
 # CSCOPE
 alias cscope_init="find . -name \"*.c\" -o -name \"*.cpp\" -o -name \"*.h\" -o -name \"*.hpp\" -o -name \"*.tcc\" > cscope.files; cscope -R -b -i cscope.files"
@@ -151,25 +156,31 @@ export LIBRARY_PATH="/files/Nutstore/000/LinuxDriver/lib/:$LIBRARY_PATH";
 ##################################################
 ## @hostname adam-ThinkpadE425
 elif [ `hostname` = "adam-ThinkpadE425" ]; then
+    alias argouml='java -jar /files/software/argouml-0.34/argouml.jar'
+
 	echo "\e[0;1;49;39mHello adam-ThinkpadE425\e[0m"
 	# Using OpenCL for Java
 	# export LIBAPARAPI="/opt/APARAPI/aparapi-read-only"
 	
+    # Ninja
+    export PATH="/files/SOURCE_code/ninja/ninja/:$PATH"
+
 	# CPM - CMake
+    export PATH="/files/software/cmake/bin/:$PATH"
 	export CPM_DIR="/files/SOURCE_code/CPM/cpm/"
 	
 	# llvm/clang
-	# export PATH="/opt/llvm_debug/bin:$PATH"
-	# export CPLUS_INCLUDE_PATH="/opt/llvm_debug/include:$CPLUS_INCLUDE_PATH"
-	# export C_INCLUDE_PATH="/opt/llvm_debug/include:$C_INCLUDE_PATH"
-	# export LD_LIBRARY_PATH="/opt/llvm_debug/lib:$LD_LIBRARY_PATH"
-	# export LIBRARY_PATH="/opt/llvm_debug/lib:$LIBRARY_PATH"
+	export PATH="/opt/llvm_debug/bin:$PATH"
+	export CPLUS_INCLUDE_PATH="/opt/llvm_debug/include:$CPLUS_INCLUDE_PATH"
+	export C_INCLUDE_PATH="/opt/llvm_debug/include:$C_INCLUDE_PATH"
+	export LD_LIBRARY_PATH="/opt/llvm_debug/lib:$LD_LIBRARY_PATH"
+	export LIBRARY_PATH="/opt/llvm_debug/lib:$LIBRARY_PATH"
 	
-	export PATH="/opt/llvm_optimized/bin:$PATH"
-	export CPLUS_INCLUDE_PATH="/opt/llvm_optimized/include:$CPLUS_INCLUDE_PATH"
-	export C_INCLUDE_PATH="/opt/llvm_optimized/include:$C_INCLUDE_PATH"
-	export LD_LIBRARY_PATH="/opt/llvm_optimized/lib:$LD_LIBRARY_PATH"
-	export LIBRARY_PATH="/opt/llvm_optimized/lib:$LIBRARY_PATH"
+	# export PATH="/opt/llvm_optimized/bin:$PATH"
+	# export CPLUS_INCLUDE_PATH="/opt/llvm_optimized/include:$CPLUS_INCLUDE_PATH"
+	# export C_INCLUDE_PATH="/opt/llvm_optimized/include:$C_INCLUDE_PATH"
+	# export LD_LIBRARY_PATH="/opt/llvm_optimized/lib:$LD_LIBRARY_PATH"
+	# export LIBRARY_PATH="/opt/llvm_optimized/lib:$LIBRARY_PATH"
 
 	# export PATH="/opt/llvm_optimized_profiling/bin:$PATH"
 	# export CPLUS_INCLUDE_PATH="/opt/llvm_optimized_profiling/include:$CPLUS_INCLUDE_PATH"
