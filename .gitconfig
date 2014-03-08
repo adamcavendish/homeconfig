@@ -18,5 +18,5 @@
 	lol = log --graph --decorate --pretty=oneline --abbrev-commit
 	lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
 [http]
-	# sslVerify = false
+    # sslVerify = false
 	# proxy = 127.0.0.1:8087
