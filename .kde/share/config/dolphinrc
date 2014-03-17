@@ -19,6 +19,9 @@ FontWeight=50
 
 [KFileDialog Settings]
 Autoplay sounds=true
+Height 768=450
+Recent Files[$e]=ResumeEnglish20140310.pdf,/files/Nutstore/Work/Resume/ResumeEnglish20140310.pdf
+Width 1366=720
 
 [KFileMetaPropsPlugin]
 Height 768=261

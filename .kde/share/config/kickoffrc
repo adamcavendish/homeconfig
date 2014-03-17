@@ -8,4 +8,4 @@ loadAll=false
 pluginWhiteList=places,shell,services,bookmarks,recentdocuments,locations
 
 [RecentlyUsed]
-Applications=yozo-impress.desktop,wolfram-mathematica9.desktop,cherrytree.desktop,vmware-player.desktop,chromium-browser.desktop
+Applications=yozo-impress.desktop,wolfram-mathematica9.desktop,vmware-player.desktop,chromium-browser.desktop,cherrytree.desktop

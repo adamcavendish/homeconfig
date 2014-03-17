@@ -11,7 +11,7 @@ Resize Scale - ScaleType=2
 
 [KFileDialog Settings]
 Height 768=450
-Recent Files[$e]=Sakula01.jpeg,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/multi_var_gauss_dens_small.png,/files/Nutstore/000/QtWorkspace/KanaSyllabary/KanaSyllabary/Image/Sakula01.png,/files/Nutstore/000/QtWorkspace/KanaSyllabary/KanaSyllabary/Image/Sakula01.jpeg
+Recent Files[$e]=Sakula01.jpeg,$HOME/Downloads/【批量下载】2014-03-07 222125等/2014-03-07 222125-mod.jpg,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/multi_var_gauss_dens_small.png,/files/Nutstore/000/QtWorkspace/KanaSyllabary/KanaSyllabary/Image/Sakula01.png,/files/Nutstore/000/QtWorkspace/KanaSyllabary/KanaSyllabary/Image/Sakula01.jpeg
 Width 1366=720
 
 [MainWindow]
@@ -32,20 +32,26 @@ Maximum Color Depth=image/x-eps:32,image/x-portable-bitmap:1,image/x-portable-gr
 dir[$e]=file:///files/Nutstore/000/QtWorkspace/KanaSyllabary/KanaSyllabary/Image/,$HOME/Documents
 
 [Recent Files]
-File1[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/OSHomeworkAfs/build/Pics/winter04-000CreateFileSystem.jpg
-File2[$e]=/files/Aria/!NEW/JOB-016/fao2403vh89c.jpg
-File3[$e]=/files/Aria/!NEW/XV-893/XV-893.jpg
-File4[$e]=/files/Aria/!NEW/TMAM-037/TMAM-037.jpg
-File5[$e]=/files/Aria/!NEW/JOB-016/JOB016b.jpg
-File6[$e]=/files/Aria/!NEW/XV-918/XV-918.jpg
-File7[$e]=/files/Nutstore/School/University/M模式識別/2013Course/实验7/内容2/yalefaces/subject01.centerlight
-Name1[$e]=winter04-000CreateFileSystem.jpg
-Name2[$e]=fao2403vh89c.jpg
-Name3[$e]=XV-893.jpg
-Name4[$e]=TMAM-037.jpg
-Name5[$e]=JOB016b.jpg
-Name6[$e]=XV-918.jpg
-Name7[$e]=subject01.centerlight
+File1[$e]=$HOME/Downloads/【批量下载】2014-03-07 222125等/2014-03-07 222125.jpg
+File10[$e]=/files/Aria/!NEW/DV-1614/DV-1614.jpg
+File2[$e]=$HOME/Downloads/【批量下载】2014-03-07 222125等/2014-03-07 221023.jpg
+File3[$e]=$HOME/Downloads/【批量下载】2014-03-07 222125等/2014-03-07 221039.jpg
+File4[$e]=/files/Aria/!NEW/JOB-016/JOB016b.jpg
+File5[$e]=/files/Aria/!NEW/SNIS-112/(S1)(SNIS-112).jpg
+File6[$e]=/files/Aria/!NEW/TMAM-037/TMAM-037.jpg
+File7[$e]=/files/Aria/!NEW/XV-893/XV-893.jpg
+File8[$e]=/files/Aria/!NEW/XV-918/XV-918.jpg
+File9[$e]=/files/Aria/!NEW/DV-1021/53dv01021pl.jpg
+Name1[$e]=2014-03-07 222125.jpg
+Name10[$e]=DV-1614.jpg
+Name2[$e]=2014-03-07 221023.jpg
+Name3[$e]=2014-03-07 221039.jpg
+Name4[$e]=JOB016b.jpg
+Name5[$e]=(S1)(SNIS-112).jpg
+Name6[$e]=TMAM-037.jpg
+Name7[$e]=XV-893.jpg
+Name8[$e]=XV-918.jpg
+Name9[$e]=53dv01021pl.jpg
 
 [Save Preview Settings]
 Geometry=512,40,188,143

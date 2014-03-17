@@ -283,6 +283,10 @@ activate widget 2=Meta+Space,Meta+Space,Activate Application Launcher Widget
 activate widget 4=Alt+F1,Alt+F1,Activate Application Launcher Widget
 manage activities=Meta+Q,Meta+Q,Activities...
 
+[synaptiks]
+_k_friendly_name=synaptiks
+touchpadOn=,Ctrl+Alt+T,Touchpad on
+
 [wacomtablet]
 Map to fullscreen=none,Meta+Ctrl+F,Map to all fullscreen
 Map to screen 1=none,Meta+Ctrl+1,Map to screen 1

@@ -54,7 +54,7 @@ LastSeenMounted=false
 [Devices][/org/freedesktop/UDisks/devices/sdb]
 EverMounted=true
 Icon=drive-removable-media-usb
-LastNameSeen=Teclast CoolFlash
+LastNameSeen=HTC Android Phone
 LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks/devices/sdb1]
