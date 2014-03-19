@@ -39,7 +39,9 @@ Units=cm
 
 [Recent Files]
 File1[$e]=/files/Nutstore/School/University/R軟件工程/Exam/软件工程考试题型.zip
+File2[$e]=$HOME/Downloads/factory.zip
 Name1[$e]=软件工程考试题型.zip
+Name2[$e]=factory.zip
 
 [Viewer]
 Height 768=722

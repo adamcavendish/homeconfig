@@ -1,4 +1,6 @@
 (set-language-environment 'UTF-8)
+(setq user-emacs-directory "/files/Nutstore/LinuxSync/important_configs/.emacs.d/")
+(setq vc-follow-symlinks t)
 
 ;;--------------------------------------------------
 ;; Workspace
@@ -19,6 +21,8 @@
 (add-to-list 'package-archives '("melpa" . "http://melpa.milkbox.net/packages/") t)
 
 ;; Tab configures
+(require 'smart-tab)
+(global-smart-tab-mode 1)
 (setq c-basic-offset 4)
 (setq tab-width 4)
 
