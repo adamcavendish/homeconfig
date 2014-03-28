@@ -1,13 +1,13 @@
 [GENERAL]
 delay=0
-filename[$e]=file://$HOME/Documents/My%20Pictures/abc1.jpg
+filename[$e]=file://$HOME/Documents/My%20Pictures/omnetpp/002.jpg
 includeDecorations=true
 includePointer=false
 mode=2
 
 [KFileDialog Settings]
 Height 768=450
-Recent Files[$e]=$HOME/Pictures/yourejokingme.png,$HOME/Documents/My Pictures/abc.jpg,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0031.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0030.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0029.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0028.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0027.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0026.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0025.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0024.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0023.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0022.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0021.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0020.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0019.png
+Recent Files[$e]=$HOME/Pictures/yourejokingme.png,$HOME/Documents/My Pictures/omnetpp/001.jpg,$HOME/Documents/My Pictures/abc.jpg,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0031.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0030.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0029.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0028.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0027.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0026.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0025.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0024.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0023.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0022.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0021.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0020.png,/files/Nutstore/School/University/M模式識別/2013Course/Labreport/Pictures/0019.png
 Recent URLs[$e]=$HOME/Pictures/,$HOME/Pictures/IMLegend/,$HOME/Pictures/RealSteal/
 Width 1366=720
 

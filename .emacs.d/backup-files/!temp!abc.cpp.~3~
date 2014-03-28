@@ -1,0 +1,12 @@
+#include <iostream>
+#include <algorithm>
+
+int main(int argc, char * argv[]) {
+    char a = 's';
+    char b = 'm';
+
+    char c = a xor b;
+
+    std::cout << (unsigned int)a << ":" << (unsigned int)(b xor c) << std::endl;
+    return 0;
+}

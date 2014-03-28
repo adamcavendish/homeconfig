@@ -1,0 +1,23 @@
+#pragma once
+
+// omnetpp
+#include <omnetpp.h>
+
+class TimeoutPlugin {
+private:
+    cSimpleModule * pParent;
+    simtime_t timeout;  // timeout
+    cMessage * timeoutEvent;  // holds pointer to the timeout self-message
+public:
+    TimeoutPlugin(cSimpleModule * parent) :
+        pParent(parent)
+    {}
+
+    ~TimeoutPlugin() {
+        pParent->cancelAndDelete(timeoutEvent);
+    }//destructor
+
+    void initialize()
+    
+};//class TimeoutPlugin
+        

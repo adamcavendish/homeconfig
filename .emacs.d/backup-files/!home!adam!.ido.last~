@@ -1,0 +1,39 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/" . "adam/")
+ ("/" . "home/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/adam/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/files/Nutstore/000/OMNetPPWorkspace/CXXM創新項目/PNCP/" (21293 45501 898684 721000) "N01_NetworkRaw.ned~" ".#N01_NetworkRaw.ned" "N01_NetworkRaw.ned" "omnetpp.ini~" "../" "omnetpp.ini" "./")
+
+ ("/files/Nutstore/000/OMNetPPWorkspace/tictoc/" (21289 24857 951917 576000) "out/" "tictoc2.ned" "txc1.cc" "tictoc4.ned" ".tkenvlog" "txc3.cc" "Makefile" "tictoc1.ned" ".settings/" ".project" "tictoc3.ned" ".cproject" "../" ".tkenvrc" "tictoc4.ned~" ".oppbuildspec" "txc2.cc" "tictoc.ned" "omnetpp.ini" ".nedfolders" "./" "txc4.cc~" "images/" "txc4.cc" "txc3.cc~" "tictoc")
+
+ ("/home/adam/" (21287 14100 478061 247000) ".Xauthority.UGNH3W" "Ubuntu One/" ".ICEauthority" ".conkyrc" ".emacs" ".kchmviewer/" ".aliedit/" ".local/" ".gnupg/" ".Xauthority.ZKGG2W" ".minirc.dfl" ".Xauthority" ".root_hist" ".icons/" ".bash_history" ".gtkrc-2.0" ".zcompdump" ".steam/" ".bzr.log" ".debug/" ".config/" ".goutputstream-93V74W" ".face.icon" "Downloads/" ".Xauthority.PMBR3W" ".wireshark/" ".zshrc.pre-oh-my-zsh" ".camel_certs/" ".wine/" ".rviz/" ".pulse-cookie" ".racket/" ".gconfd/" ".e/" ".Yozo_Office/" ".esd_auth" ".cache/" ".java/" ".npm/" ".emacs.d/" ".ghc/" ".xinputrc" ".dia/" ".rnd" ".mplayer/" ".bashrc" ".subversion/" ".goutputstream-VOE44W" ".Xauthority.U7GI4W" ".audacity-data/" ".armagetronad/" ".pam_environment" "Yozo_Officelog.txt" ".Xmodmap" "jp.txt" ".gazebo/" ".bash_logout" ".hte/" "fontconfig/" ".codeblocks/" ".vimrc.bak" ".ssh/" ".lesshst" ".ros/" ".dbus/" ".swp" ".purple/" ".ogre/" "Public/" ".gimp-2.6/" ".YozoWeboffice/" ".argouml/" ".gitconfig" ".robocode/" ".mateconfd/" ".Xauthority.OVDB3W" ".fonts/" ".gvimrc" "Templates/" ".gstreamer-0.10/" ".profile" ".synaptic/" ".gksu.lock" "tempfs/" ".gphoto/" ".spamassassin/" ".NERDTreeBookmarks" ".xsession-errors.old" ".pulse/" ".zcompdump-adam-ThinkpadE425-4.3.17" ".imsettings.log" ".zsh_history" ".macromedia/" ".mozilla/" ".android/" ".anthy/" ".eaglerc" ".gtkrc-2.0-kde4" ".install4j" ".odbc.ini" ".gtk-bookmarks" ".mateconf/" ".recently-used" ".gnome/" ".tkenvrc" ".w3m/" "Music/" ".oh-my-zsh/" ".steampid" ".everpad/" ".thumbnails/" ".texmf-var/" ".mountmanager/" ".fontconfig/" ".vmware/" "aria/" ".conkyrc.bak" ".lyx/" "Documents/" ".dmrc" ".goutputstream-F7GX4W" ".face" ".compiz/" ".node-gyp/" ".designer/" ".mysql_history" ".log/" ".gnome2_private/" ".xinput.d/" ".wishname" ".goldendict/" ".goutputstream-0B6H6W" "plot.py" ".gnome2/" ".IdeaIC13/" ".vimrc" ".idlerc/" ".goutputstream-FWO64W" ".zsh-update" ".lldb-history" "Desktop/" "Pictures/" "Videos/" ".dmrc.R1QSKW" ".vim/" ".onboard/" ".matplotlib/" ".gdbinit" ".gegl-0.0/" ".swt/" ".gem/" "key.txt" ".viminfo" ".altera.quartus/" ".nutstore/" ".thunderbird/" ".kde/" ".filezilla/" ".selected_editor" ".mission-control/" ".Mathematica/" ".omnetpp/" ".adobe/" ".xsession-errors" ".matlab/" ".wgetrc" ".pip/" ".viminfo.tmp" ".zshrc" ".pki/" ".goutputstream-7MGX9W" ".compiz-1/" ".emacs~" ".TeXmacs/" ".gvfs/" ".gconf/" "../" "./")
+
+ ("/home/" (21182 37781 575242 222000) ".Trash-0/" "./" "averybigant/" "adam/" ".directory" "../")
+
+ ("/opt/" (21217 24244 814649 677000) "APARAPI/" "eagle-6.4.0/" "llvm_optimized_profiling/" "google/" "akaroa-2.7.12/" "icu4c-51.2/" "llvm_debug/" "llvm_optimized/" "opencv/" "../" "omnetpp-4.3.1/" "sublime2/" "Qt5.2.0/" "Qt5.2.0-android/" "AMDAPP/" "./")
+
+ ("/opt/omnetpp-4.3.1/" (21191 44310 724620 678000) "README" "test/" "samples/" "Makefile.inc" "out/" "INSTALL" "MIGRATION" "migrate/" "setenv" "config.log" "src/" "../" "config.status" "Makefile" "include/" "bin/" "lib/" "WHATSNEW" "Makefile.inc.in" "contrib/" "misc/" "configure" "configure.in" "ide/" "images/" "configure.user" "./" "doc/" "Version")
+
+ ("/opt/omnetpp-4.3.1/contrib/" (21043 2566 0 0) "README" "emacs/" "jresultwriter/" "akaroa/" "util/" "gtk/" "../" "med/" "topologyexport/" "octave/" "./" "jsimplemodule/")
+
+ ("/opt/omnetpp-4.3.1/contrib/emacs/" (21043 2553 0 0) "README" "ini-mode.el" "../" "ned-mode.el" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

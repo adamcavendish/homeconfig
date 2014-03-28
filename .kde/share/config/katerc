@@ -6,11 +6,11 @@ Bookmarks=
 Encoding=UTF-8
 FoldedColumns=
 FoldedLines=
-Highlighting=C++
-Indentation Mode=cstyle
-Mode=C++
+Highlighting=None
+Indentation Mode=normal
+Mode=
 ReadWrite=true
-URL=file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/homework/hw002.cpp
+URL=file:///files/Nutstore/000/OMNetPPWorkspace/CXXM創新項目/report/20140327/logger/log.txt
 
 [Document 1]
 Bookmarks=
@@ -209,9 +209,9 @@ WindowState=10
 Sizes=1338
 
 [MainWindow0-ViewSpace 0]
-Active View=file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/include/parser/detail/Expression.hpp
-Count=4
-View 0=file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/README.md
+Active View=file:///files/Nutstore/000/OMNetPPWorkspace/CXXM創新項目/report/20140327/logger/log.txt
+Count=1
+View 0=file:///files/Nutstore/000/OMNetPPWorkspace/CXXM創新項目/report/20140327/logger/log.txt
 View 1=file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/build/parser01.pl0
 View 2=file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/homework/hw002.cpp
 View 3=file:///files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/include/parser/detail/Expression.hpp
@@ -282,6 +282,12 @@ CursorLine=59
 JumpList=
 ViMarks=
 
+[MainWindow0-ViewSpace 0 file:///files/Nutstore/000/OMNetPPWorkspace/CXXM創新項目/report/20140327/logger/log.txt]
+CursorColumn=0
+CursorLine=1129
+JumpList=
+ViMarks=
+
 [MainWindow0-ViewSpace 0 file:///files/Nutstore/School/University/D單片機/AD/AD.asm]
 CursorColumn=0
 CursorLine=188
@@ -319,7 +325,7 @@ JumpList=
 ViMarks=
 
 [Open Documents]
-Count=4
+Count=1
 
 [Open MainWindows]
 Count=1
@@ -347,26 +353,26 @@ SearchFolders=
 UseRegExp=false
 
 [Recent Files]
-File1[$e]=/etc/group
-File10[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/include/parser/detail/Expression.hpp
-File2[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/20130924BoardCoverProblem.cpp
-File3[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/055/055MatrixMul.c
-File4[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/056/056LongestCommonString.c
-File5[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/058/huffman.cpp
-File6[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/src/parser/detail/AssignStmt.cpp
-File7[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/homework/hw002.cpp
-File8[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/README.md
-File9[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/build/parser01.pl0
-Name1[$e]=group
-Name10[$e]=Expression.hpp
-Name2[$e]=20130924BoardCoverProblem.cpp
-Name3[$e]=055MatrixMul.c
-Name4[$e]=056LongestCommonString.c
-Name5[$e]=huffman.cpp
-Name6[$e]=AssignStmt.cpp
-Name7[$e]=hw002.cpp
-Name8[$e]=README.md
-Name9[$e]=parser01.pl0
+File1[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/20130924BoardCoverProblem.cpp
+File10[$e]=/files/Nutstore/000/OMNetPPWorkspace/CXXM創新項目/report/20140327/logger/log.txt
+File2[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/055/055MatrixMul.c
+File3[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/056/056LongestCommonString.c
+File4[$e]=/files/Nutstore/000/Algorithm/SHUCourse/AlgorithmDesign/labcode/058/huffman.cpp
+File5[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/src/parser/detail/AssignStmt.cpp
+File6[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/homework/hw002.cpp
+File7[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/README.md
+File8[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/build/parser01.pl0
+File9[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/PL0Compiler/include/parser/detail/Expression.hpp
+Name1[$e]=20130924BoardCoverProblem.cpp
+Name10[$e]=log.txt
+Name2[$e]=055MatrixMul.c
+Name3[$e]=056LongestCommonString.c
+Name4[$e]=huffman.cpp
+Name5[$e]=AssignStmt.cpp
+Name6[$e]=hw002.cpp
+Name7[$e]=README.md
+Name8[$e]=parser01.pl0
+Name9[$e]=Expression.hpp
 
 [filetree]
 editShade=210,181,216

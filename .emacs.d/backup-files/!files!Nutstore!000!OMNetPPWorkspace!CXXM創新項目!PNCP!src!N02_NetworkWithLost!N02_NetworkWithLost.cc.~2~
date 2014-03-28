@@ -1,0 +1,144 @@
+// C-STL
+#include <cstdio>
+#include <cstring>
+// STL
+#include <stdexcept>
+#include <string>
+#include <vector>
+#include <list>
+#include <algorithm>
+// omnetpp
+#include <omnetpp.h>
+// current project
+#include "N01_NetworkRaw_m.h"
+#include "utility/utility.hpp"
+
+class OutNode02 : public cSimpleModule {
+private:
+    cMessage * pDriverMsg; // this message drives me to send out a message 'msg'
+    InfoMessage02 * pMsg; // the real message send to other nodes
+public:
+    OutNode02();
+    virtual ~OutNode02();
+protected:
+    virtual void initialize();
+    virtual InfoMessage02 * generateMessage();
+    virtual void handleMessage(cMessage * pHandleMsg);
+};
+
+class InNode02 : public cSimpleModule {
+private:
+    InfoMessage02 * pMsg; // point to the message received
+public:
+    InNode02();
+    virtual ~InNode02();
+protected:
+    virtual void initialize();
+    virtual void handleMessage(cMessage * pHandleMsg);
+};
+
+class Router02 : public cSimpleModule {
+public:
+    Router02();
+    virtual ~Router02();
+protected:
+    virtual void initialize();
+    virtual void forwardMessage(InfoMessage02 * pInfoMsg);
+    virtual void handleMessage(cMessage * pHandleMsg);
+};
+
+Define_Module(OutNode02);
+Define_Module(InNode02);
+Define_Module(Router02);
+
+/// --------------------------------------------------
+/// implementation part
+
+/// --------------------------------------------------
+/// OutNode
+
+OutNode02::OutNode02() {
+    pDriverMsg = nullptr;
+    pMsg = nullptr;
+}// constructor
+
+OutNode02::~OutNode02() {
+    if(pDriverMsg)
+        delete pDriverMsg;
+    if(pMsg)
+        delete pMsg;
+}// destructor
+
+void OutNode02::initialize() {
+    pDriverMsg = new cMessage("");
+    scheduleAt(simTime(), pDriverMsg);
+}// initialize()
+
+InfoMessage02 * OutNode02::generateMessage() {
+    const int msgStrSize = 64;
+    char msgStr[msgStrSize];
+    snprintf(msgStr, msgStrSize, "Msg from S%d to D%d", getIndex(), getIndex());
+    InfoMessage02 * pTempMsg = new InfoMessage02(msgStr);
+    pTempMsg->setSource(getIndex());
+    pTempMsg->setDestination(getIndex());
+    return pTempMsg;
+}//generateMessage()
+
+void OutNode02::handleMessage(cMessage * pHandleMsg) {
+    utilityUNUSED(pHandleMsg);
+    
+    pMsg = generateMessage();
+    EV << "sending message: " << pMsg->getName() << "\n";
+    send(pMsg, "oport");
+    pMsg = nullptr;
+    scheduleAt(simTime()+1, pDriverMsg);
+}// handleMessage(pHandleMsg)
+
+/// --------------------------------------------------
+/// InNode
+
+InNode02::InNode02() {
+    pMsg = nullptr;
+}// constructor
+
+InNode02::~InNode02() {
+    if(pMsg)
+        delete pMsg;
+}// destructor
+
+void InNode02::initialize() {
+    pMsg = nullptr;
+}//initialize()
+
+void InNode02::handleMessage(cMessage * pHandleMsg) {
+    EV << "Receiving Message: " << pHandleMsg->getName() << "\n";
+    InfoMessage02 * imsg = check_and_cast<InfoMessage02 *>(pHandleMsg);
+    delete imsg;
+}//handleMessage(pHandleMsg)
+
+/// --------------------------------------------------
+/// Router
+
+Router02::Router02() {}
+
+Router02::~Router02() {
+}//destructor
+
+void Router02::initialize() {}
+
+void Router02::forwardMessage(InfoMessage02 * pInfoMsg) {
+    int ngates = gateSize("oport");
+    int toGate = pInfoMsg->getDestination();
+    if(toGate >= ngates) {
+        throw std::out_of_range("Router::forwardMessage: "
+                                "trying to send a message to a non-exist destination!");
+    }//ifdef
+    send(pInfoMsg, "oport", toGate);
+    EV << "forward message to gate: " << toGate << "\n";
+}//forwardMessage(pInfoMsg)
+
+void Router02::handleMessage(cMessage * pHandleMsg) {
+    InfoMessage02 * imsg = check_and_cast<InfoMessage02 *>(pHandleMsg);
+    forwardMessage(imsg);
+}//handleMessage(pHandleMsg)
+

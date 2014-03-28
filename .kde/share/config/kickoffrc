@@ -1,5 +1,5 @@
 [Favorites]
-FavoriteURLs=/usr/share/applications/chromium-browser.desktop,/usr/share/applications/vmware-player.desktop,/usr/share/applications/kde4/systemsettings.desktop,/usr/local/share/applications/wolfram-mathematica9.desktop,/usr/share/applications/cherrytree.desktop,/usr/share/applications/kde4/dolphin.desktop
+FavoriteURLs=/usr/local/share/applications/google-chrome.desktop,/usr/share/applications/kde4/systemsettings.desktop,/usr/local/share/applications/wolfram-mathematica9.desktop,/usr/share/applications/cherrytree.desktop,/usr/share/applications/kde4/dolphin.desktop
 
 [KRunner]
 loadAll=false
@@ -8,4 +8,4 @@ loadAll=false
 pluginWhiteList=places,shell,services,bookmarks,recentdocuments,locations
 
 [RecentlyUsed]
-Applications=yozo-impress.desktop,wolfram-mathematica9.desktop,vmware-player.desktop,chromium-browser.desktop,cherrytree.desktop
+Applications=vmware-player.desktop,chromium-browser.desktop,kde4-dolphin.desktop,cherrytree.desktop,google-chrome.desktop

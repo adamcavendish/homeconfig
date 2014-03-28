@@ -1,0 +1,7 @@
+#pragma once
+
+#define utilityUNUSED(x) (void)(x)
+
+namespace utility {
+
+}//namespace utility

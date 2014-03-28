@@ -297,5 +297,5 @@ Toggle touch tool=none,Meta+Ctrl+T,Enable/Disable the Touch Tool
 _k_friendly_name=wacomtablet
 
 [yakuake]
-_k_friendly_name=Yakuake
+_k_friendly_name=yakuake
 toggle-window-state=F12,F12,Open/Retract Yakuake

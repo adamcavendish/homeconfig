@@ -1,6 +1,11 @@
-(set-language-environment 'UTF-8)
-(setq user-emacs-directory "/files/Nutstore/LinuxSync/important_configs/.emacs.d/")
-(setq vc-follow-symlinks t)
+;;--------------------------------------------------
+;; Packages
+;;--------------------------------------------------
+(require 'package)
+(package-initialize)
+(add-to-list 'package-archives '("gnu" . "http://elpa.gnu.org/packages/"))
+(add-to-list 'package-archives '("marmalade" . "http://marmalade-repo.org/packages/") t)
+(add-to-list 'package-archives '("melpa" . "http://melpa.milkbox.net/packages/") t)
 
 ;;--------------------------------------------------
 ;; Workspace
@@ -10,31 +15,24 @@
   (normal-top-level-add-subdirs-to-load-path))
 
 ;;--------------------------------------------------
-;; Packages
-;;--------------------------------------------------
-
-;; include Marmelade repo, use M-X list packages
-(require 'package)
-(package-initialize)
-(add-to-list 'package-archives '("gnu" . "http://elpa.gnu.org/packages/"))
-(add-to-list 'package-archives '("marmalade" . "http://marmalade-repo.org/packages/") t)
-(add-to-list 'package-archives '("melpa" . "http://melpa.milkbox.net/packages/") t)
-
-;; Tab configures
-(require 'smart-tab)
-(global-smart-tab-mode 1)
-(setq c-basic-offset 4)
-(setq tab-width 4)
-
-;;--------------------------------------------------
 ;; Other Configures
 ;;--------------------------------------------------
 ;; default work directory
 ;; (setq default-directory "")
 
-;; highlight matching pairs of parentheses
-(show-paren-mode 1)
-(setq show-paren-delay 0)
+(set-language-environment 'UTF-8)
+(setq user-emacs-directory "/files/Nutstore/LinuxSync/important_configs/.emacs.d/")
+(setq vc-follow-symlinks t)
+
+;; backup file config
+(setq
+   backup-by-copying t       ; don't clobber symlinks
+   backup-directory-alist
+    '(("." . "~/.emacs.d/backup-files/"))    ; don't litter my fs tree
+   delete-old-versions t
+   kept-new-versions 6
+   kept-old-versions 2
+   version-control t)       ; use versioned backups
 
 ;; show column numbers
 (column-number-mode t)
@@ -45,6 +43,26 @@
 
 ;; no tool bar
 ;; (tool-bar-mode nil)
+
+;;--------------------------------------------------
+;; Tab, brackets, etc.
+;;--------------------------------------------------
+;; Tab configures
+(require 'smart-tab)
+(global-smart-tab-mode 1)
+(setq-default c-basic-offset 4 c-default-style "k&r")
+(setq-default tab-width 4)
+;(define-key c-mode-base-map (kbd "RET") 'newline-and-indent)
+(setq-default indent-tabs-mode nil)
+
+;; brackets configures
+(require 'autopair)
+(autopair-global-mode 1)
+(setq autopair-autowrap t)
+
+;; highlight matching pairs of parentheses
+(show-paren-mode 1)
+(setq show-paren-delay 0)
 
 ;;--------------------------------------------------
 ;; GUI
@@ -145,3 +163,4 @@
 (autoload 'ned-mode "ned-mode" "Major Mode for editing Ned files" t)
 (add-to-list 'auto-mode-alist '("\\.ned$" . ned-mode))
 
+(add-to-list 'auto-mode-alist '("\\.h\\'" . c++-mode))

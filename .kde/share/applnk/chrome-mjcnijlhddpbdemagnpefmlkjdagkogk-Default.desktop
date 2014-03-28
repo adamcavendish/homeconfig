@@ -4,7 +4,7 @@ Version=1.0
 Terminal=false
 Type=Application
 Name=Pocket
-Exec=/usr/bin/chromium-browser --app-id=mjcnijlhddpbdemagnpefmlkjdagkogk --profile-directory=Default
+Exec=/opt/google/chrome/google-chrome --app-id=mjcnijlhddpbdemagnpefmlkjdagkogk --profile-directory=Default
 Icon=chrome-mjcnijlhddpbdemagnpefmlkjdagkogk-Default
 StartupWMClass=crx_mjcnijlhddpbdemagnpefmlkjdagkogk
 OnlyShowIn=Old;

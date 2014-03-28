@@ -1,0 +1,13 @@
+[General]
+ned-path = ned/
+
+[Config N01_NetworkRaw]
+network = NetworkRaw
+
+#[Config N02_NetworkWithLost]
+#network = NetworkWithLost
+#OutNode02.timeoutTime = 1.0
+
+[Config N03_NetworkPNCP]
+network = NetworkPNCP
+OutNode03.

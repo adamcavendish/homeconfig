@@ -1,0 +1,5 @@
+[General]
+ned-path = ned/
+
+[Config N01_NetworkRaw]
+network = NetworkRaw

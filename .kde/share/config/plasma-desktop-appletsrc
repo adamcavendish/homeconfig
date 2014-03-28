@@ -117,7 +117,7 @@ Order=0
 global=Alt+F1
 
 [Containments][3][Applets][5]
-geometry=1022,2,73,27
+geometry=1073,2,73,27
 immutability=1
 plugin=pager
 zvalue=3
@@ -126,7 +126,7 @@ zvalue=3
 Order=3
 
 [Containments][3][Applets][6]
-geometry=62,2,956,27
+geometry=62,2,1007,27
 immutability=1
 plugin=tasks
 zvalue=0
@@ -152,7 +152,7 @@ Items=file:///usr/share/applications/kde4/dolphin.desktop?wmClass=Dolphin
 Order=2
 
 [Containments][3][Applets][8]
-geometry=1099,2,185,27
+geometry=1150,2,134,27
 immutability=1
 plugin=systemtray
 zvalue=0
@@ -173,7 +173,7 @@ plugin=notifications
 zvalue=0
 
 [Containments][3][Applets][8][Configuration][Applets][12][Configuration]
-customPosition=-11,16
+customPosition=-13,13
 customPositionAffinityHoriz=r
 customPositionAffinityVert=b
 
@@ -203,7 +203,7 @@ DialogHeight=187
 DialogWidth=330
 
 [Containments][3][Applets][8][Configuration][Applets][3]
-geometry=140,1.5,24,24
+geometry=84,1.5,24,24
 immutability=1
 plugin=org.kde.networkmanagement
 zvalue=0
@@ -213,7 +213,7 @@ Share=false
 
 [Containments][3][Applets][8][Configuration][Applets][3][PopupApplet]
 DialogHeight=344
-DialogWidth=681
+DialogWidth=682
 
 [Containments][3][Applets][8][Configuration][Applets][4]
 geometry=4,60,24,24
@@ -229,7 +229,7 @@ DialogWidth=318
 Order=4
 
 [Containments][3][Applets][8][PopupApplet]
-DialogHeight=256
+DialogHeight=242
 DialogWidth=232
 
 [Containments][3][Applets][9]

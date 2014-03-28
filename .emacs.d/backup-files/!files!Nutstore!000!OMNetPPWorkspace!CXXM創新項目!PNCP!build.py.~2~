@@ -1,0 +1,26 @@
+#!/usr/bin/env python
+
+import sys
+import os
+import shutil
+import glob
+
+omnetpp_root = '/opt/omnetpp-4.3.1/'
+omnetpp_bin = omnetpp_root + '/bin/'
+opp_makemake = omnetpp_bin + 'opp_makemake'
+opp_msgc = omnetpp_bin + 'opp_msgc'
+
+cwd = os.getcwd()
+msglist = glob.glob('*.msg')
+
+[os.system(opp_msgc + ' ' + i) for i in msglist] 
+
+if (ret = os.system(opp_makemake + ' -f --deep')) != 0:
+    exit(ret)
+
+if (ret = os.system('make')) != 0:
+    exit(ret)
+
+if (os.system('make MODE=release')) != 0:
+    exit(ret)
+

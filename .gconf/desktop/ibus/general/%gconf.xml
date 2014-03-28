@@ -4,7 +4,7 @@
 		<stringvalue>anthy</stringvalue>
 	</entry>
 	<entry name="embed_preedit_text" mtime="1381308365" type="bool" value="true"/>
-	<entry name="global_engine" mtime="1395064519" type="string">
+	<entry name="global_engine" mtime="1395931471" type="string">
 		<stringvalue>pinyin</stringvalue>
 	</entry>
 	<entry name="use_global_engine" mtime="1379940096" type="bool" value="true"/>

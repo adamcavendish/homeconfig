@@ -155,7 +155,7 @@ export LIBRARY_PATH="/files/Nutstore/000/LinuxDriver/lib/:$LIBRARY_PATH";
 
 ##################################################
 ## @hostname adam-ThinkpadE425
-elif [ `hostname` = "adam-ThinkpadE425" ]; then
+elif [ `hostname` = "adam-ThinkPad-E425" ]; then
     alias argouml='java -jar /files/software/argouml-0.34/argouml.jar'
 
 	echo "\e[0;1;49;39mHello adam-ThinkpadE425\e[0m"

@@ -1,0 +1,13 @@
+#include <iostream>
+#include <algorithm>
+
+int main(int argc, char * argv[]) {
+    for(char a = 0; a != 127; ++a) {
+        for(char b = 0; b != 127; ++b) {
+            std::cout << "a: " << (unsigned int)a
+                      << " b: " << (unsigned int)b
+                      << " xor: " << (unsigned int)(a xor b) << std::endl;
+        }
+    }
+    return 0;
+}

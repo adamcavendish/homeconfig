@@ -1,6 +1,11 @@
 [Desktop Entry]
 FullScreen=false
 
+[KFileDialog Settings]
+Height 768=450
+Recent Files[$e]=$HOME/Documents/My Pictures/abc.png,$HOME/Documents/My Pictures/abc.png
+Width 1366=720
+
 [MainWindow]
 Height 1200=1201
 Height 768=769
@@ -15,21 +20,23 @@ Height 768=500
 Width 1366=600
 
 [Recent Files]
-File1[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/HomeworkGitShare/PatternRecognition/Labreport/Functions/homework5/01/HW5-1.pdf
-File2[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/HomeworkGitShare/PatternRecognition/Labreport/report/pdf/cover.pdf
-File3[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/HomeworkGitShare/PatternRecognition/Labreport/report/pdf/Lab002.pdf
-File4[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/HomeworkGitShare/PatternRecognition/Labreport/report/pdf/Lab004.pdf
-File5[$e]=/files/Nutstore/000/CPPWorkSpace/SHUCourse/HomeworkGitShare/PatternRecognition/Labreport/report/pdf/catlog.pdf
-File6[$e]=/files/Nutstore/Work/Resume/ResumeChinese20140310.pdf
-File7[$e]=/files/Nutstore/Work/Resume/ResumeEnglish20140310.pdf
-File8[$e]=$HOME/Downloads/OpenDDS-latest.pdf
-File9[$e]=/files/Nutstore/School/University/S數據庫原理/Lab/11122057楊瑒.pdf
-Name1[$e]=HW5-1.pdf
-Name2[$e]=cover.pdf
-Name3[$e]=Lab002.pdf
-Name4[$e]=Lab004.pdf
-Name5[$e]=catlog.pdf
-Name6[$e]=ResumeChinese20140310.pdf
-Name7[$e]=ResumeEnglish20140310.pdf
-Name8[$e]=OpenDDS-latest.pdf
-Name9[$e]=11122057楊瑒.pdf
+File1[$e]=/files/Nutstore/Work/Resume/ResumeChinese20140310.pdf
+File10[$e]=$HOME/Desktop/BB/NodeJS/[Express.Web.Application.Development(2013.6)].Hage.Yaapa.文字版.pdf
+File2[$e]=/files/Nutstore/Work/Resume/ResumeEnglish20140310.pdf
+File3[$e]=$HOME/Downloads/OpenDDS-latest.pdf
+File4[$e]=/files/Nutstore/000/OMNetPPWorkspace/CXXM創新項目/ScholarPDF/A Wireless Unicast Retransmission Mechanism with Network Coding.pdf
+File5[$e]=/files/Nutstore/000/OMNetPPWorkspace/CXXM創新項目/ScholarPDF/Probabilistic Network Coding with Priority over Wireless Networks.pdf
+File6[$e]=/files/Nutstore/Work/Resume/Yangyang-ResumeChinese.pdf
+File7[$e]=/files/Nutstore/Work/Resume/Yangyang-ResumeEnglish.pdf
+File8[$e]=$HOME/Desktop/BB/Blender/Blender Master Class.pdf
+File9[$e]=/files/Nutstore/000/OMNetPPWorkspace/CXXM創新項目/report/20140327/report.pdf
+Name1[$e]=ResumeChinese20140310.pdf
+Name10[$e]=[Express.Web.Application.Development(2013.6)].Hage.Yaapa.文字版.pdf
+Name2[$e]=ResumeEnglish20140310.pdf
+Name3[$e]=OpenDDS-latest.pdf
+Name4[$e]=A Wireless Unicast Retransmission Mechanism with Network Coding.pdf
+Name5[$e]=Probabilistic Network Coding with Priority over Wireless Networks.pdf
+Name6[$e]=Yangyang-ResumeChinese.pdf
+Name7[$e]=Yangyang-ResumeEnglish.pdf
+Name8[$e]=Blender Master Class.pdf
+Name9[$e]=report.pdf

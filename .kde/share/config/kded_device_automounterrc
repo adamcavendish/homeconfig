@@ -61,7 +61,7 @@ LastSeenMounted=false
 EverMounted=true
 Icon=drive-removable-media-usb
 LastNameSeen=7.2 GiB Removable Media
-LastSeenMounted=false
+LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks/devices/sdb4]
 EverMounted=true
@@ -72,8 +72,8 @@ LastSeenMounted=true
 [Devices][/org/freedesktop/UDisks/devices/sdc1]
 EverMounted=true
 Icon=drive-removable-media-usb
-LastNameSeen=NEKO
-LastSeenMounted=false
+LastNameSeen=7.2 GiB Removable Media
+LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks/devices/sr0:media]
 EverMounted=true

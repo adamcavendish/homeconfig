@@ -1,0 +1,25 @@
+doctype html
+html(lang="en")
+    head
+        title= pageTitle
+        script(src='js/main.js')
+        link(rel='css', href='css/style.css')
+    body
+        #content
+            img(src='images/logo.png')
+            p WELCOME
+            #smile
+
+//
+        h1 Jade - node template engine
+        #container.col
+            if youAreUsingJade
+                p Jade is Amazing!
+            else
+                p Get on it!
+            p.
+                Jade is a terse and simple
+                templating language with a
+                strong focus on performance
+                and powerful features.
+
