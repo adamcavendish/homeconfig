@@ -20,3 +20,5 @@
 [http]
     # sslVerify = false
 	# proxy = 127.0.0.1:8087
+[push]
+	default = simple

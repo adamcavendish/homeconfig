@@ -8,7 +8,7 @@ CurrentPalette=Oxygen Colors
 DefaultProfile=adam.profile
 
 [Favorite Profiles]
-Favorites=/files/Nutstore/LinuxSync/important_configs/.kde/share/apps/konsole/adam.profile,/files/Nutstore/LinuxSync/important_configs/.kde/share/apps/konsole/Shell.profile
+Favorites=adam.profile,Shell.profile
 
 [KonsoleWindow]
 AllowMenuAccelerators=true
@@ -23,6 +23,3 @@ Width 1024=1025
 Width 1360=1361
 Width 1366=1367
 Width 1600=1601
-
-[TabBar]
-TabBarPosition=Top

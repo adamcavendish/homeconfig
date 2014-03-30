@@ -2,13 +2,13 @@
 Offset=0.5
 
 [General]
-PastQueries=firefox,nutstore,conky,,yak,fire,nut,nuts,yakuake,ibus,guake,ibus-da,konsole,ibus-daemon,k3,Network Ma,network M,gnome-terminal
+PastQueries=conky,firefox,,yakuake,nutstore,yak,fire,nut,nuts,ibus,guake,ibus-da,konsole,ibus-daemon,k3,Network Ma,network M,gnome-terminal
 
 [Interface]
 Size=420,500
 
 [PlasmaRunnerManager]
-LaunchCounts=1 services_firefox.desktop,1 shell_gnome-terminal,2 services_ibus.desktop,8 services_kde4-yakuake.desktop,4 shell_firefox,3 services_kde4-konsole.desktop,2 shell_yakuake,2 org.kde.windowedwidgets_plasma-applet-nm.desktop,2 services_language.desktop,3 services_guake.desktop,2 services_guake-prefs.desktop,1 services_kde4-k3b.desktop,11 shell_conky,1 shell_guake,1 shell_ibus-daemon,3 services_nutstore-menu.desktop
+LaunchCounts=1 services_firefox.desktop,1 shell_gnome-terminal,2 services_ibus.desktop,8 services_kde4-yakuake.desktop,5 shell_firefox,3 services_kde4-konsole.desktop,3 shell_yakuake,2 org.kde.windowedwidgets_plasma-applet-nm.desktop,2 services_language.desktop,3 services_guake.desktop,2 services_guake-prefs.desktop,1 services_kde4-k3b.desktop,13 shell_conky,1 shell_guake,1 shell_ibus-daemon,3 services_nutstore-menu.desktop
 
 [TaskDialog]
 Height 768=419

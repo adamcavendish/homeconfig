@@ -58,6 +58,7 @@ _k_friendly_name=khotkeys
 
 [klipper]
 _k_friendly_name=Klipper
+clear-history=none,none,Clear Clipboard History
 clipboard_action=Ctrl+Alt+X,Ctrl+Alt+X,Enable Clipboard Actions
 cycleNextAction=none,none,Next History Item
 cyclePrevAction=none,none,Previous History Item
@@ -297,5 +298,5 @@ Toggle touch tool=none,Meta+Ctrl+T,Enable/Disable the Touch Tool
 _k_friendly_name=wacomtablet
 
 [yakuake]
-_k_friendly_name=yakuake
+_k_friendly_name=Yakuake
 toggle-window-state=F12,F12,Open/Retract Yakuake

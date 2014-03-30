@@ -41,9 +41,9 @@ done=1.9.5,1.9.9,1.9.12,2.0.0,2.0.2,2.1.5,2.3.2
 mtime=1372440811
 
 [kate-2.4.upd]
-ctime=1396018349
+ctime=1396000206
 done=kate2.4
-mtime=1311792008
+mtime=1393273764
 
 [katomic-levelset.upd]
 ctime=1381563515
@@ -51,9 +51,9 @@ done=katomic_levelset_config_update
 mtime=1372441375
 
 [kcalcrc.upd]
-ctime=1396018349
+ctime=1396000212
 done=KDE_3_2_0,KDE_4_3_0
-mtime=1314019566
+mtime=1389508787
 
 [kcmdisplayrc.upd]
 ctime=1396018349
@@ -96,9 +96,9 @@ done=klickety-2.0-inherit-ksame-highscore
 mtime=1372441570
 
 [klipper-kconfigxt.upd]
-ctime=1396018349
+ctime=1396000221
 done=KlipperNoSpacesInKeyNames
-mtime=1343661127
+mtime=1391109909
 
 [kmail.upd]
 ctime=1396018349
@@ -111,14 +111,14 @@ done=001
 mtime=1372440811
 
 [konsole.upd]
-ctime=1389575571
+ctime=1396000227
 done=2.9.0-global-options,2.9.0-colorscheme-bold-key,2.10.0-remove-menuindex-from-profiles
-mtime=1385579427
+mtime=1393388792
 
 [konsole_remove_background_mode.upd]
-ctime=1389575571
+ctime=1396000227
 done=2.11.0-remove-background-mode
-mtime=1385579427
+mtime=1393388792
 
 [kopete-account-kconf_update.upd]
 ctime=1396018349

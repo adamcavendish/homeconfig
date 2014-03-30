@@ -213,7 +213,7 @@ Share=false
 
 [Containments][3][Applets][8][Configuration][Applets][3][PopupApplet]
 DialogHeight=344
-DialogWidth=682
+DialogWidth=681
 
 [Containments][3][Applets][8][Configuration][Applets][4]
 geometry=4,60,24,24

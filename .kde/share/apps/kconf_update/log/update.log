@@ -1207,3 +1207,8 @@
 2014-03-28T23:01:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
 2014-03-28T23:01:42 kioslave.upd: Found new update 'kde2.2/r1'
 2014-03-28T23:01:42 kioslave.upd: Skipping update 'kde2.2/r1'
+2014-03-28T17:50:06 Checking update-file '/usr/share/kde4/apps/kconf_update/kate-2.4.upd' for new updates
+2014-03-28T17:50:13 Checking update-file '/usr/share/kde4/apps/kconf_update/kcalcrc.upd' for new updates
+2014-03-28T17:50:22 Checking update-file '/usr/share/kde4/apps/kconf_update/klipper-kconfigxt.upd' for new updates
+2014-03-28T17:50:28 Checking update-file '/usr/share/kde4/apps/kconf_update/konsole_remove_background_mode.upd' for new updates
+2014-03-28T17:50:28 Checking update-file '/usr/share/kde4/apps/kconf_update/konsole.upd' for new updates

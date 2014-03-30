@@ -60,8 +60,8 @@ LastSeenMounted=false
 [Devices][/org/freedesktop/UDisks/devices/sdb1]
 EverMounted=true
 Icon=drive-removable-media-usb
-LastNameSeen=7.2 GiB Removable Media
-LastSeenMounted=true
+LastNameSeen=7.4 GiB Removable Media
+LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks/devices/sdb4]
 EverMounted=true

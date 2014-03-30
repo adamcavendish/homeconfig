@@ -6,7 +6,7 @@ DirSelectDialog Size=788,512
 History Items[$e]=file:///files/Nutstore/000/Javascript//chromeapp/,file:///files/SOURCE_code/OGLPlus/oglplus/models,file://$HOME/Downloads,file:///files/Nutstore/School/University/G高級英語聽力/StepByStep4/Unit12,file:///files/Nutstore/School/University/G高級英語聽力/StepByStep4/Unit11,file:///files/Nutstore/School/University/G高級英語聽力/StepByStep4/Unit10,file:///files/Nutstore/School/University/G高級英語聽力/StepByStep4/Unit09,file:///files/Nutstore/School/University/G高級英語聽力/StepByStep4/Unit08,file:///files/Nutstore/School/University/G高級英語聽力/StepByStep4/Unit07,file:///files/Nutstore/School/University/G高級英語聽力/StepByStep4/Unit06,file:///files/Nutstore/School/University/G高級英語聽力/StepByStep4/Unit05,file:///files/Nutstore/School/University/G高級英語聽力/StepByStep4/Unit04,file:///files/Nutstore/School/University/G高級英語聽力/StepByStep4/Unit03,file:///files/Nutstore/School/University/G高級英語聽力/StepByStep4/Unit02,file:///files/Nutstore/School/University/G高級英語聽力/StepByStep4/Unit01,file:///files/Nutstore/School/University/G高級英語聽力/EconomistHomework,file:///files/Nutstore/School/University/G高級英語聽力/CustomBook,file:///files/Nutstore/School/University/G高級英語聽力,file:///files/Nutstore/000/CPPWorkSpace,file://$HOME
 
 [General]
-BrowserApplication=chromium-browser.desktop
+BrowserApplication[$e]=!google-chrome-stable
 
 [KDE]
 ShowDeleteCommand=false
@@ -20,7 +20,7 @@ LocationCombo Completionmode=5
 PathCombo Completionmode=5
 Preview Width=161
 Previews=false
-Recent URLs[$e]=/files/Nutstore/School/University/D電影音樂欣賞/FinalReport/,/files/Nutstore/School/University/S算法設計與分析/,$HOME/Pictures/,/files/Nutstore/School/University/C操作系統/Reports/
+Recent URLs[$e]=/files/Nutstore/School/University/D電影音樂欣賞/FinalReport/,/files/Nutstore/School/University/S算法設計與分析/,$HOME/Pictures/,/files/Nutstore/School/University/C操作系統/Reports/,/files/Install/Haroopad/
 Show Bookmarks=false
 Show Full Path=false
 Show Preview=true

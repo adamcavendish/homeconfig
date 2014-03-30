@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="y" mtime="1395916634" type="int" value="690"/>
-	<entry name="x" mtime="1395916634" type="int" value="1364"/>
+	<entry name="y" mtime="1396153982" type="int" value="674"/>
+	<entry name="x" mtime="1396153982" type="int" value="1361"/>
 	<entry name="show" mtime="1376697373" type="int" value="1"/>
 	<entry name="lookup_table_orientation" mtime="1376697363" type="int" value="0"/>
 	<entry name="show_im_name" mtime="1376696989" type="bool" value="true"/>

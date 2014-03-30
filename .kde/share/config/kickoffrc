@@ -8,4 +8,4 @@ loadAll=false
 pluginWhiteList=places,shell,services,bookmarks,recentdocuments,locations
 
 [RecentlyUsed]
-Applications=vmware-player.desktop,chromium-browser.desktop,kde4-dolphin.desktop,cherrytree.desktop,google-chrome.desktop
+Applications=kde4-muon-installer.desktop,cherrytree.desktop,kde4-systemsettings.desktop,kde4-dolphin.desktop,google-chrome.desktop

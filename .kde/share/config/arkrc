@@ -29,7 +29,7 @@ Width 1366=720
 
 [MainWindow]
 Height 768=769
-State=AAAA/wAAAAD9AAAAAAAABVYAAAKHAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKLAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1366=1367
 splitterSizes=871,492
@@ -39,9 +39,7 @@ Units=cm
 
 [Recent Files]
 File1[$e]=/files/Nutstore/School/University/R軟件工程/Exam/软件工程考试题型.zip
-File2[$e]=/files/Nutstore/000/OMNetPPWorkspace/CXXM創新項目/report/20140327.tar
 Name1[$e]=软件工程考试题型.zip
-Name2[$e]=20140327.tar
 
 [Viewer]
 Height 768=722
