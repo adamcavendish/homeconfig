@@ -1,2 +1,0 @@
-[General]
-ExecutableFile=/files/Nutstore/000/CPPWorkSpace/SHUCourse/DataStructures/Homework/06/huffman_tree/20130308-02/Gone with the wind.txt

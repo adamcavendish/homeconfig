@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="scroll_method" mtime="1399614939" type="string">
+		<stringvalue>two-finger-scrolling</stringvalue>
+	</entry>
+</gconf>

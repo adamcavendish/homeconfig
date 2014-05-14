@@ -1,4 +1,6 @@
 <?xml version="1.0"?>
 <gconf>
+	<entry name="9e3ef22a-31ca-4913-8531-976c7d952823" mtime="1399606476" type="bool" value="true"/>
+	<entry name="1fa9a2dc-2dc7-42e7-98da-1bcd5ee316d8" mtime="1399606302" type="bool" value="true"/>
 	<entry name="1a790337-456b-4770-948d-5202e653f0ce" mtime="1377187192" type="bool" value="true"/>
 </gconf>

@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="global_previous_engine" mtime="1394430357" type="string">
+	<entry name="global_previous_engine" mtime="1398088439" type="string">
 		<stringvalue>anthy</stringvalue>
 	</entry>
 	<entry name="embed_preedit_text" mtime="1381308365" type="bool" value="true"/>
-	<entry name="global_engine" mtime="1396153960" type="string">
+	<entry name="global_engine" mtime="1399960979" type="string">
 		<stringvalue>pinyin</stringvalue>
 	</entry>
 	<entry name="use_global_engine" mtime="1379940096" type="bool" value="true"/>
-	<entry name="preload_engines" mtime="1393222087" type="list" ltype="string">
+	<entry name="preload_engines" mtime="1396716979" type="list" ltype="string">
 		<li type="string">
 			<stringvalue>pinyin</stringvalue>
 		</li>
@@ -16,5 +16,5 @@
 			<stringvalue>anthy</stringvalue>
 		</li>
 	</entry>
-	<entry name="preload_engine_mode" mtime="1376696936" type="int" value="0"/>
+	<entry name="preload_engine_mode" mtime="1396716976" type="int" value="0"/>
 </gconf>

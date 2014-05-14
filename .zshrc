@@ -156,31 +156,25 @@ export LIBRARY_PATH="/files/Nutstore/000/LinuxDriver/lib/:$LIBRARY_PATH";
 ##################################################
 ## @hostname adam-ThinkpadE425
 elif [ `hostname` = "adam-ThinkPad-E425" ]; then
-    alias argouml='java -jar /files/software/argouml-0.34/argouml.jar'
-
 	echo "\e[0;1;49;39mHello adam-ThinkpadE425\e[0m"
-	# Using OpenCL for Java
-	# export LIBAPARAPI="/opt/APARAPI/aparapi-read-only"
+
+    alias argouml='java -jar /files/software/argouml-0.34/argouml.jar'
 	
     # Ninja
     export PATH="/files/SOURCE_code/ninja/ninja/:$PATH"
 
-	# CPM - CMake
-    export PATH="/files/software/cmake/bin/:$PATH"
-	export CPM_DIR="/files/SOURCE_code/CPM/cpm/"
-	
 	# llvm/clang
-	export PATH="/opt/llvm_debug/bin:$PATH"
-	export CPLUS_INCLUDE_PATH="/opt/llvm_debug/include:$CPLUS_INCLUDE_PATH"
-	export C_INCLUDE_PATH="/opt/llvm_debug/include:$C_INCLUDE_PATH"
-	export LD_LIBRARY_PATH="/opt/llvm_debug/lib:$LD_LIBRARY_PATH"
-	export LIBRARY_PATH="/opt/llvm_debug/lib:$LIBRARY_PATH"
+	# export PATH="/opt/llvm_debug/bin:$PATH"
+	# export CPLUS_INCLUDE_PATH="/opt/llvm_debug/include:$CPLUS_INCLUDE_PATH"
+	# export C_INCLUDE_PATH="/opt/llvm_debug/include:$C_INCLUDE_PATH"
+	# export LD_LIBRARY_PATH="/opt/llvm_debug/lib:$LD_LIBRARY_PATH"
+	# export LIBRARY_PATH="/opt/llvm_debug/lib:$LIBRARY_PATH"
 	
-	# export PATH="/opt/llvm_optimized/bin:$PATH"
-	# export CPLUS_INCLUDE_PATH="/opt/llvm_optimized/include:$CPLUS_INCLUDE_PATH"
-	# export C_INCLUDE_PATH="/opt/llvm_optimized/include:$C_INCLUDE_PATH"
-	# export LD_LIBRARY_PATH="/opt/llvm_optimized/lib:$LD_LIBRARY_PATH"
-	# export LIBRARY_PATH="/opt/llvm_optimized/lib:$LIBRARY_PATH"
+	export PATH="/opt/llvm_optimized/bin:$PATH"
+	export CPLUS_INCLUDE_PATH="/opt/llvm_optimized/include:$CPLUS_INCLUDE_PATH"
+	export C_INCLUDE_PATH="/opt/llvm_optimized/include:$C_INCLUDE_PATH"
+	export LD_LIBRARY_PATH="/opt/llvm_optimized/lib:$LD_LIBRARY_PATH"
+	export LIBRARY_PATH="/opt/llvm_optimized/lib:$LIBRARY_PATH"
 
 	# export PATH="/opt/llvm_optimized_profiling/bin:$PATH"
 	# export CPLUS_INCLUDE_PATH="/opt/llvm_optimized_profiling/include:$CPLUS_INCLUDE_PATH"
@@ -197,16 +191,7 @@ elif [ `hostname` = "adam-ThinkPad-E425" ]; then
 	# Boost-compute
 	export CPLUS_INCLUDE_PATH="/files/SOURCE_code/BOOST_compute/compute/include/:$CPLUS_INCLUDE_PATH"
 
-	# Qt-Android
-	export PATH="/opt/Qt5.2.0-android/5.2.0/gcc_64/bin/:/opt/Qt5.2.0-android/Tools/QtCreator/bin/:$PATH"
-	export CPLUS_INCLUDE_PATH="/opt/Qt5.2.0-android/5.2.0/gcc_64/include/:$CPLUS_INCLUDE_PATH"
-	export LD_LIBRARY_PATH="/opt/Qt5.2.0-android/5.2.0/gcc_64/lib:$LD_LIBRARY_PATH"
-	export LIBRARY_PATH="/opt/Qt5.2.0-android/5.2.0/gcc_64/lib:$LIBRARY_PATH"
-	# Qt
-	export PATH="/opt/Qt5.2.0/5.2.0/gcc_64/bin/:/opt/Qt5.2.0/Tools/QtCreator/bin/:$PATH"
-	export CPLUS_INCLUDE_PATH="/opt/Qt5.2.0/5.2.0/gcc_64/include/:$CPLUS_INCLUDE_PATH"
-	export LD_LIBRARY_PATH="/opt/Qt5.2.0/5.2.0/gcc_64/lib:$LD_LIBRARY_PATH"
-	export LIBRARY_PATH="/opt/Qt5.2.0/5.2.0/gcc_64/lib:$LIBRARY_PATH"
+    # Qt
 
 	# ROOT
 	# export ROOTSYS="/opt/ROOT/"
@@ -214,9 +199,6 @@ elif [ `hostname` = "adam-ThinkPad-E425" ]; then
 	# export CPLUS_INCLUDE_PATH="$ROOTSYS/include/:$CPLUS_INCLUDE_PATH"
 	# export LD_LIBRARY_PATH="$ROOTSYS/lib/:$LD_LIBRARY_PATH"
 	# export LIBRARY_PATH="$ROOTSYS/lib/:$LIBRARY_PATH"
-
-	# OpenSceneGraph
-	export LD_LIBRARY_PATH="/usr/local/lib64:$LD_LIBRARY_PATH"
 
 	# CMake Library Search PATH
 	export CPLUS_INCLUDE_PATH="/files/Install/OpenGL3rdParty/gl3w/include/:$CPLUS_INCLUDE_PATH"
@@ -242,9 +224,6 @@ elif [ `hostname` = "adam-ThinkPad-E425" ]; then
 	export JAVA_HOME="/usr/lib/jvm/java-7-openjdk-amd64/"
 	export PATH="$JAVA_HOME/bin:$PATH"
 	export CLASSPATH="$JAVA_HOME/lib:$CLASSPATH"
-
-	# Android
-	export PATH="/files/Install/android/adt-bundle-linux-x86_64-20131030/sdk/platform-tools/:$PATH"
 
 elif [ `hostname` = "adam-TerransForce" ]; then
 	echo "\e[0;1;49;39mHello adam-TerransForce\e[0m"

@@ -1,4 +1,4 @@
 <?xml version="1.0"?>
 <gconf>
-	<entry name="release_check_time" mtime="1389684407" type="int" value="0"/>
+	<entry name="release_check_time" mtime="1399534282" type="int" value="0"/>
 </gconf>

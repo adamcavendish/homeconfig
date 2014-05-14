@@ -1,6 +1,0 @@
-[Event/locked]
-Action=Execute
-Execute=xset dpms force off
-KTTS=
-Logfile=
-Sound=
