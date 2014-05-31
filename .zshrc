@@ -92,7 +92,7 @@ alias cdblog='cd /files/Nutstore/Blog/adamcavendish.github.com/'
 
 alias blogdate='date +%Y-%m-%d'
 
-alias g11='g++-4.8 -std=c++11 -march=native -O3 -flto -gdwarf-2 -Wall'
+alias g11='g++ -std=c++11 -fdiagnostics-color=always -march=native -O3 -flto -gdwarf-2 -Wall'
 alias clang11='clang++ -std=c++11 -march=native -O3 -Wall'
 alias ctags++='ctags -R --c++-kinds=+p --fields=+iaS --extra=+q'
 
@@ -103,6 +103,7 @@ alias nutstore='~/.nutstore/dist/bin/nutstore-pydaemon.py'
 
 alias gvim='gvim -f'
 alias em='emacs -nw'
+alias subl='/files/Install/sublime/sublime/sublime_text'
 
 alias goagent='python /files/software/goagent/local/proxy.py'
 alias snova='sh /files/software/snova-0.22.0/bin/start.sh'
@@ -151,7 +152,7 @@ export LIBRARY_PATH="/files/Nutstore/000/LinuxDriver/lib/:$LIBRARY_PATH";
 '
 
 	# CMake 2.8.11
-	# export PATH="/opt/cmake2.8.11/bin/:$PATH"
+	# export PATH="/opt/cmake/bin/:$PATH"
 
 ##################################################
 ## @hostname adam-ThinkpadE425
@@ -192,6 +193,9 @@ elif [ `hostname` = "adam-ThinkPad-E425" ]; then
 	export CPLUS_INCLUDE_PATH="/files/SOURCE_code/BOOST_compute/compute/include/:$CPLUS_INCLUDE_PATH"
 
     # Qt
+    export PATH="/opt/Qt/5.3/gcc_64/bin/:$PATH"
+    export CPLUS_INCLUDE_PATH="/opt/Qt/5.3/gcc_64/include/:$CPLUS_INCLUDE_PATH"
+    export LD_LIBRARY_PATH="/opt/Qt/5.3/gcc_64/lib/:$LD_LIBRARY_PATH"
 
 	# ROOT
 	# export ROOTSYS="/opt/ROOT/"
@@ -200,6 +204,8 @@ elif [ `hostname` = "adam-ThinkPad-E425" ]; then
 	# export LD_LIBRARY_PATH="$ROOTSYS/lib/:$LD_LIBRARY_PATH"
 	# export LIBRARY_PATH="$ROOTSYS/lib/:$LIBRARY_PATH"
 
+    # CMake
+    export PATH="/opt/cmake/bin:$PATH"
 	# CMake Library Search PATH
 	export CPLUS_INCLUDE_PATH="/files/Install/OpenGL3rdParty/gl3w/include/:$CPLUS_INCLUDE_PATH"
 	export C_INCLUDE_PATH="/files/Install/OpenGL3rdParty/gl3w/include/:$C_INCLUDE_PATH"
@@ -211,11 +217,11 @@ elif [ `hostname` = "adam-ThinkPad-E425" ]; then
 	export LD_LIBRARY_PATH="/opt/akaroa-2.7.12/lib/:$LD_LIBRARY_PATH"
 	export LIBRARY_PATH="/opt/akaroa-2.7.12/lib/:$LIBRARY_PATH"
 
-	export PATH="/opt/omnetpp-4.3.1/bin/:$PATH"
-	export CPLUS_INCLUDE_PATH="/opt/omnetpp-4.3.1/include/:$CPLUS_INCLUDE_PATH"
-	export LD_LIBRARY_PATH="/opt/omnetpp-4.3.1/lib/:$LD_LIBRARY_PATH"
+	export PATH="/opt/omnetpp-4.4.1/bin/:$PATH"
+	export CPLUS_INCLUDE_PATH="/opt/omnetpp-4.4.1/include/:$CPLUS_INCLUDE_PATH"
+	export LD_LIBRARY_PATH="/opt/omnetpp-4.4.1/lib/:$LD_LIBRARY_PATH"
 	export TCL_LIBRARY="/usr/share/tcltk/tcl8.5/"
-	export omnetpp_root="/opt/omnetpp-4.3.1/"
+	export omnetpp_root="/opt/omnetpp-4.4.1/"
 	export OMNETPP_CONFIGFILE="~/.omnetpp/Makefile.inc"
 	# export HOSTNAME
 	# export HOST

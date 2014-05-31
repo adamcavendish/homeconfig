@@ -228,6 +228,7 @@ let g:syntastic_always_populate_loc_list=1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "" YouCompleteMe
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+let g:loaded_youcompleteme = 0
 if filereadable($VIMSRC.'/.ycm_extra_conf.py')
 	let g:ycm_global_ycm_extra_conf='$VIMSRC/.ycm_extra_conf.py'
 else
