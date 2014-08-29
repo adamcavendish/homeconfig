@@ -49,6 +49,13 @@ plugins=(git svn)
 source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
+
+# Convenient Functions
+update-repo() {
+    sudo apt-get update -o Dir::Etc::sourcelist="sources.list.d/$1" \
+    -o Dir::Etc::sourceparts="-" -o APT::Get::List-Cleanup="0"    
+}
+
 export PATH=$PATH:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
 export CPLUS_INCLUDE_PATH="/usr/local/include/:$CPLUS_INCLUDE_PATH"
 export LD_LIBRARY_PATH="/usr/local/lib/:$LD_LIBRARY_PATH"
@@ -58,10 +65,13 @@ export LIBRARY_PATH="/usr/local/lib/:$LIBRARY_PATH"
 export JAVA_HOME="/usr/bin/"
 
 # Keyboard Input
-export XMODIFIERS="@im=ibus"
-export GTK_IM_MODULE=ibus
-export QT4_IM_MODULE=ibus
-export QT_IM_MODULE=ibus
+# export XIM=fcitx
+# export XIM_PROGRAM=/usr/bin/fcitx
+# export XIM_ARGS=""
+# export XMODIFIERS="@im=fcitx"
+# export GTK_IM_MODULE=fcitx
+# export QT4_IM_MODULE=fcitx
+# export QT_IM_MODULE=fcitx
 
 # Alias
 alias sl='ls'
@@ -79,8 +89,9 @@ alias dfh='df -h'
 alias mkdatedir='mkdir `date +%Y%m%d`'
 
 alias ..='cd ..'
-alias cdwork='cd /files/Nutstore/'
+alias cdnut='cd /files/Nutstore/'
 alias cdschool='cd /files/Nutstore/School/University/'
+alias cdwork='cd /files/Nutstore/Work/ARM/'
 alias cdcpp='cd /files/Nutstore/000/CPPWorkSpace/'
 alias cdpython='cd /files/Nutstore/000/Python/'
 alias cdjava='cd /files/Nutstore/000/Java/'
@@ -114,127 +125,82 @@ alias apt-proxy="sudo http_proxy='http://127.0.0.1:8087/' apt-get"
 
 alias dropcache="sudo sync && sudo echo 3 | sudo tee /proc/sys/vm/drop_caches"
 
+# Shell Utility
+export PATH="/files/Nutstore/000/BashWorkSpace/shell_utility/:$PATH"
+
 # CSCOPE
 alias cscope_init="find . -name \"*.c\" -o -name \"*.cpp\" -o -name \"*.h\" -o -name \"*.hpp\" -o -name \"*.tcc\" > cscope.files; cscope -R -b -i cscope.files"
 alias cscope_clean="rm ./cscope.files ./cscope.in.out ./cscope.out ./cscope.po.out"
 
-##################################################
-## @hostname adam-ros
-if [ `hostname` = "adam-ros" ]; then
-	echo "\e[0;1;49;39mHello adam-ros\e[0m"
+# --------------------------------------------------
 
-	alias rossource='source "/home/adam/Documents/ros_robot/rbuildws/setup.zsh"'
-	alias exportpcl='export "/opt/pcl1_7_0"'
+echo "\e[0;1;49;39mHello Adam!\e[0m"
 
-	alias roboexport='\
-export CPLUS_INCLUDE_PATH=/files/Nutstore/000/ROSWorkSpace/rosstuffs/navigation/base_local_planner/include/:$CPLUS_INCLUDE_PATH;
-export CPLUS_INCLUDE_PATH=/files/Nutstore/000/ROSWorkSpace/rosstuffs/navigation/voxel_grid/include/:$CPLUS_INCLUDE_PATH;
-export CPLUS_INCLUDE_PATH=/files/Nutstore/000/ROSWorkSpace/rosstuffs/navigation/voxel_grid/include/:$CPLUS_INCLUDE_PATH;
-export CPLUS_INCLUDE_PATH=/files/Nutstore/000/ROSWorkSpace/rosstuffs/navigation/nav_core/include/:$CPLUS_INCLUDE_PATH;
-export CPLUS_INCLUDE_PATH=/opt/ros/groovy/stacks/navigation/base_local_planner/msg_gen/cpp/include/:$CPLUS_INCLUDE_PATH;
-export CPLUS_INCLUDE_PATH=/opt/ros/groovy/stacks/navigation/base_local_planner/msg_gen/cpp/include/:$CPLUS_INCLUDE_PATH;
-export CPLUS_INCLUDE_PATH=/opt/ros/groovy/stacks/navigation/base_local_planner/cfg/cpp/:$CPLUS_INCLUDE_PATH;
-export CPLUS_INCLUDE_PATH=/opt/ros/groovy/stacks/navigation/costmap_2d/include/:$CPLUS_INCLUDE_PATH;
-export CPLUS_INCLUDE_PATH=/opt/ros/groovy/stacks/navigation/costmap_2d/cfg/cpp/:$CPLUS_INCLUDE_PATH;
-export CPLUS_INCLUDE_PATH=/opt/ros/groovy/include/pcl-1.6/:$CPLUS_INCLUDE_PATH;
-export CPLUS_INCLUDE_PATH=/opt/ros/groovy/include/:$CPLUS_INCLUDE_PATH;
-export CPLUS_INCLUDE_PATH=/usr/include/eigen3/:$CPLUS_INCLUDE_PATH;
-'
-	# Blender
-	export PATH="/opt/blender-2.68a/:$PATH"
+# Ninja
+export PATH="/files/SOURCE_code/ninja/ninja/:$PATH"
 
-	# Linux Driver
-	alias driverexport='
-export CPLUS_INCLUDE_PATH="/files/Nutstore/000/LinuxDriver/include/:$CPLUS_INCLUDE_PATH";
-export C_INCLUDE_PATH="/files/Nutstore/000/LinuxDriver/include/:$C_INCLUDE_PATH";
-export LD_LIBRARY_PATH="/files/Nutstore/000/LinuxDriver/lib/:$LD_LIBRARY_PATH";
-export LIBRARY_PATH="/files/Nutstore/000/LinuxDriver/lib/:$LIBRARY_PATH";
-'
+# llvm/clang
+# export PATH="/opt/llvm_debug/bin:$PATH"
+# export CPLUS_INCLUDE_PATH="/opt/llvm_debug/include:$CPLUS_INCLUDE_PATH"
+# export C_INCLUDE_PATH="/opt/llvm_debug/include:$C_INCLUDE_PATH"
+# export LD_LIBRARY_PATH="/opt/llvm_debug/lib:$LD_LIBRARY_PATH"
+# export LIBRARY_PATH="/opt/llvm_debug/lib:$LIBRARY_PATH"
 
-	# CMake 2.8.11
-	# export PATH="/opt/cmake/bin/:$PATH"
+export PATH="/opt/llvm_optimized/bin:$PATH"
+export CPLUS_INCLUDE_PATH="/opt/llvm_optimized/include:$CPLUS_INCLUDE_PATH"
+export C_INCLUDE_PATH="/opt/llvm_optimized/include:$C_INCLUDE_PATH"
+export LD_LIBRARY_PATH="/opt/llvm_optimized/lib:$LD_LIBRARY_PATH"
+export LIBRARY_PATH="/opt/llvm_optimized/lib:$LIBRARY_PATH"
 
-##################################################
-## @hostname adam-ThinkpadE425
-elif [ `hostname` = "adam-ThinkPad-E425" ]; then
-	echo "\e[0;1;49;39mHello adam-ThinkpadE425\e[0m"
+# export PATH="/opt/llvm_optimized_profiling/bin:$PATH"
+# export CPLUS_INCLUDE_PATH="/opt/llvm_optimized_profiling/include:$CPLUS_INCLUDE_PATH"
+# export C_INCLUDE_PATH="/opt/llvm_optimized_profiling/include:$C_INCLUDE_PATH"
+# export LD_LIBRARY_PATH="/opt/llvm_optimized_profiling/lib:$LD_LIBRARY_PATH"
+# export LIBRARY_PATH="/opt/llvm_optimized_profiling/lib:$LIBRARY_PATH"
 
-    alias argouml='java -jar /files/software/argouml-0.34/argouml.jar'
-	
-    # Ninja
-    export PATH="/files/SOURCE_code/ninja/ninja/:$PATH"
+# OpenCL
+# export CPLUS_INCLUDE_PATH="/opt/AMDAPP/include/:$CPLUS_INCLUDE_PATH"
+# export C_INCLUDE_PATH="/opt/AMDAPP/include/:$C_INCLUDE_PATH"
+# export LD_LIBRARY_PATH="/opt/AMDAPP/include/lib/x86_64/:$LD_LIBRARY_PATH"
+# export LIBRARY_PATH="/opt/AMDAPP/include/lib/x86_64/:$LIBRARY_PATH"
 
-	# llvm/clang
-	# export PATH="/opt/llvm_debug/bin:$PATH"
-	# export CPLUS_INCLUDE_PATH="/opt/llvm_debug/include:$CPLUS_INCLUDE_PATH"
-	# export C_INCLUDE_PATH="/opt/llvm_debug/include:$C_INCLUDE_PATH"
-	# export LD_LIBRARY_PATH="/opt/llvm_debug/lib:$LD_LIBRARY_PATH"
-	# export LIBRARY_PATH="/opt/llvm_debug/lib:$LIBRARY_PATH"
-	
-	export PATH="/opt/llvm_optimized/bin:$PATH"
-	export CPLUS_INCLUDE_PATH="/opt/llvm_optimized/include:$CPLUS_INCLUDE_PATH"
-	export C_INCLUDE_PATH="/opt/llvm_optimized/include:$C_INCLUDE_PATH"
-	export LD_LIBRARY_PATH="/opt/llvm_optimized/lib:$LD_LIBRARY_PATH"
-	export LIBRARY_PATH="/opt/llvm_optimized/lib:$LIBRARY_PATH"
+# Boost-compute
+export CPLUS_INCLUDE_PATH="/files/SOURCE_code/BOOST_compute/compute/include/:$CPLUS_INCLUDE_PATH"
 
-	# export PATH="/opt/llvm_optimized_profiling/bin:$PATH"
-	# export CPLUS_INCLUDE_PATH="/opt/llvm_optimized_profiling/include:$CPLUS_INCLUDE_PATH"
-	# export C_INCLUDE_PATH="/opt/llvm_optimized_profiling/include:$C_INCLUDE_PATH"
-	# export LD_LIBRARY_PATH="/opt/llvm_optimized_profiling/lib:$LD_LIBRARY_PATH"
-	# export LIBRARY_PATH="/opt/llvm_optimized_profiling/lib:$LIBRARY_PATH"
+# Qt
+export PATH="/opt/Qt/5.3/gcc_64/bin/:$PATH"
+export CPLUS_INCLUDE_PATH="/opt/Qt/5.3/gcc_64/include/:$CPLUS_INCLUDE_PATH"
+export LD_LIBRARY_PATH="/opt/Qt/5.3/gcc_64/lib/:$LD_LIBRARY_PATH"
 
-	# OpenCL
-	# export CPLUS_INCLUDE_PATH="/opt/AMDAPP/include/:$CPLUS_INCLUDE_PATH"
-	# export C_INCLUDE_PATH="/opt/AMDAPP/include/:$C_INCLUDE_PATH"
-	# export LD_LIBRARY_PATH="/opt/AMDAPP/include/lib/x86_64/:$LD_LIBRARY_PATH"
-	# export LIBRARY_PATH="/opt/AMDAPP/include/lib/x86_64/:$LIBRARY_PATH"
-	
-	# Boost-compute
-	export CPLUS_INCLUDE_PATH="/files/SOURCE_code/BOOST_compute/compute/include/:$CPLUS_INCLUDE_PATH"
+# ROOT
+# export ROOTSYS="/opt/ROOT/"
+# export PATH="$ROOTSYS/bin/:$PATH"
+# export CPLUS_INCLUDE_PATH="$ROOTSYS/include/:$CPLUS_INCLUDE_PATH"
+# export LD_LIBRARY_PATH="$ROOTSYS/lib/:$LD_LIBRARY_PATH"
+# export LIBRARY_PATH="$ROOTSYS/lib/:$LIBRARY_PATH"
 
-    # Qt
-    export PATH="/opt/Qt/5.3/gcc_64/bin/:$PATH"
-    export CPLUS_INCLUDE_PATH="/opt/Qt/5.3/gcc_64/include/:$CPLUS_INCLUDE_PATH"
-    export LD_LIBRARY_PATH="/opt/Qt/5.3/gcc_64/lib/:$LD_LIBRARY_PATH"
+# CMake
+export PATH="/opt/cmake/bin:$PATH"
+# CMake Library Search PATH
+export CPLUS_INCLUDE_PATH="/files/Install/OpenGL3rdParty/gl3w/include/:$CPLUS_INCLUDE_PATH"
+export C_INCLUDE_PATH="/files/Install/OpenGL3rdParty/gl3w/include/:$C_INCLUDE_PATH"
 
-	# ROOT
-	# export ROOTSYS="/opt/ROOT/"
-	# export PATH="$ROOTSYS/bin/:$PATH"
-	# export CPLUS_INCLUDE_PATH="$ROOTSYS/include/:$CPLUS_INCLUDE_PATH"
-	# export LD_LIBRARY_PATH="$ROOTSYS/lib/:$LD_LIBRARY_PATH"
-	# export LIBRARY_PATH="$ROOTSYS/lib/:$LIBRARY_PATH"
+# OMNet++
+export omnetpp_root="/opt/omnetpp-4.4.1/"
+export PATH="$omnetpp_root/bin/:$PATH"
+export CPLUS_INCLUDE_PATH="$omnetpp_root/include/:$CPLUS_INCLUDE_PATH"
+export LD_LIBRARY_PATH="$omnetpp_root/lib/:$LD_LIBRARY_PATH"
+# export TCL_LIBRARY="/usr/lib/tcl8.6/"
+export OMNETPP_CONFIGFILE="~/.omnetpp/Makefile.inc"
+# export HOSTNAME
+# export HOST
 
-    # CMake
-    export PATH="/opt/cmake/bin:$PATH"
-	# CMake Library Search PATH
-	export CPLUS_INCLUDE_PATH="/files/Install/OpenGL3rdParty/gl3w/include/:$CPLUS_INCLUDE_PATH"
-	export C_INCLUDE_PATH="/files/Install/OpenGL3rdParty/gl3w/include/:$C_INCLUDE_PATH"
+# Java
+export JAVA_HOME="/usr/lib/jvm/java-7-openjdk-amd64/"
+export PATH="$JAVA_HOME/bin:$PATH"
+export CLASSPATH="$JAVA_HOME/lib:$CLASSPATH"
 
-	# Akaroa and OMNet++
-	export PATH="/opt/akaroa-2.7.12/bin/:$PATH"
-	export C_INCLUDE_PATH="/opt/akaroa-2.7.12/include/:$C_INCLUDE_PATH"
-	export CPLUS_INCLUDE_PATH="/opt/akaroa-2.7.12/include/:$CPLUS_INCLUDE_PATH"
-	export LD_LIBRARY_PATH="/opt/akaroa-2.7.12/lib/:$LD_LIBRARY_PATH"
-	export LIBRARY_PATH="/opt/akaroa-2.7.12/lib/:$LIBRARY_PATH"
-
-	export PATH="/opt/omnetpp-4.4.1/bin/:$PATH"
-	export CPLUS_INCLUDE_PATH="/opt/omnetpp-4.4.1/include/:$CPLUS_INCLUDE_PATH"
-	export LD_LIBRARY_PATH="/opt/omnetpp-4.4.1/lib/:$LD_LIBRARY_PATH"
-	export TCL_LIBRARY="/usr/share/tcltk/tcl8.5/"
-	export omnetpp_root="/opt/omnetpp-4.4.1/"
-	export OMNETPP_CONFIGFILE="~/.omnetpp/Makefile.inc"
-	# export HOSTNAME
-	# export HOST
-
-	# Java
-	export JAVA_HOME="/usr/lib/jvm/java-7-openjdk-amd64/"
-	export PATH="$JAVA_HOME/bin:$PATH"
-	export CLASSPATH="$JAVA_HOME/lib:$CLASSPATH"
-
-elif [ `hostname` = "adam-TerransForce" ]; then
-	echo "\e[0;1;49;39mHello adam-TerransForce\e[0m"
-
-else
-	echo "\e[0;1;49;39mWho are You?\e[0m"
-fi
+# uTorrent
+export PATH="/opt/utorrent-server/:$PATH"
+alias uts='utserver -settingspath /opt/utorrent-server/'
 
