@@ -132,8 +132,6 @@ export PATH="/files/Nutstore/000/BashWorkSpace/shell_utility/:$PATH"
 alias cscope_init="find . -name \"*.c\" -o -name \"*.cpp\" -o -name \"*.h\" -o -name \"*.hpp\" -o -name \"*.tcc\" > cscope.files; cscope -R -b -i cscope.files"
 alias cscope_clean="rm ./cscope.files ./cscope.in.out ./cscope.out ./cscope.po.out"
 
-# --------------------------------------------------
-
 echo "\e[0;1;49;39mHello Adam!\e[0m"
 
 # Ninja
@@ -146,11 +144,11 @@ export PATH="/files/SOURCE_code/ninja/ninja/:$PATH"
 # export LD_LIBRARY_PATH="/opt/llvm_debug/lib:$LD_LIBRARY_PATH"
 # export LIBRARY_PATH="/opt/llvm_debug/lib:$LIBRARY_PATH"
 
-export PATH="/opt/llvm_optimized/bin:$PATH"
-export CPLUS_INCLUDE_PATH="/opt/llvm_optimized/include:$CPLUS_INCLUDE_PATH"
-export C_INCLUDE_PATH="/opt/llvm_optimized/include:$C_INCLUDE_PATH"
-export LD_LIBRARY_PATH="/opt/llvm_optimized/lib:$LD_LIBRARY_PATH"
-export LIBRARY_PATH="/opt/llvm_optimized/lib:$LIBRARY_PATH"
+# export PATH="/opt/llvm_optimized/bin:$PATH"
+# export CPLUS_INCLUDE_PATH="/opt/llvm_optimized/include:$CPLUS_INCLUDE_PATH"
+# export C_INCLUDE_PATH="/opt/llvm_optimized/include:$C_INCLUDE_PATH"
+# export LD_LIBRARY_PATH="/opt/llvm_optimized/lib:$LD_LIBRARY_PATH"
+# export LIBRARY_PATH="/opt/llvm_optimized/lib:$LIBRARY_PATH"
 
 # export PATH="/opt/llvm_optimized_profiling/bin:$PATH"
 # export CPLUS_INCLUDE_PATH="/opt/llvm_optimized_profiling/include:$CPLUS_INCLUDE_PATH"

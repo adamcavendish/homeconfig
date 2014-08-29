@@ -1,5 +1,6 @@
 \!useless/
 .emacs.d/backup-files/
+.emacs.d/auto-save-list/
 YouCompleteMeBuild/
 
 .kde/share/apps/nepomuk/repository/
