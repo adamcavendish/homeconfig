@@ -63,6 +63,7 @@ export LIBRARY_PATH="/usr/local/lib/:$LIBRARY_PATH"
 
 # Java
 export JAVA_HOME="/usr/bin/"
+alias idea='/files/Install/IntelliJ/idea-IC-135.1230/bin/idea.sh'
 
 # Keyboard Input
 # export XIM=fcitx
@@ -103,8 +104,8 @@ alias cdblog='cd /files/Nutstore/Blog/adamcavendish.github.com/'
 
 alias blogdate='date +%Y-%m-%d'
 
-alias g11='g++ -std=c++11 -fdiagnostics-color=always -march=native -O3 -flto -gdwarf-2 -Wall'
-alias clang11='clang++ -std=c++11 -march=native -O3 -Wall'
+alias g14='g++ -std=c++14 -fdiagnostics-color=always -march=native -O3 -flto -gdwarf-2 -Wall'
+alias clang14='clang++-3.6 -std=c++14 -march=native -O3 -Wall'
 alias ctags++='ctags -R --c++-kinds=+p --fields=+iaS --extra=+q'
 
 alias aria2='aria2c --dir="/home/adam/aria/" --enable-rpc --rpc-listen-all --rpc-allow-origin-all  --file-allocation=none --max-connection-per-server=3 --max-concurrent-downloads=3 --continue'
@@ -122,8 +123,16 @@ alias snova='sh /files/software/snova-0.22.0/bin/start.sh'
 alias pp='ping -i 0.2 www.google.com; ping www.baidu.com'
 
 alias apt-proxy="sudo http_proxy='http://127.0.0.1:8087/' apt-get"
+alias ud='sudo apt-get update'
+alias ug='sudo apt-get upgrade'
 
 alias dropcache="sudo sync && sudo echo 3 | sudo tee /proc/sys/vm/drop_caches"
+
+alias shadow="nohup ss-server -s fast.pennyjob.net -p 8080 -k pennyjob -m aes-256-cfb &"
+alias sshvpnus="ssh -D1080 pennyjob@pennyjob.net -N"
+alias sshvpnjp="ssh -D1081 pennyjob@fast.pennyjob.net -N"
+alias sshzq="ssh xjsjwupin@sc.shu.edu.cn"
+alias sshzq2='ssh xjsjwupin@hpc.shu.edu.cn -p 4002'
 
 # Shell Utility
 export PATH="/files/Nutstore/000/BashWorkSpace/shell_utility/:$PATH"
@@ -132,10 +141,15 @@ export PATH="/files/Nutstore/000/BashWorkSpace/shell_utility/:$PATH"
 alias cscope_init="find . -name \"*.c\" -o -name \"*.cpp\" -o -name \"*.h\" -o -name \"*.hpp\" -o -name \"*.tcc\" > cscope.files; cscope -R -b -i cscope.files"
 alias cscope_clean="rm ./cscope.files ./cscope.in.out ./cscope.out ./cscope.po.out"
 
+# --------------------------------------------------
+
 echo "\e[0;1;49;39mHello Adam!\e[0m"
 
 # Ninja
 export PATH="/files/SOURCE_code/ninja/ninja/:$PATH"
+
+# Common Lisp
+alias sb="sbcl --script"
 
 # llvm/clang
 # export PATH="/opt/llvm_debug/bin:$PATH"
@@ -161,6 +175,8 @@ export PATH="/files/SOURCE_code/ninja/ninja/:$PATH"
 # export C_INCLUDE_PATH="/opt/AMDAPP/include/:$C_INCLUDE_PATH"
 # export LD_LIBRARY_PATH="/opt/AMDAPP/include/lib/x86_64/:$LD_LIBRARY_PATH"
 # export LIBRARY_PATH="/opt/AMDAPP/include/lib/x86_64/:$LIBRARY_PATH"
+export LD_LIBRARY_PATH="/usr/lib/fglrx/:/usr/lib32/fglrx/:$LD_LIBRARY_PATH"
+export PYOPENCL_CTX='1'
 
 # Boost-compute
 export CPLUS_INCLUDE_PATH="/files/SOURCE_code/BOOST_compute/compute/include/:$CPLUS_INCLUDE_PATH"
@@ -184,7 +200,7 @@ export CPLUS_INCLUDE_PATH="/files/Install/OpenGL3rdParty/gl3w/include/:$CPLUS_IN
 export C_INCLUDE_PATH="/files/Install/OpenGL3rdParty/gl3w/include/:$C_INCLUDE_PATH"
 
 # OMNet++
-export omnetpp_root="/opt/omnetpp-4.4.1/"
+export omnetpp_root="/opt/omnetpp-4.5/"
 export PATH="$omnetpp_root/bin/:$PATH"
 export CPLUS_INCLUDE_PATH="$omnetpp_root/include/:$CPLUS_INCLUDE_PATH"
 export LD_LIBRARY_PATH="$omnetpp_root/lib/:$LD_LIBRARY_PATH"
@@ -192,11 +208,6 @@ export LD_LIBRARY_PATH="$omnetpp_root/lib/:$LD_LIBRARY_PATH"
 export OMNETPP_CONFIGFILE="~/.omnetpp/Makefile.inc"
 # export HOSTNAME
 # export HOST
-
-# Java
-export JAVA_HOME="/usr/lib/jvm/java-7-openjdk-amd64/"
-export PATH="$JAVA_HOME/bin:$PATH"
-export CLASSPATH="$JAVA_HOME/lib:$CLASSPATH"
 
 # uTorrent
 export PATH="/opt/utorrent-server/:$PATH"

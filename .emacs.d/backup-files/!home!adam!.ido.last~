@@ -9,20 +9,34 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/adam/"
+ "/files/Nutstore/000/Haskell/Book/LearnYouAHaskell/"
+ "/files/Install/boost/boost/"
  "/files/Nutstore/000/OMNetPPWorkspace/CXXM創新項目/PNCP/"
  "/files/Nutstore/000/OMNetPPWorkspace/CXXM創新項目/PNCP/ned/"
- "/home/adam/"
 )
 
 ;; ----- ido-work-file-list -----
 (
+ ".emacs"
+ "001.hs"
+ "index.htm"
  "omnetpp.ini"
  "N04_NetworkPNCP.ned"
- ".emacs"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/home/adam/" (21580 39292 858271 179000) "Ubuntu One/" ".ICEauthority" ".conkyrc" ".emacs" ".kchmviewer/" ".aliedit/" ".local/" ".gnupg/" ".minirc.dfl" ".Xauthority" ".root_hist" ".icons/" ".bash_history" ".gtkrc-2.0" ".zcompdump" ".steam/" ".bzr.log" ".debug/" ".config/" ".face.icon" "Downloads/" ".zshrc.pre-oh-my-zsh" ".camel_certs/" ".wine/" ".rviz/" ".pulse-cookie" ".color/" ".racket/" ".gconfd/" ".e/" ".Yozo_Office/" ".esd_auth" ".cache/" ".java/" ".npm/" ".emacs.d/" ".ghc/" ".dia/" ".rnd" ".mplayer/" ".bashrc" ".subversion/" ".ido.last" ".audacity-data/" ".armagetronad/" ".pam_environment" ".dbshell" ".Xmodmap" ".gazebo/" ".bash_logout" ".hte/" "fontconfig/" ".codeblocks/" ".vimrc.bak" ".ssh/" ".lesshst" ".ros/" ".dbus/" ".swp" ".purple/" ".ogre/" "Public/" ".gimp-2.6/" ".YozoWeboffice/" ".argouml/" ".gitconfig" ".robocode/" ".irb-history" ".mateconfd/" ".fonts/" ".gvimrc" "Templates/" "massage.mp4" ".gstreamer-0.10/" ".profile" ".synaptic/" ".mongorc.js" ".gksu.lock" ".gphoto/" ".spamassassin/" ".NERDTreeBookmarks" ".xsession-errors.old" ".pulse/" ".zsh_history" ".macromedia/" ".mozilla/" ".android/" ".anthy/" ".slime-history.eld" ".eaglerc" ".gtkrc-2.0-kde4" ".install4j" ".odbc.ini" ".gtk-bookmarks" ".mateconf/" ".recently-used" ".gnome/" ".npmrc" ".tkenvrc" ".w3m/" "Music/" ".oh-my-zsh/" ".steampid" ".everpad/" ".thumbnails/" ".texmf-var/" ".mountmanager/" ".fontconfig/" ".vmware/" ".sunpinyin/" "aria/" ".conkyrc.bak" ".lyx/" "Documents/" ".dmrc" ".python_history" ".zcompdump-adam-ThinkPad-E425-5.0.5" ".face" ".wiznote/" ".compiz/" ".node-gyp/" ".designer/" ".mysql_history" ".log/" ".gnome2_private/" ".xinput.d/" ".wishname" ".ido.last~" ".goldendict/" "plot.py" ".viper" ".gnome2/" ".IdeaIC13/" ".vimrc" ".idlerc/" "plot2.py" ".zsh-update" ".lldb-history" "Desktop/" "Pictures/" "Videos/" ".dmrc.R1QSKW" ".vim/" ".onboard/" ".matplotlib/" ".gdbinit" ".gegl-0.0/" ".gem/" "key.txt" ".viminfo" ".altera.quartus/" ".nutstore/" ".thunderbird/" ".kde/" ".sqlite_history" ".filezilla/" ".selected_editor" ".mission-control/" ".Mathematica/" ".omnetpp/" ".adobe/" ".xsession-errors" ".shadowsocks/" ".matlab/" ".wgetrc" ".httrack.ini" ".directory" ".Skype/" ".pip/" ".lastpass/" ".viminfo.tmp" ".zshrc" ".pki/" ".compiz-1/" ".emacs~" ".TeXmacs/" ".gvfs/" ".gconf/" "../" "./")
+
+ ("/files/Nutstore/000/Haskell/Book/WriteYourselfASchemeIn48Hours/" (21580 39392 286757 296000) "main.hs" "../" ".#main.hs" "./" "#main.hs#")
+
+ ("/files/Nutstore/000/Haskell/Book/LearnYouAHaskell/" (21579 52526 100400 66000) "001.hs" "002.hs" "../" "./" ".#001.hs")
+
+ ("/files/Install/boost/boost/" (21510 30262 629768 374000) "index.htm" "boost.png" "status/" "INSTALL" "more/" "tools/" "libs/" "LICENSE_1_0.txt" "Jamroot" ".git/" "boost.css" "doc/" "boostcpp.py" "index.html" "../" "bootstrap.sh" "bootstrap.bat" "boost/" "rst.css" "boostcpp.jam" "./" "boost-build.jam")
+
+ ("/files/Install/boost/" (21510 30145 193194 249000) "../" "boost/" "./")
+
  ("/files/Nutstore/000/OMNetPPWorkspace/CXXM創新項目/" (21300 9285 586283 48000) "PNCP/" "ScholarPDF/" "../" "report/" "./")
 
  ("/files/Nutstore/000/OMNetPPWorkspace/CXXM創新項目/PNCP/" (21324 52335 638566 302000) "out/" "build/" "msg/" "build.py" ".tkenvlog" "Makefile" "include/" ".git/" "PNCP" "ned/" "../" ".tkenvrc" "omnetpp.ini" "results/" ".gitignore" "./" "images/" "src/")
@@ -34,8 +48,6 @@
  ("/files/Nutstore/000/OMNetPPWorkspace/CXXM創新項目/PNCP/ned/" (21322 27954 798228 787000) "N01_NetworkRaw.ned" "N02_NetworkWithLost.ned" "../" "./" "N03_NetworkCOPE.ned" "N04_NetworkPNCP.ned")
 
  ("/files/Nutstore/000/SHUCourse/HomeworkGitShare/WebDesign/HW-01/public/js/" (21314 28675 634207 88000) ".#js-index.js" "jquery.min.1.8.2.js" "../" "js-index.js" "./")
-
- ("/home/adam/" (21314 20128 328421 437000) ".Xauthority.UGNH3W" "Ubuntu One/" ".ICEauthority" ".conkyrc" ".emacs" ".kchmviewer/" ".aliedit/" ".local/" ".gnupg/" ".Xauthority.ZKGG2W" ".minirc.dfl" ".Xauthority" "VirtualBox VMs/" ".root_hist" ".icons/" ".bash_history" ".gtkrc-2.0" ".zcompdump" ".steam/" ".bzr.log" ".debug/" ".config/" ".goutputstream-93V74W" ".face.icon" "Downloads/" ".Xauthority.PMBR3W" ".wireshark/" ".zshrc.pre-oh-my-zsh" ".camel_certs/" ".wine/" ".rviz/" ".pulse-cookie" ".racket/" ".gconfd/" ".e/" ".Yozo_Office/" ".esd_auth" ".cache/" ".java/" ".npm/" ".emacs.d/" ".ghc/" ".xinputrc" ".zcompdump-adam-ThinkPad-E425-4.3.17" ".dia/" ".rnd" ".mplayer/" ".bashrc" ".subversion/" ".ido.last" ".goutputstream-VOE44W" ".Xauthority.U7GI4W" ".audacity-data/" ".armagetronad/" ".pam_environment" "Yozo_Officelog.txt" ".Xmodmap" "jp.txt" ".gazebo/" ".bash_logout" ".hte/" "fontconfig/" ".codeblocks/" ".vimrc.bak" ".ssh/" ".lesshst" ".ros/" ".dbus/" ".swp" ".purple/" ".ogre/" "Public/" ".gimp-2.6/" ".YozoWeboffice/" ".argouml/" ".gitconfig" ".robocode/" ".mateconfd/" ".Xauthority.OVDB3W" ".fonts/" ".gvimrc" "Templates/" ".gstreamer-0.10/" ".profile" ".synaptic/" ".gksu.lock" "tempfs/" ".gphoto/" ".spamassassin/" ".NERDTreeBookmarks" ".xsession-errors.old" ".pulse/" ".zcompdump-adam-ThinkpadE425-4.3.17" ".imsettings.log" ".zsh_history" ".macromedia/" ".mozilla/" ".android/" ".anthy/" ".eaglerc" ".gtkrc-2.0-kde4" ".install4j" ".odbc.ini" ".gtk-bookmarks" ".mateconf/" ".recently-used" ".gnome/" ".npmrc" ".tkenvrc" ".w3m/" "Music/" ".oh-my-zsh/" ".steampid" ".everpad/" ".thumbnails/" ".texmf-var/" ".mountmanager/" ".fontconfig/" ".vmware/" "aria/" ".conkyrc.bak" ".lyx/" "Documents/" ".dmrc" ".goutputstream-F7GX4W" ".face" ".compiz/" ".node-gyp/" ".designer/" ".mysql_history" ".log/" ".gnome2_private/" ".xinput.d/" ".wishname" ".ido.last~" ".goldendict/" ".goutputstream-0B6H6W" "plot.py" ".gnome2/" ".IdeaIC13/" ".vimrc" ".idlerc/" ".goutputstream-FWO64W" ".zsh-update" ".lldb-history" "Desktop/" "Pictures/" "Videos/" ".dmrc.R1QSKW" ".vim/" ".onboard/" ".matplotlib/" ".gdbinit" ".gegl-0.0/" ".swt/" ".gem/" "key.txt" ".viminfo" ".altera.quartus/" ".nutstore/" ".thunderbird/" ".kde/" ".filezilla/" ".selected_editor" ".mission-control/" ".Mathematica/" ".omnetpp/" ".adobe/" ".xsession-errors" "tmp/" ".matlab/" ".wgetrc" ".pip/" ".viminfo.tmp" ".zshrc" ".pki/" ".goutputstream-7MGX9W" ".compiz-1/" ".emacs~" ".TeXmacs/" ".gvfs/" ".gconf/" "../" "./")
 
  ("/files/Nutstore/000/SHUCourse/HomeworkGitShare/WebDesign/HW-01/" (21314 19934 759475 118000) "public/" "index.html" "../" "#index.html#" "useless/" "./" ".#index.html")
 

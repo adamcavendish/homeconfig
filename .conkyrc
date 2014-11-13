@@ -118,6 +118,10 @@ ${color6}${swap}${color}/${swapmax}\
 
 ${stippled_hr}
 # CPU
+${color2}CPU-ALL: ${color}\
+${color6}${cpu cpu0}%${color}\
+${alignr}${cpugraph cpu0 10,70 FFF6CD FF0B00}\
+
 ${color2}CPU1: ${color}\
 ${color6}${cpu cpu1}%${color}\
 ${alignr}${cpugraph cpu1 10,70 FFF6CD FF0B00}\

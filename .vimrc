@@ -20,11 +20,12 @@ Bundle 'taglist.vim'
 Bundle 'grep.vim'
 Bundle 'comments.vim'
 " Bundle 'bash-support.vim'
+Bundle 'glsl.vim'
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "" Vundle managed bundles ----git repo----
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-Bundle 'scrooloose/nerdtree'
+" Bundle 'scrooloose/nerdtree'
 Bundle 'Valloric/YouCompleteMe'
 Bundle 'Valloric/MatchTagAlways'
 Bundle 'vim-scripts/AutoClose'
@@ -100,7 +101,6 @@ set mat=2			" How many tenths of a second to blink when matching brackets
 
 set noerrorbells	" No annoying sound on errors
 set novisualbell
-set t_vb=
 set tm=500
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -253,4 +253,8 @@ au BufNewFile,BufRead *.cc,*.cp,*.cxx,*.cpp,*.CPP,*.c++,*.C set syntax=cppnow
 au BufNewFile,BufRead *.hh,*.H,*.hp,*.hxx,*.hpp,*.HPP,*.h++,*.tcc set syntax=cppnow
 	" Assembly
 au BufNewFile,BufRead *.s,*.S set syntax=gas
+    " GLSL
+au BufNewFile,BufRead *.frag,*.vert,*.fp,*.vp,*.glsl set syntax=glsl
+    " Markdown
+au BufNewFile,BufRead *.md,*.mkd set syntax=markdown
 

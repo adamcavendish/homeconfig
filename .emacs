@@ -81,7 +81,7 @@
 ;; Fonts
 ;;--------------------------------------------------
 ;; default fonts
-(set-default-font "Monospace-12")
+(set-default-font "Monospace-16")
 (if window-system 
    (set-fontset-font (frame-parameter nil 'font)
 	  'unicode '("simsun" . "unicode-bmp")))
@@ -195,6 +195,15 @@
 (add-to-list 'auto-mode-alist '("\\.djhtml\\'" . web-mode))
 (add-to-list 'auto-mode-alist '("\\.html?\\'" . web-mode))
 (add-to-list 'auto-mode-alist '("\\.css?\\'" . web-mode))
+
+;; Common Lisp
+(require 'slime-autoloads)
+(setq inferior-lisp-program "/usr/bin/sbcl")
+(setq slime-contribs '(slime-fancy))
+
+;; Haskell
+(add-hook 'haskell-mode-hook 'turn-on-haskell-indentation)
+(add-hook 'haskell-mode-hook 'turn-on-haskell-doc-mode)
 
 ;;--------------------------------------------------
 ;; MODE Set Options
